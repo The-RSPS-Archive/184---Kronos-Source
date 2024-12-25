@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Kronos-master" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Kronos-master" />
+            <option value="$PROJECT_DIR$/Kronos-master/kronos-api" />
+            <option value="$PROJECT_DIR$/Kronos-master/kronos-central-server" />
+            <option value="$PROJECT_DIR$/Kronos-master/kronos-client" />
+            <option value="$PROJECT_DIR$/Kronos-master/kronos-launcher" />
+            <option value="$PROJECT_DIR$/Kronos-master/kronos-server" />
+            <option value="$PROJECT_DIR$/Kronos-master/kronos-server-live" />
+            <option value="$PROJECT_DIR$/Kronos-master/kronos-update-server" />
+            <option value="$PROJECT_DIR$/Kronos-master/kronos-webhooks" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Kronos-master/runelite" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Kronos-master/runelite" />
+            <option value="$PROJECT_DIR$/Kronos-master/runelite/buildSrc" />
+            <option value="$PROJECT_DIR$/Kronos-master/runelite/cache" />
+            <option value="$PROJECT_DIR$/Kronos-master/runelite/cache-client" />
+            <option value="$PROJECT_DIR$/Kronos-master/runelite/cache-updater" />
+            <option value="$PROJECT_DIR$/Kronos-master/runelite/deobfuscator" />
+            <option value="$PROJECT_DIR$/Kronos-master/runelite/http-api" />
+            <option value="$PROJECT_DIR$/Kronos-master/runelite/http-service" />
+            <option value="$PROJECT_DIR$/Kronos-master/runelite/http-service-openosrs" />
+            <option value="$PROJECT_DIR$/Kronos-master/runelite/injected-client" />
+            <option value="$PROJECT_DIR$/Kronos-master/runelite/injector-plugin" />
+            <option value="$PROJECT_DIR$/Kronos-master/runelite/protocol" />
+            <option value="$PROJECT_DIR$/Kronos-master/runelite/protocol-api" />
+            <option value="$PROJECT_DIR$/Kronos-master/runelite/runelite-api" />
+            <option value="$PROJECT_DIR$/Kronos-master/runelite/runelite-client" />
+            <option value="$PROJECT_DIR$/Kronos-master/runelite/runelite-mixins" />
+            <option value="$PROJECT_DIR$/Kronos-master/runelite/runelite-plugin-archetype" />
+            <option value="$PROJECT_DIR$/Kronos-master/runelite/runelite-script-assembler-plugin" />
+            <option value="$PROJECT_DIR$/Kronos-master/runelite/runescape-api" />
+            <option value="$PROJECT_DIR$/Kronos-master/runelite/runescape-client" />
+            <option value="$PROJECT_DIR$/Kronos-master/runelite/wiki-scraper" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

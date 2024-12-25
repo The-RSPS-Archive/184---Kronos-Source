@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.10/625fc0055674dff70dbc76efa36d0f2c89b04a24/lombok-1.18.10.jar" />
+        </processorPath>
+        <module name="OpenOSRS.http-service-openosrs.main" />
+        <module name="OpenOSRS.cache.main" />
+        <module name="OpenOSRS.protocol-api.main" />
+        <module name="OpenOSRS.cache-updater.main" />
+        <module name="OpenOSRS.runelite-api.main" />
+        <module name="OpenOSRS.runelite-client.main" />
+        <module name="OpenOSRS.wiki-scraper.main" />
+        <module name="OpenOSRS.http-api.main" />
+        <module name="OpenOSRS.protocol.main" />
+        <module name="OpenOSRS.runelite-client.test" />
+      </profile>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mapstruct/mapstruct-processor/1.3.1.Final/a5e2a807eee3372cbfba0685b70505d7c0b7ae9a/mapstruct-processor-1.3.1.Final.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.10/625fc0055674dff70dbc76efa36d0f2c89b04a24/lombok-1.18.10.jar" />
+        </processorPath>
+        <module name="OpenOSRS.http-service.main" />
+      </profile>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.sisu/org.eclipse.sisu.inject/0.3.3/b163fc1e714db5f9b389ec11f11950b5913e454c/org.eclipse.sisu.inject-0.3.3.jar" />
+        </processorPath>
+        <module name="OpenOSRS.injector-plugin.main" />
+        <module name="OpenOSRS.runelite-script-assembler-plugin.main" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
