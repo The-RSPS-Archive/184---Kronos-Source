@@ -5,6 +5,7 @@
 ---
 
 **This was released on [Rune-Server](https://www.rune-server.ee/runescape-development/rs2-server/downloads/696766-kronos-osrs-semi-custom-server-deob-client-multi-world-support-184-a.html) by [Patrity](https://www.rune-server.ee/members/patrity/).**
+
 This was updated to run on 25-12-2024, be free for futher updates to maintain this.
 ---
 
@@ -18,3 +19,5 @@ This was updated to run on 25-12-2024, be free for futher updates to maintain th
 >
 > You can learn more about what there server has to offer in our [advertisement thread](https://www.rune-server.ee/runescape-development/rs2-server/advertise/690549-kronos-first-osrs-deob-custom-server-just-released.html)
 
+
+Big tnx to Nozemi for the orginal archive on: [Gitlab](https://gitlab.com/rsps-releases/osrs/kronos-osrs-184)
