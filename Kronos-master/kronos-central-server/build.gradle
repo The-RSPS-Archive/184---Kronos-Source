@@ -8,7 +8,7 @@ description = ""
 apply plugin: 'application'
 
 dependencies {
-    compile project(':kronos-server')
+    implementation project(':kronos-server')
 }
 
 application {

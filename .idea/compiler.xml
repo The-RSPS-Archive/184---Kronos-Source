@@ -35,5 +35,9 @@
         <module name="OpenOSRS.runelite-script-assembler-plugin.main" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Central-Server" target="1.8" />
+      <module name="File-Server" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
