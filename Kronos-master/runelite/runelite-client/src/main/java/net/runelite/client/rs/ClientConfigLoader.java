@@ -41,7 +41,7 @@ class ClientConfigLoader
 		throw new RuntimeException();
 	}
 
-	private static final String CONFIG_URL = "https://gitlab.com/rsps-releases/osrs/kronos-osrs-184/-/raw/master/jav_config.ws";
+	private static final String CONFIG_URL = "https://raw.githubusercontent.com/Exorth-rsps/Resources/refs/heads/main/kronos_jav_config.ws";
 	private static final int MAX_ATTEMPTS = 16;
 
 	static Single<RSConfig> fetch()

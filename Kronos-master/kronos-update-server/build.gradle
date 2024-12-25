@@ -6,7 +6,7 @@ project.ext {
 apply plugin: 'application'
 
 dependencies {
-    compile project(':kronos-api')
+    implementation project(':kronos-api')
 }
 
 application {
