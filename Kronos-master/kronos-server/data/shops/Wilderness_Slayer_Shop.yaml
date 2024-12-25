@@ -1,0 +1,31 @@
+---
+identifier: "c8918239-a49a-43d7-b465-759eebd2a67b"
+title: "Wilderness Equipment"
+currency: "WILDERNESS_SLAYER_POINTS"
+accessibleByIronMan: true
+canSellToStore: false
+restockRules:
+  restockTicks: 30
+  restockPerTick: 1
+defaultStock:
+  - id: 11941
+    amount: 10
+    price: 90
+  - id: 12791
+    amount: 10
+    price: 150
+  - id: 30127
+    amount: 50
+    price: 90
+  - id: 30141
+    amount: 50
+    price: 300
+  - id: 30143
+    amount: 50
+    price: 300
+  - id: 30104
+    amount: 50
+    price: 20
+  - id: 20724
+    amount: 50
+    price: 600

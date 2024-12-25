@@ -1,0 +1,488 @@
+[
+  {
+    "name": "Carnivorous chinchompa",
+    "id": 2911,
+    "x": 2554,
+    "y": 2935,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Carnivorous chinchompa",
+    "id": 2911,
+    "x": 2558,
+    "y": 2936,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Carnivorous chinchompa",
+    "id": 2911,
+    "x": 2557,
+    "y": 2939,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Carnivorous chinchompa",
+    "id": 2911,
+    "x": 2551,
+    "y": 2935,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Carnivorous chinchompa",
+    "id": 2911,
+    "x": 2554,
+    "y": 2928,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Carnivorous chinchompa",
+    "id": 2911,
+    "x": 2557,
+    "y": 2929,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Carnivorous chinchompa",
+    "id": 2911,
+    "x": 2559,
+    "y": 2934,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Carnivorous chinchompa",
+    "id": 2911,
+    "x": 2564,
+    "y": 2937,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Carnivorous chinchompa",
+    "id": 2911,
+    "x": 2563,
+    "y": 2941,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Carnivorous chinchompa",
+    "id": 2911,
+    "x": 2567,
+    "y": 2941,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Carnivorous chinchompa",
+    "id": 2911,
+    "x": 2556,
+    "y": 2918,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Carnivorous chinchompa",
+    "id": 2911,
+    "x": 2560,
+    "y": 2915,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Carnivorous chinchompa",
+    "id": 2911,
+    "x": 2556,
+    "y": 2911,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Carnivorous chinchompa",
+    "id": 2911,
+    "x": 2552,
+    "y": 2917,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Carnivorous chinchompa",
+    "id": 2911,
+    "x": 2542,
+    "y": 2922,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Carnivorous chinchompa",
+    "id": 2911,
+    "x": 2538,
+    "y": 2920,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Carnivorous chinchompa",
+    "id": 2911,
+    "x": 2539,
+    "y": 2915,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Carnivorous chinchompa",
+    "id": 2911,
+    "x": 2542,
+    "y": 2914,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Carnivorous chinchompa",
+    "id": 2911,
+    "x": 2545,
+    "y": 2916,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Crimson swift",
+    "id": 5549,
+    "x": 2612,
+    "y": 2932,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Crimson swift",
+    "id": 5549,
+    "x": 2608,
+    "y": 2931,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Crimson swift",
+    "id": 5549,
+    "x": 2605,
+    "y": 2927,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Crimson swift",
+    "id": 5549,
+    "x": 2610,
+    "y": 2926,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Crimson swift",
+    "id": 5549,
+    "x": 2609,
+    "y": 2922,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Crimson swift",
+    "id": 5549,
+    "x": 2604,
+    "y": 2922,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Crimson swift",
+    "id": 5549,
+    "x": 2607,
+    "y": 2919,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Crimson swift",
+    "id": 5549,
+    "x": 2607,
+    "y": 2903,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Crimson swift",
+    "id": 5549,
+    "x": 2612,
+    "y": 2905,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Crimson swift",
+    "id": 5549,
+    "x": 2610,
+    "y": 2899,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Crimson swift",
+    "id": 5549,
+    "x": 2608,
+    "y": 2894,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Crimson swift",
+    "id": 5549,
+    "x": 2603,
+    "y": 2895,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Crimson swift",
+    "id": 5549,
+    "x": 2601,
+    "y": 2898,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Crimson swift",
+    "id": 5549,
+    "x": 2602,
+    "y": 2903,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Tropical wagtail",
+    "id": 5548,
+    "x": 2524,
+    "y": 2938,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Tropical wagtail",
+    "id": 5548,
+    "x": 2528,
+    "y": 2940,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Tropical wagtail",
+    "id": 5548,
+    "x": 2532,
+    "y": 2936,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Tropical wagtail",
+    "id": 5548,
+    "x": 2528,
+    "y": 2931,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Tropical wagtail",
+    "id": 5548,
+    "x": 2521,
+    "y": 2933,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Tropical wagtail",
+    "id": 5548,
+    "x": 2507,
+    "y": 2914,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Tropical wagtail",
+    "id": 5548,
+    "x": 2513,
+    "y": 2913,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Tropical wagtail",
+    "id": 5548,
+    "x": 2511,
+    "y": 2908,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Tropical wagtail",
+    "id": 5548,
+    "x": 2506,
+    "y": 2907,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Tropical wagtail",
+    "id": 5548,
+    "x": 2510,
+    "y": 2910,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Tropical wagtail",
+    "id": 5548,
+    "x": 2498,
+    "y": 2890,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Tropical wagtail",
+    "id": 5548,
+    "x": 2504,
+    "y": 2888,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Tropical wagtail",
+    "id": 5548,
+    "x": 2503,
+    "y": 2884,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Tropical wagtail",
+    "id": 5548,
+    "x": 2508,
+    "y": 2883,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Tropical wagtail",
+    "id": 5548,
+    "x": 2502,
+    "y": 2888,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Tropical wagtail",
+    "id": 5548,
+    "x": 2542,
+    "y": 2892,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Tropical wagtail",
+    "id": 5548,
+    "x": 2547,
+    "y": 2894,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Tropical wagtail",
+    "id": 5548,
+    "x": 2548,
+    "y": 2888,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Tropical wagtail",
+    "id": 5548,
+    "x": 2544,
+    "y": 2886,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Tropical wagtail",
+    "id": 5548,
+    "x": 2550,
+    "y": 2892,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Hunting expert",
+    "id": 1504,
+    "x": 2525,
+    "y": 2915,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  }
+]

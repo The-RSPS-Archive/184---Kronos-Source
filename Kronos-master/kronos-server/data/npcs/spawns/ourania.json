@@ -1,0 +1,164 @@
+[
+  {
+    "name": "Eniola",
+    "id": 7417,
+    "x": 3013,
+    "y": 5625,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Zamorak warrior",
+    "id": 7419,
+    "x": 3013,
+    "y": 5606,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Zamorak ranger",
+    "id": 7420,
+    "x": 3014,
+    "y": 5597,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Zamorak warrior",
+    "id": 7418,
+    "x": 3018,
+    "y": 5584,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Zamorak mage",
+    "id": 7423,
+    "x": 3012,
+    "y": 5582,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Zamorak mage",
+    "id": 7422,
+    "x": 3015,
+    "y": 5576,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Zamorak warrior",
+    "id": 7418,
+    "x": 3030,
+    "y": 5584,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Zamorak ranger",
+    "id": 7420,
+    "x": 3034,
+    "y": 5575,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Zamorak mage",
+    "id": 7422,
+    "x": 3036,
+    "y": 5582,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Zamorak ranger",
+    "id": 7420,
+    "x": 3047,
+    "y": 5577,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Cave lizard",
+    "id": 7424,
+    "x": 3046,
+    "y": 5580,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Cave lizard",
+    "id": 7424,
+    "x": 3032,
+    "y": 5575,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Cave lizard",
+    "id": 7424,
+    "x": 3026,
+    "y": 5572,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Cave lizard",
+    "id": 7424,
+    "x": 3018,
+    "y": 5576,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Cave lizard",
+    "id": 7424,
+    "x": 3012,
+    "y": 5574,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Cave lizard",
+    "id": 7424,
+    "x": 3013,
+    "y": 5590,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Cave lizard",
+    "id": 7424,
+    "x": 3016,
+    "y": 5602,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Cave lizard",
+    "id": 7424,
+    "x": 3012,
+    "y": 5613,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  }
+]

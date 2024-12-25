@@ -1,0 +1,45 @@
+[
+  { #Animated Rune Armour (138)
+    "ids": [ 2456 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 120,
+    "aggressive_level": 276,
+    "max_damage": 14,
+    "attack_style": "STAB",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 0.0,
+    "slayer_tasks": [],
+    //Combat Stats
+    "attack": 120,
+    "strength": 120,
+    "defence": 120,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 4,
+    "slash_attack": 4,
+    "crush_attack": 4,
+    "magic_attack": 4,
+    "ranged_attack": 4,
+    //Defensive Stats
+    "stab_defence": 50,
+    "slash_defence": 25,
+    "crush_defence": 19,
+    "magic_defence": 400,
+    "ranged_defence": 400,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 2,
+    "respawn_ticks": -1,
+    //Animations
+    "spawn_animation": 4166,
+    "attack_animation": 386,
+    "defend_animation": 388,
+    "death_animation": 4167
+  }
+]

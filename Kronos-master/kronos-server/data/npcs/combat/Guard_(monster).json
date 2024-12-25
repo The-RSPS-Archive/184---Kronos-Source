@@ -1,0 +1,88 @@
+[
+  { #Guard (21)
+    "ids": [ 1546, 1547, 1548, 1549, 1550, 3010, 3011, 3094, 3269, 3271, 3272 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 22,
+    "aggressive_level": 0,
+    "max_damage": 4,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 0.0,
+    "slayer_tasks": [],
+    //Combat Stats
+    "attack": 19,
+    "strength": 18,
+    "defence": 14,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 4,
+    "slash_attack": 4,
+    "crush_attack": 4,
+    "magic_attack": 4,
+    "ranged_attack": 4,
+    //Defensive Stats
+    "stab_defence": 18,
+    "slash_defence": 25,
+    "crush_defence": 19,
+    "magic_defence": -4,
+    "ranged_defence": 20,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 5,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 6489,
+    "defend_animation": 6488,
+    "death_animation": 6490
+  },
+  { #Guard (1337)
+    "ids": [ 6575, 6576, 6579, 6580, 6581, 6582, 6583, 6699, 6700, 6701, 6702 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 1,
+    "aggressive_level": 2674,
+    "max_damage": 30,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 0.0,
+    "slayer_tasks": [],
+    //Combat Stats
+    "attack": 19,
+    "strength": 18,
+    "defence": 14,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 4,
+    "slash_attack": 4,
+    "crush_attack": 4,
+    "magic_attack": 4,
+    "ranged_attack": 4,
+    //Defensive Stats
+    "stab_defence": 18,
+    "slash_defence": 25,
+    "crush_defence": 19,
+    "magic_defence": -4,
+    "ranged_defence": 20,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 2,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": -1,
+    "defend_animation": -1,
+    "death_animation": -1
+  }
+]

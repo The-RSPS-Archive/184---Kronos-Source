@@ -1,0 +1,344 @@
+[
+  {
+    "name": "Demonic gorilla",
+    "id": 7144,
+    "x": 2074,
+    "y": 5651,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Demonic gorilla",
+    "id": 7145,
+    "x": 2074,
+    "y": 5673,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Demonic gorilla",
+    "id": 7144,
+    "x": 2073,
+    "y": 5680,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Demonic gorilla",
+    "id": 7146,
+    "x": 2075,
+    "y": 5649,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Demonic gorilla",
+    "id": 7145,
+    "x": 2077,
+    "y": 5644,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Demonic gorilla",
+    "id": 7144,
+    "x": 2077,
+    "y": 5649,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Demonic gorilla",
+    "id": 7146,
+    "x": 2087,
+    "y": 5676,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 12
+  },
+  {
+    "name": "Demonic gorilla",
+    "id": 7144,
+    "x": 2097,
+    "y": 5675,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Demonic gorilla",
+    "id": 7145,
+    "x": 2090,
+    "y": 5676,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 13
+  },
+  {
+    "name": "Demonic gorilla",
+    "id": 7146,
+    "x": 2105,
+    "y": 5676,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 15
+  },
+  {
+    "name": "Demonic gorilla",
+    "id": 7144,
+    "x": 2093,
+    "y": 5654,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Demonic gorilla",
+    "id": 7144,
+    "x": 2096,
+    "y": 5657,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Demonic gorilla",
+    "id": 7145,
+    "x": 2097,
+    "y": 5644,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Demonic gorilla",
+    "id": 7144,
+    "x": 2102,
+    "y": 5642,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Demonic gorilla",
+    "id": 7144,
+    "x": 2102,
+    "y": 5652,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Demonic gorilla",
+    "id": 7146,
+    "x": 2106,
+    "y": 5660,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Demonic gorilla",
+    "id": 7145,
+    "x": 2108,
+    "y": 5647,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Demonic gorilla",
+    "id": 7144,
+    "x": 2105,
+    "y": 5658,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Demonic gorilla",
+    "id": 7146,
+    "x": 2127,
+    "y": 5675,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Demonic gorilla",
+    "id": 7144,
+    "x": 2141,
+    "y": 5677,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 13
+  },
+  {
+    "name": "Tortured gorilla",
+    "id": 7150,
+    "x": 2134,
+    "y": 5645,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Demonic gorilla",
+    "id": 7144,
+    "x": 2130,
+    "y": 5676,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Tortured gorilla",
+    "id": 7151,
+    "x": 2134,
+    "y": 5645,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Demonic gorilla",
+    "id": 7144,
+    "x": 2141,
+    "y": 5678,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 11
+  },
+  {
+    "name": "Tortured gorilla",
+    "id": 7150,
+    "x": 2149,
+    "y": 5649,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Tortured gorilla",
+    "id": 7151,
+    "x": 2152,
+    "y": 5659,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 11
+  },
+  {
+    "name": "Tortured gorilla",
+    "id": 7150,
+    "x": 2155,
+    "y": 5659,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Demonic gorilla",
+    "id": 7144,
+    "x": 2152,
+    "y": 5656,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Demonic gorilla",
+    "id": 7144,
+    "x": 2150,
+    "y": 5673,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Demonic gorilla",
+    "id": 7144,
+    "x": 2146,
+    "y": 5677,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "null",
+    "id": 1459,
+    "x": 2028,
+    "y": 5609,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Demonic gorilla",
+    "id": 7144,
+    "x": 2154,
+    "y": 5659,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "null",
+    "id": 1458,
+    "x": 2026,
+    "y": 5611,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Demonic gorilla",
+    "id": 7146,
+    "x": 2110,
+    "y": 5649,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Demonic gorilla",
+    "id": 7146,
+    "x": 2113,
+    "y": 5662,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Tortured gorilla",
+    "id": 7151,
+    "x": 2132,
+    "y": 5660,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Tortured gorilla",
+    "id": 7150,
+    "x": 2136,
+    "y": 5660,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Tortured gorilla",
+    "id": 7151,
+    "x": 2139,
+    "y": 5661,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  }
+]

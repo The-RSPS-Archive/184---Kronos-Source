@@ -1,0 +1,45 @@
+[
+  {
+    "ids": [ 8612, 8613 ],
+    "handler": "io.ruin.model.activities.miscpvm.slayer.Drake",
+    //Combat Info
+    "hitpoints": 250,
+    "aggressive_level": 0,
+    "max_damage": 15,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 84,
+    "slayer_xp": 268.7,
+    "slayer_tasks": [ "Drakes" ],
+    //Combat Stats
+    "attack": 140,
+    "strength": 118,
+    "defence": 120,
+    "ranged": 140,
+    "magic": 112,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 60,
+    "slash_defence": 60,
+    "crush_defence": 60,
+    "magic_defence": 20,
+    "ranged_defence": 100,
+    //Immunites
+    "poison_immunity": true,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 2,
+    "respawn_ticks": 30,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 8275,
+    "defend_animation": -1,
+    "death_animation": 8278
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "ids": [ 2848, 1038, 5279, 5280 ],
+    "guaranteed": [
+      { "id": 3183, "min": 1, "max": 1 } //Monkey bones
+    ],
+    "tables": [
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 13451, "min": 1, "max": 1, "weight": 1 } //Ensouled monkey head
+        ]
+      }
+    ]
+  }
+]

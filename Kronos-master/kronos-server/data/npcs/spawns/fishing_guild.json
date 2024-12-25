@@ -1,0 +1,356 @@
+[
+  {
+    "name": "Duck",
+    "id": 1838,
+    "x": 2608,
+    "y": 3428,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Duck",
+    "id": 1839,
+    "x": 2616,
+    "y": 3418,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Duck",
+    "id": 1838,
+    "x": 2610,
+    "y": 3420,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Duck",
+    "id": 1839,
+    "x": 2609,
+    "y": 3427,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Duck",
+    "id": 1838,
+    "x": 2604,
+    "y": 3430,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Duck",
+    "id": 1839,
+    "x": 2599,
+    "y": 3434,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Duck",
+    "id": 1838,
+    "x": 2607,
+    "y": 3428,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Duck",
+    "id": 1839,
+    "x": 2611,
+    "y": 3435,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Duck",
+    "id": 1838,
+    "x": 2621,
+    "y": 3437,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Duck",
+    "id": 1839,
+    "x": 2613,
+    "y": 3429,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Duck",
+    "id": 1838,
+    "x": 2610,
+    "y": 3419,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Duck",
+    "id": 1839,
+    "x": 2602,
+    "y": 3418,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Duck",
+    "id": 1838,
+    "x": 2597,
+    "y": 3428,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Duck",
+    "id": 1839,
+    "x": 2608,
+    "y": 3450,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Duck",
+    "id": 1838,
+    "x": 2617,
+    "y": 3451,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Duck",
+    "id": 1838,
+    "x": 2608,
+    "y": 3428,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Duck",
+    "id": 1839,
+    "x": 2616,
+    "y": 3418,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Duck",
+    "id": 1838,
+    "x": 2610,
+    "y": 3420,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Duck",
+    "id": 1839,
+    "x": 2609,
+    "y": 3427,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Duck",
+    "id": 1838,
+    "x": 2604,
+    "y": 3430,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Duck",
+    "id": 1839,
+    "x": 2599,
+    "y": 3434,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Duck",
+    "id": 1838,
+    "x": 2607,
+    "y": 3428,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Duck",
+    "id": 1839,
+    "x": 2611,
+    "y": 3435,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Duck",
+    "id": 1838,
+    "x": 2621,
+    "y": 3437,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Duck",
+    "id": 1839,
+    "x": 2613,
+    "y": 3429,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Duck",
+    "id": 1838,
+    "x": 2610,
+    "y": 3419,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Duck",
+    "id": 1839,
+    "x": 2602,
+    "y": 3418,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Duck",
+    "id": 1838,
+    "x": 2597,
+    "y": 3428,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Duck",
+    "id": 1839,
+    "x": 2608,
+    "y": 3450,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Duck",
+    "id": 1838,
+    "x": 2617,
+    "y": 3451,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Sheep",
+    "id": 1299,
+    "x": 2596,
+    "y": 3401,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3,
+    "shopOptions": {
+      "trade": "4ea4cb73-305a-445c-a7ab-131a90a1d8b5"
+    }
+  },
+  {
+    "name": "Banker",
+    "id": 1027,
+    "x": 2584,
+    "y": 3418,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0
+  },
+  {
+    "name": "Banker",
+    "id": 1027,
+    "x": 2584,
+    "y": 3419,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0
+  },
+  {
+    "name": "Banker",
+    "id": 1028,
+    "x": 2584,
+    "y": 3421,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0
+  },
+  {
+    "name": "Banker",
+    "id": 1027,
+    "x": 2584,
+    "y": 3422,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0
+  },
+  {
+    "name": "Man",
+    "id": 3078,
+    "x": 2600,
+    "y": 3423,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Master fisher",
+    "id": 2913,
+    "x": 2611,
+    "y": 3392,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Kylie Minnow",
+    "id": 7727,
+    "x": 2599,
+    "y": 3425,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Kylie Minnow",
+    "id": 7728,
+    "x": 2614,
+    "y": 3446,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  }
+]

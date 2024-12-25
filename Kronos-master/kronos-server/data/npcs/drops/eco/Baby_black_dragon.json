@@ -1,0 +1,8 @@
+[
+  {
+    "ids": [ 1871, 1872 ],
+    "guaranteed": [
+      { "id": 534, "min": 1, "max": 1 } //Babydragon bones
+    ]
+  }
+]

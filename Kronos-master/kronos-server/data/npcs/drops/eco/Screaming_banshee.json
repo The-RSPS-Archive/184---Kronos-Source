@@ -1,0 +1,61 @@
+[
+  {
+    "ids": [ 7390 ],
+    "tables": [
+      {
+        "name": "Armour/Weapons",
+        "weight": 1,
+        "items": [
+          { "id": 1420, "min": 1, "max": 1, "weight": 6 }, //Iron mace
+          { "id": 1203, "min": 1, "max": 1, "weight": 6 }, //Iron dagger
+          { "id": 1191, "min": 1, "max": 1, "weight": 3 }, //Iron kiteshield
+          { "id": 4105, "min": 1, "max": 1, "weight": 1 } //Mystic gloves (dark)
+        ]
+      },
+      {
+        "name": "Runes",
+        "weight": 1,
+        "items": [
+          { "id": 556, "min": 3, "max": 3, "weight": 6 }, //Air rune
+          { "id": 554, "min": 7, "max": 7, "weight": 6 }, //Fire rune
+          { "id": 564, "min": 2, "max": 2, "weight": 6 }, //Cosmic rune
+          { "id": 562, "min": 3, "max": 3, "weight": 3 }, //Chaos rune
+          { "id": 562, "min": 7, "max": 7, "weight": 3 }, //Chaos rune
+          { "id": 562, "min": 8, "max": 8, "weight": 1 } //Chaos rune
+        ]
+      },
+      {
+        "name": "Herbs",
+        "weight": 1,
+        "items": [
+          { "id": 199, "min": 1, "max": 1, "weight": 9 }, //Grimy guam leaf
+          { "id": 201, "min": 1, "max": 1, "weight": 9 }, //Grimy marrentill
+          { "id": 203, "min": 1, "max": 1, "weight": 6 }, //Grimy tarromin
+          { "id": 205, "min": 1, "max": 1, "weight": 6 }, //Grimy harralander
+          { "id": 207, "min": 1, "max": 1, "weight": 3 }, //Grimy ranarr weed
+          { "id": 209, "min": 1, "max": 1, "weight": 3 }, //Grimy irit leaf
+          { "id": 211, "min": 1, "max": 1, "weight": 3 }, //Grimy avantoe
+          { "id": 213, "min": 1, "max": 1, "weight": 3 }, //Grimy kwuarm
+          { "id": 215, "min": 1, "max": 1, "weight": 1 }, //Grimy cadantine
+          { "id": 2485, "min": 1, "max": 1, "weight": 1 }, //Grimy lantadyme
+          { "id": 217, "min": 1, "max": 1, "weight": 1 } //Grimy dwarf weed
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 995, "min": 13, "max": 13, "weight": 9 }, //Coins
+          { "id": 995, "min": 26, "max": 26, "weight": 9 }, //Coins
+          { "id": 995, "min": 35, "max": 35, "weight": 9 }, //Coins
+          { "id": 7937, "min": 13, "max": 13, "weight": 6 }, //Pure essence (noted)
+          { "id": 313, "min": 7, "max": 7, "weight": 3 }, //Fishing bait
+          { "id": 313, "min": 15, "max": 15, "weight": 3 }, //Fishing bait
+          { "id": 221, "min": 1, "max": 1, "weight": 1 }, //Eye of newt
+          { "id": 440, "min": 1, "max": 1, "weight": 1 }, //Iron ore
+          { "id": 2677, "min": 1, "max": 1, "weight": 1 } //Clue scroll (easy)
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "ids": [ 2645, 2650 ],
+    "guaranteed": [
+      { "id": 3367, "min": 1, "max": 1 } //Fat snail
+    ]
+  },
+  { #Rounded type
+    "ids": [ 2645 ],
+    "guaranteed": [
+      { "id": 3329, "min": 1, "max": 1 } //Blood'n'tar snelm (round)
+    ]
+  },
+  { #Pointed type
+    "ids": [ 2650 ],
+    "guaranteed": [
+      { "id": 3339, "min": 1, "max": 1 } //Blood'n'tar snelm (pointed)
+    ]
+  }
+]

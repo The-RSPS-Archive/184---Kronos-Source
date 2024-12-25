@@ -1,0 +1,79 @@
+---
+identifier: "4f3719df-ccf7-4014-897b-ad59c24dcb13"
+title: "Garden Centre"
+currency: "COINS"
+accessibleByIronMan: true
+canSellToStore: false
+restockRules:
+  restockTicks: 52
+  restockPerTick: 1
+defaultStock:
+- id: 8417
+  amount: 1000
+  placeholderId: 0
+- id: 8419
+  amount: 1000
+  placeholderId: 0
+- id: 8421
+  amount: 1000
+  placeholderId: 0
+- id: 8423
+  amount: 1000
+  placeholderId: 0
+- id: 8425
+  amount: 1000
+  placeholderId: 0
+- id: 8427
+  amount: 1000
+  placeholderId: 0
+- id: 8429
+  amount: 1000
+  placeholderId: 0
+- id: 8431
+  amount: 1000
+  placeholderId: 0
+- id: 8433
+  amount: 1000
+  placeholderId: 0
+- id: 8435
+  amount: 1000
+  placeholderId: 0
+- id: 8437
+  amount: 1000
+  placeholderId: 0
+- id: 8439
+  amount: 1000
+  placeholderId: 0
+- id: 8441
+  amount: 1000
+  placeholderId: 0
+- id: 8443
+  amount: 1000
+  placeholderId: 0
+- id: 8445
+  amount: 1000
+  placeholderId: 0
+- id: 8447
+  amount: 1000
+  placeholderId: 0
+- id: 8449
+  amount: 1000
+  placeholderId: 0
+- id: 8451
+  amount: 1000
+  placeholderId: 0
+- id: 8453
+  amount: 1000
+  placeholderId: 0
+- id: 8455
+  amount: 1000
+  placeholderId: 0
+- id: 8457
+  amount: 1000
+  placeholderId: 0
+- id: 8459
+  amount: 1000
+  placeholderId: 0
+- id: 8461
+  amount: 1000
+  placeholderId: 0

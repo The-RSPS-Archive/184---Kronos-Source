@@ -1,0 +1,263 @@
+[
+  {
+    "name": "Saba",
+    "id": 4093,
+    "x": 2859,
+    "y": 3575,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Gnome Coach",
+    "id": 3142,
+    "x": 2379,
+    "y": 3490,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Old crone",
+    "id": 2996,
+    "x": 3462,
+    "y": 3558,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Brundt the Chieftain",
+    "id": 8048,
+    "x": 2659,
+    "y": 3674,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Recruiter",
+    "id": 8973,
+    "x": 2540,
+    "y": 3306,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Gabooty",
+    "id": 6424,
+    "x": 2782,
+    "y": 3063,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Otto Godblessed",
+    "id": 2914,
+    "x": 2501,
+    "y": 3487,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Odd Old Man",
+    "id": 1259,
+    "x": 3361,
+    "y": 3506,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Cam the Camel",
+    "id": 5952,
+    "x": 3300,
+    "y": 3217,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Femi",
+    "id": 1431,
+    "x": 2460,
+    "y": 3387,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Brother Omad",
+    "id": 4244,
+    "x": 2606,
+    "y": 3210,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Cap\u0027n Izzy No-Beard",
+    "id": 5789,
+    "x": 2809,
+    "y": 3192,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Taria",
+    "id": 2675,
+    "x": 2943,
+    "y": 3221,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Party Pete",
+    "id": 5792,
+    "x": 3045,
+    "y": 3375,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Sigli the Huntsman",
+    "id": 3924,
+    "x": 2662,
+    "y": 3649,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Professor Onglewip",
+    "id": 2560,
+    "x": 3109,
+    "y": 3158,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dominic Onion",
+    "id": 1120,
+    "x": 2609,
+    "y": 3115,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Donovan the Family Handyman",
+    "id": 4212,
+    "x": 2741,
+    "y": 3571,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Hajedy",
+    "id": 5356,
+    "x": 2776,
+    "y": 3214,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Rusty",
+    "id": 3281,
+    "x": 2982,
+    "y": 3442,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Kangai Mau",
+    "id": 5316,
+    "x": 2791,
+    "y": 3184,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Sarah",
+    "id": 501,
+    "x": 3035,
+    "y": 3293,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Saniboch",
+    "id": 2345,
+    "x": 2744,
+    "y": 3152,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Ulizius",
+    "id": 947,
+    "x": 3454,
+    "y": 3468,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Sir Prysin",
+    "id": 5083,
+    "x": 3203,
+    "y": 3470,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Sir Vyvin",
+    "id": 4736,
+    "x": 2982,
+    "y": 3341,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Lucy",
+    "id": 5795,
+    "x": 3050,
+    "y": 3383,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Vannaka",
+    "id": 403,
+    "x": 3147,
+    "y": 9914,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Bartender",
+    "id": 1312,
+    "x": 3226,
+    "y": 3399,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  }
+]

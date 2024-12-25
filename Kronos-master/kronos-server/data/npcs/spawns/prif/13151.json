@@ -1,0 +1,472 @@
+[
+  {
+    "id": 9077,
+    "x": 3294,
+    "y": 6082,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Maeglin"
+  },
+  {
+    "id": 9183,
+    "x": 3314,
+    "y": 6084,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Guard"
+  },
+  {
+    "id": 9167,
+    "x": 3295,
+    "y": 6089,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 1,
+    "world": "ECO",
+    "npcName": "Branwen"
+  },
+  {
+    "id": 9090,
+    "x": 3295,
+    "y": 6097,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Nellas"
+  },
+  {
+    "id": 9078,
+    "x": 3298,
+    "y": 6099,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Edrahil"
+  },
+  {
+    "id": 9138,
+    "x": 3290,
+    "y": 6100,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Oswallt"
+  },
+  {
+    "id": 0,
+    "x": 3295,
+    "y": 6105,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0,
+    "world": "ECO",
+    "npcName": "Tool Leprechaun"
+  },
+  {
+    "id": 9123,
+    "x": 3305,
+    "y": 6099,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "null"
+  },
+  {
+    "id": 1173,
+    "x": 3301,
+    "y": 6108,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Chicken"
+  },
+  {
+    "id": 1173,
+    "x": 3304,
+    "y": 6107,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Chicken"
+  },
+  {
+    "id": 1173,
+    "x": 3298,
+    "y": 6107,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Chicken"
+  },
+  {
+    "id": 3421,
+    "x": 3309,
+    "y": 6115,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Rabbit"
+  },
+  {
+    "id": 3421,
+    "x": 3315,
+    "y": 6109,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Rabbit"
+  },
+  {
+    "id": 9168,
+    "x": 3285,
+    "y": 6118,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1,
+    "world": "ECO",
+    "npcName": "Llio"
+  },
+  {
+    "id": 9083,
+    "x": 3282,
+    "y": 6111,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Oropher"
+  },
+  {
+    "id": 9080,
+    "x": 3269,
+    "y": 6114,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1,
+    "world": "ECO",
+    "npcName": "Salgant"
+  },
+  {
+    "id": 9148,
+    "x": 3275,
+    "y": 6118,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1,
+    "world": "ECO",
+    "npcName": "Elena"
+  },
+  {
+    "id": 9124,
+    "x": 3281,
+    "y": 6123,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Lady Ffion Meilyr"
+  },
+  {
+    "id": 9141,
+    "x": 3292,
+    "y": 6121,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Pennant"
+  },
+  {
+    "id": 3421,
+    "x": 3297,
+    "y": 6124,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Rabbit"
+  },
+  {
+    "id": 3421,
+    "x": 3298,
+    "y": 6130,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Rabbit"
+  },
+  {
+    "id": 3421,
+    "x": 3303,
+    "y": 6121,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Rabbit"
+  },
+  {
+    "id": 3421,
+    "x": 3299,
+    "y": 6117,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Rabbit"
+  },
+  {
+    "id": 3421,
+    "x": 3308,
+    "y": 6123,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Rabbit"
+  },
+  {
+    "id": 9140,
+    "x": 3315,
+    "y": 6116,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0,
+    "world": "ECO",
+    "npcName": "Sawmill Operator"
+  },
+  {
+    "id": 1417,
+    "x": 3310,
+    "y": 6113,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Squirrel"
+  },
+  {
+    "id": 1417,
+    "x": 3315,
+    "y": 6109,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Squirrel"
+  },
+  {
+    "id": 1417,
+    "x": 3289,
+    "y": 6125,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Squirrel"
+  },
+  {
+    "id": 9183,
+    "x": 3266,
+    "y": 6130,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Guard"
+  },
+  {
+    "id": 9082,
+    "x": 3287,
+    "y": 6131,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Imin"
+  },
+  {
+    "id": 9081,
+    "x": 3269,
+    "y": 6125,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1,
+    "world": "ECO",
+    "npcName": "Celebrian"
+  },
+  {
+    "id": 9184,
+    "x": 3270,
+    "y": 6100,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Guard"
+  },
+  {
+    "id": 9185,
+    "x": 3278,
+    "y": 6100,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Guard"
+  },
+  {
+    "id": 9163,
+    "x": 3277,
+    "y": 6101,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Glenda"
+  },
+  {
+    "id": 9154,
+    "x": 3273,
+    "y": 6105,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 1,
+    "world": "ECO",
+    "npcName": "Derwen"
+  },
+  {
+    "id": 9160,
+    "x": 3281,
+    "y": 6099,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 0,
+    "world": "ECO",
+    "npcName": "Osian"
+  },
+  {
+    "id": 9161,
+    "x": 3277,
+    "y": 6093,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0,
+    "world": "ECO",
+    "npcName": "Caerwyn"
+  },
+  {
+    "id": 9162,
+    "x": 3281,
+    "y": 6093,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 0,
+    "world": "ECO",
+    "npcName": "Anwen"
+  },
+  {
+    "id": 9183,
+    "x": 3279,
+    "y": 6096,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Guard"
+  },
+  {
+    "id": 9185,
+    "x": 3282,
+    "y": 6084,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Guard"
+  },
+  {
+    "id": 9076,
+    "x": 3280,
+    "y": 6080,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Anaire"
+  },
+  {
+    "id": 9086,
+    "x": 3270,
+    "y": 6082,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Indis"
+  },
+  {
+    "id": 9184,
+    "x": 3272,
+    "y": 6091,
+    "z": 2,
+    "direction": "W",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Guard"
+  },
+  {
+    "id": 9116,
+    "x": 3290,
+    "y": 6109,
+    "z": 2,
+    "direction": "W",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Lenwe"
+  },
+  {
+    "id": 9183,
+    "x": 3294,
+    "y": 6113,
+    "z": 2,
+    "direction": "W",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Guard"
+  },
+  {
+    "id": 9108,
+    "x": 3284,
+    "y": 6121,
+    "z": 2,
+    "direction": "W",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Nimloth"
+  },
+  {
+    "id": 9112,
+    "x": 3303,
+    "y": 6104,
+    "z": 2,
+    "direction": "W",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Enel"
+  }
+]

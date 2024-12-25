@@ -1,0 +1,75 @@
+[
+  {
+    "ids": [ 494 ],
+    "tables": [
+      {
+        "name": "Weapons/Armour",
+        "weight": 1,
+        "items": [
+          { "id": 7114, "min": 1, "max": 1, "weight": 18}, //Pirate boots
+          { "id": 1403, "min": 1, "max": 1, "weight": 18}, //Mystic water staff
+          { "id": 1347, "min": 1, "max": 1, "weight": 18 }, //Rune warhammer
+          { "id": 1303, "min": 1, "max": 1, "weight": 9 }, //Rune longsword
+          { "id": 4091, "min": 1, "max": 1, "weight": 9 }, //Mystic robe top (blue)
+          { "id": 4093, "min": 1, "max": 1, "weight": 2 }, //Mystic robe bottom (blue)
+          { "id": 11905, "min": 1, "max": 1, "weight": 1 } //Trident of the seas (full)
+        ]
+      },
+      {
+        "name": "Runes/Ammunition",
+        "weight": 1,
+        "items": [
+          { "id": 555, "min": 400, "max": 400, "weight": 6 }, //Water rune
+          { "id": 4695, "min": 100, "max": 100, "weight": 3 }, //Mist rune
+          { "id": 562, "min": 250, "max": 250, "weight": 3 }, //Chaos rune
+          { "id": 560, "min": 150, "max": 150, "weight": 3 }, //Death rune
+          { "id": 565, "min": 60, "max": 60, "weight": 1 }, //Blood rune
+          { "id": 566, "min": 50, "max": 50, "weight": 1 } //Soul rune
+        ]
+      },
+      {
+        "name": "Seeds",
+        "weight": 1,
+        "items": [
+          { "id": 5321, "min": 24, "max": 24, "weight": 3 }, //Watermelon seed
+          { "id": 5304, "min": 2, "max": 2, "weight": 3 }, //Torstol seed
+          { "id": 5316, "min": 1, "max": 1, "weight": 1 } //Magic seed
+        ]
+      },
+      {
+        "name": "Materials",
+        "weight": 1,
+        "items": [
+          { "id": 402, "min": 125, "max": 125, "weight": 9 }, //Seaweed (noted)
+          { "id": 1392, "min": 10, "max": 20, "weight": 6 }, //Battlestaff (noted)
+          { "id": 568, "min": 50, "max": 50, "weight": 6 }, //Unpowered orb (noted)
+          { "id": 1602, "min": 8, "max": 8, "weight": 6 }, //Diamond (noted)
+          { "id": 8779, "min": 60, "max": 60, "weight": 3 }, //Oak plank (noted)
+          { "id": 2363, "min": 2, "max": 2, "weight": 3 }, //Runite bar
+          { "id": 384, "min": 50, "max": 50, "weight": 1 }, //Raw shark (noted)
+          { "id": 7945, "min": 100, "max": 100, "weight": 1 }, //Raw monkfish (noted)
+          { "id": 3052, "min": 6, "max": 6, "weight": 1 } //Grimy snapdragon (noted)
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 995, "min": 10000, "max": 19999, "weight": 10 }, //Coins
+          { "id": 385, "min": 5, "max": 5, "weight": 100 }, //Shark
+          { "id": 403, "min": 5, "max": 5, "weight": 100 }, //Edible seaweed
+          { "id": 311, "min": 1, "max": 1, "weight": 60 }, //Harpoon
+          { "id": 1925, "min": 1, "max": 1, "weight": 40 }, //Bucket
+          { "id": 10925, "min": 2, "max": 2, "weight": 60 }, //Sanfew serum(4)
+          { "id": 989, "min": 1, "max": 1, "weight": 30 }, //Crystal key
+          { "id": 686, "min": 1, "max": 1, "weight": 30 }, //Rusty sword
+          { "id": 5953, "min": 2, "max": 2, "weight": 30 }, //Antidote++(4) (noted)
+          { "id": 1645, "min": 1, "max": 1, "weight": 30 }, //Dragonstone ring
+          { "id": 12004, "min": 1, "max": 1, "weight": 11 }, //Kraken tentacle
+          { "id": 12073, "min": 1, "max": 1, "weight": 12 }, //Clue scroll (elite)
+          { "id": 12007, "min": 1, "max": 1, "weight": 1 } //Jar of dirt
+        ]
+      }
+    ]
+  }
+]

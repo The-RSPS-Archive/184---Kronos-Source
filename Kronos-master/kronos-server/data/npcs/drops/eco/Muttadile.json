@@ -1,0 +1,20 @@
+ [
+  {
+    "ids": [7562], // small
+    "guaranteed": [
+      { "id": 532, "min": 1, "max": 1 },   //Big bones
+      { "id": 20996, "min": 1, "max": 1 },   //Overload (+)(4)
+      { "id": 20972, "min": 1, "max": 1 }   //Prayer enhance (+)(4)
+    ]
+  },
+    {
+    "ids": [7561, 7563], // large
+    "guaranteed": [
+      { "id": 532, "min": 1, "max": 1 },   //Big bones
+      { "id": 20996, "min": 1, "max": 1 },   //Overload (+)(4)
+      { "id": 20972, "min": 1, "max": 1 },   //Prayer enhance (+)(4)
+      { "id": 20984, "min": 1, "max": 1 },   //Xeric's aid (+)(4)
+      { "id": 20960, "min": 1, "max": 1 }   //Revitalisation (+)(4)
+    ]
+  }
+ ]

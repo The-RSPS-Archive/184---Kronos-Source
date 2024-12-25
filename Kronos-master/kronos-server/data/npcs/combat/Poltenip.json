@@ -1,0 +1,45 @@
+[
+  { #Poltenip (21)
+    "ids": [ 4758 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 22,
+    "aggressive_level": 42,
+    "max_damage": 3,
+    "attack_style": "STAB",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 0.0,
+    "slayer_tasks": [],
+    //Combat Stats
+    "attack": 19,
+    "strength": 18,
+    "defence": 14,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 4,
+    "slash_attack": 4,
+    "crush_attack": 4,
+    "magic_attack": 4,
+    "ranged_attack": 4,
+    //Defensive Stats
+    "stab_defence": 18,
+    "slash_defence": 25,
+    "crush_defence": 19,
+    "magic_defence": -4,
+    "ranged_defence": 20,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 2,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": -1,
+    "defend_animation": -1,
+    "death_animation": -1
+  }
+]

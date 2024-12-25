@@ -1,0 +1,94 @@
+[
+  {
+    "ids": [ 2536, 2537, 2538 ],
+    "guaranteed": [
+      { "id": 526, "min": 1, "max": 1 } //Bones
+    ],
+    "tables": [
+      {
+        "name": "Armour",
+        "weight": 1,
+        "items": [
+          { "id": 1129, "min": 1, "max": 1, "weight": 1 }, //Leather body
+          { "id": 1061, "min": 1, "max": 1, "weight": 1 }, //Leather boots
+          { "id": 1059, "min": 1, "max": 1, "weight": 1 }, //Leather gloves
+          { "id": 4298, "min": 1, "max": 1, "weight": 1 }, //Ham shirt
+          { "id": 4302, "min": 1, "max": 1, "weight": 1 }, //Ham hood
+          { "id": 4300, "min": 1, "max": 1, "weight": 1 }, //Ham robe
+          { "id": 4306, "min": 1, "max": 1, "weight": 1 }, //Ham logo
+          { "id": 4304, "min": 1, "max": 1, "weight": 1 }, //Ham cloak
+          { "id": 4310, "min": 1, "max": 1, "weight": 1 }, //Ham boots
+          { "id": 4308, "min": 1, "max": 1, "weight": 1 } //Ham gloves
+        ]
+      },
+      {
+        "name": "Gems",
+        "weight": 1,
+        "items": [
+          { "id": 1625, "min": 1, "max": 1, "weight": 3 }, //Uncut opal
+          { "id": 1627, "min": 1, "max": 1, "weight": 1 } //Uncut jade
+        ]
+      },
+      {
+        "name": "Herbs/Seeds",
+        "weight": 1,
+        "items": [
+          { "id": 199, "min": 1, "max": 1, "weight": 6 }, //Grimy guam leaf
+          { "id": 201, "min": 1, "max": 1, "weight": 6 }, //Grimy marrentill
+          { "id": 203, "min": 1, "max": 1, "weight": 6 }, //Grimy tarromin
+          { "id": 5320, "min": 1, "max": 1, "weight": 3 }, //Sweetcorn seed
+          { "id": 5323, "min": 1, "max": 1, "weight": 3 }, //Strawberry seed
+          { "id": 5319, "min": 1, "max": 1, "weight": 1 } //Onion seed
+        ]
+      },
+      {
+        "name": "Ores",
+        "weight": 1,
+        "items": [
+          { "id": 440, "min": 1, "max": 1, "weight": 1 }, //Iron ore
+          { "id": 453, "min": 1, "max": 1, "weight": 1 } //Coal
+        ]
+      },
+      {
+        "name": "Weapons",
+        "weight": 1,
+        "items": [
+          { "id": 882, "min": 1, "max": 15, "weight": 9}, //Bronze arrow
+          { "id": 1351, "min": 1, "max": 1, "weight": 9 }, //Bronze axe
+          { "id": 1205, "min": 1, "max": 1, "weight": 6 }, //Bronze dagger
+          { "id": 1265, "min": 1, "max": 1, "weight": 6 }, //Bronze pickaxe
+          { "id": 1349, "min": 1, "max": 1, "weight": 6 }, //Iron axe
+          { "id": 1203, "min": 1, "max": 1, "weight": 3 }, //Iron dagger
+          { "id": 1267, "min": 1, "max": 1, "weight": 3 }, //Iron pickaxe
+          { "id": 886, "min": 1, "max": 13, "weight": 3 }, //Steel arrow
+          { "id": 1353, "min": 1, "max": 1, "weight": 3 }, //Steel axe
+          { "id": 1207, "min": 1, "max": 1, "weight": 1 }, //Steel dagger
+          { "id": 1269, "min": 1, "max": 1, "weight": 1 } //Steel pickaxe
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 688, "min": 1, "max": 1, "weight": 12 }, //Buttons
+          { "id": 686, "min": 1, "max": 1, "weight": 12 }, //Rusty sword
+          { "id": 1739, "min": 1, "max": 2, "weight": 12 }, //Cowhide
+          { "id": 2138, "min": 1, "max": 3, "weight": 12 }, //Raw chicken
+          { "id": 321, "min": 1, "max": 1, "weight": 12 }, //Raw anchovies
+          { "id": 1511, "min": 1, "max": 1, "weight": 12 }, //Logs
+          { "id": 946, "min": 1, "max": 1, "weight": 12 }, //Knife
+          { "id": 314, "min": 1, "max": 5, "weight": 12 }, //Feather
+          { "id": 1733, "min": 1, "max": 1, "weight": 12 }, //Needle
+          { "id": 590, "min": 1, "max": 1, "weight": 12 }, //Tinderbox
+          { "id": 1734, "min": 1, "max": 4, "weight": 9 }, //Thread
+          { "id": 995, "min": 5, "max": 16, "weight": 6 }, //Coins
+          { "id": 2677, "min": 1, "max": 1, "weight": 6 }, //Clue scroll (easy)
+          { "id": 8867, "min": 1, "max": 1, "weight": 6 }, //Bronze key (H.A.M.)
+          { "id": 8869, "min": 1, "max": 1, "weight": 6 }, //Iron key (H.A.M.)
+          { "id": 8868, "min": 1, "max": 1, "weight": 3 }, //Silver key (H.A.M.)
+          { "id": 8866, "min": 1, "max": 1, "weight": 1 } //Steel key (H.A.M.)
+        ]
+      }
+    ]
+  }
+]

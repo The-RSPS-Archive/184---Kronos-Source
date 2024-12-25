@@ -1,0 +1,704 @@
+[
+  {
+    "name": "Mummy",
+    "id": 720,
+    "x": 3213,
+    "y": 9334,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Mummy",
+    "id": 720,
+    "x": 3205,
+    "y": 9334,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Mummy",
+    "id": 722,
+    "x": 3208,
+    "y": 9334,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Mummy",
+    "id": 720,
+    "x": 3219,
+    "y": 9334,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 11
+  },
+  {
+    "name": "Pyrefiend",
+    "id": 433,
+    "x": 3266,
+    "y": 9398,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Fire elemental",
+    "id": 1365,
+    "x": 3271,
+    "y": 9358,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Fire elemental",
+    "id": 1365,
+    "x": 3272,
+    "y": 9362,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Pyrefiend",
+    "id": 433,
+    "x": 3271,
+    "y": 9381,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Fire elemental",
+    "id": 1365,
+    "x": 3271,
+    "y": 9383,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Pyrefiend",
+    "id": 435,
+    "x": 3272,
+    "y": 9358,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Pyrefiend",
+    "id": 433,
+    "x": 3272,
+    "y": 9387,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Pyrefiend",
+    "id": 435,
+    "x": 3275,
+    "y": 9366,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Pyrefiend",
+    "id": 434,
+    "x": 3274,
+    "y": 9395,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Pyrefiend",
+    "id": 434,
+    "x": 3274,
+    "y": 9389,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Pyrefiend",
+    "id": 435,
+    "x": 3278,
+    "y": 9354,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Pyrefiend",
+    "id": 434,
+    "x": 3279,
+    "y": 9376,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Pyrefiend",
+    "id": 435,
+    "x": 3279,
+    "y": 9368,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Fire elemental",
+    "id": 1365,
+    "x": 3283,
+    "y": 9352,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Pyrefiend",
+    "id": 434,
+    "x": 3284,
+    "y": 9400,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Pyrefiend",
+    "id": 434,
+    "x": 3285,
+    "y": 9382,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Fire elemental",
+    "id": 1365,
+    "x": 3282,
+    "y": 9402,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Fire elemental",
+    "id": 1365,
+    "x": 3204,
+    "y": 9348,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Fire elemental",
+    "id": 1365,
+    "x": 3288,
+    "y": 9360,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Fire elemental",
+    "id": 1365,
+    "x": 3207,
+    "y": 9362,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Fire elemental",
+    "id": 1365,
+    "x": 3288,
+    "y": 9360,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Fire elemental",
+    "id": 1365,
+    "x": 3207,
+    "y": 9394,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Pyrefiend",
+    "id": 434,
+    "x": 3288,
+    "y": 9392,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Fire elemental",
+    "id": 1365,
+    "x": 3209,
+    "y": 9377,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Pyrefiend",
+    "id": 436,
+    "x": 3290,
+    "y": 9363,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Fire elemental",
+    "id": 1365,
+    "x": 3206,
+    "y": 9396,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Fire giant",
+    "id": 2078,
+    "x": 3294,
+    "y": 9376,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Fire elemental",
+    "id": 1365,
+    "x": 3212,
+    "y": 9351,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Pyrefiend",
+    "id": 436,
+    "x": 3296,
+    "y": 9377,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Fire elemental",
+    "id": 1365,
+    "x": 3212,
+    "y": 9378,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Pyrefiend",
+    "id": 436,
+    "x": 3302,
+    "y": 9351,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Dust devil",
+    "id": 423,
+    "x": 3213,
+    "y": 9361,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Pyrefiend",
+    "id": 436,
+    "x": 3301,
+    "y": 9395,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dust devil",
+    "id": 423,
+    "x": 3214,
+    "y": 9356,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Fire elemental",
+    "id": 1365,
+    "x": 3301,
+    "y": 9399,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dust devil",
+    "id": 423,
+    "x": 3220,
+    "y": 9399,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Fire giant",
+    "id": 2079,
+    "x": 3306,
+    "y": 9399,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Dust devil",
+    "id": 423,
+    "x": 3216,
+    "y": 9365,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Fire elemental",
+    "id": 1365,
+    "x": 3307,
+    "y": 9402,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Dust devil",
+    "id": 423,
+    "x": 3219,
+    "y": 9374,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Pyrefiend",
+    "id": 436,
+    "x": 3312,
+    "y": 9353,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Dust devil",
+    "id": 423,
+    "x": 3220,
+    "y": 9349,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Pyrefiend",
+    "id": 436,
+    "x": 3318,
+    "y": 9402,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dust devil",
+    "id": 423,
+    "x": 3221,
+    "y": 9382,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Fire elemental",
+    "id": 1365,
+    "x": 3317,
+    "y": 9351,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Dust devil",
+    "id": 423,
+    "x": 3224,
+    "y": 9395,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Fire elemental",
+    "id": 1365,
+    "x": 3320,
+    "y": 9401,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dust devil",
+    "id": 423,
+    "x": 3227,
+    "y": 9352,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Fire elemental",
+    "id": 1365,
+    "x": 3319,
+    "y": 9355,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Fire elemental",
+    "id": 1365,
+    "x": 3230,
+    "y": 9356,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Fire elemental",
+    "id": 1365,
+    "x": 3321,
+    "y": 9399,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Fire elemental",
+    "id": 1365,
+    "x": 3229,
+    "y": 9372,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Fire elemental",
+    "id": 1365,
+    "x": 3231,
+    "y": 9358,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Dust devil",
+    "id": 423,
+    "x": 3235,
+    "y": 9398,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Dust devil",
+    "id": 423,
+    "x": 3234,
+    "y": 9364,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Dust devil",
+    "id": 423,
+    "x": 3234,
+    "y": 9399,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Dust devil",
+    "id": 423,
+    "x": 3238,
+    "y": 9377,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Dust devil",
+    "id": 423,
+    "x": 3241,
+    "y": 9383,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Fire giant",
+    "id": 2078,
+    "x": 3244,
+    "y": 9356,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Fire giant",
+    "id": 2080,
+    "x": 3244,
+    "y": 9369,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Dust devil",
+    "id": 423,
+    "x": 3245,
+    "y": 9349,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Dust devil",
+    "id": 423,
+    "x": 3245,
+    "y": 9400,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Pyrefiend",
+    "id": 433,
+    "x": 3248,
+    "y": 9372,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Pyrefiend",
+    "id": 433,
+    "x": 3248,
+    "y": 9357,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Dust devil",
+    "id": 423,
+    "x": 3249,
+    "y": 9349,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Fire elemental",
+    "id": 1365,
+    "x": 3249,
+    "y": 9401,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Fire giant",
+    "id": 2079,
+    "x": 3251,
+    "y": 9358,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Fire giant",
+    "id": 2078,
+    "x": 3251,
+    "y": 9370,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Pyrefiend",
+    "id": 433,
+    "x": 3251,
+    "y": 9363,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Fire elemental",
+    "id": 1365,
+    "x": 3256,
+    "y": 9350,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Dust devil",
+    "id": 423,
+    "x": 3259,
+    "y": 9373,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Fire elemental",
+    "id": 1365,
+    "x": 3257,
+    "y": 9389,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Dust devil",
+    "id": 423,
+    "x": 3262,
+    "y": 9399,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Pyrefiend",
+    "id": 434,
+    "x": 3262,
+    "y": 9399,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  }
+]

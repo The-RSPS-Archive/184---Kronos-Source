@@ -1,0 +1,11 @@
+{
+  "DEFAULT": {
+    "animationId": 1156
+  },
+  "DEFENDER": {
+    "animationId": 4177
+  },
+  "SLED": {
+    "animationId": 1466
+  }
+}

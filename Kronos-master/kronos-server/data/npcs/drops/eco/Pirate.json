@@ -1,0 +1,49 @@
+[
+  {
+    "ids": [ 1447, 513, 514, 516, 6993, 6994, 6995, 515, 4043, 4044, 4045, 4046, 4047, 4048, 4049, 4050, 4051, 4052 ],
+    "guaranteed": [
+      { "id": 526, "min": 1, "max": 1 } //Bones
+    ],
+    "tables": [
+      {
+        "name": "Runes",
+        "weight": 1,
+        "items": [
+          { "id": 556, "min": 10, "max": 10, "weight": 9 }, //Air rune
+          { "id": 557, "min": 9, "max": 9, "weight": 6 }, //Earth rune
+          { "id": 554, "min": 5, "max": 5, "weight": 6 }, //Fire rune
+          { "id": 562, "min": 2, "max": 2, "weight": 3 }, //Chaos rune
+          { "id": 561, "min": 2, "max": 2, "weight": 3 }, //Nature rune
+          { "id": 563, "min": 2, "max": 2, "weight": 3 }, //Law rune
+          { "id": 565, "min": 1, "max": 1, "weight": 1 } //Blood rune
+        ]
+      },
+      {
+        "name": "Weapons/Armour",
+        "weight": 1,
+        "items": [
+          { "id": 1321, "min": 1, "max": 1, "weight": 6 }, //Bronze scimitar
+          { "id": 882, "min": 9, "max": 12, "weight": 6 }, //Bronze arrow
+          { "id": 1203, "min": 1, "max": 1, "weight": 3 }, //Iron dagger
+          { "id": 9140, "min": 2, "max": 10, "weight": 3 }, //Iron bolts
+          { "id": 877, "min": 2, "max": 10, "weight": 3 }, //Bronze bolts
+          { "id": 1115, "min": 1, "max": 1, "weight": 1 } //Iron platebody
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 995, "min": 4, "max": 55, "weight": 6 }, //Coins
+          { "id": 1025, "min": 1, "max": 1, "weight": 6 }, //Right eye patch
+          { "id": 1448, "min": 1, "max": 1, "weight": 6 }, //Mind talisman
+          { "id": 2351, "min": 1, "max": 1, "weight": 3 }, //Iron bar
+          { "id": 1949, "min": 1, "max": 1, "weight": 3 }, //Chef's hat
+          { "id": 225, "min": 1, "max": 1, "weight": 3 }, //Limpwurt root
+          { "id": 590, "min": 1, "max": 1, "weight": 3 }, //Tinderbox
+          { "id": 946, "min": 1, "max": 1, "weight": 1 } //Knife
+        ]
+      }
+    ]
+  }
+]

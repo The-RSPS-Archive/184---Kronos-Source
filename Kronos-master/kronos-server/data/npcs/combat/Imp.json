@@ -1,0 +1,131 @@
+[
+  { #Imp (2)
+    "ids": [ 5007 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 8,
+    "aggressive_level": 4,
+    "max_damage": 1,
+    "attack_style": "STAB",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 0.0,
+    "slayer_tasks": [],
+    //Combat Stats
+    "attack": 1,
+    "strength": 1,
+    "defence": 1,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": -42,
+    "slash_defence": -42,
+    "crush_defence": -42,
+    "magic_defence": -42,
+    "ranged_defence": -42,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 3,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 169,
+    "defend_animation": 170,
+    "death_animation": 172
+  },
+  { #Imp (7)
+    "ids": [ 3134 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 10,
+    "aggressive_level": 14,
+    "max_damage": 1,
+    "attack_style": "STAB",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 0.0,
+    "slayer_tasks": [],
+    //Combat Stats
+    "attack": 5,
+    "strength": 5,
+    "defence": 6,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": -42,
+    "slash_defence": -42,
+    "crush_defence": -42,
+    "magic_defence": -42,
+    "ranged_defence": -42,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 3,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 169,
+    "defend_animation": 170,
+    "death_animation": 172
+  },
+    { #Imp Rev (7)
+    "ids": [ 7881 ],
+    "handler": "io.ruin.model.activities.miscpvm.Revenant",
+    //Combat Info
+    "hitpoints": 10,
+    "aggressive_level": 14,
+    "max_damage": 1,
+    "attack_style": "STAB",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 0.0,
+    "slayer_tasks": [],
+    //Combat Stats
+    "attack": 5,
+    "strength": 5,
+    "defence": 6,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": -42,
+    "slash_defence": -42,
+    "crush_defence": -42,
+    "magic_defence": -42,
+    "ranged_defence": -42,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 3,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 169,
+    "defend_animation": 170,
+    "death_animation": 172
+  }
+]

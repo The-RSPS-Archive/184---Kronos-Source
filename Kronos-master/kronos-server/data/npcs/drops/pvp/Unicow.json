@@ -1,0 +1,19 @@
+[
+  {
+    "ids": [ 3601 ],
+    "guaranteed": [
+      { "id": 526, "min": 1, "max": 1 }, //Bones
+      { "id": 237, "min": 2, "max": 4 } //Unicorn horn
+    ],
+    "tables": [
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 10878, "min": 1, "max": 1, "weight": 6 }, //Green satchel
+          { "id": 10859, "min": 1, "max": 1, "weight": 1 } //Tea flask
+        ]
+      }
+    ]
+  }
+]

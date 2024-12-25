@@ -1,0 +1,45 @@
+[
+  {
+    "ids": [ 5126 ],
+    "guaranteed": [
+      { "id": 526, "min": 1, "max": 1 }, //Bones
+      { "id": 11205, "min": 1, "max": 1 } //Shrunk ogleroot
+    ],
+    "tables": [
+      {
+        "name": "Herbs",
+        "weight": 1,
+        "items": [
+          { "id": 203, "min": 1, "max": 3, "weight": 3 }, //Grimy tarromin
+          { "id": 201, "min": 1, "max": 1, "weight": 3 }, //Grimy marrentill
+          { "id": 207, "min": 1, "max": 1, "weight": 3 }, //Grimy ranarr weed
+          { "id": 217, "min": 1, "max": 1, "weight": 3 }, //Grimy dwarf weed
+          { "id": 215, "min": 1, "max": 1, "weight": 3 }, //Grimy cadantine
+          { "id": 199, "min": 1, "max": 1, "weight": 1 }, //Grimy guam leaf
+          { "id": 209, "min": 1, "max": 1, "weight": 1 } //Grimy irit leaf
+        ]
+      },
+      {
+        "name": "Runes",
+        "weight": 1,
+        "items": [
+          { "id": 557, "min": 3, "max": 3, "weight": 1 }, //Earth rune
+          { "id": 555, "min": 11, "max": 11, "weight": 1 }, //Water rune
+          { "id": 562, "min": 11, "max": 11, "weight": 1 }, //Chaos rune
+          { "id": 561, "min": 3, "max": 4, "weight": 1 } //Nature rune
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 1407, "min": 1, "max": 1, "weight": 10 }, //Mystic earth staff
+          { "id": 995, "min": 57, "max": 57, "weight": 10 }, //Coins
+          { "id": 1385, "min": 1, "max": 1, "weight": 3 }, //Staff of earth
+          { "id": 7416, "min": 1, "max": 1, "weight": 3 }, //Mole claw
+          { "id": 2722, "min": 1, "max": 1, "weight": 1 } //Clue scroll (hard)
+        ]
+      }
+    ]
+  }
+]

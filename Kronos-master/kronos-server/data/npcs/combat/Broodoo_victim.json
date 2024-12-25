@@ -1,0 +1,45 @@
+[
+  { #Broodoo victim (60)
+    "ids": [ 6409, 6411, 6413 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 100,
+    "aggressive_level": 120,
+    "max_damage": 6,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 0.0,
+    "slayer_tasks": [],
+    //Combat Stats
+    "attack": 0,
+    "strength": 0,
+    "defence": 26,
+    "ranged": 1,
+    "magic": 60,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 25,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 20,
+    "slash_defence": 20,
+    "crush_defence": 20,
+    "magic_defence": 0,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 5,
+    "death_ticks": 2,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 422,
+    "defend_animation": 424,
+    "death_animation": 836
+  }
+]

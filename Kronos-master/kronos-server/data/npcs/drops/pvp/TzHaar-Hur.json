@@ -1,0 +1,21 @@
+[
+  {
+    "ids": [ 2161, 2162, 2163, 2164, 2165, 2166, 7682, 7683, 7684, 7685, 7686, 7687 ],
+    "tables": [
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 1755, "min": 1, "max": 1, "weight": 12 }, //Chisel
+          { "id": 2347, "min": 1, "max": 1, "weight": 12 }, //Hammer
+          { "id": 1935, "min": 1, "max": 1, "weight": 12 }, //Jug
+          { "id": 946, "min": 1, "max": 1, "weight": 6 }, //Knife
+          { "id": 1931, "min": 1, "max": 1, "weight": 6 }, //Pot
+          { "id": 6529, "min": 1, "max": 16, "weight": 3 }, //Tokkul
+          { "id": 1623, "min": 1, "max": 1, "weight": 3 }, //Uncut sapphire
+          { "id": 1619, "min": 1, "max": 1, "weight": 1 } //Uncut ruby
+        ]
+      }
+    ]
+  }
+]

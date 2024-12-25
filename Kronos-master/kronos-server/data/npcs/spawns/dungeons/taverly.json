@@ -1,0 +1,2198 @@
+[
+  {
+    "name": "Experiment No.2",
+    "id": 5126,
+    "x": 2902,
+    "y": 9863,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Experiment No.2",
+    "id": 5126,
+    "x": 2906,
+    "y": 9862,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Experiment No.2",
+    "id": 5126,
+    "x": 2909,
+    "y": 9863,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Experiment No.2",
+    "id": 5126,
+    "x": 2913,
+    "y": 9863,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Cage",
+    "id": 5133,
+    "x": 2913,
+    "y": 9867,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Winkin",
+    "id": 5131,
+    "x": 2914,
+    "y": 9867,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Cage",
+    "id": 5133,
+    "x": 2915,
+    "y": 9867,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Cage",
+    "id": 5133,
+    "x": 2916,
+    "y": 9867,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Experiment No.2",
+    "id": 5126,
+    "x": 2918,
+    "y": 9863,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Cage",
+    "id": 5133,
+    "x": 2917,
+    "y": 9867,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Experiment No.2",
+    "id": 5126,
+    "x": 2918,
+    "y": 9863,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Magic axe",
+    "id": 2844,
+    "x": 2955,
+    "y": 9791,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 9
+  },
+  {
+    "name": "Magic axe",
+    "id": 2844,
+    "x": 2955,
+    "y": 9778,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Magic axe",
+    "id": 2844,
+    "x": 2956,
+    "y": 9788,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 10
+  },
+  {
+    "name": "Magic axe",
+    "id": 2844,
+    "x": 2959,
+    "y": 9782,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Magic axe",
+    "id": 2844,
+    "x": 2961,
+    "y": 9791,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Magic axe",
+    "id": 2844,
+    "x": 2963,
+    "y": 9778,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Baby dragon",
+    "id": 241,
+    "x": 2896,
+    "y": 9765,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Magic axe",
+    "id": 2844,
+    "x": 2962,
+    "y": 9784,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Baby dragon",
+    "id": 242,
+    "x": 2894,
+    "y": 9770,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Baby dragon",
+    "id": 243,
+    "x": 2898,
+    "y": 9765,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Hill Giant",
+    "id": 2101,
+    "x": 2902,
+    "y": 9735,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Blue dragon",
+    "id": 268,
+    "x": 2902,
+    "y": 9779,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Blue dragon",
+    "id": 269,
+    "x": 2904,
+    "y": 9783,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Hill Giant",
+    "id": 2099,
+    "x": 2905,
+    "y": 9732,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Blue dragon",
+    "id": 267,
+    "x": 2907,
+    "y": 9776,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Hill Giant",
+    "id": 2100,
+    "x": 2907,
+    "y": 9735,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Blue dragon",
+    "id": 267,
+    "x": 2911,
+    "y": 9784,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Blue dragon",
+    "id": 266,
+    "x": 2911,
+    "y": 9779,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Hill Giant",
+    "id": 2098,
+    "x": 2912,
+    "y": 9732,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Hill Giant",
+    "id": 2103,
+    "x": 2913,
+    "y": 9740,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Chaos dwarf",
+    "id": 291,
+    "x": 2921,
+    "y": 9760,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 9
+  },
+  {
+    "name": "Blue dragon",
+    "id": 265,
+    "x": 2920,
+    "y": 9784,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Chaos dwarf",
+    "id": 291,
+    "x": 2923,
+    "y": 9755,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 11
+  },
+  {
+    "name": "Chaos dwarf",
+    "id": 291,
+    "x": 2930,
+    "y": 9776,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 11
+  },
+  {
+    "name": "Baby dragon",
+    "id": 242,
+    "x": 2924,
+    "y": 9788,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Chaos dwarf",
+    "id": 291,
+    "x": 2925,
+    "y": 9761,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 10
+  },
+  {
+    "name": "Poison Scorpion",
+    "id": 3025,
+    "x": 2926,
+    "y": 9749,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Chaos dwarf",
+    "id": 291,
+    "x": 2935,
+    "y": 9790,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Poison Scorpion",
+    "id": 3025,
+    "x": 2934,
+    "y": 9772,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Poison Scorpion",
+    "id": 3025,
+    "x": 2927,
+    "y": 9761,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Poison Scorpion",
+    "id": 3025,
+    "x": 2934,
+    "y": 9767,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 10
+  },
+  {
+    "name": "Chaos dwarf",
+    "id": 291,
+    "x": 2935,
+    "y": 9787,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Poison Scorpion",
+    "id": 3025,
+    "x": 2943,
+    "y": 9774,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Black demon",
+    "id": 2051,
+    "x": 2827,
+    "y": 9791,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Black demon",
+    "id": 2050,
+    "x": 2831,
+    "y": 9791,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Black demon",
+    "id": 2048,
+    "x": 2838,
+    "y": 9787,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Zombie",
+    "id": 64,
+    "x": 2842,
+    "y": 9766,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Black demon",
+    "id": 2051,
+    "x": 2842,
+    "y": 9786,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Zombie",
+    "id": 65,
+    "x": 2839,
+    "y": 9767,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Zombie",
+    "id": 67,
+    "x": 2847,
+    "y": 9754,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Zombie",
+    "id": 68,
+    "x": 2844,
+    "y": 9761,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Black demon",
+    "id": 2050,
+    "x": 2842,
+    "y": 9792,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Zombie",
+    "id": 66,
+    "x": 2845,
+    "y": 9764,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Black demon",
+    "id": 2048,
+    "x": 2850,
+    "y": 9778,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Black demon",
+    "id": 2049,
+    "x": 2848,
+    "y": 9791,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Black demon",
+    "id": 2048,
+    "x": 2853,
+    "y": 9783,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Black demon",
+    "id": 2050,
+    "x": 2855,
+    "y": 9778,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Black demon",
+    "id": 2051,
+    "x": 2858,
+    "y": 9775,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Black demon",
+    "id": 2049,
+    "x": 2860,
+    "y": 9764,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Black demon",
+    "id": 2049,
+    "x": 2862,
+    "y": 9781,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Greater demon",
+    "id": 2028,
+    "x": 2857,
+    "y": 9751,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Greater demon",
+    "id": 2026,
+    "x": 2862,
+    "y": 9751,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Black demon",
+    "id": 2048,
+    "x": 2863,
+    "y": 9777,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Black demon",
+    "id": 2050,
+    "x": 2862,
+    "y": 9769,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Black demon",
+    "id": 2052,
+    "x": 2865,
+    "y": 9783,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Black demon",
+    "id": 2049,
+    "x": 2867,
+    "y": 9776,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Black demon",
+    "id": 2051,
+    "x": 2871,
+    "y": 9784,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Black demon",
+    "id": 2050,
+    "x": 2876,
+    "y": 9774,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Monk of Zamorak",
+    "id": 521,
+    "x": 2828,
+    "y": 9809,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Monk of Zamorak",
+    "id": 521,
+    "x": 2831,
+    "y": 9809,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Monk of Zamorak",
+    "id": 521,
+    "x": 2830,
+    "y": 9810,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Monk of Zamorak",
+    "id": 521,
+    "x": 2828,
+    "y": 9814,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Black dragon",
+    "id": 253,
+    "x": 2831,
+    "y": 9823,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Black demon",
+    "id": 2050,
+    "x": 2833,
+    "y": 9794,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Monk of Zamorak",
+    "id": 521,
+    "x": 2834,
+    "y": 9810,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 10
+  },
+  {
+    "name": "Monk of Zamorak",
+    "id": 521,
+    "x": 2836,
+    "y": 9815,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 9
+  },
+  {
+    "name": "Black dragon",
+    "id": 252,
+    "x": 2835,
+    "y": 9823,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Black demon",
+    "id": 2048,
+    "x": 2838,
+    "y": 9793,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Black demon",
+    "id": 2048,
+    "x": 2837,
+    "y": 9798,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Black demon",
+    "id": 2049,
+    "x": 2846,
+    "y": 9794,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Poison spider",
+    "id": 3023,
+    "x": 2858,
+    "y": 9810,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Hellhound",
+    "id": 104,
+    "x": 2851,
+    "y": 9851,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Hellhound",
+    "id": 104,
+    "x": 2856,
+    "y": 9837,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Hellhound",
+    "id": 104,
+    "x": 2857,
+    "y": 9846,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Poison spider",
+    "id": 3023,
+    "x": 2859,
+    "y": 9820,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Hellhound",
+    "id": 104,
+    "x": 2858,
+    "y": 9841,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Poison spider",
+    "id": 3023,
+    "x": 2859,
+    "y": 9803,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Poison spider",
+    "id": 3023,
+    "x": 2860,
+    "y": 9814,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Hellhound",
+    "id": 104,
+    "x": 2859,
+    "y": 9851,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Hellhound",
+    "id": 104,
+    "x": 2860,
+    "y": 9837,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Poison spider",
+    "id": 3023,
+    "x": 2864,
+    "y": 9817,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Hellhound",
+    "id": 104,
+    "x": 2864,
+    "y": 9850,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Hellhound",
+    "id": 104,
+    "x": 2868,
+    "y": 9839,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Hellhound",
+    "id": 104,
+    "x": 2868,
+    "y": 9833,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Hellhound",
+    "id": 104,
+    "x": 2869,
+    "y": 9829,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Poison spider",
+    "id": 3023,
+    "x": 2869,
+    "y": 9800,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 10
+  },
+  {
+    "name": "Hellhound",
+    "id": 104,
+    "x": 2869,
+    "y": 9825,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Poison spider",
+    "id": 3023,
+    "x": 2870,
+    "y": 9789,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 10
+  },
+  {
+    "name": "Hellhound",
+    "id": 104,
+    "x": 2870,
+    "y": 9819,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Hellhound",
+    "id": 104,
+    "x": 2870,
+    "y": 9822,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Poison spider",
+    "id": 3023,
+    "x": 2875,
+    "y": 9807,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Kharid Scorpion",
+    "id": 5228,
+    "x": 2877,
+    "y": 9796,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Skeleton",
+    "id": 73,
+    "x": 2884,
+    "y": 9825,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Skeleton",
+    "id": 77,
+    "x": 2884,
+    "y": 9837,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Skeleton",
+    "id": 73,
+    "x": 2883,
+    "y": 9819,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Skeleton",
+    "id": 71,
+    "x": 2884,
+    "y": 9823,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Skeleton",
+    "id": 71,
+    "x": 2883,
+    "y": 9811,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Skeleton",
+    "id": 72,
+    "x": 2883,
+    "y": 9816,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Skeleton",
+    "id": 70,
+    "x": 2883,
+    "y": 9820,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Ghost",
+    "id": 90,
+    "x": 2889,
+    "y": 9846,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Spider",
+    "id": 3019,
+    "x": 2893,
+    "y": 9831,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Baby dragon",
+    "id": 242,
+    "x": 2895,
+    "y": 9798,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Spider",
+    "id": 3019,
+    "x": 2893,
+    "y": 9831,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Ghost",
+    "id": 89,
+    "x": 2894,
+    "y": 9848,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Spider",
+    "id": 3019,
+    "x": 2893,
+    "y": 9831,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Blue dragon",
+    "id": 267,
+    "x": 2895,
+    "y": 9795,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Blue dragon",
+    "id": 265,
+    "x": 2898,
+    "y": 9801,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Ghost",
+    "id": 85,
+    "x": 2900,
+    "y": 9820,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Ghost",
+    "id": 88,
+    "x": 2901,
+    "y": 9849,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Baby dragon",
+    "id": 243,
+    "x": 2904,
+    "y": 9796,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Blue dragon",
+    "id": 268,
+    "x": 2905,
+    "y": 9799,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Giant bat",
+    "id": 2834,
+    "x": 2905,
+    "y": 9831,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Ghost",
+    "id": 87,
+    "x": 2905,
+    "y": 9849,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Ghost",
+    "id": 86,
+    "x": 2907,
+    "y": 9819,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Giant bat",
+    "id": 2834,
+    "x": 2908,
+    "y": 9830,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Baby dragon",
+    "id": 242,
+    "x": 2909,
+    "y": 9806,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Giant bat",
+    "id": 2834,
+    "x": 2909,
+    "y": 9836,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Ghost",
+    "id": 86,
+    "x": 2908,
+    "y": 9849,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Baby dragon",
+    "id": 241,
+    "x": 2911,
+    "y": 9798,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Baby dragon",
+    "id": 241,
+    "x": 2911,
+    "y": 9807,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Ghost",
+    "id": 87,
+    "x": 2911,
+    "y": 9819,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Giant bat",
+    "id": 2834,
+    "x": 2914,
+    "y": 9829,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Giant bat",
+    "id": 2834,
+    "x": 2913,
+    "y": 9839,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Leo",
+    "id": 6746,
+    "x": 2931,
+    "y": 9692,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Ghost",
+    "id": 85,
+    "x": 2915,
+    "y": 9849,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Baby dragon",
+    "id": 243,
+    "x": 2917,
+    "y": 9800,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Baby dragon",
+    "id": 242,
+    "x": 2918,
+    "y": 9792,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Giant bat",
+    "id": 2834,
+    "x": 2918,
+    "y": 9831,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Ghost",
+    "id": 88,
+    "x": 2918,
+    "y": 9820,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Ghost",
+    "id": 92,
+    "x": 2919,
+    "y": 9849,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Giant bat",
+    "id": 2834,
+    "x": 2921,
+    "y": 9827,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Giant bat",
+    "id": 2834,
+    "x": 2922,
+    "y": 9832,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Baby dragon",
+    "id": 241,
+    "x": 2922,
+    "y": 9792,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Giant bat",
+    "id": 2834,
+    "x": 2923,
+    "y": 9831,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Lesser demon",
+    "id": 2007,
+    "x": 2927,
+    "y": 9801,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Chaos druid",
+    "id": 512,
+    "x": 2931,
+    "y": 9847,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Lesser demon",
+    "id": 2008,
+    "x": 2932,
+    "y": 9797,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Lesser demon",
+    "id": 2005,
+    "x": 2930,
+    "y": 9807,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Chaos druid",
+    "id": 512,
+    "x": 2931,
+    "y": 9846,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Lesser demon",
+    "id": 2006,
+    "x": 2931,
+    "y": 9808,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Chaos druid",
+    "id": 512,
+    "x": 2932,
+    "y": 9850,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Ghost",
+    "id": 91,
+    "x": 2932,
+    "y": 9836,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Lesser demon",
+    "id": 2018,
+    "x": 2932,
+    "y": 9795,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Ghost",
+    "id": 89,
+    "x": 2934,
+    "y": 9830,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Chaos druid",
+    "id": 512,
+    "x": 2935,
+    "y": 9847,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Chaos druid",
+    "id": 512,
+    "x": 2934,
+    "y": 9849,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Chaos druid",
+    "id": 512,
+    "x": 2935,
+    "y": 9848,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Ghost",
+    "id": 90,
+    "x": 2935,
+    "y": 9834,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Black Knight",
+    "id": 508,
+    "x": 2938,
+    "y": 9811,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Black Knight",
+    "id": 508,
+    "x": 2944,
+    "y": 9801,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Black Knight",
+    "id": 508,
+    "x": 2895,
+    "y": 9691,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Black Knight",
+    "id": 508,
+    "x": 2892,
+    "y": 9702,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Black Knight",
+    "id": 508,
+    "x": 2894,
+    "y": 9680,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Lord Daquarius",
+    "id": 4929,
+    "x": 2892,
+    "y": 9680,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Black Knight",
+    "id": 508,
+    "x": 2897,
+    "y": 9682,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Black Knight",
+    "id": 508,
+    "x": 2895,
+    "y": 9693,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Black Knight",
+    "id": 508,
+    "x": 2892,
+    "y": 9709,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Black Knight",
+    "id": 508,
+    "x": 2900,
+    "y": 9705,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Black Knight",
+    "id": 508,
+    "x": 2892,
+    "y": 9709,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Black Knight",
+    "id": 508,
+    "x": 2900,
+    "y": 9678,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Black Knight",
+    "id": 508,
+    "x": 2898,
+    "y": 9691,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 9
+  },
+  {
+    "name": "Black Knight",
+    "id": 508,
+    "x": 2898,
+    "y": 9683,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Black Knight",
+    "id": 508,
+    "x": 2893,
+    "y": 9702,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Black Knight",
+    "id": 508,
+    "x": 2905,
+    "y": 9706,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Black Knight",
+    "id": 508,
+    "x": 2900,
+    "y": 9681,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Black Knight",
+    "id": 508,
+    "x": 2902,
+    "y": 9701,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 9
+  },
+  {
+    "name": "Black Knight",
+    "id": 508,
+    "x": 2903,
+    "y": 9709,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Black Knight",
+    "id": 508,
+    "x": 2904,
+    "y": 9693,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 9
+  },
+  {
+    "name": "Black Knight",
+    "id": 508,
+    "x": 2904,
+    "y": 9689,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 10
+  },
+  {
+    "name": "Black Knight",
+    "id": 508,
+    "x": 2906,
+    "y": 9693,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 9
+  },
+  {
+    "name": "Black Knight",
+    "id": 508,
+    "x": 2907,
+    "y": 9676,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Black Knight",
+    "id": 508,
+    "x": 2906,
+    "y": 9687,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 9
+  },
+  {
+    "name": "Black Knight",
+    "id": 508,
+    "x": 2907,
+    "y": 9707,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Black Knight",
+    "id": 508,
+    "x": 2906,
+    "y": 9676,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 9
+  },
+  {
+    "name": "Black Knight",
+    "id": 508,
+    "x": 2905,
+    "y": 9709,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Black Knight",
+    "id": 508,
+    "x": 2908,
+    "y": 9693,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 10
+  },
+  {
+    "name": "Black Knight",
+    "id": 508,
+    "x": 2907,
+    "y": 9702,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 9
+  },
+  {
+    "name": "Black Knight",
+    "id": 508,
+    "x": 2911,
+    "y": 9688,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 9
+  },
+  {
+    "name": "Black Knight",
+    "id": 508,
+    "x": 2912,
+    "y": 9679,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Black Knight",
+    "id": 508,
+    "x": 2914,
+    "y": 9683,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 9
+  },
+  {
+    "name": "Black Knight",
+    "id": 508,
+    "x": 2912,
+    "y": 9687,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 10
+  },
+  {
+    "name": "Black Knight",
+    "id": 508,
+    "x": 2913,
+    "y": 9691,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 10
+  },
+  {
+    "name": "Black Knight",
+    "id": 508,
+    "x": 2914,
+    "y": 9703,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 10
+  },
+  {
+    "name": "Suit of armour",
+    "id": 5043,
+    "x": 2885,
+    "y": 9830,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Black Knight",
+    "id": 508,
+    "x": 2911,
+    "y": 9708,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Black Knight",
+    "id": 508,
+    "x": 2916,
+    "y": 9679,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Black Knight",
+    "id": 508,
+    "x": 2915,
+    "y": 9692,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 10
+  },
+  {
+    "name": "Black Knight",
+    "id": 508,
+    "x": 2918,
+    "y": 9684,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Black Knight",
+    "id": 508,
+    "x": 2917,
+    "y": 9692,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Suit of armour",
+    "id": 5043,
+    "x": 2885,
+    "y": 9833,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Black Knight",
+    "id": 508,
+    "x": 2915,
+    "y": 9681,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Black Knight",
+    "id": 508,
+    "x": 2921,
+    "y": 9702,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Black Knight",
+    "id": 508,
+    "x": 2921,
+    "y": 9709,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Black Knight",
+    "id": 508,
+    "x": 2921,
+    "y": 9709,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Dwarf",
+    "id": 290,
+    "x": 2931,
+    "y": 9699,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Rat",
+    "id": 2854,
+    "x": 2931,
+    "y": 9699,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Velrak the explorer",
+    "id": 4925,
+    "x": 2931,
+    "y": 9686,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Dwarf",
+    "id": 290,
+    "x": 2931,
+    "y": 9699,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Rat",
+    "id": 2854,
+    "x": 2931,
+    "y": 9686,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Rat",
+    "id": 2854,
+    "x": 2925,
+    "y": 9692,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Rat",
+    "id": 2854,
+    "x": 2931,
+    "y": 9699,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Jailer",
+    "id": 300,
+    "x": 2931,
+    "y": 9692,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Blue dragon",
+    "id": 5880,
+    "x": 2893,
+    "y": 9816,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Blue dragon",
+    "id": 5879,
+    "x": 2891,
+    "y": 9810,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Blue dragon",
+    "id": 5878,
+    "x": 2895,
+    "y": 9811,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Blue dragon",
+    "id": 5881,
+    "x": 2921,
+    "y": 9814,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Blue dragon",
+    "id": 5882,
+    "x": 2921,
+    "y": 9809,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Blue dragon",
+    "id": 5878,
+    "x": 2926,
+    "y": 9812,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Blue dragon",
+    "id": 5879,
+    "x": 2946,
+    "y": 9813,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Blue dragon",
+    "id": 5879,
+    "x": 2945,
+    "y": 9820,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Blue dragon",
+    "id": 5882,
+    "x": 2954,
+    "y": 9816,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Blue dragon",
+    "id": 5881,
+    "x": 2958,
+    "y": 9823,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Blue dragon",
+    "id": 5879,
+    "x": 2954,
+    "y": 9827,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Blue dragon",
+    "id": 5878,
+    "x": 2949,
+    "y": 9826,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Slieve",
+    "id": 7653,
+    "x": 2875,
+    "y": 9827,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Baby dragon",
+    "id": 1872,
+    "x": 2862,
+    "y": 9827,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Baby dragon",
+    "id": 1872,
+    "x": 2857,
+    "y": 9829,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Baby dragon",
+    "id": 1872,
+    "x": 2819,
+    "y": 9819,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Baby dragon",
+    "id": 1872,
+    "x": 2817,
+    "y": 9817,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Baby dragon",
+    "id": 1872,
+    "x": 2824,
+    "y": 9817,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Black dragon",
+    "id": 257,
+    "x": 2804,
+    "y": 9811,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Black dragon",
+    "id": 258,
+    "x": 2806,
+    "y": 9819,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Black dragon",
+    "id": 259,
+    "x": 2799,
+    "y": 9821,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Black dragon",
+    "id": 258,
+    "x": 2801,
+    "y": 9828,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Black dragon",
+    "id": 257,
+    "x": 2796,
+    "y": 9836,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Black dragon",
+    "id": 259,
+    "x": 2798,
+    "y": 9841,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Black dragon",
+    "id": 257,
+    "x": 2785,
+    "y": 9840,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Black dragon",
+    "id": 258,
+    "x": 2777,
+    "y": 9835,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Black dragon",
+    "id": 259,
+    "x": 2781,
+    "y": 9821,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Black dragon",
+    "id": 259,
+    "x": 2786,
+    "y": 9824,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Black dragon",
+    "id": 257,
+    "x": 2775,
+    "y": 9812,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Black dragon",
+    "id": 258,
+    "x": 2780,
+    "y": 9807,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Black dragon",
+    "id": 259,
+    "x": 2788,
+    "y": 9808,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 4
+  }
+]

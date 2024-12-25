@@ -1,0 +1,88 @@
+[
+  { #Agrith-Na-Na (146)
+    "ids": [ 4880, 6369 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 200,
+    "aggressive_level": 292,
+    "max_damage": 16,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 0.0,
+    "slayer_tasks": [],
+    //Combat Stats
+    "attack": 83,
+    "strength": 150,
+    "defence": 82,
+    "ranged": 100,
+    "magic": 100,
+    //Aggressive Stats
+    "stab_attack": 100,
+    "slash_attack": 100,
+    "crush_attack": 100,
+    "magic_attack": 100,
+    "ranged_attack": 100,
+    //Defensive Stats
+    "stab_defence": 100,
+    "slash_defence": 100,
+    "crush_defence": 100,
+    "magic_defence": 100,
+    "ranged_defence": 100,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 2,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": -1,
+    "defend_animation": -1,
+    "death_animation": -1
+  },
+  { #Agrith-Na-Na (hard) (235)
+    "ids": [ 6308 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 255,
+    "aggressive_level": 470,
+    "max_damage": 31,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 0.0,
+    "slayer_tasks": [],
+    //Combat Stats
+    "attack": 166,
+    "strength": 300,
+    "defence": 82,
+    "ranged": 200,
+    "magic": 200,
+    //Aggressive Stats
+    "stab_attack": 100,
+    "slash_attack": 100,
+    "crush_attack": 100,
+    "magic_attack": 100,
+    "ranged_attack": 100,
+    //Defensive Stats
+    "stab_defence": 100,
+    "slash_defence": 100,
+    "crush_defence": 100,
+    "magic_defence": 100,
+    "ranged_defence": 100,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 2,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": -1,
+    "defend_animation": -1,
+    "death_animation": -1
+  }
+]

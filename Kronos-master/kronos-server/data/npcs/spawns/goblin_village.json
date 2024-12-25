@@ -1,0 +1,191 @@
+[
+  {
+    "name": "null",
+    "id": 1965,
+    "x": 2956,
+    "y": 3510,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "General Bentnoze",
+    "id": 669,
+    "x": 2958,
+    "y": 3512,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "General Wartface",
+    "id": 670,
+    "x": 2956,
+    "y": 3514,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Goblin",
+    "id": 665,
+    "x": 2955,
+    "y": 3513,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Goblin",
+    "id": 662,
+    "x": 2953,
+    "y": 3512,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Goblin",
+    "id": 664,
+    "x": 2953,
+    "y": 3507,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Goblin",
+    "id": 663,
+    "x": 2956,
+    "y": 3507,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Goblin",
+    "id": 664,
+    "x": 2961,
+    "y": 3509,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Goblin",
+    "id": 664,
+    "x": 2960,
+    "y": 3502,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Goblin",
+    "id": 658,
+    "x": 2952,
+    "y": 3506,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Goblin",
+    "id": 661,
+    "x": 2955,
+    "y": 3503,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Goblin",
+    "id": 661,
+    "x": 2958,
+    "y": 3500,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Goblin",
+    "id": 668,
+    "x": 2956,
+    "y": 3498,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Goblin",
+    "id": 661,
+    "x": 2952,
+    "y": 3497,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Goblin",
+    "id": 667,
+    "x": 2956,
+    "y": 3495,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Goblin",
+    "id": 657,
+    "x": 2955,
+    "y": 3493,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Goblin",
+    "id": 659,
+    "x": 2957,
+    "y": 3492,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Goblin",
+    "id": 657,
+    "x": 2958,
+    "y": 3495,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Goblin",
+    "id": 659,
+    "x": 2955,
+    "y": 3484,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Goblin",
+    "id": 659,
+    "x": 2956,
+    "y": 3481,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Goblin",
+    "id": 664,
+    "x": 2956,
+    "y": 3481,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  }
+]

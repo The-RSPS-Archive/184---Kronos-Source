@@ -1,0 +1,52 @@
+[
+  {
+    "ids": [ 2244, 3161, 2212, 3168 ],
+    "tables": [
+      {
+        "name": "Runes",
+        "weight": 60,
+        "items": [
+          { "id": 556, "min": 30, "max": 30, "weight": 3 }, //Air rune
+          { "id": 556, "min": 50, "max": 50, "weight": 3 }, //Air rune
+          { "id": 555, "min": 15, "max": 15, "weight": 3 }, //Water rune
+          { "id": 555, "min": 30, "max": 30, "weight": 1 }, //Water rune
+          { "id": 555, "min": 50, "max": 50, "weight": 1 }, //Water rune
+          { "id": 561, "min": 18, "max": 18, "weight": 1 }, //Nature rune
+          { "id": 561, "min": 25, "max": 25, "weight": 1 }, //Nature rune
+          { "id": 562, "min": 10, "max": 10, "weight": 1 }, //Chaos rune
+          { "id": 562, "min": 15, "max": 15, "weight": 1 }, //Chaos rune
+          { "id": 562, "min": 20, "max": 20, "weight": 1 }, //Chaos rune
+          { "id": 562, "min": 25, "max": 25, "weight": 1 }, //Chaos rune
+          { "id": 560, "min": 15, "max": 15, "weight": 1 }, //Death rune
+          { "id": 9075, "min": 15, "max": 15, "weight": 1 }, //Astral rune
+          { "id": 563, "min": 15, "max": 15, "weight": 1 }, //Law rune
+          { "id": 4695, "min": 20, "max": 20, "weight": 1 }, //Mist rune
+          { "id": 4696, "min": 15, "max": 15, "weight": 1 }, //Dust rune
+          { "id": 4698, "min": 20, "max": 20, "weight": 1 }, //Mud rune
+          { "id": 559, "min": 25, "max": 25, "weight": 1 }, //Body rune
+          { "id": 559, "min": 35, "max": 35, "weight": 1 }, //Body rune
+          { "id": 558, "min": 50, "max": 50, "weight": 1 }, //Mind rune
+          { "id": 554, "min": 50, "max": 50, "weight": 1 }, //Fire rune
+          { "id": 554, "min": 65, "max": 65, "weight": 1 }, //Fire rune
+          { "id": 565, "min": 10, "max": 10, "weight": 1 } //Blood rune
+        ]
+      },
+      {
+        "name": "Armour",
+        "weight": 1,
+        "items": [
+          { "id": 11840, "min": 1, "max": 1, "weight": 1 } //Dragon boots
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 60,
+        "items": [
+          { "id": 7937, "min": 90, "max": 90, "weight": 10 }, //Pure essence (noted)
+          { "id": 176, "min": 5, "max": 5, "weight": 20 }, //Antipoison(3) (noted)
+          { "id": 2722, "min": 1, "max": 1, "weight": 1 } //Clue scroll (hard)
+        ]
+      }
+    ]
+  }
+]

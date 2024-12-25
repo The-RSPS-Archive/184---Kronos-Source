@@ -1,0 +1,38 @@
+---
+identifier: "130e716b-eb95-479b-ab1e-2a3dbdc52c6f"
+title: "Grace's Graceful Clothing"
+currency: "MARKS_OF_GRACE"
+accessibleByIronMan: true
+canSellToStore: false
+restockRules:
+  restockTicks: 52
+  restockPerTick: 1
+defaultStock:
+- id: 11850
+  amount: 1000
+  price: 35
+  placeholderId: 0
+- id: 11854
+  amount: 1000
+  price: 55
+  placeholderId: 0
+- id: 11856
+  amount: 1000
+  price: 60
+  placeholderId: 0
+- id: 11858
+  amount: 1000
+  price: 30
+  placeholderId: 0
+- id: 11860
+  amount: 1000
+  price: 40
+  placeholderId: 0
+- id: 11852
+  amount: 1000
+  price: 40
+  placeholderId: 0
+- id: 12641
+  amount: 1000
+  price: 10
+  placeholderId: 0

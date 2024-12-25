@@ -1,0 +1,48 @@
+[
+  {
+    "ids": [ 1409, 1410, 1411, 1412, 6046, 6047, 6048, 6049 ],
+    "guaranteed": [
+      { "id": 526, "min": 1, "max": 1 } //Bones
+    ],
+    "tables": [
+      {
+        "name": "Runes",
+        "weight": 1,
+        "items": [
+          { "id": 562, "min": 2, "max": 2, "weight": 1 }, //Chaos rune
+          { "id": 561, "min": 2, "max": 2, "weight": 1 } //Nature rune
+        ]
+      },
+      {
+        "name": "Weapons/Armour",
+        "weight": 1,
+        "items": [
+          { "id": 1139, "min": 1, "max": 1, "weight": 1 }, //Bronze med helm
+          { "id": 1375, "min": 1, "max": 1, "weight": 1 }, //Bronze battleaxe
+          { "id": 877, "min": 6, "max": 6, "weight": 1 }, //Bronze bolts
+          { "id": 1337, "min": 1, "max": 1, "weight": 1 }, //Bronze warhammer
+          { "id": 1265, "min": 1, "max": 1, "weight": 1 }, //Bronze pickaxe
+          { "id": 1363, "min": 1, "max": 1, "weight": 1 }, //Iron battleaxe
+          { "id": 1341, "min": 1, "max": 1, "weight": 1 } //Black warhammer
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 995, "min": 4, "max": 42, "weight": 1 }, //Coins
+          { "id": 436, "min": 1, "max": 1, "weight": 1 }, //Copper ore
+          { "id": 2349, "min": 1, "max": 1, "weight": 1 }, //Bronze bar
+          { "id": 2351, "min": 1, "max": 1, "weight": 1 }, //Iron bar
+          { "id": 2347, "min": 1, "max": 1, "weight": 1 }, //Hammer
+          { "id": 453, "min": 1, "max": 1, "weight": 1 }, //Coal
+          { "id": 3801, "min": 1, "max": 1, "weight": 1 }, //Keg of beer
+          #Warning: Quantities are guessed (min=1, max=1)
+          { "id": 1929, "min": 1, "max": 1, "weight": 1 }, //Bucket of water
+          #Warning: Quantities are guessed (min=1, max=1)
+          { "id": 1592, "min": 1, "max": 1, "weight": 1 } //Ring mould
+        ]
+      }
+    ]
+  }
+]

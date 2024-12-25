@@ -1,0 +1,308 @@
+[
+  {
+    "name": "Goat",
+    "id": 1795,
+    "x": 3397,
+    "y": 2930,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Wingstone",
+    "id": 2552,
+    "x": 3395,
+    "y": 2909,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 25
+  },
+  {
+    "name": "Jackal",
+    "id": 4185,
+    "x": 3378,
+    "y": 2910,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Goat",
+    "id": 1796,
+    "x": 3401,
+    "y": 2932,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Jackal",
+    "id": 4185,
+    "x": 3391,
+    "y": 2906,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 10
+  },
+  {
+    "name": "Billy Goat",
+    "id": 1797,
+    "x": 3396,
+    "y": 2930,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Jackal",
+    "id": 4185,
+    "x": 3386,
+    "y": 2912,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Monkey",
+    "id": 23,
+    "x": 3399,
+    "y": 2916,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Jackal",
+    "id": 4185,
+    "x": 3386,
+    "y": 2913,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Rug Merchant",
+    "id": 22,
+    "x": 3401,
+    "y": 2917,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Seddu",
+    "id": 4754,
+    "x": 3406,
+    "y": 2924,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Goat",
+    "id": 1792,
+    "x": 3410,
+    "y": 2891,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Billy Goat",
+    "id": 1794,
+    "x": 3412,
+    "y": 2893,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Kazemde",
+    "id": 4755,
+    "x": 3414,
+    "y": 2906,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Nkuku",
+    "id": 4748,
+    "x": 3416,
+    "y": 2934,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Ali the Carter",
+    "id": 4746,
+    "x": 3421,
+    "y": 2914,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Zahur",
+    "id": 4753,
+    "x": 3424,
+    "y": 2906,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Shiratti the Custodian",
+    "id": 4760,
+    "x": 3424,
+    "y": 2928,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Nardah Banker",
+    "id": 4762,
+    "x": 3425,
+    "y": 2889,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0
+  },
+  {
+    "name": "Nardah Banker",
+    "id": 4762,
+    "x": 3425,
+    "y": 2891,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0
+  },
+  {
+    "name": "Nardah Banker",
+    "id": 4762,
+    "x": 3425,
+    "y": 2893,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0
+  },
+  {
+    "name": "Nardah Banker",
+    "id": 4762,
+    "x": 3425,
+    "y": 2894,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0
+  },
+  {
+    "name": "Meskhenet",
+    "id": 4751,
+    "x": 3426,
+    "y": 2899,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Wesley",
+    "id": 7369,
+    "x": 3428,
+    "y": 2910,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Rokuh",
+    "id": 4761,
+    "x": 3430,
+    "y": 2914,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Garai",
+    "id": 4749,
+    "x": 3436,
+    "y": 2901,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Poltenip",
+    "id": 4758,
+    "x": 3437,
+    "y": 2914,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Tarik",
+    "id": 4757,
+    "x": 3437,
+    "y": 2917,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Usi",
+    "id": 4747,
+    "x": 3439,
+    "y": 2890,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Ghaslor the Elder",
+    "id": 4745,
+    "x": 3441,
+    "y": 2933,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Awusah the Mayor",
+    "id": 4756,
+    "x": 3442,
+    "y": 2913,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Radat",
+    "id": 4759,
+    "x": 3442,
+    "y": 2920,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Artimeus",
+    "id": 1350,
+    "x": 3442,
+    "y": 2902,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Zahra",
+    "id": 4752,
+    "x": 3448,
+    "y": 2896,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  }
+]

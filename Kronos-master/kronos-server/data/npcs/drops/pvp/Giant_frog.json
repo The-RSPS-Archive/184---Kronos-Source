@@ -1,0 +1,42 @@
+[
+  {
+    "ids": [ 2143, 477 ],
+    "guaranteed": [
+      { "id": 526, "min": 1, "max": 1 } //Bones
+    ],
+    "tables": [
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 995, "min": 2, "max": 2, "weight": 12 }, //Coins
+          { "id": 995, "min": 30, "max": 30, "weight": 12 }, //Coins
+          { "id": 995, "min": 37, "max": 37, "weight": 12 }, //Coins
+          { "id": 561, "min": 1, "max": 1, "weight": 9 }, //Nature rune
+          { "id": 561, "min": 3, "max": 3, "weight": 9 }, //Nature rune
+          { "id": 561, "min": 6, "max": 6, "weight": 9 }, //Nature rune
+          { "id": 561, "min": 9, "max": 9, "weight": 9 }, //Nature rune
+          { "id": 884, "min": 22, "max": 22, "weight": 6 }, //Iron arrow
+          { "id": 886, "min": 45, "max": 45, "weight": 6 }, //Steel arrow
+          { "id": 565, "min": 1, "max": 1, "weight": 3 }, //Blood rune
+          { "id": 564, "min": 1, "max": 10, "weight": 3 }, //Cosmic rune
+          { "id": 453, "min": 1, "max": 1, "weight": 3 }, //Coal
+          { "id": 1243, "min": 1, "max": 1, "weight": 1 }, //Mithril spear
+          { "id": 1969, "min": 1, "max": 1, "weight": 1 } //Spinach roll
+        ]
+      }
+    ]
+  },
+  { #This guy is not so special.. loses his legs sometimes..
+    "ids": [ 477 ],
+    "tables": [
+      {
+        "name": "Leggies",
+        "weight": 1,
+        "items": [
+          { "id": 4517, "min": 1, "max": 1, "weight": 1 } //Giant frog legs
+        ]
+      }
+    ]
+  }
+]

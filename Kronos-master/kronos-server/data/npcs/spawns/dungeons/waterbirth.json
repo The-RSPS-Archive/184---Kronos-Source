@@ -1,0 +1,2459 @@
+[
+  {
+    "name": "Dagannoth Supreme",
+    "id": 2265,
+    "x": 2904,
+    "y": 4384,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dagannoth Prime",
+    "id": 2266,
+    "x": 2911,
+    "y": 4389,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Dagannoth Rex",
+    "id": 2267,
+    "x": 2915,
+    "y": 4381,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Dagannoth Supreme",
+    "id": 2265,
+    "x": 2904,
+    "y": 4448,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dagannoth Prime",
+    "id": 2266,
+    "x": 2911,
+    "y": 4453,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Dagannoth Rex",
+    "id": 2267,
+    "x": 2915,
+    "y": 4445,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Spinolyp",
+    "id": 5947,
+    "x": 2906,
+    "y": 4464,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Spinolyp",
+    "id": 5947,
+    "x": 2914,
+    "y": 4464,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Spinolyp",
+    "id": 5947,
+    "x": 2924,
+    "y": 4461,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Spinolyp",
+    "id": 5947,
+    "x": 2929,
+    "y": 4454,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Spinolyp",
+    "id": 5947,
+    "x": 2931,
+    "y": 4442,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Spinolyp",
+    "id": 5947,
+    "x": 2925,
+    "y": 4436,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Spinolyp",
+    "id": 5947,
+    "x": 2915,
+    "y": 4433,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Spinolyp",
+    "id": 5947,
+    "x": 2906,
+    "y": 4434,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Spinolyp",
+    "id": 5947,
+    "x": 2899,
+    "y": 4439,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Spinolyp",
+    "id": 5947,
+    "x": 2898,
+    "y": 4455,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Spinolyp",
+    "id": 5947,
+    "x": 2900,
+    "y": 4459,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Spinolyp",
+    "id": 5947,
+    "x": 2906,
+    "y": 4400,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Spinolyp",
+    "id": 5947,
+    "x": 2914,
+    "y": 4400,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Spinolyp",
+    "id": 5947,
+    "x": 2924,
+    "y": 4397,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Spinolyp",
+    "id": 5947,
+    "x": 2929,
+    "y": 4390,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Spinolyp",
+    "id": 5947,
+    "x": 2931,
+    "y": 4383,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Spinolyp",
+    "id": 5947,
+    "x": 2925,
+    "y": 4372,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Spinolyp",
+    "id": 5947,
+    "x": 2915,
+    "y": 4369,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Spinolyp",
+    "id": 5947,
+    "x": 2906,
+    "y": 4370,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Spinolyp",
+    "id": 5947,
+    "x": 2899,
+    "y": 4375,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Spinolyp",
+    "id": 5947,
+    "x": 2898,
+    "y": 4391,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Spinolyp",
+    "id": 5947,
+    "x": 2902,
+    "y": 4398,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Egg",
+    "id": 5932,
+    "x": 2447,
+    "y": 10164,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Egg",
+    "id": 5932,
+    "x": 2448,
+    "y": 10166,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Egg",
+    "id": 5932,
+    "x": 2449,
+    "y": 10167,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Egg",
+    "id": 5932,
+    "x": 2459,
+    "y": 10169,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Egg",
+    "id": 5932,
+    "x": 2460,
+    "y": 10169,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Egg",
+    "id": 5932,
+    "x": 2474,
+    "y": 10159,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Egg",
+    "id": 5932,
+    "x": 2477,
+    "y": 10158,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Egg",
+    "id": 5932,
+    "x": 2478,
+    "y": 10158,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Egg",
+    "id": 5932,
+    "x": 2485,
+    "y": 10168,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Egg",
+    "id": 5932,
+    "x": 2492,
+    "y": 10155,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Egg",
+    "id": 5932,
+    "x": 2489,
+    "y": 10144,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Egg",
+    "id": 5932,
+    "x": 2492,
+    "y": 10139,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Egg",
+    "id": 5932,
+    "x": 2481,
+    "y": 10125,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Egg",
+    "id": 5932,
+    "x": 2485,
+    "y": 10123,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Egg",
+    "id": 5932,
+    "x": 2487,
+    "y": 10124,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Egg",
+    "id": 5932,
+    "x": 2475,
+    "y": 10126,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Egg",
+    "id": 5932,
+    "x": 2469,
+    "y": 10125,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Egg",
+    "id": 5932,
+    "x": 2465,
+    "y": 10125,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Egg",
+    "id": 5932,
+    "x": 2462,
+    "y": 10128,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Egg",
+    "id": 5932,
+    "x": 2459,
+    "y": 10127,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Egg",
+    "id": 5932,
+    "x": 2454,
+    "y": 10126,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Egg",
+    "id": 5932,
+    "x": 2454,
+    "y": 10129,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Egg",
+    "id": 5932,
+    "x": 2454,
+    "y": 10132,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Egg",
+    "id": 5932,
+    "x": 2452,
+    "y": 10133,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Egg",
+    "id": 5932,
+    "x": 2451,
+    "y": 10134,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Egg",
+    "id": 5932,
+    "x": 2452,
+    "y": 10136,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Egg",
+    "id": 5932,
+    "x": 2444,
+    "y": 10137,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Rocks",
+    "id": 103,
+    "x": 2449,
+    "y": 10164,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Rocks",
+    "id": 101,
+    "x": 2449,
+    "y": 10160,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Rocks",
+    "id": 101,
+    "x": 2451,
+    "y": 10165,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Rocks",
+    "id": 103,
+    "x": 2454,
+    "y": 10159,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Rocks",
+    "id": 101,
+    "x": 2455,
+    "y": 10164,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Rocks",
+    "id": 103,
+    "x": 2458,
+    "y": 10160,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Rocks",
+    "id": 101,
+    "x": 2457,
+    "y": 10161,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Rocks",
+    "id": 101,
+    "x": 2459,
+    "y": 10166,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Rocks",
+    "id": 103,
+    "x": 2462,
+    "y": 10165,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Rocks",
+    "id": 103,
+    "x": 2462,
+    "y": 10167,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Rocks",
+    "id": 103,
+    "x": 2460,
+    "y": 10155,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Rocks",
+    "id": 103,
+    "x": 2472,
+    "y": 10164,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Rocks",
+    "id": 103,
+    "x": 2470,
+    "y": 10162,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Rocks",
+    "id": 101,
+    "x": 2422,
+    "y": 10159,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Rocks",
+    "id": 103,
+    "x": 2443,
+    "y": 10159,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Rocks",
+    "id": 103,
+    "x": 2443,
+    "y": 10158,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Dagannoth",
+    "id": 3185,
+    "x": 2459,
+    "y": 10158,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Dagannoth",
+    "id": 3185,
+    "x": 2465,
+    "y": 10161,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Dagannoth",
+    "id": 3185,
+    "x": 2455,
+    "y": 10151,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Dagannoth",
+    "id": 3185,
+    "x": 2455,
+    "y": 10151,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Dagannoth",
+    "id": 3185,
+    "x": 2452,
+    "y": 10161,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Dagannoth",
+    "id": 3185,
+    "x": 2458,
+    "y": 10167,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Dagannoth",
+    "id": 3185,
+    "x": 2466,
+    "y": 10164,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Dagannoth",
+    "id": 3185,
+    "x": 2468,
+    "y": 10159,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Dagannoth",
+    "id": 3185,
+    "x": 2474,
+    "y": 10158,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Dagannoth",
+    "id": 3185,
+    "x": 2477,
+    "y": 10154,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Dagannoth",
+    "id": 3185,
+    "x": 2475,
+    "y": 10150,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Dagannoth",
+    "id": 3185,
+    "x": 2480,
+    "y": 10149,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Dagannoth",
+    "id": 3185,
+    "x": 2481,
+    "y": 10155,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Dagannoth",
+    "id": 3185,
+    "x": 2485,
+    "y": 10154,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Dagannoth",
+    "id": 3185,
+    "x": 2483,
+    "y": 10165,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Dagannoth",
+    "id": 3185,
+    "x": 2447,
+    "y": 10141,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Dagannoth",
+    "id": 3185,
+    "x": 2445,
+    "y": 10156,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Dagannoth",
+    "id": 3185,
+    "x": 2453,
+    "y": 10145,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Dagannoth",
+    "id": 3185,
+    "x": 2474,
+    "y": 10140,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Dagannoth",
+    "id": 3185,
+    "x": 2478,
+    "y": 10139,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Dagannoth",
+    "id": 3185,
+    "x": 2482,
+    "y": 10141,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Dagannoth",
+    "id": 3185,
+    "x": 2475,
+    "y": 10145,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Dagannoth",
+    "id": 3185,
+    "x": 2482,
+    "y": 10148,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Dagannoth",
+    "id": 3185,
+    "x": 2487,
+    "y": 10142,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Dagannoth",
+    "id": 3185,
+    "x": 2486,
+    "y": 10128,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Dagannoth",
+    "id": 3185,
+    "x": 2478,
+    "y": 10128,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Dagannoth",
+    "id": 3185,
+    "x": 2473,
+    "y": 10132,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Dagannoth",
+    "id": 3185,
+    "x": 2463,
+    "y": 10138,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Dagannoth",
+    "id": 3185,
+    "x": 2466,
+    "y": 10134,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Dagannoth",
+    "id": 3185,
+    "x": 2461,
+    "y": 10129,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Dagannoth",
+    "id": 3185,
+    "x": 2457,
+    "y": 10131,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Dagannoth",
+    "id": 3185,
+    "x": 2458,
+    "y": 10135,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Dagannoth",
+    "id": 3185,
+    "x": 2456,
+    "y": 10142,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Dagannoth",
+    "id": 3185,
+    "x": 2470,
+    "y": 10135,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Dagannoth",
+    "id": 3185,
+    "x": 2452,
+    "y": 10134,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Dagannoth",
+    "id": 3185,
+    "x": 2463,
+    "y": 10133,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Dagannoth",
+    "id": 3185,
+    "x": 2473,
+    "y": 10127,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Dagannoth",
+    "id": 5942,
+    "x": 2497,
+    "y": 10129,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Dagannoth",
+    "id": 5942,
+    "x": 2500,
+    "y": 10127,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Dagannoth",
+    "id": 5942,
+    "x": 2503,
+    "y": 10124,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Dagannoth",
+    "id": 5942,
+    "x": 2505,
+    "y": 10125,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Dagannoth",
+    "id": 5942,
+    "x": 2504,
+    "y": 10127,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Dagannoth",
+    "id": 5942,
+    "x": 2508,
+    "y": 10128,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Dagannoth",
+    "id": 5942,
+    "x": 2510,
+    "y": 10125,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Dagannoth",
+    "id": 5942,
+    "x": 2514,
+    "y": 10127,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Dagannoth",
+    "id": 5942,
+    "x": 2518,
+    "y": 10127,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Dagannoth",
+    "id": 5942,
+    "x": 2519,
+    "y": 10122,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Dagannoth",
+    "id": 5942,
+    "x": 2522,
+    "y": 10124,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Dagannoth",
+    "id": 5942,
+    "x": 2524,
+    "y": 10128,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Dagannoth",
+    "id": 5942,
+    "x": 2526,
+    "y": 10124,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Dagannoth",
+    "id": 5942,
+    "x": 2528,
+    "y": 10120,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Dagannoth",
+    "id": 5942,
+    "x": 2531,
+    "y": 10122,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Dagannoth",
+    "id": 5942,
+    "x": 2528,
+    "y": 10127,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Dagannoth",
+    "id": 5942,
+    "x": 2534,
+    "y": 10128,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Dagannoth",
+    "id": 5942,
+    "x": 2536,
+    "y": 10124,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Wallasalki",
+    "id": 5938,
+    "x": 2496,
+    "y": 10147,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Wallasalki",
+    "id": 5938,
+    "x": 2500,
+    "y": 10145,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Wallasalki",
+    "id": 5938,
+    "x": 2499,
+    "y": 10147,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Wallasalki",
+    "id": 5938,
+    "x": 2502,
+    "y": 10149,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Wallasalki",
+    "id": 5938,
+    "x": 2504,
+    "y": 10144,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Wallasalki",
+    "id": 5938,
+    "x": 2508,
+    "y": 10143,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Wallasalki",
+    "id": 5938,
+    "x": 2509,
+    "y": 10147,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Wallasalki",
+    "id": 5938,
+    "x": 2505,
+    "y": 10150,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Wallasalki",
+    "id": 5938,
+    "x": 2513,
+    "y": 10145,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Wallasalki",
+    "id": 5938,
+    "x": 2515,
+    "y": 10149,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Wallasalki",
+    "id": 5938,
+    "x": 2517,
+    "y": 10142,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Wallasalki",
+    "id": 5938,
+    "x": 2520,
+    "y": 10144,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Wallasalki",
+    "id": 5938,
+    "x": 2520,
+    "y": 10147,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Wallasalki",
+    "id": 5938,
+    "x": 2518,
+    "y": 10146,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Wallasalki",
+    "id": 5938,
+    "x": 2524,
+    "y": 10141,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Wallasalki",
+    "id": 5938,
+    "x": 2525,
+    "y": 10146,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Wallasalki",
+    "id": 5938,
+    "x": 2529,
+    "y": 10149,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Wallasalki",
+    "id": 5938,
+    "x": 2531,
+    "y": 10144,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Wallasalki",
+    "id": 5938,
+    "x": 2529,
+    "y": 10140,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Wallasalki",
+    "id": 5938,
+    "x": 2526,
+    "y": 10144,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Giant Rock Crab",
+    "id": 2261,
+    "x": 2497,
+    "y": 10163,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Giant Rock Crab",
+    "id": 2261,
+    "x": 2502,
+    "y": 10160,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Giant Rock Crab",
+    "id": 2261,
+    "x": 2505,
+    "y": 10162,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Giant Rock Crab",
+    "id": 2261,
+    "x": 2509,
+    "y": 10165,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Giant Rock Crab",
+    "id": 2261,
+    "x": 2509,
+    "y": 10161,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Giant Rock Crab",
+    "id": 2261,
+    "x": 2514,
+    "y": 10163,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Giant Rock Crab",
+    "id": 2261,
+    "x": 2518,
+    "y": 10161,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Giant Rock Crab",
+    "id": 2261,
+    "x": 2521,
+    "y": 10165,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Giant Rock Crab",
+    "id": 2261,
+    "x": 2525,
+    "y": 10160,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Giant Rock Crab",
+    "id": 2261,
+    "x": 2529,
+    "y": 10162,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Giant Rock Crab",
+    "id": 2261,
+    "x": 2522,
+    "y": 10161,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Giant Rock Crab",
+    "id": 2261,
+    "x": 2537,
+    "y": 10164,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Giant Rock Crab",
+    "id": 2261,
+    "x": 2545,
+    "y": 10162,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Giant Rock Crab",
+    "id": 2261,
+    "x": 2541,
+    "y": 10163,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Giant Rock Crab",
+    "id": 2261,
+    "x": 2537,
+    "y": 10160,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Giant Rock Crab",
+    "id": 2261,
+    "x": 2534,
+    "y": 10158,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Giant Rock Crab",
+    "id": 2261,
+    "x": 2545,
+    "y": 10155,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Wallasalki",
+    "id": 5938,
+    "x": 1803,
+    "y": 4408,
+    "z": 3,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Wallasalki",
+    "id": 5938,
+    "x": 1803,
+    "y": 4404,
+    "z": 3,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Wallasalki",
+    "id": 5938,
+    "x": 1800,
+    "y": 4405,
+    "z": 3,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dagannoth",
+    "id": 5942,
+    "x": 1814,
+    "y": 4406,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Dagannoth",
+    "id": 5942,
+    "x": 1816,
+    "y": 4404,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Giant Rock Crab",
+    "id": 2261,
+    "x": 1832,
+    "y": 4405,
+    "z": 3,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Giant Rock Crab",
+    "id": 2261,
+    "x": 1839,
+    "y": 4404,
+    "z": 3,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Giant Rock Crab",
+    "id": 2261,
+    "x": 1846,
+    "y": 4405,
+    "z": 3,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Giant Rock Crab",
+    "id": 2261,
+    "x": 1842,
+    "y": 4399,
+    "z": 3,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Giant Rock Crab",
+    "id": 2261,
+    "x": 1837,
+    "y": 4398,
+    "z": 3,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Dagannoth",
+    "id": 5942,
+    "x": 1825,
+    "y": 4387,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dagannoth",
+    "id": 5942,
+    "x": 1824,
+    "y": 4391,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dagannoth",
+    "id": 5942,
+    "x": 1819,
+    "y": 4390,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dagannoth",
+    "id": 5942,
+    "x": 1821,
+    "y": 4394,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dagannoth",
+    "id": 5942,
+    "x": 1813,
+    "y": 4392,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dagannoth",
+    "id": 5942,
+    "x": 1825,
+    "y": 4376,
+    "z": 3,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dagannoth",
+    "id": 5942,
+    "x": 1829,
+    "y": 4377,
+    "z": 3,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dagannoth",
+    "id": 3185,
+    "x": 1830,
+    "y": 4378,
+    "z": 3,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dagannoth",
+    "id": 5942,
+    "x": 1833,
+    "y": 4379,
+    "z": 3,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dagannoth",
+    "id": 3185,
+    "x": 1837,
+    "y": 4379,
+    "z": 3,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dagannoth",
+    "id": 5942,
+    "x": 1838,
+    "y": 4371,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dagannoth",
+    "id": 5942,
+    "x": 1842,
+    "y": 4371,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dagannoth",
+    "id": 5942,
+    "x": 1846,
+    "y": 4372,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dagannoth",
+    "id": 3185,
+    "x": 1847,
+    "y": 4378,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dagannoth",
+    "id": 5942,
+    "x": 1849,
+    "y": 4382,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dagannoth",
+    "id": 3185,
+    "x": 1850,
+    "y": 4391,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dagannoth",
+    "id": 3185,
+    "x": 1850,
+    "y": 4394,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dagannoth",
+    "id": 3185,
+    "x": 1848,
+    "y": 4392,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dagannoth",
+    "id": 3185,
+    "x": 1849,
+    "y": 4388,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dagannoth",
+    "id": 3185,
+    "x": 1852,
+    "y": 4389,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dagannoth",
+    "id": 3185,
+    "x": 1851,
+    "y": 4392,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Wallasalki",
+    "id": 5938,
+    "x": 1805,
+    "y": 4392,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Wallasalki",
+    "id": 5938,
+    "x": 1809,
+    "y": 4391,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Wallasalki",
+    "id": 5938,
+    "x": 1802,
+    "y": 4393,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Wallasalki",
+    "id": 5938,
+    "x": 1800,
+    "y": 4391,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Wallasalki",
+    "id": 5938,
+    "x": 1802,
+    "y": 4383,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Wallasalki",
+    "id": 5938,
+    "x": 1798,
+    "y": 4383,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Wallasalki",
+    "id": 5938,
+    "x": 1798,
+    "y": 4376,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Wallasalki",
+    "id": 5938,
+    "x": 1802,
+    "y": 4374,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Wallasalki",
+    "id": 5938,
+    "x": 1800,
+    "y": 4373,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Wallasalki",
+    "id": 5938,
+    "x": 1798,
+    "y": 4370,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Giant Rock Crab",
+    "id": 2261,
+    "x": 1808,
+    "y": 4368,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Giant Rock Crab",
+    "id": 2261,
+    "x": 1807,
+    "y": 4364,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Giant Rock Crab",
+    "id": 2261,
+    "x": 1813,
+    "y": 4364,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Giant Rock Crab",
+    "id": 2261,
+    "x": 1817,
+    "y": 4367,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Giant Rock Crab",
+    "id": 2261,
+    "x": 1820,
+    "y": 4362,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dagannoth",
+    "id": 3185,
+    "x": 1832,
+    "y": 4360,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dagannoth",
+    "id": 3185,
+    "x": 1836,
+    "y": 4360,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dagannoth",
+    "id": 3185,
+    "x": 1844,
+    "y": 4362,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dagannoth",
+    "id": 5942,
+    "x": 1846,
+    "y": 4359,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dagannoth",
+    "id": 5942,
+    "x": 1849,
+    "y": 4360,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dagannoth",
+    "id": 3185,
+    "x": 1853,
+    "y": 4359,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dagannoth",
+    "id": 5942,
+    "x": 1854,
+    "y": 4361,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dagannoth",
+    "id": 5942,
+    "x": 1861,
+    "y": 4362,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dagannoth",
+    "id": 5942,
+    "x": 1865,
+    "y": 4366,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dagannoth",
+    "id": 5942,
+    "x": 1863,
+    "y": 4378,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dagannoth",
+    "id": 5942,
+    "x": 1864,
+    "y": 4384,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dagannoth",
+    "id": 5942,
+    "x": 1865,
+    "y": 4393,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dagannoth",
+    "id": 3185,
+    "x": 1863,
+    "y": 4396,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dagannoth",
+    "id": 5942,
+    "x": 1865,
+    "y": 4400,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dagannoth",
+    "id": 5942,
+    "x": 1863,
+    "y": 4403,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dagannoth",
+    "id": 3185,
+    "x": 1865,
+    "y": 4407,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dagannoth",
+    "id": 5942,
+    "x": 1873,
+    "y": 4409,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dagannoth",
+    "id": 5942,
+    "x": 1878,
+    "y": 4411,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dagannoth",
+    "id": 5942,
+    "x": 1886,
+    "y": 4410,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Rock lobster",
+    "id": 5944,
+    "x": 1894,
+    "y": 4409,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Rock lobster",
+    "id": 5944,
+    "x": 1887,
+    "y": 4409,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Rock lobster",
+    "id": 5944,
+    "x": 1899,
+    "y": 4409,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Rock lobster",
+    "id": 5944,
+    "x": 1905,
+    "y": 4406,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Rock lobster",
+    "id": 5944,
+    "x": 1903,
+    "y": 4401,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Rock lobster",
+    "id": 5944,
+    "x": 1898,
+    "y": 4400,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Rock lobster",
+    "id": 5944,
+    "x": 1893,
+    "y": 4395,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Rock lobster",
+    "id": 5944,
+    "x": 1886,
+    "y": 4389,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Rock lobster",
+    "id": 5944,
+    "x": 1887,
+    "y": 4385,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Rock lobster",
+    "id": 5944,
+    "x": 1883,
+    "y": 4386,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Wallasalki",
+    "id": 5938,
+    "x": 1885,
+    "y": 4371,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Wallasalki",
+    "id": 5938,
+    "x": 1887,
+    "y": 4363,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Wallasalki",
+    "id": 5938,
+    "x": 1893,
+    "y": 4361,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Wallasalki",
+    "id": 5938,
+    "x": 1893,
+    "y": 4365,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Wallasalki",
+    "id": 5938,
+    "x": 1893,
+    "y": 4371,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Wallasalki",
+    "id": 5938,
+    "x": 1899,
+    "y": 4371,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Wallasalki",
+    "id": 5938,
+    "x": 1905,
+    "y": 4373,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Wallasalki",
+    "id": 5938,
+    "x": 1905,
+    "y": 4363,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Wallasalki",
+    "id": 5938,
+    "x": 1901,
+    "y": 4363,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Dagannoth",
+    "id": 5942,
+    "x": 1897,
+    "y": 4366,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dagannoth",
+    "id": 5942,
+    "x": 1902,
+    "y": 4369,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dagannoth",
+    "id": 5942,
+    "x": 1894,
+    "y": 4369,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dagannoth",
+    "id": 5942,
+    "x": 1890,
+    "y": 4362,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dagannoth",
+    "id": 5942,
+    "x": 1927,
+    "y": 4362,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Wallasalki",
+    "id": 5938,
+    "x": 1934,
+    "y": 4360,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Dagannoth",
+    "id": 3185,
+    "x": 1940,
+    "y": 4357,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dagannoth",
+    "id": 3185,
+    "x": 1944,
+    "y": 4357,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dagannoth",
+    "id": 3185,
+    "x": 1949,
+    "y": 4360,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dagannoth",
+    "id": 3185,
+    "x": 1956,
+    "y": 4366,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dagannoth",
+    "id": 3185,
+    "x": 1955,
+    "y": 4375,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dagannoth",
+    "id": 3185,
+    "x": 1947,
+    "y": 4376,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dagannoth",
+    "id": 3185,
+    "x": 1940,
+    "y": 4375,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dagannoth",
+    "id": 3185,
+    "x": 1936,
+    "y": 4375,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dagannoth",
+    "id": 3185,
+    "x": 1929,
+    "y": 4387,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dagannoth",
+    "id": 3185,
+    "x": 1933,
+    "y": 4392,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dagannoth",
+    "id": 5942,
+    "x": 1939,
+    "y": 4390,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dagannoth",
+    "id": 5942,
+    "x": 1940,
+    "y": 4394,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dagannoth",
+    "id": 3185,
+    "x": 1945,
+    "y": 4393,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dagannoth",
+    "id": 5942,
+    "x": 1949,
+    "y": 4391,
+    "z": 3,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dagannoth",
+    "id": 5942,
+    "x": 1955,
+    "y": 4392,
+    "z": 3,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dagannoth",
+    "id": 3185,
+    "x": 1959,
+    "y": 4392,
+    "z": 3,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dagannoth",
+    "id": 3185,
+    "x": 1964,
+    "y": 4394,
+    "z": 3,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dagannoth",
+    "id": 3185,
+    "x": 1969,
+    "y": 4397,
+    "z": 3,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Giant Rock Crab",
+    "id": 2261,
+    "x": 1971,
+    "y": 4404,
+    "z": 3,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Giant Rock Crab",
+    "id": 2261,
+    "x": 1971,
+    "y": 4399,
+    "z": 3,
+    "direction": "S",
+    "walkRange": 5
+  }
+]

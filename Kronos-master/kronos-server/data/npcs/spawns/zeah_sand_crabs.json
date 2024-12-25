@@ -1,0 +1,569 @@
+[
+  {
+    "name": "Sand Crab",
+    "id": 5935,
+    "x": 1748,
+    "y": 3412,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Sand Crab",
+    "id": 7206,
+    "x": 1749,
+    "y": 3411,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Sand Crab",
+    "id": 5935,
+    "x": 1749,
+    "y": 3413,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Sand Crab",
+    "id": 5935,
+    "x": 1750,
+    "y": 3425,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Sand Crab",
+    "id": 7206,
+    "x": 1751,
+    "y": 3424,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Sand Crab",
+    "id": 7206,
+    "x": 1751,
+    "y": 3426,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Sand Crab",
+    "id": 5935,
+    "x": 1752,
+    "y": 3410,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Sand Crab",
+    "id": 7206,
+    "x": 1752,
+    "y": 3425,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Sand Crab",
+    "id": 5935,
+    "x": 1756,
+    "y": 3433,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Sand Crab",
+    "id": 7206,
+    "x": 1756,
+    "y": 3410,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Sand Crab",
+    "id": 7206,
+    "x": 1757,
+    "y": 3439,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Sand Crab",
+    "id": 5935,
+    "x": 1758,
+    "y": 3440,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Sand Crab",
+    "id": 7206,
+    "x": 1760,
+    "y": 3412,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Sand Crab",
+    "id": 7206,
+    "x": 1763,
+    "y": 3427,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Sand Crab",
+    "id": 5935,
+    "x": 1763,
+    "y": 3429,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Sand Crab",
+    "id": 7206,
+    "x": 1763,
+    "y": 3445,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Sand Crab",
+    "id": 7206,
+    "x": 1764,
+    "y": 3444,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Sand Crab",
+    "id": 7206,
+    "x": 1764,
+    "y": 3446,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Sand Crab",
+    "id": 5935,
+    "x": 1764,
+    "y": 3446,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Sand Crab",
+    "id": 7206,
+    "x": 1769,
+    "y": 3423,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Sand Crab",
+    "id": 5935,
+    "x": 1767,
+    "y": 3409,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Sand Crab",
+    "id": 7206,
+    "x": 1768,
+    "y": 3408,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Sand Crab",
+    "id": 5935,
+    "x": 1769,
+    "y": 3409,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Sand Crab",
+    "id": 7206,
+    "x": 1749,
+    "y": 3470,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Sand Crab",
+    "id": 7206,
+    "x": 1769,
+    "y": 3447,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Sand Crab",
+    "id": 7206,
+    "x": 1775,
+    "y": 3412,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Sand Crab",
+    "id": 5935,
+    "x": 1749,
+    "y": 3468,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Sand Crab",
+    "id": 7206,
+    "x": 1776,
+    "y": 3429,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Sand Crab",
+    "id": 5935,
+    "x": 1779,
+    "y": 3432,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Sand Crab",
+    "id": 7206,
+    "x": 1778,
+    "y": 3425,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Sand Crab",
+    "id": 5935,
+    "x": 1779,
+    "y": 3407,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Sand Crab",
+    "id": 5935,
+    "x": 1753,
+    "y": 3471,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Sandicrahb",
+    "id": 7484,
+    "x": 1779,
+    "y": 3418,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 0
+  },
+  {
+    "name": "Sand Crab",
+    "id": 7206,
+    "x": 1760,
+    "y": 3467,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Sand Crab",
+    "id": 7206,
+    "x": 1780,
+    "y": 3406,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Sand Crab",
+    "id": 5935,
+    "x": 1780,
+    "y": 3408,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Sand Crab",
+    "id": 7206,
+    "x": 1777,
+    "y": 3413,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Sand Crab",
+    "id": 5935,
+    "x": 1780,
+    "y": 3427,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Sand Crab",
+    "id": 5935,
+    "x": 1767,
+    "y": 3465,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Sand Crab",
+    "id": 7206,
+    "x": 1780,
+    "y": 3437,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Sand Crab",
+    "id": 7206,
+    "x": 1767,
+    "y": 3466,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Sand Crab",
+    "id": 7206,
+    "x": 1780,
+    "y": 3439,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Sand Crab",
+    "id": 5935,
+    "x": 1780,
+    "y": 3408,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Sand Crab",
+    "id": 7206,
+    "x": 1781,
+    "y": 3432,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Sand Crab",
+    "id": 5935,
+    "x": 1781,
+    "y": 3438,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Sand Crab",
+    "id": 7206,
+    "x": 1772,
+    "y": 3461,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Sand Crab",
+    "id": 5935,
+    "x": 1783,
+    "y": 3412,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Sand Crab",
+    "id": 7206,
+    "x": 1772,
+    "y": 3465,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Sand Crab",
+    "id": 5935,
+    "x": 1785,
+    "y": 3404,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Sand Crab",
+    "id": 5935,
+    "x": 1773,
+    "y": 3460,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Sand Crab",
+    "id": 7206,
+    "x": 1786,
+    "y": 3403,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Sand Crab",
+    "id": 7206,
+    "x": 1787,
+    "y": 3404,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Sand Crab",
+    "id": 7206,
+    "x": 1773,
+    "y": 3462,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Sand Crab",
+    "id": 5935,
+    "x": 1786,
+    "y": 3405,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Sand Crab",
+    "id": 5935,
+    "x": 1787,
+    "y": 3406,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Sand Crab",
+    "id": 7206,
+    "x": 1775,
+    "y": 3468,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Sand Crab",
+    "id": 7206,
+    "x": 1776,
+    "y": 3469,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Sandicrahb",
+    "id": 7483,
+    "x": 1782,
+    "y": 3458,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 0
+  },
+  {
+    "name": "Sand Crab",
+    "id": 7206,
+    "x": 1786,
+    "y": 3466,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Sand Crab",
+    "id": 7206,
+    "x": 1788,
+    "y": 3472,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Sand Crab",
+    "id": 5935,
+    "x": 1790,
+    "y": 3467,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Sand Crab",
+    "id": 7206,
+    "x": 1790,
+    "y": 3469,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Sand Crab",
+    "id": 5935,
+    "x": 1797,
+    "y": 3469,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  }
+]

@@ -1,0 +1,254 @@
+[
+  {
+    "name": "Barbarian",
+    "id": 3064,
+    "x": 3076,
+    "y": 3416,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Peksa",
+    "id": 2872,
+    "x": 3075,
+    "y": 3429,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Barbarian",
+    "id": 3061,
+    "x": 3078,
+    "y": 3419,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 12
+  },
+  {
+    "name": "Barbarian",
+    "id": 3058,
+    "x": 3074,
+    "y": 3439,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 9
+  },
+  {
+    "name": "Barbarian",
+    "id": 3069,
+    "x": 3078,
+    "y": 3437,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Barbarian",
+    "id": 3068,
+    "x": 3078,
+    "y": 3440,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Barbarian",
+    "id": 3056,
+    "x": 3078,
+    "y": 3408,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 11
+  },
+  {
+    "name": "Barbarian",
+    "id": 3057,
+    "x": 3078,
+    "y": 3438,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Barbarian",
+    "id": 3055,
+    "x": 3078,
+    "y": 3439,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Barbarian",
+    "id": 3060,
+    "x": 3079,
+    "y": 3422,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 11
+  },
+  {
+    "name": "null",
+    "id": 2493,
+    "x": 3080,
+    "y": 3422,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Gunthor the brave",
+    "id": 299,
+    "x": 3079,
+    "y": 3442,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Barbarian",
+    "id": 3059,
+    "x": 3083,
+    "y": 3429,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Tassie Slipcast",
+    "id": 1352,
+    "x": 3085,
+    "y": 3409,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Barbarian",
+    "id": 3070,
+    "x": 3084,
+    "y": 3424,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 9
+  },
+  {
+    "name": "Unicorn",
+    "id": 2837,
+    "x": 3082,
+    "y": 3449,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 10
+  },
+  {
+    "name": "Barbarian",
+    "id": 3065,
+    "x": 3083,
+    "y": 3410,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Squirrel",
+    "id": 1417,
+    "x": 3064,
+    "y": 3418,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Barbarian",
+    "id": 3072,
+    "x": 3085,
+    "y": 3417,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 9
+  },
+  {
+    "name": "Raccoon",
+    "id": 1420,
+    "x": 3068,
+    "y": 3438,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 9
+  },
+  {
+    "name": "Barbarian",
+    "id": 3067,
+    "x": 3085,
+    "y": 3437,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Unicorn",
+    "id": 2837,
+    "x": 3090,
+    "y": 3445,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 10
+  },
+  {
+    "name": "Squirrel",
+    "id": 1416,
+    "x": 3066,
+    "y": 3425,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Raccoon",
+    "id": 1419,
+    "x": 3070,
+    "y": 3441,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 10
+  },
+  {
+    "name": "Barbarian",
+    "id": 3066,
+    "x": 3097,
+    "y": 3429,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Raccoon",
+    "id": 1421,
+    "x": 3068,
+    "y": 3435,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 14
+  },
+  {
+    "name": "Barbarian",
+    "id": 3071,
+    "x": 3076,
+    "y": 3420,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 11
+  },
+  {
+    "name": "Barbarian",
+    "id": 3062,
+    "x": 3078,
+    "y": 3439,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  }
+]

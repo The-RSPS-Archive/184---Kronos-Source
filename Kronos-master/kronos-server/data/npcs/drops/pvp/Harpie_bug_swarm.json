@@ -1,0 +1,46 @@
+[
+  {
+    "ids": [ 464 ],
+    "tables": [
+      {
+        "name": "Weapons/Armour",
+        "weight": 1,
+        "items": [
+          { "id": 1387, "min": 1, "max": 1, "weight": 9 }, //Staff of fire
+          { "id": 1353, "min": 1, "max": 1, "weight": 9 }, //Steel axe
+          { "id": 1157, "min": 1, "max": 1, "weight": 6 }, //Steel full helm
+          { "id": 4123, "min": 1, "max": 1, "weight": 6 }, //Steel boots
+          { "id": 1145, "min": 1, "max": 1, "weight": 3 }, //Adamant med helm
+          { "id": 1109, "min": 1, "max": 1, "weight": 1 } //Mithril chainbody
+        ]
+      },
+      {
+        "name": "Runes",
+        "weight": 1,
+        "items": [
+          { "id": 554, "min": 30, "max": 30, "weight": 3 }, //Fire rune
+          { "id": 554, "min": 60, "max": 60, "weight": 3 }, //Fire rune
+          { "id": 554, "min": 120, "max": 120, "weight": 3 }, //Fire rune
+          { "id": 562, "min": 15, "max": 15, "weight": 3 }, //Chaos rune
+          { "id": 560, "min": 3, "max": 3, "weight": 1 } //Death rune
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 995, "min": 30, "max": 30, "weight": 9 }, //Coins
+          { "id": 995, "min": 40, "max": 40, "weight": 7 } , //Coins
+          { "id": 995, "min": 160, "max": 160, "weight": 6 }, //Coins
+          { "id": 995, "min": 230, "max": 230, "weight": 6 }, //Coins
+          { "id": 995, "min": 320, "max": 320, "weight": 3 }, //Coins
+          { "id": 995, "min": 490, "max": 490, "weight": 3 }, //Coins
+          { "id": 995, "min": 550, "max": 550, "weight": 3 }, //Coins
+          { "id": 444, "min": 1, "max": 1, "weight": 1 }, //Gold ore
+          { "id": 1993, "min": 1, "max": 1, "weight": 1 }, //Jug of wine
+          { "id": 2801, "min": 1, "max": 1, "weight": 1 } //Clue scroll (medium)
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,174 @@
+[
+  { #Turoth (83)
+    "ids": [ 430 ],
+    "handler": "io.ruin.model.activities.miscpvm.slayer.LeafVulnerableMonster",
+    //Combat Info
+    "hitpoints": 76,
+    "aggressive_level": 166,
+    "max_damage": 10,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 55,
+    "slayer_xp": 76.0,
+    "slayer_tasks": [ "Turoth" ],
+    //Combat Stats
+    "attack": 53,
+    "strength": 83,
+    "defence": 83,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 20,
+    "crush_defence": 20,
+    "magic_defence": 0,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 5,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 1595,
+    "defend_animation": 1596,
+    "death_animation": 1597
+  },
+  { #Turoth (85)
+    "ids": [ 429 ],
+    "handler": "io.ruin.model.activities.miscpvm.slayer.LeafVulnerableMonster",
+    //Combat Info
+    "hitpoints": 77,
+    "aggressive_level": 170,
+    "max_damage": 10,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 55,
+    "slayer_xp": 77.0,
+    "slayer_tasks": [ "Turoth" ],
+    //Combat Stats
+    "attack": 54,
+    "strength": 84,
+    "defence": 84,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 20,
+    "crush_defence": 20,
+    "magic_defence": 0,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 5,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 1595,
+    "defend_animation": 1596,
+    "death_animation": 1597
+  },
+  { #Turoth (87)
+    "ids": [ 428 ],
+    "handler": "io.ruin.model.activities.miscpvm.slayer.LeafVulnerableMonster",
+    //Combat Info
+    "hitpoints": 79,
+    "aggressive_level": 174,
+    "max_damage": 10,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 55,
+    "slayer_xp": 79.0,
+    "slayer_tasks": [ "Turoth" ],
+    //Combat Stats
+    "attack": 56,
+    "strength": 86,
+    "defence": 86,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 20,
+    "crush_defence": 20,
+    "magic_defence": 0,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 5,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 1595,
+    "defend_animation": 1596,
+    "death_animation": 1597
+  },
+  { #Turoth (89)
+    "ids": [ 427 ],
+    "handler": "io.ruin.model.activities.miscpvm.slayer.LeafVulnerableMonster",
+    //Combat Info
+    "hitpoints": 81,
+    "aggressive_level": 178,
+    "max_damage": 10,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 55,
+    "slayer_xp": 81.0,
+    "slayer_tasks": [ "Turoth" ],
+    //Combat Stats
+    "attack": 58,
+    "strength": 88,
+    "defence": 88,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 20,
+    "crush_defence": 20,
+    "magic_defence": 0,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 5,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 1595,
+    "defend_animation": 1596,
+    "death_animation": 1597
+  }
+]

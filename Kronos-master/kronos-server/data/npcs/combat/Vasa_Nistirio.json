@@ -1,0 +1,45 @@
+[
+  {
+    "ids": [ 7565, 7566, 7567 ],
+    "handler": "io.ruin.model.activities.raids.xeric.chamber.combat.VasaNistirio",
+    //Combat Info
+    "hitpoints": 300,
+    "aggressive_level": 138,
+    "max_damage": 30,
+    "attack_style": "STAB",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 0.0,
+    "slayer_tasks": [],
+    //Combat Stats
+    "attack": 1,
+    "strength": 1,
+    "defence": 175,
+    "ranged": 230,
+    "magic": 230,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 100,
+    //Defensive Stats
+    "stab_defence": 170,
+    "slash_defence": 190,
+    "crush_defence": 50,
+    "magic_defence": 400,
+    "ranged_defence": 60,
+    //Immunites
+    "poison_immunity": true,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 3,
+    "death_ticks": 4,
+    "respawn_ticks": -1,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": -1,
+    "defend_animation": -1,
+    "death_animation": 7415
+  }
+]

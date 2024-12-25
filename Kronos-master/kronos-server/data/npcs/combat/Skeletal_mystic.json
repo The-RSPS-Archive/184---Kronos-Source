@@ -1,0 +1,45 @@
+[
+  { #Skeletal mystic (raids)
+    "ids": [ 7604, 7605, 7606 ],
+    "handler": "io.ruin.model.activities.raids.xeric.chamber.combat.SkeletalMystic",
+    //Combat Info
+    "hitpoints": 160,
+    "aggressive_level": 999,
+    "max_damage": 33,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 250.0,
+    "slayer_tasks": [ "Skeletons" ],
+    //Combat Stats
+    "attack": 140,
+    "strength": 140,
+    "defence": 187,
+    "ranged": 1,
+    "magic": 140,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 155,
+    "slash_defence": 155,
+    "crush_defence": 155,
+    "magic_defence": 140,
+    "ranged_defence": 115,
+    //Immunites
+    "poison_immunity": true,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 5,
+    "death_ticks": 5,
+    "respawn_ticks": -1,
+    //Animations
+    "spawn_animation": 5522,
+    "attack_animation": 5523,
+    "defend_animation": 5489,
+    "death_animation": 5527
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "ids": [ 4501 ],
+    "guaranteed": [
+      { "id": 526, "min": 1, "max": 1 }, //Bones
+      { "id": 2134, "min": 1, "max": 1 } //Raw rat meat
+    ],
+    "tables": [
+      {
+        "name": "Food",
+        "weight": 1,
+        "items": [
+          { "id": 2135, "min": 18, "max": 18, "weight": 6 }, //Raw rat meat (noted)
+          { "id": 350, "min": 18, "max": 18, "weight": 6 }, //Raw pike (noted)
+          { "id": 371, "min": 9, "max": 9, "weight": 6 }, //Raw swordfish
+          { "id": 378, "min": 10, "max": 10, "weight": 6 }, //Raw lobster (noted)
+          { "id": 383, "min": 3, "max": 3, "weight": 3 }, //Raw shark
+          { "id": 383, "min": 8, "max": 8, "weight": 3 }, //Raw shark
+          { "id": 384, "min": 9, "max": 9, "weight": 1 }, //Raw shark (noted)
+          { "id": 383, "min": 1, "max": 1, "weight": 1 } //Raw shark
+        ]
+      },
+      {
+        "name": "Runes",
+        "weight": 1,
+        "items": [
+          { "id": 560, "min": 7, "max": 7, "weight": 6 }, //Death rune
+          { "id": 556, "min": 18, "max": 18, "weight": 6 }, //Air rune
+          { "id": 557, "min": 10, "max": 10, "weight": 6 }, //Earth rune
+          { "id": 557, "min": 18, "max": 18, "weight": 6 }, //Earth rune
+          { "id": 557, "min": 36, "max": 36, "weight": 3 }, //Earth rune
+          { "id": 555, "min": 10, "max": 10, "weight": 3 }, //Water rune
+          { "id": 555, "min": 18, "max": 18, "weight": 1 }, //Water rune
+          { "id": 565, "min": 4, "max": 4, "weight": 1 } //Blood rune
+        ]
+      },
+      {
+        "name": "Other drops",
+        "weight": 1,
+        "items": [
+          { "id": 995, "min": 1, "max": 1, "weight": 3 }, //Coins
+          { "id": 995, "min": 2, "max": 2, "weight": 3 }, //Coins
+          { "id": 995, "min": 4, "max": 4, "weight": 3 }, //Coins
+          { "id": 995, "min": 29, "max": 29, "weight": 3 }, //Coins
+          { "id": 995, "min": 30, "max": 30, "weight": 3 }, //Coins
+          { "id": 1444, "min": 1, "max": 1, "weight": 1 }, //Water talisman
+          { "id": 11037, "min": 1, "max": 1, "weight": 1 } //Brine sabre
+        ]
+      }
+    ]
+  }
+]

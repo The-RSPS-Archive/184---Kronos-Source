@@ -1,0 +1,15 @@
+[
+  {
+    "ids": [ 6740, 5633, 7258 ],
+    "tables": [
+      {
+        "name": "Drops",
+        "weight": 1,
+        "items": [
+          { "id": 546, "min": 1, "max": 1, "weight": 1 }, //Shade robe top
+          { "id": 548, "min": 1, "max": 1, "weight": 1 } //Shade robe
+        ]
+      }
+    ]
+  }
+]

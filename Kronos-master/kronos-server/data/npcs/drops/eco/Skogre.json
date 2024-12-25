@@ -1,0 +1,16 @@
+[
+  {
+    "ids": [ 872, 878, 879 ],
+    "tables": [
+      {
+        "name": "List of drops",
+        "weight": 1,
+        "items": [
+          { "id": 4850, "min": 1, "max": 1, "weight": 25 }, //Ogre coffin key
+          { "id": 4812, "min": 1, "max": 1, "weight": 25 }, //Zogre bones
+          { "id": 2677, "min": 1, "max": 1, "weight": 1 } //Clue scroll (easy)
+        ]
+      }
+    ]
+  }
+]

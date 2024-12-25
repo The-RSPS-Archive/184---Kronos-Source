@@ -1,0 +1,28 @@
+[
+  {
+    "ids": [ 3184 ],
+    "tables": [
+      {
+        "name": "Always Drops",
+        "weight": 1,
+        "items": [
+          { "id": 526, "min": 1, "max": 1, "weight": 1 } //Bones
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 995, "min": 16, "max": 38, "weight": 6 }, //Coins
+          { "id": 314, "min": 2, "max": 2, "weight": 6 }, //Feather
+          { "id": 359, "min": 1, "max": 1, "weight": 6 }, //Raw tuna
+          { "id": 327, "min": 1, "max": 1, "weight": 3 }, //Raw sardine
+          { "id": 555, "min": 3, "max": 3, "weight": 3 }, //Water rune
+          { "id": 407, "min": 1, "max": 1, "weight": 3 }, //Oyster
+          { "id": 411, "min": 1, "max": 1, "weight": 1 }, //Oyster pearl
+          { "id": 2677, "min": 1, "max": 1, "weight": 1 } //Clue scroll (easy)
+        ]
+      }
+    ]
+  }
+]

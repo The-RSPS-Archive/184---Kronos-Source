@@ -1,0 +1,45 @@
+// 1244
+[clientscript,forget_set_switches](int $int0)
+if ($int0 = 1) {
+	~forget_set_switch(%varbit842, interface_248:27, interface_248:43, model_8429, model_8430, interface_248:10, model_8398, model_8397, interface_248:11, model_8400, model_8399);
+	~forget_set_switch(%varbit843, interface_248:28, interface_248:44, model_8431, model_8432, interface_248:12, model_8402, model_8401, interface_248:13, model_8404, model_8403);
+	~forget_set_switch(%varbit844, interface_248:29, interface_248:45, model_8433, model_8434, interface_248:14, model_8406, model_8405, interface_248:15, model_8408, model_8407);
+	~forget_set_switch(%varbit845, interface_248:30, interface_248:46, model_8435, model_8436, interface_248:16, model_8410, model_8409, interface_248:17, model_8412, model_8411);
+	~forget_set_switch(%varbit846, interface_248:31, interface_248:47, model_8437, model_8438, interface_248:18, model_8414, model_8413, interface_248:19, model_8416, model_8415);
+	~forget_set_switch(%varbit847, interface_248:32, interface_248:48, model_8441, model_8442, interface_248:20, model_8418, model_8417, interface_248:21, model_8420, model_8419);
+	~forget_set_switch(%varbit848, interface_248:33, interface_248:49, model_8439, model_8440, interface_248:22, model_8422, model_8421, interface_248:23, model_8424, model_8423);
+	~forget_set_switch(%varbit849, interface_248:34, interface_248:50, model_8443, model_8444, interface_248:24, model_8426, model_8425, interface_248:25, model_8428, model_8427);
+} else if ($int0 = 2) {
+	~forget_set_switch(%varbit842, interface_244:35, interface_244:59, model_8495, model_8496, interface_244:10, model_8448, model_8447, interface_244:11, model_8450, model_8449);
+	~forget_set_switch(%varbit843, interface_244:36, interface_244:60, model_8497, model_8498, interface_244:12, model_8452, model_8451, interface_244:13, model_8454, model_8453);
+	~forget_set_switch(%varbit844, interface_244:37, interface_244:61, model_8499, model_8500, interface_244:14, model_8456, model_8455, interface_244:15, model_8458, model_8457);
+	~forget_set_switch(%varbit845, interface_244:38, interface_244:62, model_8501, model_8502, interface_244:16, model_8460, model_8459, interface_244:17, model_8462, model_8461);
+	~forget_set_switch(%varbit846, interface_244:39, interface_244:63, model_8503, model_8504, interface_244:18, model_8464, model_8463, interface_244:19, model_8466, model_8465);
+	~forget_set_switch(%varbit847, interface_244:40, interface_244:64, model_8505, model_8506, interface_244:20, model_8468, model_8467, interface_244:21, model_8470, model_8469);
+	~forget_set_switch(%varbit848, interface_244:41, interface_244:65, model_8507, model_8508, interface_244:22, model_8472, model_8471, interface_244:23, model_8474, model_8473);
+	~forget_set_switch(%varbit849, interface_244:42, interface_244:66, model_8509, model_8510, interface_244:24, model_8476, model_8475, interface_244:25, model_8478, model_8477);
+	~forget_set_switch(%varbit850, interface_244:43, interface_244:67, model_8511, model_8512, interface_244:26, model_8480, model_8479, interface_244:27, model_8482, model_8481);
+	~forget_set_switch(%varbit851, interface_244:44, interface_244:68, model_8513, model_8514, interface_244:28, model_8484, model_8483, interface_244:29, model_8486, model_8485);
+	~forget_set_switch(%varbit852, interface_244:45, interface_244:69, model_8515, model_8516, interface_244:30, model_8488, model_8487, interface_244:31, model_8490, model_8489);
+	~forget_set_switch(%varbit853, interface_244:46, interface_244:70, model_8517, model_8518, interface_244:32, model_8492, model_8491, interface_244:33, model_8494, model_8493);
+} else if ($int0 = 3) {
+	~forget_set_switch(%varbit842, interface_247:49, interface_247:87, model_8597, model_8598, interface_247:10, model_8522, model_8521, interface_247:11, model_8524, model_8523);
+	~forget_set_switch(%varbit843, interface_247:50, interface_247:88, model_8599, model_8600, interface_247:12, model_8526, model_8525, interface_247:13, model_8528, model_8527);
+	~forget_set_switch(%varbit844, interface_247:51, interface_247:89, model_8601, model_8602, interface_247:14, model_8530, model_8529, interface_247:15, model_8532, model_8531);
+	~forget_set_switch(%varbit845, interface_247:52, interface_247:90, model_8603, model_8604, interface_247:16, model_8534, model_8533, interface_247:17, model_8536, model_8535);
+	~forget_set_switch(%varbit846, interface_247:53, interface_247:91, model_8605, model_8606, interface_247:18, model_8538, model_8537, interface_247:19, model_8540, model_8539);
+	~forget_set_switch(%varbit847, interface_247:54, interface_247:92, model_8607, model_8608, interface_247:20, model_8542, model_8541, interface_247:21, model_8544, model_8543);
+	~forget_set_switch(%varbit848, interface_247:55, interface_247:93, model_8609, model_8610, interface_247:22, model_8546, model_8545, interface_247:23, model_8548, model_8547);
+	~forget_set_switch(%varbit849, interface_247:56, interface_247:94, model_8611, model_8612, interface_247:24, model_8550, model_8549, interface_247:25, model_8552, model_8551);
+	~forget_set_switch(%varbit850, interface_247:57, interface_247:95, model_8613, model_8614, interface_247:26, model_8554, model_8553, interface_247:27, model_8556, model_8555);
+	~forget_set_switch(%varbit851, interface_247:58, interface_247:96, model_8615, model_8616, interface_247:28, model_8558, model_8557, interface_247:29, model_8560, model_8559);
+	~forget_set_switch(%varbit852, interface_247:59, interface_247:97, model_8617, model_8618, interface_247:30, model_8562, model_8561, interface_247:31, model_8564, model_8563);
+	~forget_set_switch(%varbit853, interface_247:60, interface_247:98, model_8619, model_8620, interface_247:32, model_8566, model_8565, interface_247:33, model_8568, model_8567);
+	~forget_set_switch(%varbit854, interface_247:61, interface_247:99, model_8621, model_8622, interface_247:34, model_8570, model_8569, interface_247:35, model_8572, model_8571);
+	~forget_set_switch(%varbit855, interface_247:62, interface_247:100, model_8623, model_8624, interface_247:36, model_8574, model_8573, interface_247:37, model_8576, model_8575);
+	~forget_set_switch(%varbit856, interface_247:63, interface_247:101, model_8625, model_8626, interface_247:38, model_8578, model_8577, interface_247:39, model_8580, model_8579);
+	~forget_set_switch(%varbit857, interface_247:64, interface_247:102, model_8627, model_8628, interface_247:40, model_8582, model_8581, interface_247:41, model_8584, model_8583);
+	~forget_set_switch(%varbit858, interface_247:65, interface_247:103, model_8629, model_8630, interface_247:42, model_8586, model_8585, interface_247:43, model_8588, model_8587);
+	~forget_set_switch(%varbit859, interface_247:66, interface_247:104, model_8631, model_8632, interface_247:44, model_8590, model_8589, interface_247:45, model_8592, model_8591);
+	~forget_set_switch(%varbit860, interface_247:67, interface_247:105, model_8633, model_8634, interface_247:46, model_8594, model_8593, interface_247:47, model_8596, model_8595);
+}

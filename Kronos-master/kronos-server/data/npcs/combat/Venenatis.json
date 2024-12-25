@@ -1,0 +1,49 @@
+[
+  { #Venenatis (464)
+    "ids": [ 6504, 6610 ],
+    "handler": "io.ruin.model.activities.wilderness.bosses.Venenatis",
+    //Combat Info
+    "hitpoints": 255,
+    "aggressive_level": 928,
+    "attack_bounds": 20,
+    "max_damage": 50,
+    "attack_style": "STAB",
+    "pet": "VENENATIS_SPIDERLING",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 388.8,
+    "slayer_tasks": [ "Venenatis", "Spiders" ],
+    //Combat Stats
+    "attack": 270,
+    "strength": 290,
+    "defence": 290,
+    "ranged": 1,
+    "magic": 75,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 160,
+    "slash_defence": 160,
+    "crush_defence": 160,
+    "magic_defence": 550,
+    "ranged_defence": 50,
+    //Immunites
+    "poison_immunity": true,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 5,
+    "respawn_ticks": 16,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 5319,
+    "defend_animation": 5320,
+    "death_animation": 5321,
+	//Other
+	"local_loot": true
+  }
+]

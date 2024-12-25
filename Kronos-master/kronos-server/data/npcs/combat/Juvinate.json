@@ -1,0 +1,131 @@
+[
+  { #Juvinate (59)
+    "ids": [ 5634 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 50,
+    "aggressive_level": 118,
+    "max_damage": 6,
+    "attack_style": "SLASH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 50.0,
+    "slayer_tasks": [],
+    //Combat Stats
+    "attack": 95,
+    "strength": 16,
+    "defence": 45,
+    "ranged": 50,
+    "magic": 50,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 0,
+    "crush_defence": 0,
+    "magic_defence": 0,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": true,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 6,
+    "death_ticks": 2,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 422,
+    "defend_animation": 424,
+    "death_animation": 836
+  },
+  { #Juvinate (90)
+    "ids": [ 5635 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 100,
+    "aggressive_level": 180,
+    "max_damage": 6,
+    "attack_style": "SLASH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 100.0,
+    "slayer_tasks": [],
+    //Combat Stats
+    "attack": 113,
+    "strength": 46,
+    "defence": 55,
+    "ranged": 50,
+    "magic": 50,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 0,
+    "crush_defence": 0,
+    "magic_defence": 0,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": true,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 6,
+    "death_ticks": 2,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 422,
+    "defend_animation": 424,
+    "death_animation": 836
+  },
+  { #Juvinate (119)
+    "ids": [ 5636 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 150,
+    "aggressive_level": 238,
+    "max_damage": 9,
+    "attack_style": "SLASH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 0.0,
+    "slayer_tasks": [],
+    //Combat Stats
+    "attack": 127,
+    "strength": 76,
+    "defence": 65,
+    "ranged": 50,
+    "magic": 50,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 0,
+    "crush_defence": 0,
+    "magic_defence": 0,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": true,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 6,
+    "death_ticks": 2,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 422,
+    "defend_animation": 424,
+    "death_animation": 836
+  }
+]

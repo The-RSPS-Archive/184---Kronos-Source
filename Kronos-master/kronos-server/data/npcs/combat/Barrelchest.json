@@ -1,0 +1,88 @@
+[
+  { #Barrelchest (190)
+    "ids": [ 600, 6342 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 134,
+    "aggressive_level": 380,
+    "max_damage": 35,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 0.0,
+    "slayer_tasks": [],
+    //Combat Stats
+    "attack": 170,
+    "strength": 145,
+    "defence": 140,
+    "ranged": 1,
+    "magic": 90,
+    //Aggressive Stats
+    "stab_attack": 80,
+    "slash_attack": 80,
+    "crush_attack": 80,
+    "magic_attack": 80,
+    "ranged_attack": 80,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 0,
+    "crush_defence": 0,
+    "magic_defence": 0,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 5,
+    "death_ticks": 3,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 5894,
+    "defend_animation": 0,
+    "death_animation": 5898
+  },
+  { #Barrelchest (hard) (380)
+    "ids": [ 1126 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 255,
+    "aggressive_level": 760,
+    "max_damage": 61,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 0.0,
+    "slayer_tasks": [],
+    //Combat Stats
+    "attack": 306,
+    "strength": 261,
+    "defence": 140,
+    "ranged": 1,
+    "magic": 162,
+    //Aggressive Stats
+    "stab_attack": 80,
+    "slash_attack": 80,
+    "crush_attack": 80,
+    "magic_attack": 80,
+    "ranged_attack": 80,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 0,
+    "crush_defence": 0,
+    "magic_defence": 0,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 5,
+    "death_ticks": 2,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": -1,
+    "defend_animation": -1,
+    "death_animation": -1
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "ids": [ 6611, 6612 ],
+    "guaranteed": [
+      { "id": 532, "min": 1, "max": 1 } //Big bones
+    ],
+    "tables": [
+      {
+        "name": "Weapons/Armour",
+        "weight": 1,
+        "items": [
+          { "id": 1275, "min": 1, "max": 1, "weight": 50 }, //Rune pickaxe
+          { "id": 30145, "min": 1, "max": 1, "weight": 10 }, //Leaf
+          { "id": 4675, "min": 1, "max": 1, "weight": 50 }, //Ancient staff
+          { "id": 1319, "min": 1, "max": 1, "weight": 50 }, //Rune 2h sword
+          { "id": 11920, "min": 1, "max": 1, "weight": 5 }, //Dragon pickaxe
+          { "id": 7158, "min": 1, "max": 1, "weight": 10 }, //Dragon 2h sword
+          { "id": 12601, "min": 1, "max": 1, "weight": 5 } //Ring of the gods
+        ]
+      },
+      {
+        "name": "Runes/Ammunition",
+        "weight": 1,
+        "items": [
+          { "id": 562, "min": 400, "max": 400, "weight": 1 }, //Chaos rune
+          { "id": 560, "min": 300, "max": 300, "weight": 1 }, //Death rune
+          { "id": 565, "min": 200, "max": 200, "weight": 1 } //Blood rune
+        ]
+      },
+      {
+        "name": "Gems",
+        "weight": 1,
+        "items": [
+          { "id": 1620, "min": 20, "max": 20, "weight": 0 }, //Uncut ruby (noted)
+          { "id": 1618, "min": 10, "max": 10, "weight": 0 } //Uncut diamond (noted)
+        ]
+      },
+      {
+        "name": "Crab/Restore",
+        "weight": 1,
+        "items": [
+          { "id": 11936, "min": 8, "max": 8, "weight": 0 }, //Dark crab
+          { "id": 3024, "min": 3, "max": 3, "weight": 0 } //Super restore(4)
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 995, "min": 15000, "max": 20000, "weight": 40 }, //Coins
+          { "id": 4851, "min": 10, "max": 10, "weight": 40 }, //Ogre coffin key (noted)
+          { "id": 226, "min": 50, "max": 50, "weight": 40 }, //Limpwurt root (noted)
+          { "id": 1514, "min": 100, "max": 100, "weight": 30 }, //Magic logs (noted)
+          { "id": 445, "min": 300, "max": 300, "weight": 30 }, //Gold ore (noted)
+          { "id": 537, "min": 100, "max": 100, "weight": 30 }, //Dragon bones (noted)
+          { "id": 1631, "min": 1, "max": 1, "weight": 30 }, //Uncut dragonstone
+          { "id": 8779, "min": 300, "max": 300, "weight": 30 }, //Oak plank (noted)
+          { "id": 6035, "min": 100, "max": 100, "weight": 30 }, //Supercompost (noted)
+          { "id": 2, "min": 250, "max": 250, "weight": 15 }, //Cannonball
+          { "id": 5316, "min": 1, "max": 1, "weight": 15 }, //Magic seed
+          { "id": 5289, "min": 1, "max": 1, "weight": 15 }, //Palm tree seed
+          { "id": 5315, "min": 1, "max": 1, "weight": 15 }, //Yew seed
+          { "id": 2971, "min": 200, "max": 200, "weight": 20 }, //Mort myre fungus (noted)
+          { "id": 12073, "min": 1, "max": 1, "weight": 5 }, //Clue scroll (elite)
+          { "id": 208, "min": 100, "max": 100, "weight": 20  }, //Grimy ranarr weed (noted)
+          { "id": 10926, "min": 10, "max": 10, "weight": 20 } //Sanfew serum(4) (noted)
+        ]
+      }
+    ]
+  }
+]

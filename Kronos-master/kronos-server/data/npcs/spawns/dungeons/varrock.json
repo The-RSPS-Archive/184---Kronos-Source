@@ -1,0 +1,785 @@
+[
+  {
+    "name": "Rat",
+    "id": 2854,
+    "x": 3221,
+    "y": 9861,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Rat",
+    "id": 2854,
+    "x": 3218,
+    "y": 9867,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Rat",
+    "id": 2854,
+    "x": 3222,
+    "y": 9873,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Rat",
+    "id": 2854,
+    "x": 3226,
+    "y": 9873,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Rat",
+    "id": 2854,
+    "x": 3231,
+    "y": 9867,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Rat",
+    "id": 2854,
+    "x": 3236,
+    "y": 9865,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Rat",
+    "id": 2854,
+    "x": 3238,
+    "y": 9869,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Rat",
+    "id": 2854,
+    "x": 3240,
+    "y": 9867,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Rat",
+    "id": 2854,
+    "x": 3244,
+    "y": 9865,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Rat",
+    "id": 2854,
+    "x": 3246,
+    "y": 9869,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Rat",
+    "id": 2854,
+    "x": 3248,
+    "y": 9867,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Rat",
+    "id": 2854,
+    "x": 3251,
+    "y": 9870,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Rat",
+    "id": 2854,
+    "x": 3254,
+    "y": 9868,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Rat",
+    "id": 2854,
+    "x": 3255,
+    "y": 9871,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Rat",
+    "id": 2854,
+    "x": 3260,
+    "y": 9872,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Rat",
+    "id": 2854,
+    "x": 3263,
+    "y": 9869,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Rat",
+    "id": 2854,
+    "x": 3266,
+    "y": 9867,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Rat",
+    "id": 2854,
+    "x": 3272,
+    "y": 9870,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Rat",
+    "id": 2854,
+    "x": 3276,
+    "y": 9872,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Spider",
+    "id": 3019,
+    "x": 3259,
+    "y": 9872,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Spider",
+    "id": 3019,
+    "x": 3266,
+    "y": 9869,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Spider",
+    "id": 3019,
+    "x": 3250,
+    "y": 9869,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Spider",
+    "id": 3019,
+    "x": 3258,
+    "y": 9872,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Rat",
+    "id": 2854,
+    "x": 3277,
+    "y": 9870,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Giant rat",
+    "id": 2864,
+    "x": 3222,
+    "y": 9861,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Giant rat",
+    "id": 2856,
+    "x": 3219,
+    "y": 9864,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Giant rat",
+    "id": 2863,
+    "x": 3240,
+    "y": 9866,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Giant rat",
+    "id": 2856,
+    "x": 3234,
+    "y": 9868,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Rat",
+    "id": 2854,
+    "x": 3244,
+    "y": 9875,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Rat",
+    "id": 2854,
+    "x": 3243,
+    "y": 9880,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Rat",
+    "id": 2854,
+    "x": 3244,
+    "y": 9885,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Rat",
+    "id": 2854,
+    "x": 3243,
+    "y": 9892,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Zombie",
+    "id": 41,
+    "x": 3244,
+    "y": 9892,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Zombie",
+    "id": 39,
+    "x": 3263,
+    "y": 9893,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Rat",
+    "id": 2854,
+    "x": 3248,
+    "y": 9892,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Rat",
+    "id": 2854,
+    "x": 3251,
+    "y": 9893,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Scorpion",
+    "id": 3024,
+    "x": 3255,
+    "y": 9907,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Scorpion",
+    "id": 3024,
+    "x": 3251,
+    "y": 9905,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Giant rat",
+    "id": 2863,
+    "x": 3282,
+    "y": 9896,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Giant rat",
+    "id": 2862,
+    "x": 3277,
+    "y": 9893,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Skeleton",
+    "id": 74,
+    "x": 3271,
+    "y": 9914,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Skeleton",
+    "id": 76,
+    "x": 3275,
+    "y": 914,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Skeleton",
+    "id": 75,
+    "x": 3274,
+    "y": 9911,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Skeleton",
+    "id": 74,
+    "x": 3277,
+    "y": 9908,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Skeleton",
+    "id": 74,
+    "x": 3248,
+    "y": 9914,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Skeleton",
+    "id": 75,
+    "x": 3251,
+    "y": 9916,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Skeleton",
+    "id": 76,
+    "x": 3254,
+    "y": 9916,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Ghost",
+    "id": 89,
+    "x": 3240,
+    "y": 9915,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Ghost",
+    "id": 85,
+    "x": 3243,
+    "y": 9915,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Ghost",
+    "id": 92,
+    "x": 3246,
+    "y": 9917,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Zombie",
+    "id": 55,
+    "x": 3223,
+    "y": 9908,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Zombie",
+    "id": 56,
+    "x": 3226,
+    "y": 9906,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Zombie",
+    "id": 57,
+    "x": 3231,
+    "y": 9907,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Zombie",
+    "id": 58,
+    "x": 3228,
+    "y": 9905,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Skeleton",
+    "id": 77,
+    "x": 3212,
+    "y": 9906,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Skeleton",
+    "id": 80,
+    "x": 3206,
+    "y": 9907,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Grizzly bear",
+    "id": 2838,
+    "x": 3229,
+    "y": 3502,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Deadly red spider",
+    "id": 3021,
+    "x": 3185,
+    "y": 9892,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Deadly red spider",
+    "id": 3021,
+    "x": 3184,
+    "y": 9886,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Deadly red spider",
+    "id": 3021,
+    "x": 3180,
+    "y": 9882,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Deadly red spider",
+    "id": 3021,
+    "x": 3178,
+    "y": 9886,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Deadly red spider",
+    "id": 3021,
+    "x": 3173,
+    "y": 9883,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Deadly red spider",
+    "id": 3021,
+    "x": 3170,
+    "y": 9884,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Deadly red spider",
+    "id": 3021,
+    "x": 3169,
+    "y": 9888,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Deadly red spider",
+    "id": 3021,
+    "x": 3170,
+    "y": 9892,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Deadly red spider",
+    "id": 3021,
+    "x": 3174,
+    "y": 9891,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Moss giant",
+    "id": 2090,
+    "x": 3167,
+    "y": 9882,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Moss giant",
+    "id": 2091,
+    "x": 3167,
+    "y": 9879,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Moss giant",
+    "id": 2092,
+    "x": 3164,
+    "y": 9880,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Moss giant",
+    "id": 2093,
+    "x": 3164,
+    "y": 9877,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Moss giant",
+    "id": 2090,
+    "x": 3156,
+    "y": 9906,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Moss giant",
+    "id": 2091,
+    "x": 3158,
+    "y": 9904,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Moss giant",
+    "id": 2092,
+    "x": 3160,
+    "y": 9903,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Moss giant",
+    "id": 2093,
+    "x": 3159,
+    "y": 9901,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Moss giant",
+    "id": 2090,
+    "x": 3158,
+    "y": 9898,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Moss giant",
+    "id": 2091,
+    "x": 3158,
+    "y": 9896,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Spider",
+    "id": 3019,
+    "x": 3218,
+    "y": 9889,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Spider",
+    "id": 3019,
+    "x": 3212,
+    "y": 9887,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Spider",
+    "id": 3019,
+    "x": 3213,
+    "y": 9890,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Spider",
+    "id": 3019,
+    "x": 3205,
+    "y": 9882,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Spider",
+    "id": 3019,
+    "x": 3204,
+    "y": 9881,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Spider",
+    "id": 3019,
+    "x": 3203,
+    "y": 9878,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Giant spider",
+    "id": 3017,
+    "x": 3208,
+    "y": 9884,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Giant spider",
+    "id": 3017,
+    "x": 3212,
+    "y": 9887,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Giant spider",
+    "id": 3018,
+    "x": 3217,
+    "y": 9889,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Giant spider",
+    "id": 3018,
+    "x": 3218,
+    "y": 9887,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Rat",
+    "id": 2854,
+    "x": 3277,
+    "y": 9865,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  }
+]

@@ -1,0 +1,632 @@
+[
+  {
+    "name": "TzHaar-Hur",
+    "id": 2163,
+    "x": 2454,
+    "y": 5141,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "TzHaar-Xil",
+    "id": 2170,
+    "x": 2455,
+    "y": 5153,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "TzHaar-Ket",
+    "id": 2187,
+    "x": 2457,
+    "y": 5121,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "TzHaar-Ket",
+    "id": 2179,
+    "x": 2458,
+    "y": 5130,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "TzHaar-Xil",
+    "id": 2169,
+    "x": 2459,
+    "y": 5157,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "TzHaar-Hur",
+    "id": 2164,
+    "x": 2460,
+    "y": 5124,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "TzHaar-Hur",
+    "id": 2164,
+    "x": 2458,
+    "y": 5127,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "TzHaar-Ket",
+    "id": 2178,
+    "x": 2458,
+    "y": 5160,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "TzHaar-Xil",
+    "id": 2170,
+    "x": 2459,
+    "y": 5160,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "TzHaar-Mej",
+    "id": 2158,
+    "x": 2461,
+    "y": 5142,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "TzHaar-Mej-Roh",
+    "id": 2185,
+    "x": 2461,
+    "y": 5125,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1,
+    "shopOptions": {
+      "trade": "35b90463-33c1-42e6-a1c5-14ba417e3248"
+    }
+  },
+  {
+    "name": "TzHaar-Hur",
+    "id": 2164,
+    "x": 2461,
+    "y": 5140,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "TzHaar-Hur-Lek",
+    "id": 2184,
+    "x": 2464,
+    "y": 5149,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1,
+    "shopOptions": {
+      "trade": "5e31b723-6faf-4f79-bb5d-b8967e35c073"
+    }
+  },
+  {
+    "name": "TzHaar-Ket",
+    "id": 2178,
+    "x": 2463,
+    "y": 5163,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "TzHaar-Ket",
+    "id": 2179,
+    "x": 2466,
+    "y": 5142,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "TzHaar-Hur",
+    "id": 2165,
+    "x": 2469,
+    "y": 5145,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "TzHaar-Ket",
+    "id": 2179,
+    "x": 2471,
+    "y": 5123,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "TzHaar-Xil",
+    "id": 2169,
+    "x": 2471,
+    "y": 5166,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "TzHaar-Mej",
+    "id": 2159,
+    "x": 2470,
+    "y": 5124,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "TzHaar-Ket",
+    "id": 2186,
+    "x": 2472,
+    "y": 5139,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "TzHaar-Hur",
+    "id": 2165,
+    "x": 2471,
+    "y": 5143,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "TzHaar-Ket",
+    "id": 2179,
+    "x": 2471,
+    "y": 5166,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "TzHaar-Mej",
+    "id": 2158,
+    "x": 2472,
+    "y": 5125,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "TzHaar-Ket",
+    "id": 2179,
+    "x": 2474,
+    "y": 5147,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "TzHaar-Ket",
+    "id": 2178,
+    "x": 2474,
+    "y": 5130,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "TzHaar-Ket",
+    "id": 2186,
+    "x": 2474,
+    "y": 5141,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "TzHaar-Hur",
+    "id": 2166,
+    "x": 2476,
+    "y": 5152,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "TzHaar-Hur-Tel",
+    "id": 2183,
+    "x": 2477,
+    "y": 5146,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1,
+    "shopOptions": {
+      "trade": "7aacc988-30ae-44e7-b5a7-a685c79db41d"
+    }
+  },
+  {
+    "name": "TzHaar-Mej",
+    "id": 2160,
+    "x": 2480,
+    "y": 5135,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "TzHaar-Xil",
+    "id": 2170,
+    "x": 2478,
+    "y": 5166,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "TzHaar-Ket",
+    "id": 2179,
+    "x": 2479,
+    "y": 5167,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "TzHaar-Mej",
+    "id": 2155,
+    "x": 2479,
+    "y": 5154,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "TzHaar-Ket",
+    "id": 2179,
+    "x": 2480,
+    "y": 5153,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "TzHaar-Ket",
+    "id": 2178,
+    "x": 2482,
+    "y": 5159,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "TzHaar-Ket",
+    "id": 2177,
+    "x": 2482,
+    "y": 5137,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "TzHaar-Hur",
+    "id": 2166,
+    "x": 2483,
+    "y": 5157,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "TzHaar-Mej",
+    "id": 2160,
+    "x": 2487,
+    "y": 5140,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "TzHaar-Xil",
+    "id": 2169,
+    "x": 2487,
+    "y": 5171,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "TzHaar-Hur",
+    "id": 2166,
+    "x": 2486,
+    "y": 5157,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "TzHaar-Ket",
+    "id": 2178,
+    "x": 2490,
+    "y": 5142,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "TzHaar-Xil",
+    "id": 2170,
+    "x": 2489,
+    "y": 5175,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "TzHaar-Mej",
+    "id": 2154,
+    "x": 2490,
+    "y": 5158,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "TzHaar-Hur",
+    "id": 2166,
+    "x": 2490,
+    "y": 5157,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "TzHaar-Ket",
+    "id": 2178,
+    "x": 2490,
+    "y": 5173,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "TzHaar-Mej",
+    "id": 2160,
+    "x": 2492,
+    "y": 5142,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "TzHaar-Ket",
+    "id": 2187,
+    "x": 2491,
+    "y": 5173,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "TzHaar-Ket",
+    "id": 2187,
+    "x": 2491,
+    "y": 5176,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "TzHaar-Hur",
+    "id": 2166,
+    "x": 2491,
+    "y": 5155,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "TzHaar-Ket",
+    "id": 2187,
+    "x": 2492,
+    "y": 5156,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "TzHaar-Ket",
+    "id": 2187,
+    "x": 2492,
+    "y": 5159,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "TzHaar-Mej-Kah",
+    "id": 2181,
+    "x": 2398,
+    "y": 5179,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "TzHaar-Ket",
+    "id": 2187,
+    "x": 2436,
+    "y": 5122,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "TzHaar-Xil",
+    "id": 2171,
+    "x": 2436,
+    "y": 5171,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "TzHaar-Xil",
+    "id": 2172,
+    "x": 2438,
+    "y": 5125,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "TzHaar-Xil",
+    "id": 2172,
+    "x": 2435,
+    "y": 5125,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "TzHaar-Mej-Jal",
+    "id": 2180,
+    "x": 2438,
+    "y": 5169,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "TzHaar-Ket",
+    "id": 2178,
+    "x": 2439,
+    "y": 5130,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "TzHaar-Xil",
+    "id": 2171,
+    "x": 2442,
+    "y": 5140,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "TzHaar-Xil",
+    "id": 2171,
+    "x": 2441,
+    "y": 5137,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "TzHaar-Ket",
+    "id": 2178,
+    "x": 2444,
+    "y": 5145,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "TzHaar-Ket",
+    "id": 2177,
+    "x": 2446,
+    "y": 5168,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "TzHaar-Ket-Zuh",
+    "id": 7677,
+    "x": 2444,
+    "y": 5179,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "TzHaar-Ket",
+    "id": 2177,
+    "x": 2448,
+    "y": 5143,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "TzHaar-Ket",
+    "id": 2187,
+    "x": 2450,
+    "y": 5121,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "TzHaar-Xil",
+    "id": 2171,
+    "x": 2449,
+    "y": 5147,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "TzHaar-Xil",
+    "id": 2170,
+    "x": 2450,
+    "y": 5167,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "TzHaar-Hur",
+    "id": 2163,
+    "x": 2451,
+    "y": 5123,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "TzHaar-Ket",
+    "id": 2179,
+    "x": 2452,
+    "y": 5151,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "TzHaar-Mej",
+    "id": 2160,
+    "x": 2455,
+    "y": 5124,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  }
+]

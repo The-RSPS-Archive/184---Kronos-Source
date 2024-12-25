@@ -1,0 +1,80 @@
+[
+  {
+    "ids": [ 7934, 7936, 7935, 7937, 7932 ],
+      "guaranteed": [
+      { "id": 995, "min": 1, "max": 100 },   //Coins
+      { "id": 21820, "min": 5, "max": 15 }   //Revenant ether
+    ],
+    "tables": [
+      {
+        "name": "Weapons/Armour",
+        "weight": 5,
+        "items": [
+          { "id": 1392, "min": 3, "max": 3, "weight": 15 },   //Battlestaff (noted)
+          { "id": 1163, "min": 1, "max": 1, "weight": 15 },   //Rune full helm
+          { "id": 1127, "min": 1, "max": 1, "weight": 15 },   //Rune platebody
+          { "id": 1079, "min": 1, "max": 1, "weight": 15 },   //Rune platelegs
+          { "id": 1201, "min": 1, "max": 1, "weight": 15 },   //Rune kiteshield
+          { "id": 1347, "min": 1, "max": 1, "weight": 5 },   //Rune warhammer
+          { "id": 4087, "min": 1, "max": 1, "weight": 5 },   //Dragon platelegs
+          { "id": 4585, "min": 1, "max": 1, "weight": 5 },   //Dragon plateskirt
+          { "id": 1215, "min": 1, "max": 1, "weight": 5 },   //Dragon dagger
+          { "id": 1305, "min": 1, "max": 1, "weight": 5 },   //Dragon longsword
+          { "id": 1149, "min": 1, "max": 1, "weight": 3 },   //Dragon med helm
+          { "id": 22545, "min": 1, "max": 1, "weight": 1 }, //Viggora's chainmace
+          { "id": 22550, "min": 1, "max": 1, "weight": 1 }, //Craw's bow
+          { "id": 22555, "min": 1, "max": 1, "weight": 1 } //Thammaron's sceptre
+        ]
+      },
+      {
+        "name": "Runes/Ammunition",
+        "weight": 5,
+        "items": [
+          { "id": 9193, "min": 40, "max": 70, "weight": 20 },   //Dragonstone bolt tips
+          { "id": 9194, "min": 5, "max": 10, "weight": 20 },   //Onyx bolt tips
+          { "id": 560, "min": 60, "max": 100, "weight": 1 },   //Death rune
+          { "id": 565, "min": 60, "max": 100, "weight": 1 },   //Blood rune
+          { "id": 563, "min": 80, "max": 120, "weight": 1 }   //Law rune
+        ]
+      },
+      {
+        "name": "Resources",
+        "weight": 5,
+        "items": [
+          { "id": 454, "min": 50, "max": 100, "weight": 9 },   //Coal (noted)
+          { "id": 2362, "min": 8, "max": 12, "weight": 9 },   //Adamantite bar (noted)
+          { "id": 452, "min": 3, "max": 6, "weight": 7 },   //Runite ore (noted)
+          { "id": 2364, "min": 3, "max": 5, "weight": 7 },   //Runite bar (noted)
+          { "id": 1748, "min": 10, "max": 15, "weight": 5 },   //Black dragonhide (noted)
+          { "id": 8783, "min": 15, "max": 25, "weight": 5 },   //Mahogany plank (noted)
+          { "id": 392, "min": 30, "max": 50, "weight": 3 },   //Manta ray (noted)
+          { "id": 1516, "min": 60, "max": 100, "weight": 3 },   //Yew logs (noted)
+          { "id": 1514, "min": 15, "max": 25, "weight": 3 },   //Magic logs (noted)
+          { "id": 1632, "min": 5, "max": 7, "weight": 3 },   //Uncut dragonstone (noted)
+          { "id": 5316, "min": 5, "max": 9, "weight": 1 }   //Magic seed
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 11941, "min": 1, "max": 1, "weight": 12 },   //Looting bag
+          { "id": 21817, "min": 1, "max": 1, "weight": 10 },   //Bracelet of ethereum (uncharged)
+          { "id": 21802, "min": 1, "max": 1, "weight": 10 },   //Revenant cave teleport
+          { "id": 3025, "min": 3, "max": 5, "weight": 10 },   //Super restore(4) (noted)
+          { "id": 21807, "min": 1, "max": 1, "weight": 6 },   //Ancient emblem
+          { "id": 21810, "min": 1, "max": 1, "weight": 5 },   //Ancient totem
+          { "id": 21813, "min": 1, "max": 1, "weight": 4 },   //Ancient statuette
+          { "id": 22299, "min": 1, "max": 1, "weight": 3 },   //Ancient medallion
+          { "id": 22302, "min": 1, "max": 1, "weight": 2 },   //Ancient effigy
+          { "id": 22305, "min": 1, "max": 1, "weight": 1 }   //Ancient relic
+        ]
+      },
+      {
+        "name": "Empty",
+        "weight": 10,
+        "items": []
+      }
+    ]
+  }
+]

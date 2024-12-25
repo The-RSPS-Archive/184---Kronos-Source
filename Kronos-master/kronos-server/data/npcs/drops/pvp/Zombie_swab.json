@@ -1,0 +1,51 @@
+[
+  {
+    "ids": [ 619, 620, 621, 622, 623, 624 ],
+    "guaranteed": [
+      { "id": 526, "min": 1, "max": 1 } //Bones
+    ],
+    "tables": [
+      {
+        "name": "Weapons",
+        "weight": 1,
+        "items": [
+          { "id": 1203, "min": 1, "max": 1, "weight": 10 }, //Iron dagger
+          { "id": 1325, "min": 1, "max": 1, "weight": 1 } //Steel scimitar
+        ]
+      },
+      {
+        "name": "Runes",
+        "weight": 1,
+        "items": [
+          { "id": 556, "min": 3, "max": 3, "weight": 10 }, //Air rune
+          { "id": 559, "min": 3, "max": 3, "weight": 10 }, //Body rune
+          { "id": 564, "min": 2, "max": 2, "weight": 10 }, //Cosmic rune
+          { "id": 562, "min": 4, "max": 4, "weight": 1 }, //Chaos rune
+          { "id": 555, "min": 17, "max": 17, "weight": 1 } //Water rune
+        ]
+      },
+      {
+        "name": "Herbs",
+        "weight": 1,
+        "items": [
+          { "id": 199, "min": 1, "max": 1, "weight": 30 }, //Grimy guam leaf
+          { "id": 201, "min": 1, "max": 1, "weight": 30 }, //Grimy marrentill
+          { "id": 203, "min": 1, "max": 1, "weight": 30 }, //Grimy tarromin
+          { "id": 205, "min": 1, "max": 1, "weight": 20 }, //Grimy harralander
+          { "id": 207, "min": 1, "max": 1, "weight": 10 }, //Grimy ranarr weed
+          { "id": 211, "min": 1, "max": 1, "weight": 1 } //Grimy avantoe
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 313, "min": 7, "max": 7, "weight": 10 }, //Fishing bait
+          { "id": 995, "min": 10, "max": 40, "weight": 10 }, //Coins
+          { "id": 6716, "min": 1, "max": 1, "weight": 1 }, //Karamthulhu
+          { "id": 6721, "min": 1, "max": 1, "weight": 1 } //Rusty scimitar
+        ]
+      }
+    ]
+  }
+]

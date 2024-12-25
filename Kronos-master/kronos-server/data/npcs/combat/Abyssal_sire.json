@@ -1,0 +1,46 @@
+[
+  { #Abyssal Sire (350)
+    "ids": [ 5886, 5887, 5888, 5889, 5890, 5891, 5908 ],
+    "handler": "io.ruin.model.activities.bosses.slayer.sire.AbyssalSire",
+    //Combat Info
+    "hitpoints": 400,
+    "aggressive_level": 0,
+    "max_damage": 66,
+    "attack_style": "CRUSH",
+    "pet": "ABYSSAL_ORPHAN",
+    //Slayer Info
+    "slayer_level": 85,
+    "slayer_xp": 450.0,
+    "slayer_tasks": [ "Abyssal Demons", "The Abyssal Sire" ],
+    //Combat Stats
+    "attack": 180,
+    "strength": 136,
+    "defence": 250,
+    "ranged": 1,
+    "magic": 200,
+    //Aggressive Stats
+    "stab_attack": 65,
+    "slash_attack": 65,
+    "crush_attack": 65,
+    "magic_attack": 65,
+    "ranged_attack": 65,
+    //Defensive Stats
+    "stab_defence": 40,
+    "slash_defence": 60,
+    "crush_defence": 50,
+    "magic_defence": 20,
+    "ranged_defence": 60,
+    //Immunites
+    "poison_immunity": true,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 7,
+    "death_ticks": 5,
+    "respawn_ticks": 2,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": -1,
+    "defend_animation": -1,
+    "death_animation": 7100
+  }
+]

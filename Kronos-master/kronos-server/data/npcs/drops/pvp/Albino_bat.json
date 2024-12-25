@@ -1,0 +1,14 @@
+[
+  {
+    "ids": [ 1039 ],
+    "tables": [
+      {
+        "name": "Drops ",
+        "weight": 1,
+        "items": [
+          { "id": 530, "min": 1, "max": 1, "weight": 1 } //Bat bones
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,45 @@
+[
+  { #Black knight (33)
+    "ids": [ 1545, 508, 4331 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 42,
+    "aggressive_level": 66,
+    "max_damage": 5,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 0.0,
+    "slayer_tasks": [],
+    //Combat Stats
+    "attack": 25,
+    "strength": 25,
+    "defence": 25,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 18,
+    "slash_attack": 18,
+    "crush_attack": 18,
+    "magic_attack": 18,
+    "ranged_attack": 18,
+    //Defensive Stats
+    "stab_defence": 73,
+    "slash_defence": 76,
+    "crush_defence": 70,
+    "magic_defence": -11,
+    "ranged_defence": 72,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 5,
+    "death_ticks": 5,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 390,
+    "defend_animation": 388,
+    "death_animation": 836
+  }
+]

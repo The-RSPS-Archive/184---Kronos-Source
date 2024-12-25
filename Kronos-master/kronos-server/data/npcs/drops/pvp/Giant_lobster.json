@@ -1,0 +1,29 @@
+[
+  {
+    "ids": [ 4800 ],
+    "tables": [
+      {
+        "name": "Drops",
+        "weight": 1,
+        "items": [
+          { "id": 995, "min": 4, "max": 4, "weight": 9 }, //Coins
+          { "id": 995, "min": 8, "max": 8, "weight": 9 }, //Coins
+          { "id": 995, "min": 36, "max": 36, "weight": 9 }, //Coins
+          { "id": 403, "min": 2, "max": 2, "weight": 6 }, //Edible seaweed
+          { "id": 407, "min": 1, "max": 1, "weight": 6 }, //Oyster
+          { "id": 407, "min": 2, "max": 2, "weight": 6 }, //Oyster
+          { "id": 313, "min": 2, "max": 2, "weight": 6 }, //Fishing bait
+          { "id": 401, "min": 1, "max": 1, "weight": 6 }, //Seaweed
+          { "id": 9683, "min": 1, "max": 1, "weight": 6 }, //Dead sea slug
+          { "id": 1265, "min": 1, "max": 1, "weight": 3 }, //Bronze pickaxe
+          { "id": 1267, "min": 1, "max": 1, "weight": 3 }, //Iron pickaxe
+          { "id": 436, "min": 3, "max": 3, "weight": 3 }, //Copper ore
+          { "id": 438, "min": 3, "max": 3, "weight": 1 }, //Tin ore
+          { "id": 440, "min": 1, "max": 1, "weight": 1 }, //Iron ore
+          { "id": 13460, "min": 1, "max": 1, "weight": 1 }, //Ensouled scorpion head
+          { "id": 2742, "min": 1, "max": 1, "weight": 1 } //Casket
+        ]
+      }
+    ]
+  }
+]

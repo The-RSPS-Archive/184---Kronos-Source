@@ -1,0 +1,45 @@
+[
+  { #Spawn (60) - Abyssal sire minion
+    "ids": [ 5916, 5917 ],
+    "handler": "io.ruin.model.activities.bosses.slayer.sire.Scion", # THIS IS CORRECT, SPAWNS USE THE SAME HANDLER AS SCIONS SINCE THEY TRANSFORM INTO THEM!!
+    //Combat Info
+    "hitpoints": 15,
+    "aggressive_level": 120,
+    "max_damage": 6,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 0.0,
+    "slayer_tasks": [],
+    //Combat Stats
+    "attack": 120,
+    "strength": 30,
+    "defence": 30,
+    "ranged": 50,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 0,
+    "crush_defence": 0,
+    "magic_defence": -10,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": true,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 3,
+    "respawn_ticks": -1,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 4522,
+    "defend_animation": 4523,
+    "death_animation": 4521
+  }
+]

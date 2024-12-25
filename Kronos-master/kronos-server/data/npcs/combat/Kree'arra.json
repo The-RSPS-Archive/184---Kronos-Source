@@ -1,0 +1,48 @@
+[
+  { #Kree\u0027arra (580)
+    "ids": [ 3162, 6492 ],
+    "handler": "io.ruin.model.activities.godwars.combat.impl.armadyl.KreeArra",
+    //Combat Info
+    "hitpoints": 255,
+    "aggressive_level": 1160,
+    "max_damage": 26,
+    "attack_style": "CRUSH",
+    "pet": "KREEARRA",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 357.0,
+    "slayer_tasks": [ "Aviansies", "Kree\u0027arra" ],
+    //Combat Stats
+    "attack": 300,
+    "strength": 200,
+    "defence": 260,
+    "ranged": 380,
+    "magic": 200,
+    //Aggressive Stats
+    "stab_attack": 136,
+    "slash_attack": 136,
+    "crush_attack": 136,
+    "magic_attack": 136,
+    "ranged_attack": 120,
+    //Defensive Stats
+    "stab_defence": 180,
+    "slash_defence": 180,
+    "crush_defence": 180,
+    "magic_defence": 120,
+    "ranged_defence": 120,
+    //Immunites
+    "poison_immunity": true,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 3,
+    "death_ticks": 5,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 6981,
+    "defend_animation": 6980,
+    "death_animation": 6979,
+	//Other
+	"local_loot": true
+  }
+]

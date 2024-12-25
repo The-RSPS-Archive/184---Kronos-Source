@@ -1,0 +1,239 @@
+[
+  {
+    "name": "Devin Mendelberg",
+    "id": 4294,
+    "x": 2313,
+    "y": 3686,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Skeleton Mage",
+    "id": 4319,
+    "x": 2318,
+    "y": 3684,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Skeleton Mage",
+    "id": 4319,
+    "x": 2318,
+    "y": 3687,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Skeleton Mage",
+    "id": 4319,
+    "x": 2318,
+    "y": 3686,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Skeleton Mage",
+    "id": 4319,
+    "x": 2319,
+    "y": 3687,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Skeleton Mage",
+    "id": 4319,
+    "x": 2318,
+    "y": 3679,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Skeleton Mage",
+    "id": 4319,
+    "x": 2319,
+    "y": 3685,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Skeleton Mage",
+    "id": 4319,
+    "x": 2319,
+    "y": 3687,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Skeleton Mage",
+    "id": 4319,
+    "x": 2326,
+    "y": 3669,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Arnold Lydspor",
+    "id": 4293,
+    "x": 2329,
+    "y": 3689,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3,
+    "shopOptions": {
+      "trade": "87417294-907b-4634-8aa6-79891e27ba11"
+    }
+  },
+  {
+    "name": "Skeleton Mage",
+    "id": 4319,
+    "x": 2329,
+    "y": 3668,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Skeleton Mage",
+    "id": 4319,
+    "x": 2329,
+    "y": 3668,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Skeleton Mage",
+    "id": 4319,
+    "x": 2331,
+    "y": 3668,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Franklin Caranos",
+    "id": 4292,
+    "x": 2343,
+    "y": 3667,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Ramara du Croissant",
+    "id": 4296,
+    "x": 2342,
+    "y": 3676,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "null",
+    "id": 3365,
+    "x": 2353,
+    "y": 3683,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Herman Caranos",
+    "id": 4291,
+    "x": 2354,
+    "y": 3683,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Fishing spot",
+    "id": 1542,
+    "x": 2500,
+    "y": 3510,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Fishing spot",
+    "id": 1542,
+    "x": 2500,
+    "y": 3509,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Fishing spot",
+    "id": 1542,
+    "x": 2500,
+    "y": 3506,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Fishing spot",
+    "id": 6825,
+    "x": 1840,
+    "y": 3776,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Fishing spot",
+    "id": 6825,
+    "x": 1836,
+    "y": 3771,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Fishing spot",
+    "id": 6825,
+    "x": 1833,
+    "y": 3769,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Fishing spot",
+    "id": 5233,
+    "x": 2310,
+    "y": 3704,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Fishing spot",
+    "id": 5233,
+    "x": 2312,
+    "y": 3704,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Fishing spot",
+    "id": 5233,
+    "x": 2307,
+    "y": 3701,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  }
+]

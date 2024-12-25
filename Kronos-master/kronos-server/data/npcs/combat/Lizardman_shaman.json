@@ -1,0 +1,89 @@
+[
+  { #Lizardman shaman (150)
+    "ids": [ 6766, 6767, 7744, 7745 ],
+	"handler": "io.ruin.model.activities.bosses.LizardmanShaman",
+    //Combat Info
+    "hitpoints": 150,
+    "aggressive_level": 0,
+    "max_damage": 31,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 157.5,
+    "slayer_tasks": [ "Lizardmen" ],
+    //Combat Stats
+    "attack": 120,
+    "strength": 120,
+    "defence": 140,
+    "ranged": 120,
+    "magic": 130,
+    //Aggressive Stats
+    "stab_attack": 45,
+    "slash_attack": 45,
+    "crush_attack": 45,
+    "magic_attack": 45,
+    "ranged_attack": 45,
+    //Defensive Stats
+    "stab_defence": -10,
+    "slash_defence": 40,
+    "crush_defence": 30,
+    "magic_defence": 50,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": true,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 5,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 7192,
+    "defend_animation": 7194,
+    "death_animation": 7196
+  },
+    { #Lizardman shaman (raids)
+    "ids": [ 7573, 7574 ],
+	"handler": "io.ruin.model.activities.bosses.LizardmanShaman",
+    //Combat Info
+    "hitpoints": 180,
+    "aggressive_level": 300,
+    "max_damage": 31,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 157.5,
+    "slayer_tasks": [ "Lizardmen" ],
+    //Combat Stats
+    "attack": 130,
+    "strength": 130,
+    "defence": 210,
+    "ranged": 130,
+    "magic": 130,
+    //Aggressive Stats
+    "stab_attack": 58,
+    "slash_attack": 58,
+    "crush_attack": 58,
+    "magic_attack": 58,
+    "ranged_attack": 58,
+    //Defensive Stats
+    "stab_defence": 102,
+    "slash_defence": 160,
+    "crush_defence": 150,
+    "magic_defence": 160,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": true,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 5,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 7192,
+    "defend_animation": 7194,
+    "death_animation": 7196
+  }
+  
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "ids": [ 6732, 6734, 6735, 6736, 6737 ],
+    "tables": [
+      {
+        "name": "Fish",
+        "weight": 1,
+        "items": [
+          { "id": 359, "min": 1, "max": 1, "weight": 1 }, //Raw tuna
+          { "id": 331, "min": 1, "max": 1, "weight": 1 }, //Raw salmon
+          { "id": 335, "min": 1, "max": 1, "weight": 1 }, //Raw trout
+          { "id": 345, "min": 1, "max": 1, "weight": 1 }, //Raw herring
+          { "id": 349, "min": 1, "max": 1, "weight": 1 }, //Raw pike
+          { "id": 327, "min": 1, "max": 1, "weight": 1 }, //Raw sardine
+          { "id": 317, "min": 1, "max": 1, "weight": 1 }, //Raw shrimps
+          { "id": 321, "min": 1, "max": 1, "weight": 1 }, //Raw anchovies
+          { "id": 371, "min": 1, "max": 1, "weight": 1 }, //Raw swordfish
+          { "id": 383, "min": 1, "max": 1, "weight": 1 } //Raw shark
+        ]
+      },
+      {
+        "name": "Miscellaneous",
+        "weight": 1,
+        "items": [
+          { "id": 313, "min": 1, "max": 50, "weight": 6 }, //Fishing bait
+          { "id": 314, "min": 5, "max": 20, "weight": 6 }, //Feather
+          { "id": 532, "min": 1, "max": 1, "weight": 3 }, //Big bones
+          { "id": 526, "min": 1, "max": 1, "weight": 3 }, //Bones
+          { "id": 407, "min": 1, "max": 1, "weight": 3 }, //Oyster
+          { "id": 151, "min": 1, "max": 1, "weight": 1 }, //Fishing potion(3)
+          { "id": 2742, "min": 1, "max": 1, "weight": 1 }, //Casket
+          { "id": 1969, "min": 1, "max": 1, "weight": 1 } //Spinach roll
+        ]
+      }
+    ]
+  }
+]

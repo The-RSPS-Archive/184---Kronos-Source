@@ -1,0 +1,48 @@
+[
+  { #Vorkath (792)
+    "ids": [ 8059, 8061 ],
+    "handler": "io.ruin.model.activities.bosses.vorkath.Vorkath",
+    //Combat Info
+    "hitpoints": 750,
+    "aggressive_level": 0,
+    "max_damage": 35,
+    "attack_style": "SLASH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 1000.0,
+    "slayer_tasks": [ "Blue Dragons" ],
+    //Combat Stats
+    "attack": 560,
+    "strength": 308,
+    "defence": 214,
+    "ranged": 308,
+    "magic": 150,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 150,
+    "ranged_attack": 78,
+    //Defensive Stats
+    "stab_defence": 26,
+    "slash_defence": 108,
+    "crush_defence": 108,
+    "magic_defence": 240,
+    "ranged_defence": 26,
+    //Immunites
+    "poison_immunity": true,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 5,
+    "death_ticks": 8,
+    "respawn_ticks": 0,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 7951,
+    "defend_animation": -1,
+    "death_animation": 7949,
+	//Other
+	"local_loot": true,
+	"pet": "VORKI"
+  }
+]

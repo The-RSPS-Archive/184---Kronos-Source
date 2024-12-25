@@ -1,0 +1,61 @@
+[
+  {
+    "ids": [ 2919 ],
+    "guaranteed": [
+      { "id": 536, "min": 1, "max": 1 }, //Dragon bones
+      { "id": 2359, "min": 3, "max": 3 } //Mithril bar
+    ],
+    "tables": [
+      {
+        "name": "Weapons/Armour",
+        "weight": 1,
+        "items": [
+          { "id": 1373, "min": 1, "max": 1, "weight":61 }, //Rune battleaxe
+          { "id": 811, "min": 14, "max": 14, "weight": 6 }, //Rune dart
+          { "id": 1432, "min": 1, "max": 1, "weight": 6 }, //Rune mace
+          { "id": 1163, "min": 1, "max": 1, "weight": 3 }, //Rune full helm
+          { "id": 868, "min": 8, "max": 18, "weight": 3 }, //Rune knife
+          { "id": 1247, "min": 1, "max": 1, "weight": 3 }, //Rune spear
+          { "id": 11335, "min": 1, "max": 1, "weight": 1 } //Dragon full helm
+        ]
+      },
+      {
+        "name": "Runes/Ammunition",
+        "weight": 1,
+        "items": [
+          { "id": 565, "min": 27, "max": 27, "weight": 6 }, //Blood rune
+          { "id": 830, "min": 8, "max": 8, "weight": 6 }, //Rune javelin
+          { "id": 19582, "min": 15, "max": 15, "weight": 3 }, //Dragon javelin heads
+          { "id": 892, "min": 8, "max": 8, "weight": 3 }, //Rune arrow
+          { "id": 9144, "min": 10, "max": 21, "weight": 1 }, //Runite bolts
+          { "id": 566, "min": 10, "max": 10, "weight": 1 } //Soul rune
+        ]
+      },
+      {
+        "name": "Potions",
+        "weight": 1,
+        "items": [
+          { "id": 11465, "min": 1, "max": 1, "weight": 3 }, //Prayer mix(2)
+          { "id": 11469, "min": 1, "max": 1, "weight": 3 }, //Superattack mix(2)
+          { "id": 11497, "min": 1, "max": 1, "weight": 1 }, //Super def. mix(2)
+          { "id": 11485, "min": 1, "max": 1, "weight": 1 } //Super str. mix(2)
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 995, "min": 600, "max": 876, "weight": 250 }, //Coins
+          { "id": 9431, "min": 1, "max": 1, "weight": 250 }, //Runite limbs
+          { "id": 2363, "min": 2, "max": 2, "weight": 250 }, //Runite bar
+          { "id": 385, "min": 1, "max": 1, "weight": 100 }, //Shark
+          { "id": 385, "min": 6, "max": 6, "weight": 100 }, //Shark
+          { "id": 11338, "min": 1, "max": 1, "weight": 10 }, //Chewed bones
+          { "id": 11341, "min": 1, "max": 1, "weight": 10 }, //Ancient page
+          { "id": 12073, "min": 1, "max": 1, "weight": 1 }, //Clue scroll (elite)
+          { "id": 11286, "min": 1, "max": 1, "weight": 1 } //Draconic visage
+        ]
+      }
+    ]
+  }
+]

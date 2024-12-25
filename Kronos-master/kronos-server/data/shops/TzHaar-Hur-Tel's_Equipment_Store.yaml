@@ -1,0 +1,42 @@
+---
+identifier: "7aacc988-30ae-44e7-b5a7-a685c79db41d"
+title: "TzHaar-Hur-Tel's Equipment Store"
+currency: "TOKKUL"
+accessibleByIronMan: true
+canSellToStore: false
+restockRules:
+  restockTicks: 52
+  restockPerTick: 1
+defaultStock:
+- id: 6522
+  amount: 1000
+  price: 375
+  placeholderId: 0
+- id: 6523
+  amount: 1000
+  price: 60000
+  placeholderId: 0
+- id: 6524
+  amount: 1000
+  price: 67500
+  placeholderId: 0
+- id: 6525
+  amount: 1000
+  price: 37500
+  placeholderId: 0
+- id: 6526
+  amount: 1000
+  price: 52500
+  placeholderId: 0
+- id: 6527
+  amount: 1000
+  price: 45000
+  placeholderId: 0
+- id: 6528
+  amount: 1000
+  price: 75000
+  placeholderId: 0
+- id: 6568
+  amount: 1000
+  price: 90000
+  placeholderId: 0

@@ -1,0 +1,45 @@
+[
+  { #Shadow spider (52)
+    "ids": [ 3016 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 55,
+    "aggressive_level": 104,
+    "max_damage": 5,
+    "attack_style": "STAB",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 55.0,
+    "slayer_tasks": [ "Spiders" ],
+    //Combat Stats
+    "attack": 44,
+    "strength": 42,
+    "defence": 44,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 20,
+    "slash_defence": 15,
+    "crush_defence": 10,
+    "magic_defence": 15,
+    "ranged_defence": 15,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 5,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 5327,
+    "defend_animation": 5328,
+    "death_animation": 5329
+  }
+]

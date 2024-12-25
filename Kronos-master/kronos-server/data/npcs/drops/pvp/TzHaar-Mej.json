@@ -1,0 +1,38 @@
+[
+  {
+    "ids": [ 2154, 2155, 2156, 2157, 2158, 2159, 2160 ],
+    "tables": [
+      {
+        "name": "Weapons & Armour ",
+        "weight": 1,
+        "items": [
+          { "id": 6568, "min": 1, "max": 1, "weight": 1 }, //Obsidian cape
+          { "id": 6526, "min": 1, "max": 1, "weight": 1 } //Toktz-mej-tal
+        ]
+      },
+      {
+        "name": "Runes ",
+        "weight": 150,
+        "items": [
+          { "id": 557, "min": 25, "max": 25, "weight": 6 }, //Earth rune
+          { "id": 554, "min": 25, "max": 25, "weight": 6 }, //Fire rune
+          { "id": 556, "min": 25, "max": 25, "weight": 6 }, //Air rune
+          { "id": 555, "min": 25, "max": 25, "weight": 6 }, //Water rune
+          { "id": 562, "min": 5, "max": 5, "weight": 3 }, //Chaos rune
+          { "id": 561, "min": 2, "max": 2, "weight": 3 }, //Nature rune
+          { "id": 563, "min": 2, "max": 2, "weight": 3 }, //Law rune
+          { "id": 560, "min": 2, "max": 2, "weight": 1 }, //Death rune
+          { "id": 565, "min": 2, "max": 2, "weight": 1 } //Blood rune
+        ]
+      },
+      {
+        "name": "Other ",
+        "weight": 150,
+        "items": [
+          { "id": 6529, "min": 1, "max": 71, "weight": 3 }, //Tokkul
+          { "id": 7936, "min": 4, "max": 10, "weight": 1 } //Pure essence
+        ]
+      }
+    ]
+  }
+]

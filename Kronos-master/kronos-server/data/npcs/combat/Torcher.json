@@ -1,0 +1,217 @@
+[
+  { #Torcher (33)
+    "ids": [ 1714, 1715 ],
+    "handler": "io.ruin.model.activities.pestcontrol.npcs.Torcher",
+    //Combat Info
+    "hitpoints": 18,
+    "aggressive_level": 148,
+    "max_damage": 6,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 0.0,
+    "slayer_tasks": [],
+    //Combat Stats
+    "attack": 1,
+    "strength": 1,
+    "defence": 1,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 0,
+    "crush_defence": 0,
+    "magic_defence": 0,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 5,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 3882,
+    "defend_animation": 3880,
+    "death_animation": 3881
+  },
+  { #Torcher (49)
+    "ids": [ 1716, 1717 ],
+    "handler": "io.ruin.model.activities.pestcontrol.npcs.Torcher",
+    //Combat Info
+    "hitpoints": 30,
+    "aggressive_level": 148,
+    "max_damage": 8,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 0.0,
+    "slayer_tasks": [],
+    //Combat Stats
+    "attack": 1,
+    "strength": 1,
+    "defence": 1,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 0,
+    "crush_defence": 0,
+    "magic_defence": 0,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 5,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 3882,
+    "defend_animation": 3880,
+    "death_animation": 3881
+  },
+  { #Torcher (66)
+    "ids": [ 1718, 1719 ],
+    "handler": "io.ruin.model.activities.pestcontrol.npcs.Torcher",
+    //Combat Info
+    "hitpoints": 45,
+    "aggressive_level": 132,
+    "max_damage": 9,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 0.0,
+    "slayer_tasks": [],
+    //Combat Stats
+    "attack": 1,
+    "strength": 1,
+    "defence": 1,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 0,
+    "crush_defence": 0,
+    "magic_defence": 0,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 5,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 3882,
+    "defend_animation": 3880,
+    "death_animation": 3881
+  },
+  { #Torcher (79)
+    "ids": [ 1720, 1721 ],
+    "handler": "io.ruin.model.activities.pestcontrol.npcs.Torcher",
+    //Combat Info
+    "hitpoints": 57,
+    "aggressive_level": 158,
+    "max_damage": 11,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 0.0,
+    "slayer_tasks": [],
+    //Combat Stats
+    "attack": 1,
+    "strength": 1,
+    "defence": 1,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 0,
+    "crush_defence": 0,
+    "magic_defence": 0,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 5,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 3882,
+    "defend_animation": 3880,
+    "death_animation": 3881
+  },
+  { #Torcher (92)
+    "ids": [ 1723 ],
+    "handler": "io.ruin.model.activities.pestcontrol.npcs.Torcher",
+    //Combat Info
+    "hitpoints": 71,
+    "aggressive_level": 184,
+    "max_damage": 12,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 0.0,
+    "slayer_tasks": [],
+    //Combat Stats
+    "attack": 1,
+    "strength": 1,
+    "defence": 1,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 0,
+    "crush_defence": 0,
+    "magic_defence": 0,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 5,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 3882,
+    "defend_animation": 3880,
+    "death_animation": 3881
+  }
+]

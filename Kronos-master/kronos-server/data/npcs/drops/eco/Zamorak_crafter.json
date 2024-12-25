@@ -1,0 +1,28 @@
+[
+  {
+    "ids": [ 7426, 7427 ],
+    "tables": [
+      {
+        "name": "Drops",
+        "weight": 1,
+        "items": [
+          { "id": 556, "min": 5, "max": 5, "weight": 9 }, //Air rune
+          { "id": 559, "min": 3, "max": 3, "weight": 9 }, //Body rune
+          { "id": 565, "min": 4, "max": 4, "weight": 9 }, //Blood rune
+          { "id": 562, "min": 4, "max": 4, "weight": 9 }, //Chaos rune
+          { "id": 560, "min": 3, "max": 3, "weight": 9 }, //Death rune
+          { "id": 557, "min": 6, "max": 6, "weight": 9 }, //Earth rune
+          { "id": 7936, "min": 3, "max": 10, "weight": 9 }, //Pure essence
+          { "id": 566, "min": 3, "max": 3, "weight": 9 }, //Soul rune
+          { "id": 555, "min": 5, "max": 5, "weight": 9 }, //Water rune
+          { "id": 995, "min": 1, "max": 50, "weight": 6 }, //Coins
+          { "id": 554, "min": 2, "max": 3, "weight": 6 }, //Fire rune
+          { "id": 563, "min": 3, "max": 3, "weight": 6 }, //Law rune
+          { "id": 561, "min": 2, "max": 2, "weight": 6 }, //Nature rune
+          { "id": 380, "min": 3, "max": 3, "weight": 3 }, //Lobster (noted)
+          { "id": 2139, "min": 5, "max": 5, "weight": 1 } //Raw chicken (noted)
+        ]
+      }
+    ]
+  }
+]

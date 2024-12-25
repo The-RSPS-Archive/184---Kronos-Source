@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Lisa",
+    "id": 7317,
+    "x": 3407,
+    "y": 3180,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0,
+    "shopOptions": {
+      "Trade": "093f2aef-46b4-4b40-943b-0934954ee124"
+    }
+  },
+  {
+    "name": "Banker",
+    "id": 1032,
+    "x": 3405,
+    "y": 3180,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  }
+]

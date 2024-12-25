@@ -1,0 +1,77 @@
+---
+identifier: "545d3f40-361e-42ce-84bc-4681264685de"
+title: "Refunded Credit Exchange"
+accessibleByIronMan: true
+canSellToStore: false
+restockRules:
+  restockTicks: 52
+  restockPerTick: 1
+defaultStock:
+- id: 290
+  amount: 1000
+  price: 100
+  placeholderId: 0
+- id: 6199
+  amount: 1000
+  price: 50
+  placeholderId: 0
+- id: 6828
+  amount: 1000
+  price: 300
+  placeholderId: 0
+- id: 21295
+  amount: 1000
+  price: 550
+  placeholderId: 0
+- id: 6570
+  amount: 1000
+  price: 50
+  placeholderId: 0
+- id: 12954
+  amount: 1000
+  price: 50
+  placeholderId: 0
+- id: 10551
+  amount: 1000
+  price: 50
+  placeholderId: 0
+- id: 21034
+  amount: 1000
+  price: 400
+  placeholderId: 0
+- id: 21079
+  amount: 1000
+  price: 400
+  placeholderId: 0
+- id: 11773
+  amount: 1000
+  price: 50
+  placeholderId: 0
+- id: 11771
+  amount: 1000
+  price: 50
+  placeholderId: 0
+- id: 11770
+  amount: 1000
+  price: 30
+  placeholderId: 0
+- id: 11772
+  amount: 1000
+  price: 30
+  placeholderId: 0
+- id: 2572
+  amount: 1000
+  price: 50
+  placeholderId: 0
+- id: 10834
+  amount: 1000
+  price: 900
+  placeholderId: 0
+- id: 12791
+  amount: 1000
+  price: 70
+  placeholderId: 0
+- id: 12019
+  amount: 1000
+  price: 100
+  placeholderId: 0

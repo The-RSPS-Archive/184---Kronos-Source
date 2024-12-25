@@ -1,0 +1,74 @@
+[
+  {
+    "ids": [ 5886, 5887, 5888, 5889, 5890, 5891, 5908 ],
+    "guaranteed": [
+      { "id": 592, "min": 1, "max": 1 } //Ashes
+    ],
+    "tables": [
+      {
+        "name": "Armour & Weapons",
+        "weight": 1,
+        "items": [
+          { "id": 1128, "min": 2, "max": 2, "weight": 1 }, //Rune platebody (noted)
+          { "id": 1290, "min": 3, "max": 3, "weight": 1 }, //Rune sword (noted)
+          { "id": 1164, "min": 3, "max": 3, "weight": 1 }, //Rune full helm (noted)
+          { "id": 1202, "min": 2, "max": 2, "weight": 1 }, //Rune kiteshield (noted)
+          { "id": 1392, "min": 10, "max": 10, "weight": 1 }, //Battlestaff (noted)
+          { "id": 1398, "min": 6, "max": 6, "weight": 1 }, //Air battlestaff (noted)
+          { "id": 1406, "min": 2, "max": 2, "weight": 1 }, //Mystic air staff (noted)
+          { "id": 3056, "min": 2, "max": 2, "weight": 1 } //Mystic lava staff (noted)
+        ]
+      },
+      {
+        "name": "Materials",
+        "weight": 1,
+        "items": [
+          { "id": 7937, "min": 600, "max": 600, "weight": 1 }, //Pure essence (noted)
+          { "id": 454, "min": 380, "max": 420, "weight": 1 }, //Coal (noted)
+          { "id": 1514, "min": 51, "max": 70, "weight": 1 }, //Magic logs (noted)
+          { "id": 576, "min": 47, "max": 53, "weight": 1 }, //Earth orb (noted)
+          { "id": 2364, "min": 5, "max": 5, "weight": 1 }, //Runite bar (noted)
+          { "id": 452, "min": 6, "max": 6, "weight": 1 }, //Runite ore (noted)
+          { "id": 214, "min": 25, "max": 25, "weight": 1 }, //Grimy kwuarm (noted)
+          { "id": 2486, "min": 25, "max": 25, "weight": 1 }, //Grimy lantadyme (noted)
+          { "id": 216, "min": 25, "max": 25, "weight": 1 }, //Grimy cadantine (noted)
+          { "id": 218, "min": 25, "max": 25, "weight": 1 } //Grimy dwarf weed (noted)
+        ]
+      },
+      {
+        "name": "Consumables",
+        "weight": 1,
+        "items": [
+          { "id": 7054, "min": 10, "max": 10, "weight": 1 }, //Chilli potato
+          { "id": 6687, "min": 6, "max": 6, "weight": 1 }, //Saradomin brew(3)
+          { "id": 3024, "min": 4, "max": 4, "weight": 1 } //Super restore(4)
+        ]
+      },
+      {
+        "name": "Runes",
+        "weight": 1,
+        "items": [
+          { "id": 564, "min": 350, "max": 350, "weight": 1 }, //Cosmic rune
+          { "id": 563, "min": 250, "max": 250, "weight": 1 }, //Law rune
+          { "id": 560, "min": 300, "max": 370, "weight": 1 }, //Death rune
+          { "id": 566, "min": 225, "max": 275, "weight": 1 }, //Soul rune
+          { "id": 565, "min": 160, "max": 210, "weight": 1 } //Blood rune
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 995, "min": 6000, "max": 52000, "weight": 20 }, //Coins
+          { "id": 9194, "min": 10, "max": 10, "weight": 10 }, //Onyx bolt tips
+          { "id": 1618, "min": 15, "max": 15, "weight": 10 }, //Uncut diamond (noted)
+          { "id": 5522, "min": 25, "max": 25, "weight": 10 }, //Binding necklace (noted)
+          { "id": 1938, "min": 254, "max": 350, "weight": 10 }, //Jug of water (noted)
+          { "id": 2, "min": 300, "max": 300, "weight": 10 }, //Cannonball
+          { "id": 12073, "min": 1, "max": 1, "weight": 1 }, //Clue scroll (elite)
+          { "id": 13273, "min": 1, "max": 1, "weight": 1 } //Unsired
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,45 @@
+[
+  { #Sulphur Lizard (50)
+    "ids": [ 8614 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 50,
+    "aggressive_level": 100,
+    "max_damage": 5,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 44,
+    "slayer_xp": 50.0,
+    "slayer_tasks": [ "Lizards" ],
+    //Combat Stats
+    "attack": 50,
+    "strength": 45,
+    "defence": 30,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 15,
+    "slash_defence": 25,
+    "crush_defence": 25,
+    "magic_defence": 0,
+    "ranged_defence": 15,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 6,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 8283,
+    "defend_animation": -1,
+    "death_animation": 8284
+  }
+]

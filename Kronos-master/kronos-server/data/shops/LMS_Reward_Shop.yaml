@@ -1,0 +1,54 @@
+---
+identifier: "093f2aef-46b4-4b40-943b-0934954ee124"
+title: "LMS Reward Shop"
+currency: "SURVIVAL_TOKENS"
+accessibleByIronMan: true
+canSellToStore: false
+restockRules:
+  restockTicks: 52
+  restockPerTick: 1
+defaultStock:
+- id: 6758
+  amount: 1000
+  price: 450
+  placeholderId: 0
+- id: 6828
+  amount: 1000
+  price: 900
+  placeholderId: 0
+- id: 11802
+  amount: 1000
+  price: 1000
+  placeholderId: 0
+- id: 13652
+  amount: 1000
+  price: 4000
+  placeholderId: 0
+- id: 4151
+  amount: 1000
+  price: 800
+  placeholderId: 0
+- id: 11826
+  amount: 1000
+  price: 400
+  placeholderId: 0
+- id: 11828
+  amount: 1000
+  price: 500
+  placeholderId: 0
+- id: 11830
+  amount: 1000
+  price: 500
+  placeholderId: 0
+- id: 22296
+  amount: 1000
+  price: 1500
+  placeholderId: 0
+- id: 6199
+  amount: 1000
+  price: 800
+  placeholderId: 0
+- id: 9477
+  amount: 1000
+  price: 300
+  placeholderId: 0

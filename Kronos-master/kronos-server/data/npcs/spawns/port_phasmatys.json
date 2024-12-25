@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Trader Crewmember",
+    "id": 1334,
+    "x": 3701,
+    "y": 3501,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Ghost guard",
+    "id": 3007,
+    "x": 3658,
+    "y": 3508,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Ghost guard",
+    "id": 3007,
+    "x": 3661,
+    "y": 3508,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  }
+]

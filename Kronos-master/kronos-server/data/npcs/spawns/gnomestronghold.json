@@ -1,0 +1,614 @@
+[
+  {
+    "name": "Gnome banker",
+    "id": 6084,
+    "x": 2439,
+    "y": 3487,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Gianne jnr.",
+    "id": 2547,
+    "x": 2439,
+    "y": 3502,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Spang",
+    "id": 2550,
+    "x": 2439,
+    "y": 3503,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Gnome banker",
+    "id": 6084,
+    "x": 2440,
+    "y": 3488,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Timble",
+    "id": 2548,
+    "x": 2441,
+    "y": 3502,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Gnome",
+    "id": 6095,
+    "x": 2442,
+    "y": 3501,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Gnome",
+    "id": 6096,
+    "x": 2444,
+    "y": 3502,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Perrdur",
+    "id": 2562,
+    "x": 2447,
+    "y": 3501,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Gnome banker",
+    "id": 6084,
+    "x": 2448,
+    "y": 3480,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Gnome woman",
+    "id": 6087,
+    "x": 2447,
+    "y": 3488,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Gnome",
+    "id": 6095,
+    "x": 2448,
+    "y": 3495,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Dalila",
+    "id": 2563,
+    "x": 2448,
+    "y": 3500,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Gnome Waiter",
+    "id": 2657,
+    "x": 2449,
+    "y": 3501,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Hudo",
+    "id": 12,
+    "x": 2449,
+    "y": 3509,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Gnome woman",
+    "id": 6086,
+    "x": 2449,
+    "y": 3484,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Gnome",
+    "id": 6094,
+    "x": 2449,
+    "y": 3495,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Aluft Gianne snr.",
+    "id": 2656,
+    "x": 2449,
+    "y": 3499,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Gnome",
+    "id": 6095,
+    "x": 2449,
+    "y": 3503,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Gnome banker",
+    "id": 6084,
+    "x": 2450,
+    "y": 3480,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Gnome",
+    "id": 6094,
+    "x": 2449,
+    "y": 3494,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Gnome Waiter",
+    "id": 2657,
+    "x": 2448,
+    "y": 3502,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Gnome",
+    "id": 6096,
+    "x": 2452,
+    "y": 3488,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Gnome woman",
+    "id": 6086,
+    "x": 2457,
+    "y": 3490,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Gnome",
+    "id": 6095,
+    "x": 2457,
+    "y": 3498,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Gnome guard",
+    "id": 6082,
+    "x": 2463,
+    "y": 3495,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Gnome guard",
+    "id": 6081,
+    "x": 2467,
+    "y": 3494,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Gnome guard",
+    "id": 6081,
+    "x": 2474,
+    "y": 3498,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Gnome",
+    "id": 6094,
+    "x": 2474,
+    "y": 3491,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Gnome",
+    "id": 6095,
+    "x": 2472,
+    "y": 3496,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Gnome child",
+    "id": 6078,
+    "x": 2474,
+    "y": 3497,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Gnome",
+    "id": 6096,
+    "x": 2475,
+    "y": 3500,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Gnome woman",
+    "id": 6086,
+    "x": 2478,
+    "y": 3488,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Blurberry",
+    "id": 6531,
+    "x": 2481,
+    "y": 3490,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Gnome",
+    "id": 6095,
+    "x": 2480,
+    "y": 3502,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Gnome",
+    "id": 6095,
+    "x": 2482,
+    "y": 3482,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Barman",
+    "id": 6532,
+    "x": 2483,
+    "y": 3487,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Barman",
+    "id": 6532,
+    "x": 2482,
+    "y": 3490,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Gnome",
+    "id": 6094,
+    "x": 2482,
+    "y": 3495,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Gnome",
+    "id": 6094,
+    "x": 2483,
+    "y": 3499,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Gnome woman",
+    "id": 6087,
+    "x": 2482,
+    "y": 3504,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Rometti",
+    "id": 14,
+    "x": 2482,
+    "y": 3508,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Gnome child",
+    "id": 6077,
+    "x": 2484,
+    "y": 3502,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "null",
+    "id": 2020,
+    "x": 2484,
+    "y": 3487,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "null",
+    "id": 7190,
+    "x": 2483,
+    "y": 3490,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "null",
+    "id": 7192,
+    "x": 2484,
+    "y": 3489,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Gnome child",
+    "id": 6079,
+    "x": 2482,
+    "y": 3496,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Gnome",
+    "id": 6095,
+    "x": 2490,
+    "y": 3503,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Heckel Funch",
+    "id": 16,
+    "x": 2493,
+    "y": 3488,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Gnome guard",
+    "id": 6082,
+    "x": 2450,
+    "y": 3496,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Gnome guard",
+    "id": 6081,
+    "x": 2449,
+    "y": 3496,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Gnome woman",
+    "id": 6086,
+    "x": 2451,
+    "y": 3495,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Gnome guard",
+    "id": 6082,
+    "x": 2462,
+    "y": 3488,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Gnome guard",
+    "id": 6081,
+    "x": 2465,
+    "y": 3482,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Gnome troop",
+    "id": 4974,
+    "x": 2463,
+    "y": 3504,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Gnome",
+    "id": 6096,
+    "x": 2465,
+    "y": 3491,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Gnome guard",
+    "id": 6081,
+    "x": 2466,
+    "y": 3495,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Gnome guard",
+    "id": 6081,
+    "x": 2466,
+    "y": 3508,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Gnome guard",
+    "id": 6081,
+    "x": 2465,
+    "y": 3483,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Gnome troop",
+    "id": 4973,
+    "x": 2466,
+    "y": 3504,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Gnome woman",
+    "id": 6086,
+    "x": 2467,
+    "y": 3490,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Gnome guard",
+    "id": 6082,
+    "x": 2468,
+    "y": 3494,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Gnome guard",
+    "id": 6082,
+    "x": 2470,
+    "y": 3505,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Gulluck",
+    "id": 15,
+    "x": 2466,
+    "y": 3488,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Gnome woman",
+    "id": 6086,
+    "x": 2469,
+    "y": 3504,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Gnome guard",
+    "id": 6082,
+    "x": 2471,
+    "y": 3496,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Gnome woman",
+    "id": 6086,
+    "x": 2481,
+    "y": 3496,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Gnome guard",
+    "id": 6082,
+    "x": 2481,
+    "y": 3497,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Gnome guard",
+    "id": 6082,
+    "x": 2481,
+    "y": 3497,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 2
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "ids": [ 3603 ],
+    "guaranteed": [
+      { "id": 526, "min": 1, "max": 1 }, //Bones
+      { "id": 314, "min": 10, "max": 40 }, //Feather
+      { "id": 314, "min": 100, "max": 100 } //Feather
+    ],
+    "tables": [
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 10859, "min": 1, "max": 1, "weight": 1 }, //Tea flask
+          { "id": 10880, "min": 1, "max": 1, "weight": 1 }, //Black satchel
+          { "id": 2138, "min": 4, "max": 4, "weight": 1 }, //Raw chicken
+          { "id": 2138, "min": 8, "max": 8, "weight": 1 }, //Raw chicken
+          { "id": 2138, "min": 12, "max": 12, "weight": 1 }, //Raw chicken
+          { "id": 2138, "min": 16, "max": 16, "weight": 1 } //Raw chicken
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "ids": [ 642, 643, 6392, 6331 ],
+    "guaranteed": [
+      { "id": 526, "min": 1, "max": 1 } //Bones
+    ],
+    "tables": [
+      {
+        "name": "Herbs and Seeds",
+        "weight": 1,
+        "items": [
+          { "id": 203, "min": 1, "max": 1, "weight": 6 }, //Grimy tarromin
+          { "id": 199, "min": 1, "max": 1, "weight": 6 }, //Grimy guam leaf
+          { "id": 209, "min": 1, "max": 1, "weight": 6 }, //Grimy irit leaf
+          { "id": 5282, "min": 1, "max": 1, "weight": 3 }, //Mushroom spore
+          { "id": 5281, "min": 1, "max": 1, "weight": 3 }, //Belladonna seed
+          { "id": 5295, "min": 1, "max": 1, "weight": 3 }, //Ranarr seed
+          { "id": 5321, "min": 1, "max": 1, "weight": 3 }, //Watermelon seed
+          { "id": 5280, "min": 1, "max": 1, "weight": 3 }, //Cactus seed
+          { "id": 5100, "min": 1, "max": 1, "weight": 1 }, //Limpwurt seed
+          { "id": 5300, "min": 1, "max": 1, "weight": 1 } //Snapdragon seed
+        ]
+      },
+      {
+        "name": "Weapons and armour",
+        "weight": 1,
+        "items": [
+          { "id": 1341, "min": 1, "max": 1, "weight": 3 }, //Black warhammer
+          { "id": 1339, "min": 1, "max": 1, "weight": 3 }, //Steel warhammer
+          { "id": 1141, "min": 1, "max": 1, "weight": 3 }, //Steel med helm
+          { "id": 1181, "min": 1, "max": 1, "weight": 1 } //Mithril sq shield
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 995, "min": 5, "max": 100, "weight": 5 }, //Coins
+          { "id": 453, "min": 3, "max": 3, "weight": 5 }, //Coal
+          { "id": 557, "min": 25, "max": 60, "weight": 3 }, //Earth rune
+          { "id": 561, "min": 1, "max": 7, "weight": 1 }, //Nature rune
+          { "id": 2801, "min": 1, "max": 1, "weight": 1 } //Clue scroll (medium)
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "ids": [ 3938 ],
+    "guaranteed": [
+      { "id": 526, "min": 1, "max": 1 } //Bones
+    ],
+    "tables": [
+      {
+        "name": "Weapons",
+        "weight": 1,
+        "items": [
+          { "id": 1337, "min": 1, "max": 1, "weight": 1 }, //Bronze warhammer
+          { "id": 1335, "min": 1, "max": 1, "weight": 1 } //Iron warhammer
+        ]
+      },
+      {
+        "name": "Ores and Bars",
+        "weight": 1,
+        "items": [
+          { "id": 453, "min": 1, "max": 1, "weight": 1 }, //Coal
+          { "id": 2353, "min": 1, "max": 1, "weight": 1 }, //Steel bar
+          { "id": 440, "min": 1, "max": 5, "weight": 1 }, //Iron ore
+          { "id": 438, "min": 1, "max": 5, "weight": 1 }, //Tin ore
+          { "id": 436, "min": 1, "max": 5, "weight": 1 } //Copper ore
+        ]
+      },
+      {
+        "name": "Herbs",
+        "weight": 1,
+        "items": [
+          { "id": 199, "min": 1, "max": 1, "weight": 1 }, //Grimy guam leaf
+          { "id": 201, "min": 1, "max": 1, "weight": 1 }, //Grimy marrentill
+          { "id": 203, "min": 1, "max": 1, "weight": 1 }, //Grimy tarromin
+          { "id": 205, "min": 1, "max": 1, "weight": 1 } //Grimy harralander
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 995, "min": 15, "max": 16, "weight": 6 }, //Coins
+          { "id": 227, "min": 1, "max": 1, "weight": 6 }, //Vial of water
+          { "id": 1925, "min": 1, "max": 1, "weight": 6 }, //Bucket
+          { "id": 590, "min": 1, "max": 1, "weight": 6 }, //Tinderbox
+          { "id": 3689, "min": 1, "max": 1, "weight": 6 }, //Lyre
+          { "id": 247, "min": 1, "max": 1, "weight": 3 }, //Jangerberries
+          { "id": 221, "min": 1, "max": 1, "weight": 1 }, //Eye of newt
+          { "id": 2677, "min": 1, "max": 1, "weight": 1 } //Clue scroll (easy)
+        ]
+      }
+    ]
+  }
+]

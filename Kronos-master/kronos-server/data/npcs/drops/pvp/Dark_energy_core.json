@@ -1,0 +1,8 @@
+[
+  {
+    "ids": [ 320 ],
+    "guaranteed": [
+      { "id": 592, "min": 1, "max": 1 } //Ashes
+    ]
+  }
+]

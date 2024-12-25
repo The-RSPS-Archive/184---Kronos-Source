@@ -1,0 +1,67 @@
+[
+  {
+    "ids": [ 5565 ],
+    "tables": [
+      {
+        "name": "Weapons",
+        "weight": 1,
+        "items": [
+          { "id": 1333, "min": 1, "max": 1, "weight": 6 }, //Rune scimitar
+          { "id": 11371, "min": 1, "max": 1, "weight": 3 }, //Steel hasta
+          { "id": 1295, "min": 1, "max": 1, "weight": 6 }, //Steel longsword
+          { "id": 1371, "min": 1, "max": 1, "weight": 6 }, //Adamant battleaxe
+          { "id": 865, "min": 10, "max": 10, "weight": 6 }, //Steel knife
+          { "id": 1424, "min": 1, "max": 1, "weight": 3 }, //Steel mace
+          { "id": 857, "min": 1, "max": 1, "weight": 3 }, //Yew shortbow
+          { "id": 808, "min": 10, "max": 10, "weight": 3 }, //Steel dart
+          { "id": 1391, "min": 1, "max": 1, "weight": 1 }, //Battlestaff
+          { "id": 1430, "min": 1, "max": 1, "weight": 1 }, //Adamant mace
+          { "id": 1428, "min": 1, "max": 1, "weight": 1 }, //Mithril mace
+          { "id": 816, "min": 20, "max": 20, "weight": 1 } //Adamant dart(p)
+        ]
+      },
+      {
+        "name": "Armour",
+        "weight": 1,
+        "items": [
+          { "id": 1191, "min": 1, "max": 1, "weight": 3 }, //Iron kiteshield
+          { "id": 1081, "min": 1, "max": 1, "weight": 3 }, //Iron plateskirt
+          { "id": 1193, "min": 1, "max": 1, "weight": 3 }, //Steel kiteshield
+          { "id": 1157, "min": 1, "max": 1, "weight": 1 }, //Steel full helm
+          { "id": 1181, "min": 1, "max": 1, "weight": 1 } //Mithril sq shield
+        ]
+      },
+      {
+        "name": "Arrows and Bolts",
+        "weight": 1,
+        "items": [
+          { "id": 890, "min": 5, "max": 5, "weight": 6}, //Adamant arrow
+          { "id": 886, "min": 20, "max": 20, "weight":6 }, //Steel arrow
+          { "id": 9145, "min": 5, "max": 5, "weight": 1 }, //Silver bolts
+          { "id": 9144, "min": 10, "max": 10, "weight": 1 } //Runite bolts
+        ]
+      },
+      {
+        "name": "Runes",
+        "weight": 1,
+        "items": [
+          { "id": 560, "min": 5, "max": 5, "weight": 3 }, //Death rune
+          { "id": 565, "min": 3, "max": 3, "weight": 3 }, //Blood rune
+          { "id": 565, "min": 5, "max": 5, "weight": 1 }, //Blood rune
+          { "id": 565, "min": 10, "max": 10, "weight": 1 } //Blood rune
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 11465, "min": 1, "max": 1, "weight": 6 }, //Prayer mix(2)
+          { "id": 1515, "min": 1, "max": 1, "weight": 6 }, //Yew logs
+          { "id": 2354, "min": 3, "max": 3, "weight": 3 }, //Steel bar (noted)
+          { "id": 2801, "min": 1, "max": 1, "weight": 1 }, //Clue scroll (medium)
+          { "id": 11443, "min": 1, "max": 1, "weight": 1 } //Strength mix(2)
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,45 @@
+[
+  { #Zombified spawn (64) - Vorkath spawn
+    "ids": [ 8063 ],
+    "handler": "io.ruin.model.activities.bosses.vorkath.ZombifiedSpawn",
+    //Combat Info
+    "hitpoints": 38,
+    "aggressive_level": 200,
+    "max_damage": 6,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 0.0,
+    "slayer_tasks": [ ],
+    //Combat Stats
+    "attack": 1,
+    "strength": 1,
+    "defence": 6,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 3,
+    "slash_defence": 3,
+    "crush_defence": 3,
+    "magic_defence": -100,
+    "ranged_defence": 3,
+    //Immunites
+    "poison_immunity": true,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 5,
+    "death_ticks": 2,
+    "respawn_ticks": -1,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 7890,
+    "defend_animation": -1,
+    "death_animation": 7891
+  }
+]

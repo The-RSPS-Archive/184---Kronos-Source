@@ -1,0 +1,73 @@
+[
+  {
+    "ids": [ 4491, 4492, 4493, 4494, 4495, 4496, 4497, 4498, 4499 ],
+    "guaranteed": [
+      { "id": 526, "min": 1, "max": 1 } //Bones
+    ],
+    "tables": [
+      {
+        "name": "Seeds",
+        "weight": 1,
+        "items": [
+          { "id": 5291, "min": 1, "max": 1, "weight": 1 }, //Guam seed
+          { "id": 5292, "min": 1, "max": 1, "weight": 1 }, //Marrentill seed
+          { "id": 5293, "min": 1, "max": 1, "weight": 1 }, //Tarromin seed
+          { "id": 5294, "min": 1, "max": 1, "weight": 1 }, //Harralander seed
+          { "id": 5104, "min": 1, "max": 1, "weight": 1 }, //Jangerberry seed
+          { "id": 5106, "min": 1, "max": 1, "weight": 1 }, //Poison ivy seed
+          { "id": 5282, "min": 1, "max": 1, "weight": 1 }, //Mushroom spore
+          { "id": 5280, "min": 1, "max": 1, "weight": 1 }, //Cactus seed
+          { "id": 5105, "min": 1, "max": 1, "weight": 1 }, //Whiteberry seed
+          { "id": 5100, "min": 1, "max": 1, "weight": 1 }, //Limpwurt seed
+          { "id": 5323, "min": 1, "max": 1, "weight": 1 }, //Strawberry seed
+          { "id": 5311, "min": 1, "max": 1, "weight": 1 }, //Wildblood seed
+          { "id": 5321, "min": 1, "max": 1, "weight": 1 }, //Watermelon seed
+          { "id": 5296, "min": 1, "max": 1, "weight": 1 }, //Toadflax seed
+          { "id": 5295, "min": 1, "max": 1, "weight": 1 }, //Ranarr seed
+          { "id": 5297, "min": 1, "max": 1, "weight": 1 }, //Irit seed
+          { "id": 5298, "min": 1, "max": 1, "weight": 1 }, //Avantoe seed
+          { "id": 5299, "min": 1, "max": 1, "weight": 1 }, //Kwuarm seed
+          { "id": 5301, "min": 1, "max": 1, "weight": 1 }, //Cadantine seed
+          { "id": 5300, "min": 1, "max": 1, "weight": 1 }, //Snapdragon seed
+          { "id": 5302, "min": 1, "max": 1, "weight": 1 }, //Lantadyme seed
+          { "id": 5303, "min": 1, "max": 1, "weight": 1 }, //Dwarf weed seed
+          { "id": 5304, "min": 1, "max": 1, "weight": 1 } //Torstol seed
+        ]
+      },
+      {
+        "name": "Runes/Talismans",
+        "weight": 1,
+        "items": [
+          { "id": 556, "min": 60, "max": 60, "weight": 1 }, //Air rune
+          { "id": 562, "min": 9, "max": 9, "weight": 1 }, //Chaos rune
+          { "id": 564, "min": 4, "max": 4, "weight": 1 }, //Cosmic rune
+          { "id": 555, "min": 20, "max": 20, "weight": 1 }, //Water rune
+          { "id": 563, "min": 2, "max": 2, "weight": 1 } //Law rune
+        ]
+      },
+      {
+        "name": "Weapons, Armour and Ammunition",
+        "weight": 1,
+        "items": [
+          { "id": 1361, "min": 1, "max": 1, "weight": 1 }, //Black axe
+          { "id": 1141, "min": 1, "max": 1, "weight": 1 }, //Steel med helm
+          { "id": 1281, "min": 1, "max": 1, "weight": 1 }, //Steel sword
+          { "id": 888, "min": 8, "max": 8, "weight": 1 }, //Mithril arrow
+          { "id": 1329, "min": 1, "max": 1, "weight": 1 }, //Mithril scimitar
+          { "id": 1265, "min": 1, "max": 1, "weight": 1 } //Bronze pickaxe
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 995, "min": 20, "max": 20, "weight": 1 }, //Coins
+          { "id": 995, "min": 50, "max": 50, "weight": 1 }, //Coins
+          { "id": 995, "min": 80, "max": 80, "weight": 1 }, //Coins
+          { "id": 995, "min": 185, "max": 185, "weight": 1 }, //Coins
+          { "id": 2359, "min": 1, "max": 1, "weight": 1 } //Mithril bar
+        ]
+      }
+    ]
+  }
+]

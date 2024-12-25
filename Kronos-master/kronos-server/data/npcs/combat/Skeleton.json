@@ -1,0 +1,477 @@
+[
+  { #Skeleton (13)
+    "ids": [ 924 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 18,
+    "aggressive_level": 26,
+    "max_damage": 2,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 18.0,
+    "slayer_tasks": [ "Skeletons" ],
+    //Combat Stats
+    "attack": 1,
+    "strength": 1,
+    "defence": 1,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 0,
+    "crush_defence": 0,
+    "magic_defence": 0,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 2,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 422,
+    "defend_animation": 424,
+    "death_animation": 836
+  },
+  { #Skeleton (21)
+    "ids": [ 74, 75, 76 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 24,
+    "aggressive_level": 42,
+    "max_damage": 3,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 24.0,
+    "slayer_tasks": [ "Skeletons" ],
+    //Combat Stats
+    "attack": 1,
+    "strength": 1,
+    "defence": 1,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 0,
+    "crush_defence": 0,
+    "magic_defence": 0,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 5,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 5485,
+    "defend_animation": 5489,
+    "death_animation": 5491
+  },
+  { #Skeleton (22)
+    "ids": [ 70, 71, 72, 73, 3565, 3972, 3973, 3974, 7265 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 29,
+    "aggressive_level": 44,
+    "max_damage": 3,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 29.0,
+    "slayer_tasks": [ "Skeletons" ],
+    //Combat Stats
+    "attack": 1,
+    "strength": 1,
+    "defence": 1,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 0,
+    "crush_defence": 0,
+    "magic_defence": 0,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 5,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 5485,
+    "defend_animation": 5489,
+    "death_animation": 5491
+  },
+  { #Skeleton (POH)
+    "ids": [ 130 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 29,
+    "aggressive_level": 44,
+    "max_damage": 3,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 29.0,
+    "slayer_tasks": [ ],
+    //Combat Stats
+    "attack": 1,
+    "strength": 1,
+    "defence": 1,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 0,
+    "crush_defence": 0,
+    "magic_defence": 0,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 5,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 5485,
+    "defend_animation": 5489,
+    "death_animation": 5491,
+	//Misc
+	"combat_xp_modifier": 0
+  },
+  { #Skeleton (25)
+    "ids": [ 77, 78, 79, 80, 81 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 17,
+    "aggressive_level": 50,
+    "max_damage": 4,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 17.0,
+    "slayer_tasks": [ "Skeletons" ],
+    //Combat Stats
+    "attack": 1,
+    "strength": 1,
+    "defence": 1,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 0,
+    "crush_defence": 0,
+    "magic_defence": 0,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 5,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 5485,
+    "defend_animation": 5489,
+    "death_animation": 5491
+  },
+  { #Skeleton (42)
+    "ids": [ 6444, 6446 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 1,
+    "aggressive_level": 84,
+    "max_damage": 1,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 1.0,
+    "slayer_tasks": [ "Skeletons" ],
+    //Combat Stats
+    "attack": 1,
+    "strength": 1,
+    "defence": 1,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 0,
+    "crush_defence": 0,
+    "magic_defence": 0,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 2,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": -1,
+    "defend_animation": -1,
+    "death_animation": -1
+  },
+  { #Skeleton (45)
+    "ids": [ 82, 83 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 59,
+    "aggressive_level": 90,
+    "max_damage": 5,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 59.0,
+    "slayer_tasks": [ "Skeletons" ],
+    //Combat Stats
+    "attack": 1,
+    "strength": 1,
+    "defence": 1,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 0,
+    "crush_defence": 0,
+    "magic_defence": 0,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 5,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 5499,
+    "defend_animation": 5501,
+    "death_animation": 5503
+  },
+  { #Skeleton (60)
+    "ids": [ 2521, 2522, 2523 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 70,
+    "aggressive_level": 120,
+    "max_damage": 6,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 70.0,
+    "slayer_tasks": [ "Skeletons" ],
+    //Combat Stats
+    "attack": 1,
+    "strength": 1,
+    "defence": 1,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 0,
+    "crush_defence": 0,
+    "magic_defence": 0,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 2,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": -1,
+    "defend_animation": -1,
+    "death_animation": -1
+  },
+  { #Skeleton (68)
+    "ids": [ 2520 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 70,
+    "aggressive_level": 136,
+    "max_damage": 7,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 70.0,
+    "slayer_tasks": [ "Skeletons" ],
+    //Combat Stats
+    "attack": 1,
+    "strength": 1,
+    "defence": 1,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 0,
+    "crush_defence": 0,
+    "magic_defence": 0,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 2,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": -1,
+    "defend_animation": -1,
+    "death_animation": -1
+  },
+  { #Skeleton (77)
+    "ids": [ 1685, 1686, 1687, 1688, 6442 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 50,
+    "aggressive_level": 154,
+    "max_damage": 1,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 51.0,
+    "slayer_tasks": [ "Skeletons" ],
+    //Combat Stats
+    "attack": 1,
+    "strength": 1,
+    "defence": 1,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 0,
+    "crush_defence": 0,
+    "magic_defence": 0,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 2,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": -1,
+    "defend_animation": -1,
+    "death_animation": -1
+  },
+  { #Skeleton (85)
+    "ids": [ 2524, 2525, 2526 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 77,
+    "aggressive_level": 170,
+    "max_damage": 10,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 77.0,
+    "slayer_tasks": [ "Skeletons" ],
+    //Combat Stats
+    "attack": 1,
+    "strength": 1,
+    "defence": 1,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 0,
+    "crush_defence": 0,
+    "magic_defence": 0,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 2,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": -1,
+    "defend_animation": -1,
+    "death_animation": -1
+  }
+]

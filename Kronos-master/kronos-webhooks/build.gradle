@@ -1,0 +1,12 @@
+apply plugin: 'java'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile project(":kronos-api")
+    compileOnly group: 'org.projectlombok', name: 'lombok', version: 'edge-SNAPSHOT'
+    annotationProcessor group: 'org.projectlombok', name: 'lombok', version: 'edge-SNAPSHOT'
+}
+

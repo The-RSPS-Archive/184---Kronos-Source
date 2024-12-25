@@ -1,0 +1,45 @@
+[
+  { #Jungle spider (44)
+    "ids": [ 3020, 6267, 6271 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 51,
+    "aggressive_level": 88,
+    "max_damage": 5,
+    "attack_style": "STAB",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 50.0,
+    "slayer_tasks": [],
+    //Combat Stats
+    "attack": 35,
+    "strength": 37,
+    "defence": 35,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 20,
+    "slash_defence": 20,
+    "crush_defence": 10,
+    "magic_defence": 17,
+    "ranged_defence": 20,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 2,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": -1,
+    "defend_animation": -1,
+    "death_animation": -1
+  }
+]

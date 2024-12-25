@@ -1,0 +1,1334 @@
+[
+  {
+    "name": "Zombie",
+    "id": 2504,
+    "x": 2005,
+    "y": 5202,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Zombie",
+    "id": 2505,
+    "x": 2005,
+    "y": 5204,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Flesh Crawler",
+    "id": 2500,
+    "x": 2005,
+    "y": 5202,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Flesh Crawler",
+    "id": 2500,
+    "x": 2005,
+    "y": 5202,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Rat",
+    "id": 2513,
+    "x": 2005,
+    "y": 5203,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Zombie",
+    "id": 2504,
+    "x": 2005,
+    "y": 5208,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Zombie",
+    "id": 2507,
+    "x": 2013,
+    "y": 5189,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Flesh Crawler",
+    "id": 2500,
+    "x": 2005,
+    "y": 5201,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Flesh Crawler",
+    "id": 2500,
+    "x": 2005,
+    "y": 5202,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Rat",
+    "id": 2513,
+    "x": 2013,
+    "y": 5189,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Zombie",
+    "id": 2505,
+    "x": 2005,
+    "y": 5201,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Zombie",
+    "id": 2506,
+    "x": 2005,
+    "y": 5203,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Zombie",
+    "id": 2508,
+    "x": 2013,
+    "y": 5189,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Rat",
+    "id": 2513,
+    "x": 2014,
+    "y": 5192,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Rat",
+    "id": 2513,
+    "x": 2015,
+    "y": 5236,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Flesh Crawler",
+    "id": 2498,
+    "x": 2013,
+    "y": 5237,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Zombie",
+    "id": 2507,
+    "x": 2013,
+    "y": 5189,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Rat",
+    "id": 2513,
+    "x": 2014,
+    "y": 5189,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Rat",
+    "id": 2513,
+    "x": 2014,
+    "y": 5189,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Rat",
+    "id": 2513,
+    "x": 2015,
+    "y": 5189,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Giant rat",
+    "id": 2510,
+    "x": 2015,
+    "y": 5235,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Zombie",
+    "id": 2508,
+    "x": 2018,
+    "y": 5190,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Rat",
+    "id": 2513,
+    "x": 2019,
+    "y": 5190,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 11
+  },
+  {
+    "name": "Zombie",
+    "id": 2509,
+    "x": 2014,
+    "y": 5188,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Rat",
+    "id": 2513,
+    "x": 2025,
+    "y": 5189,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Rat",
+    "id": 2513,
+    "x": 2017,
+    "y": 5236,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Giant rat",
+    "id": 2511,
+    "x": 2019,
+    "y": 5235,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Giant rat",
+    "id": 2512,
+    "x": 2017,
+    "y": 5236,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Flesh Crawler",
+    "id": 2498,
+    "x": 2019,
+    "y": 5237,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Zombie",
+    "id": 2508,
+    "x": 2023,
+    "y": 5189,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Rat",
+    "id": 2513,
+    "x": 2026,
+    "y": 5190,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Zombie",
+    "id": 2507,
+    "x": 2026,
+    "y": 5190,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Rat",
+    "id": 2513,
+    "x": 2016,
+    "y": 5193,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Zombie",
+    "id": 2507,
+    "x": 2025,
+    "y": 5190,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Zombie",
+    "id": 2503,
+    "x": 2029,
+    "y": 5235,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Zombie",
+    "id": 2501,
+    "x": 2029,
+    "y": 5234,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Zombie",
+    "id": 2509,
+    "x": 2028,
+    "y": 5189,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Rat",
+    "id": 2513,
+    "x": 2027,
+    "y": 5189,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Rat",
+    "id": 2513,
+    "x": 2026,
+    "y": 5191,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Rat",
+    "id": 2513,
+    "x": 2029,
+    "y": 5234,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Zombie",
+    "id": 2501,
+    "x": 2029,
+    "y": 5234,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Rat",
+    "id": 2513,
+    "x": 2027,
+    "y": 5188,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Zombie",
+    "id": 2509,
+    "x": 2027,
+    "y": 5189,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Zombie",
+    "id": 2501,
+    "x": 2030,
+    "y": 5233,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Zombie",
+    "id": 2502,
+    "x": 2029,
+    "y": 5237,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Rat",
+    "id": 2513,
+    "x": 2030,
+    "y": 5236,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Rat",
+    "id": 2513,
+    "x": 2032,
+    "y": 5241,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Rat",
+    "id": 2513,
+    "x": 2027,
+    "y": 5189,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Zombie",
+    "id": 2508,
+    "x": 2027,
+    "y": 5192,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Zombie",
+    "id": 2502,
+    "x": 2029,
+    "y": 5233,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Zombie",
+    "id": 2503,
+    "x": 2029,
+    "y": 5233,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Zombie",
+    "id": 2502,
+    "x": 2029,
+    "y": 5235,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Rat",
+    "id": 2513,
+    "x": 2030,
+    "y": 5239,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Rat",
+    "id": 2513,
+    "x": 2030,
+    "y": 5234,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Flesh Crawler",
+    "id": 2498,
+    "x": 2029,
+    "y": 5232,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Rat",
+    "id": 2513,
+    "x": 2031,
+    "y": 5238,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Zombie",
+    "id": 2501,
+    "x": 2030,
+    "y": 5233,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Rat",
+    "id": 2513,
+    "x": 2033,
+    "y": 5241,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Rat",
+    "id": 2513,
+    "x": 2032,
+    "y": 5239,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Rat",
+    "id": 2513,
+    "x": 2029,
+    "y": 5234,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Rat",
+    "id": 2513,
+    "x": 2031,
+    "y": 5239,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Rat",
+    "id": 2513,
+    "x": 2036,
+    "y": 5202,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Flesh Crawler",
+    "id": 2499,
+    "x": 2040,
+    "y": 5191,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Giant rat",
+    "id": 2510,
+    "x": 2040,
+    "y": 5211,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Flesh Crawler",
+    "id": 2499,
+    "x": 2040,
+    "y": 5189,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Rat",
+    "id": 2513,
+    "x": 2039,
+    "y": 5209,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Zombie",
+    "id": 2504,
+    "x": 2041,
+    "y": 5212,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Zombie",
+    "id": 2504,
+    "x": 2041,
+    "y": 5213,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Zombie",
+    "id": 2504,
+    "x": 2041,
+    "y": 5216,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Flesh Crawler",
+    "id": 2499,
+    "x": 2040,
+    "y": 5187,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Rat",
+    "id": 2513,
+    "x": 2041,
+    "y": 5189,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Zombie",
+    "id": 2504,
+    "x": 2041,
+    "y": 5212,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Giant rat",
+    "id": 2511,
+    "x": 2040,
+    "y": 5214,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Flesh Crawler",
+    "id": 2498,
+    "x": 2041,
+    "y": 5231,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Rat",
+    "id": 2513,
+    "x": 2041,
+    "y": 5189,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Flesh Crawler",
+    "id": 2499,
+    "x": 2041,
+    "y": 5189,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Zombie",
+    "id": 2504,
+    "x": 2041,
+    "y": 5216,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Flesh Crawler",
+    "id": 2499,
+    "x": 2042,
+    "y": 5189,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Rat",
+    "id": 2513,
+    "x": 2041,
+    "y": 5203,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Rat",
+    "id": 2513,
+    "x": 2043,
+    "y": 5203,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Zombie",
+    "id": 2504,
+    "x": 2041,
+    "y": 5213,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Zombie",
+    "id": 2504,
+    "x": 2041,
+    "y": 5217,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Flesh Crawler",
+    "id": 2499,
+    "x": 2042,
+    "y": 5188,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Zombie",
+    "id": 2504,
+    "x": 2041,
+    "y": 5216,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Zombie",
+    "id": 2504,
+    "x": 2041,
+    "y": 5218,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Flesh Crawler",
+    "id": 2499,
+    "x": 2041,
+    "y": 5189,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Rat",
+    "id": 2513,
+    "x": 2042,
+    "y": 5189,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Rat",
+    "id": 2513,
+    "x": 2042,
+    "y": 5190,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Flesh Crawler",
+    "id": 2499,
+    "x": 2043,
+    "y": 5191,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Flesh Crawler",
+    "id": 2498,
+    "x": 2042,
+    "y": 5233,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Rat",
+    "id": 2513,
+    "x": 2041,
+    "y": 5202,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Rat",
+    "id": 2513,
+    "x": 1991,
+    "y": 5207,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Zombie",
+    "id": 2505,
+    "x": 1990,
+    "y": 5190,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Giant rat",
+    "id": 2510,
+    "x": 1990,
+    "y": 5189,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Zombie",
+    "id": 2504,
+    "x": 1990,
+    "y": 5189,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Rat",
+    "id": 2513,
+    "x": 1990,
+    "y": 5203,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Rat",
+    "id": 2513,
+    "x": 1990,
+    "y": 5206,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 9
+  },
+  {
+    "name": "Flesh Crawler",
+    "id": 2500,
+    "x": 1989,
+    "y": 5237,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Zombie",
+    "id": 2509,
+    "x": 1993,
+    "y": 5238,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Zombie",
+    "id": 2507,
+    "x": 1991,
+    "y": 5240,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Zombie",
+    "id": 2506,
+    "x": 1992,
+    "y": 5189,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Giant rat",
+    "id": 2510,
+    "x": 1990,
+    "y": 5191,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Rat",
+    "id": 2513,
+    "x": 1990,
+    "y": 5225,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Rat",
+    "id": 2513,
+    "x": 1990,
+    "y": 5229,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Rat",
+    "id": 2513,
+    "x": 1991,
+    "y": 5238,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Flesh Crawler",
+    "id": 2500,
+    "x": 1990,
+    "y": 5236,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Zombie",
+    "id": 2504,
+    "x": 1992,
+    "y": 5189,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Giant rat",
+    "id": 2511,
+    "x": 1991,
+    "y": 5189,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Rat",
+    "id": 2513,
+    "x": 1991,
+    "y": 5223,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Zombie",
+    "id": 2507,
+    "x": 1992,
+    "y": 5233,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Zombie",
+    "id": 2508,
+    "x": 1991,
+    "y": 5236,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Rat",
+    "id": 2513,
+    "x": 1992,
+    "y": 5240,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Rat",
+    "id": 2513,
+    "x": 1991,
+    "y": 5228,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Flesh Crawler",
+    "id": 2500,
+    "x": 1991,
+    "y": 5238,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Giant rat",
+    "id": 2511,
+    "x": 1991,
+    "y": 5189,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Zombie",
+    "id": 2505,
+    "x": 1992,
+    "y": 5190,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Rat",
+    "id": 2513,
+    "x": 1990,
+    "y": 5204,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Flesh Crawler",
+    "id": 2500,
+    "x": 1991,
+    "y": 5235,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Zombie",
+    "id": 2507,
+    "x": 1995,
+    "y": 5239,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Rat",
+    "id": 2513,
+    "x": 1998,
+    "y": 5238,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Zombie",
+    "id": 2504,
+    "x": 1993,
+    "y": 5190,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Rat",
+    "id": 2513,
+    "x": 1995,
+    "y": 5189,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Zombie",
+    "id": 2506,
+    "x": 1993,
+    "y": 5190,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Rat",
+    "id": 2513,
+    "x": 1990,
+    "y": 5202,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Rat",
+    "id": 2513,
+    "x": 1991,
+    "y": 5230,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Rat",
+    "id": 2513,
+    "x": 1991,
+    "y": 5208,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 11
+  },
+  {
+    "name": "Rat",
+    "id": 2513,
+    "x": 1991,
+    "y": 5208,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Rat",
+    "id": 2513,
+    "x": 1992,
+    "y": 5215,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Zombie",
+    "id": 2508,
+    "x": 1994,
+    "y": 5238,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Flesh Crawler",
+    "id": 2500,
+    "x": 1992,
+    "y": 5238,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Flesh Crawler",
+    "id": 2500,
+    "x": 1992,
+    "y": 5239,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Zombie",
+    "id": 2506,
+    "x": 1995,
+    "y": 5189,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Giant rat",
+    "id": 2512,
+    "x": 1992,
+    "y": 5190,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Zombie",
+    "id": 2505,
+    "x": 1996,
+    "y": 5189,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Rat",
+    "id": 2513,
+    "x": 1992,
+    "y": 5214,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Rat",
+    "id": 2513,
+    "x": 1991,
+    "y": 5236,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Zombie",
+    "id": 2508,
+    "x": 1993,
+    "y": 5239,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Rat",
+    "id": 2513,
+    "x": 1997,
+    "y": 5188,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Zombie",
+    "id": 2504,
+    "x": 2005,
+    "y": 5202,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Flesh Crawler",
+    "id": 2500,
+    "x": 2005,
+    "y": 5201,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Flesh Crawler",
+    "id": 2500,
+    "x": 2005,
+    "y": 5201,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Rat",
+    "id": 2513,
+    "x": 1999,
+    "y": 5189,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Rat",
+    "id": 2513,
+    "x": 1999,
+    "y": 5188,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Zombie",
+    "id": 2505,
+    "x": 2005,
+    "y": 5202,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Rat",
+    "id": 2513,
+    "x": 2005,
+    "y": 5207,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 9
+  },
+  {
+    "name": "Rat",
+    "id": 2513,
+    "x": 2004,
+    "y": 5214,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Rat",
+    "id": 2513,
+    "x": 2002,
+    "y": 5188,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Flesh Crawler",
+    "id": 2500,
+    "x": 2005,
+    "y": 5201,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  }
+]

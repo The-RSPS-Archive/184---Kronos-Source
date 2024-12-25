@@ -1,0 +1,93 @@
+[
+  {
+    "ids": [ 3185, 5942, 7259, 7260 ],
+    "guaranteed": [
+      { "id": 526, "min": 1, "max": 1 }   //Bones
+    ],
+    "tables": [
+      {
+        "name": "Weapons and armour",
+        "weight": 2,
+        "items": [
+          { "id": 3799, "min": 1, "max": 1, "weight": 12 },   //Fremennik gloves
+          { "id": 3767, "min": 1, "max": 1, "weight": 12 },   //Fremennik brown shirt
+          { "id": 3761, "min": 1, "max": 1, "weight": 12 },   //Fremennik brown cloak
+          { "id": 1353, "min": 1, "max": 1, "weight": 12 },   //Steel axe
+          { "id": 828, "min": 3, "max": 3, "weight": 12 },   //Mithril javelin
+          { "id": 886, "min": 15, "max": 15, "weight": 12 },   //Steel arrow
+          { "id": 6143, "min": 1, "max": 1, "weight": 2 },   //Spined boots
+          { "id": 6149, "min": 1, "max": 1, "weight": 2 },   //Spined gloves
+          { "id": 3758, "min": 1, "max": 1, "weight": 2 },   //Fremennik shield
+          { "id": 3748, "min": 1, "max": 1, "weight": 2 },   //Fremennik helm
+          { "id": 3757, "min": 1, "max": 1, "weight": 2 },   //Fremennik blade
+          { "id": 3751, "min": 1, "max": 1, "weight": 1 },   //Berserker helm
+          { "id": 3749, "min": 1, "max": 1, "weight": 1 },   //Archer helm
+          { "id": 3755, "min": 1, "max": 1, "weight": 1 },   //Farseer helm
+          { "id": 3753, "min": 1, "max": 1, "weight": 1 }   //Warrior helm
+        ]
+      },
+      {
+        "name": "Herbs and seeds",
+        "weight": 3,
+        "items": [
+          { "id": 199, "min": 1, "max": 1, "weight": 8 },   //Grimy guam leaf
+          { "id": 201, "min": 1, "max": 1, "weight": 8 },   //Grimy marrentill
+          { "id": 203, "min": 1, "max": 1, "weight": 8 },   //Grimy tarromin
+          { "id": 205, "min": 1, "max": 1, "weight": 8 },   //Grimy harralander
+          { "id": 207, "min": 1, "max": 1, "weight": 8 },   //Grimy ranarr weed
+          { "id": 209, "min": 1, "max": 1, "weight": 8 },   //Grimy irit leaf
+          { "id": 211, "min": 1, "max": 1, "weight": 8 },   //Grimy avantoe
+          { "id": 213, "min": 1, "max": 1, "weight": 8 },   //Grimy kwuarm
+          { "id": 215, "min": 1, "max": 1, "weight": 5 },   //Grimy cadantine
+          { "id": 2485, "min": 1, "max": 1, "weight": 5 },   //Grimy lantadyme
+          { "id": 217, "min": 1, "max": 1, "weight": 5 },   //Grimy dwarf weed
+          { "id": 5297, "min": 1, "max": 1, "weight": 1 },   //Irit seed
+          { "id": 5296, "min": 1, "max": 1, "weight": 1 },   //Toadflax seed
+          { "id": 5298, "min": 1, "max": 1, "weight": 1 },   //Avantoe seed
+          { "id": 5303, "min": 1, "max": 1, "weight": 1 },   //Dwarf weed seed
+          { "id": 5299, "min": 1, "max": 1, "weight": 1 },   //Kwuarm seed
+          { "id": 5281, "min": 1, "max": 1, "weight": 1 },   //Belladonna seed
+          { "id": 5280, "min": 1, "max": 1, "weight": 1 },   //Cactus seed
+          { "id": 5300, "min": 1, "max": 1, "weight": 1 }   //Snapdragon seed
+        ]
+      },
+      {
+        "name": "Runes and talismans",
+        "weight": 1,
+        "items": [
+          { "id": 1438, "min": 1, "max": 1, "weight": 1 },   //Air talisman
+          { "id": 1444, "min": 1, "max": 1, "weight": 1 },   //Water talisman
+          { "id": 1440, "min": 1, "max": 1, "weight": 1 },   //Earth talisman
+          { "id": 1442, "min": 1, "max": 1, "weight": 1 },   //Fire talisman
+          { "id": 1448, "min": 1, "max": 1, "weight": 1 },   //Mind talisman
+          { "id": 1446, "min": 1, "max": 1, "weight": 1 },   //Body talisman
+          { "id": 555, "min": 10, "max": 10, "weight": 1 },   //Water rune
+          { "id": 561, "min": 5, "max": 15, "weight": 1 },   //Nature rune
+          { "id": 565, "min": 5, "max": 15, "weight": 1 },   //Blood rune
+          { "id": 563, "min": 5, "max": 15, "weight": 1 }   //Law rune
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 2,
+        "items": [
+          { "id": 6155, "min": 1, "max": 1, "weight": 10 },   //Dagannoth hide
+          { "id": 590, "min": 1, "max": 1, "weight": 10},   //Tinderbox
+          { "id": 377, "min": 1, "max": 1, "weight": 10},   //Raw lobster
+          { "id": 411, "min": 1, "max": 1, "weight": 10 },   //Oyster pearl
+          { "id": 995, "min": 3, "max": 3, "weight": 10 },   //Coins
+          { "id": 995, "min": 26, "max": 26, "weight": 2 },   //Coins
+          { "id": 995, "min": 38, "max": 38, "weight": 2 },   //Coins
+          { "id": 995, "min": 47, "max": 47, "weight": 2 },   //Coins
+          { "id": 995, "min": 81, "max": 81, "weight": 2 },   //Coins
+          { "id": 6171, "min": 1, "max": 1, "weight": 1 },   //Flattened hide
+          { "id": 6173, "min": 1, "max": 1, "weight": 1 },   //Stretched hide
+          { "id": 6169, "min": 1, "max": 1, "weight": 1 },   //Circular hide
+          { "id": 3801, "min": 1, "max": 1, "weight": 1 },   //Keg of beer
+          { "id": 13493, "min": 1, "max": 1, "weight": 1 },   //Ensouled dagannoth head
+          { "id": 2801, "min": 1, "max": 1, "weight": 1 }   //Clue scroll (medium)
+        ]
+      }
+    ]
+  }
+]

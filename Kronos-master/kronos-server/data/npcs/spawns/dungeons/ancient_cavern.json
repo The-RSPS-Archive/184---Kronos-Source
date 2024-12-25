@@ -1,0 +1,389 @@
+[
+  {
+    "name": "Skeleton warlord",
+    "id": 1539,
+    "x": 1763,
+    "y": 5357,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Waterfiend",
+    "id": 2916,
+    "x": 1763,
+    "y": 5359,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Brutal green dragon",
+    "id": 2918,
+    "x": 1765,
+    "y": 5334,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Waterfiend",
+    "id": 2916,
+    "x": 1766,
+    "y": 5360,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Confused barbarian",
+    "id": 2920,
+    "x": 1767,
+    "y": 5344,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Waterfiend",
+    "id": 2916,
+    "x": 1767,
+    "y": 5355,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Brutal green dragon",
+    "id": 2918,
+    "x": 1769,
+    "y": 5342,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Brutal green dragon",
+    "id": 2918,
+    "x": 1772,
+    "y": 5357,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Brutal green dragon",
+    "id": 2918,
+    "x": 1774,
+    "y": 5349,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Enraged barbarian spirit",
+    "id": 5564,
+    "x": 1775,
+    "y": 5324,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Brutal green dragon",
+    "id": 2918,
+    "x": 1776,
+    "y": 5331,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Berserk barbarian spirit",
+    "id": 5565,
+    "x": 1778,
+    "y": 5325,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Skeleton thug",
+    "id": 1541,
+    "x": 1786,
+    "y": 5338,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Mithril dragon",
+    "id": 2919,
+    "x": 1755,
+    "y": 5324,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Mithril dragon",
+    "id": 2919,
+    "x": 1763,
+    "y": 5336,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Skeleton heavy",
+    "id": 1540,
+    "x": 1756,
+    "y": 5353,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Mithril dragon",
+    "id": 2919,
+    "x": 1765,
+    "y": 5333,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Mithril dragon",
+    "id": 2919,
+    "x": 1766,
+    "y": 5342,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Mithril dragon",
+    "id": 2919,
+    "x": 1779,
+    "y": 5339,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Mithril dragon",
+    "id": 2919,
+    "x": 1780,
+    "y": 5355,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Mithril dragon",
+    "id": 2919,
+    "x": 1782,
+    "y": 5327,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Skeleton warlord",
+    "id": 1539,
+    "x": 1786,
+    "y": 5331,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Skeleton heavy",
+    "id": 1540,
+    "x": 1764,
+    "y": 5334,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Waterfiend",
+    "id": 2916,
+    "x": 1740,
+    "y": 5343,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Waterfiend",
+    "id": 2916,
+    "x": 1739,
+    "y": 5349,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Waterfiend",
+    "id": 2916,
+    "x": 1740,
+    "y": 5351,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Waterfiend",
+    "id": 2916,
+    "x": 1741,
+    "y": 5357,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Waterfiend",
+    "id": 2916,
+    "x": 1743,
+    "y": 5342,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Waterfiend",
+    "id": 2916,
+    "x": 1743,
+    "y": 5359,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Angry barbarian spirit",
+    "id": 5563,
+    "x": 1746,
+    "y": 5327,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Waterfiend",
+    "id": 2916,
+    "x": 1746,
+    "y": 5340,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Waterfiend",
+    "id": 2916,
+    "x": 1745,
+    "y": 5362,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Skeleton brute",
+    "id": 1538,
+    "x": 1748,
+    "y": 5324,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Enraged barbarian spirit",
+    "id": 5564,
+    "x": 1751,
+    "y": 5332,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Waterfiend",
+    "id": 2916,
+    "x": 1750,
+    "y": 5339,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Waterfiend",
+    "id": 2916,
+    "x": 1755,
+    "y": 5352,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Waterfiend",
+    "id": 2916,
+    "x": 1756,
+    "y": 5355,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Waterfiend",
+    "id": 2916,
+    "x": 1759,
+    "y": 5357,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Brutal green dragon",
+    "id": 2918,
+    "x": 1762,
+    "y": 5337,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 10
+  },
+  {
+    "name": "Waterfiend",
+    "id": 2916,
+    "x": 1759,
+    "y": 5357,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "King Black Dragon",
+    "id": 239,
+    "x": 2271,
+    "y": 4702,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Lost barbarian",
+    "id": 2921,
+    "x": 1761,
+    "y": 5322,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Brutal green dragon",
+    "id": 2918,
+    "x": 1764,
+    "y": 5328,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  }
+]

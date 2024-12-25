@@ -1,0 +1,24 @@
+[
+  {
+    "ids": [ 3966, 8300, 8301, 8302 ],
+    "guaranteed": [
+      { "id": 526, "min": 1, "max": 1 } //Bones
+    ],
+    "tables": [
+      {
+        "name": "Empty",
+        "weight": 16,
+        "items": []
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 3457, "min": 1, "max": 1, "weight": 1 }, //Clue key
+          { "id": 3455, "min": 1, "max": 1, "weight": 1 }, //Clue key
+          { "id": 3458, "min": 1, "max": 1, "weight": 1 } //Clue key
+        ]
+      }
+    ]
+  }
+]

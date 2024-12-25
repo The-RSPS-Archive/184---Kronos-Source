@@ -1,0 +1,578 @@
+[
+  {
+    "name": "Revenant goblin",
+    "id": 7931,
+    "x": 3233,
+    "y": 10181,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Black dragon",
+    "id": 7862,
+    "x": 3235,
+    "y": 10199,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Revenant dragon",
+    "id": 7940,
+    "x": 3239,
+    "y": 10176,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Black dragon",
+    "id": 7863,
+    "x": 3240,
+    "y": 10200,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Revenant imp",
+    "id": 7881,
+    "x": 3248,
+    "y": 10184,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Lesser demon",
+    "id": 7866,
+    "x": 3153,
+    "y": 10111,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Lesser demon",
+    "id": 7865,
+    "x": 3167,
+    "y": 10109,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Hellhound",
+    "id": 7877,
+    "x": 3194,
+    "y": 10072,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Hellhound",
+    "id": 7877,
+    "x": 3195,
+    "y": 10067,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Hellhound",
+    "id": 7877,
+    "x": 3198,
+    "y": 10073,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Ankou",
+    "id": 7864,
+    "x": 3164,
+    "y": 10195,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Ankou",
+    "id": 7864,
+    "x": 3167,
+    "y": 10185,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Ankou",
+    "id": 7864,
+    "x": 3171,
+    "y": 10204,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Ankou",
+    "id": 7864,
+    "x": 3175,
+    "y": 10198,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Ankou",
+    "id": 7864,
+    "x": 3170,
+    "y": 10183,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Ankou",
+    "id": 7864,
+    "x": 3175,
+    "y": 10197,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Ankou",
+    "id": 7864,
+    "x": 3175,
+    "y": 10183,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Ankou",
+    "id": 7864,
+    "x": 3182,
+    "y": 10203,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Ankou",
+    "id": 7864,
+    "x": 3182,
+    "y": 10200,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Ankou",
+    "id": 7864,
+    "x": 3185,
+    "y": 10192,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Emblem Trader",
+    "id": 7941,
+    "x": 3246,
+    "y": 10169,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Lesser demon",
+    "id": 7867,
+    "x": 3148,
+    "y": 10113,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Lesser demon",
+    "id": 7865,
+    "x": 3151,
+    "y": 10121,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Lesser demon",
+    "id": 7866,
+    "x": 3156,
+    "y": 10117,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Lesser demon",
+    "id": 7867,
+    "x": 3158,
+    "y": 10111,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Ice giant",
+    "id": 7878,
+    "x": 3202,
+    "y": 10163,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Lesser demon",
+    "id": 7866,
+    "x": 3161,
+    "y": 10112,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Ice giant",
+    "id": 7880,
+    "x": 3201,
+    "y": 10170,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Black demon",
+    "id": 7874,
+    "x": 3163,
+    "y": 10154,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Ice giant",
+    "id": 7880,
+    "x": 3207,
+    "y": 10158,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Lesser demon",
+    "id": 7865,
+    "x": 3166,
+    "y": 10119,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Ice giant",
+    "id": 7879,
+    "x": 3205,
+    "y": 10168,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Black demon",
+    "id": 7875,
+    "x": 3168,
+    "y": 10162,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Ice giant",
+    "id": 7878,
+    "x": 3214,
+    "y": 10166,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Lesser demon",
+    "id": 7867,
+    "x": 3170,
+    "y": 10112,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Lesser demon",
+    "id": 7866,
+    "x": 3169,
+    "y": 10118,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Greater demon",
+    "id": 7871,
+    "x": 3215,
+    "y": 10130,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Ice giant",
+    "id": 7879,
+    "x": 3217,
+    "y": 10168,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Black demon",
+    "id": 7876,
+    "x": 3175,
+    "y": 10149,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Black demon",
+    "id": 7874,
+    "x": 3177,
+    "y": 10155,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Greater demon",
+    "id": 7873,
+    "x": 3224,
+    "y": 10142,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Greater demon",
+    "id": 7872,
+    "x": 3220,
+    "y": 10122,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Greater demon",
+    "id": 7871,
+    "x": 3229,
+    "y": 10132,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Greater demon",
+    "id": 7873,
+    "x": 3229,
+    "y": 10126,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Greater demon",
+    "id": 7873,
+    "x": 3231,
+    "y": 10136,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Greater demon",
+    "id": 7872,
+    "x": 3235,
+    "y": 10132,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Revenant pyrefiend",
+    "id": 7932,
+    "x": 3226,
+    "y": 10180,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Revenant demon",
+    "id": 7936,
+    "x": 3235,
+    "y": 10161,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Revenant ork",
+    "id": 7937,
+    "x": 3236,
+    "y": 10168,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Revenant knight",
+    "id": 7939,
+    "x": 3251,
+    "y": 10166,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Revenant pyrefiend",
+    "id": 7932,
+    "x": 3246,
+    "y": 10162,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Revenant cyclops",
+    "id": 7934,
+    "x": 3247,
+    "y": 10156,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Revenant ork",
+    "id": 7937,
+    "x": 3252,
+    "y": 10151,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Hellhound",
+    "id": 7877,
+    "x": 3203,
+    "y": 10069,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Hellhound",
+    "id": 7877,
+    "x": 3203,
+    "y": 10075,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Green dragon",
+    "id": 7869,
+    "x": 3207,
+    "y": 10092,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Green dragon",
+    "id": 7870,
+    "x": 3212,
+    "y": 10098,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Green dragon",
+    "id": 7868,
+    "x": 3220,
+    "y": 10064,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Green dragon",
+    "id": 7870,
+    "x": 3220,
+    "y": 10075,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Green dragon",
+    "id": 7868,
+    "x": 3221,
+    "y": 10093,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Green dragon",
+    "id": 7869,
+    "x": 3227,
+    "y": 10068,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Black dragon",
+    "id": 7861,
+    "x": 3234,
+    "y": 10203,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Revenant dark beast",
+    "id": 7938,
+    "x": 3252,
+    "y": 10143,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Revenant hellhound",
+    "id": 7935,
+    "x": 3250,
+    "y": 10173,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  }
+]

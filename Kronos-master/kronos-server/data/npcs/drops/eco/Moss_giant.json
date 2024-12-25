@@ -1,0 +1,101 @@
+[
+  {
+    "ids": [ 2090, 2091, 2092, 2093, 7262, 3851, 3852 ],
+    "guaranteed": [
+      { "id": 532, "min": 1, "max": 1 } //Big bones
+    ],
+    "tables": [
+      {
+        "name": "Equipment",
+        "weight": 1,
+        "items": [
+          { "id": 1179, "min": 1, "max": 1, "weight": 9 }, //Black sq shield
+          { "id": 1141, "min": 1, "max": 1, "weight": 6 }, //Steel med helm
+          { "id": 1389, "min": 1, "max": 1, "weight": 6 }, //Magic staff
+          { "id": 1285, "min": 1, "max": 1, "weight": 6 }, //Mithril sword
+          { "id": 884, "min": 15, "max": 15, "weight": 3 }, //Iron arrow
+          { "id": 886, "min": 30, "max": 30, "weight": 3 }, //Steel arrow
+          { "id": 1193, "min": 1, "max": 1, "weight": 1 }, //Steel kiteshield
+          { "id": 1243, "min": 1, "max": 1, "weight": 1 } //Mithril spear
+        ]
+      },
+      {
+        "name": "Herbs (members only)",
+        "weight": 1,
+        "items": [
+          { "id": 199, "min": 1, "max": 1, "weight": 6 }, //Grimy guam leaf
+          { "id": 201, "min": 1, "max": 1, "weight": 6 }, //Grimy marrentill
+          { "id": 203, "min": 1, "max": 1, "weight": 6 }, //Grimy tarromin
+          { "id": 205, "min": 1, "max": 1, "weight": 3 }, //Grimy harralander
+          { "id": 207, "min": 1, "max": 1, "weight": 3 }, //Grimy ranarr weed
+          { "id": 209, "min": 1, "max": 1, "weight": 3 }, //Grimy irit leaf
+          { "id": 211, "min": 1, "max": 1, "weight": 3 }, //Grimy avantoe
+          { "id": 213, "min": 1, "max": 1, "weight": 1 }, //Grimy kwuarm
+          { "id": 215, "min": 1, "max": 1, "weight": 1 }, //Grimy cadantine
+          { "id": 2485, "min": 1, "max": 1, "weight": 1 }, //Grimy lantadyme
+          { "id": 217, "min": 1, "max": 1, "weight": 1 } //Grimy dwarf weed
+        ]
+      },
+      {
+        "name": "Runes/Talismans",
+        "weight": 1,
+        "items": [
+          { "id": 556, "min": 18, "max": 18, "weight": 6 }, //Air rune
+          { "id": 557, "min": 27, "max": 27, "weight": 6 }, //Earth rune
+          { "id": 561, "min": 6, "max": 6, "weight": 3 }, //Nature rune
+          { "id": 563, "min": 3, "max": 6, "weight": 3 }, //Law rune
+          { "id": 565, "min": 1, "max": 1, "weight": 3 }, //Blood rune
+          { "id": 562, "min": 7, "max": 7, "weight": 3 }, //Chaos rune
+          { "id": 564, "min": 3, "max": 3, "weight": 1 }, //Cosmic rune
+          { "id": 560, "min": 1, "max": 1, "weight": 1 }, //Death rune
+          { "id": 560, "min": 3, "max": 3, "weight": 1 } //Death rune
+        ]
+      },
+      {
+        "name": "Seeds (members only)",
+        "weight": 1,
+        "items": [
+          { "id": 5323, "min": 1, "max": 1, "weight": 9 }, //Strawberry seed
+          { "id": 5104, "min": 1, "max": 1, "weight": 9 }, //Jangerberry seed
+          { "id": 5311, "min": 1, "max": 1, "weight": 9 }, //Wildblood seed
+          { "id": 5292, "min": 1, "max": 1, "weight": 9 }, //Marrentill seed
+          { "id": 5293, "min": 1, "max": 1, "weight": 9 }, //Tarromin seed
+          { "id": 5294, "min": 1, "max": 1, "weight": 9 }, //Harralander seed
+          { "id": 5100, "min": 1, "max": 1, "weight": 9 }, //Limpwurt seed
+          { "id": 5281, "min": 1, "max": 1, "weight": 9 }, //Belladonna seed
+          { "id": 5296, "min": 1, "max": 1, "weight": 6 }, //Toadflax seed
+          { "id": 5105, "min": 1, "max": 1, "weight": 6 }, //Whiteberry seed
+          { "id": 5282, "min": 1, "max": 1, "weight": 6 }, //Mushroom spore
+          { "id": 4205, "min": 1, "max": 1, "weight": 6 }, //Consecration seed
+          { "id": 5295, "min": 1, "max": 1, "weight": 6 }, //Ranarr seed
+          { "id": 5321, "min": 1, "max": 1, "weight": 6 }, //Watermelon seed
+          { "id": 5298, "min": 1, "max": 1, "weight": 6 }, //Avantoe seed
+          { "id": 5280, "min": 1, "max": 1, "weight": 3 }, //Cactus seed
+          { "id": 5297, "min": 1, "max": 1, "weight": 3 }, //Irit seed
+          { "id": 5299, "min": 1, "max": 1, "weight": 3 }, //Kwuarm seed
+          { "id": 5106, "min": 1, "max": 1, "weight": 3 }, //Poison ivy seed
+          { "id": 5301, "min": 1, "max": 1, "weight": 1 }, //Cadantine seed
+          { "id": 5302, "min": 1, "max": 1, "weight": 1 }, //Lantadyme seed
+          { "id": 5300, "min": 1, "max": 1, "weight": 1 }, //Snapdragon seed
+          { "id": 5304, "min": 1, "max": 1, "weight": 1 }, //Torstol seed
+          { "id": 5303, "min": 1, "max": 1, "weight": 1 } //Dwarf weed seed
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 995, "min": 2, "max": 2, "weight": 6 }, //Coins
+          { "id": 995, "min": 4, "max": 4, "weight": 6 }, //Coins
+          { "id": 995, "min": 37, "max": 37, "weight": 6 }, //Coins
+          { "id": 995, "min": 119, "max": 119, "weight": 3 }, //Coins
+          { "id": 995, "min": 300, "max": 300, "weight": 3 }, //Coins
+          { "id": 2353, "min": 1, "max": 1, "weight": 3 }, //Steel bar
+          { "id": 453, "min": 1, "max": 1, "weight": 3 }, //Coal
+          { "id": 1969, "min": 1, "max": 1, "weight": 1 }, //Spinach roll
+          { "id": 13475, "min": 1, "max": 1, "weight": 1 } //Ensouled giant head
+        ]
+      }
+    ]
+  }
+]

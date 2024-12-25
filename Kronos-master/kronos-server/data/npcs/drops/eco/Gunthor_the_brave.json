@@ -1,0 +1,47 @@
+[
+  {
+    "ids": [ 299 ],
+    "tables": [
+      {
+        "name": "Runes and talismans",
+        "weight": 1,
+        "items": [
+          { "id": 563, "min": 2, "max": 2, "weight": 3 }, //Law rune
+          { "id": 562, "min": 3, "max": 3, "weight": 3 }, //Chaos rune
+          { "id": 557, "min": 5, "max": 5, "weight": 3 }, //Earth rune
+          { "id": 1462, "min": 1, "max": 1, "weight": 1 } //Nature talisman
+        ]
+      },
+      {
+        "name": "Weapons and ammunition",
+        "weight": 1,
+        "items": [
+          { "id": 884, "min": 3, "max": 3, "weight": 6 }, //Iron arrow
+          { "id": 884, "min": 8, "max": 8, "weight": 6 }, //Iron arrow
+          { "id": 884, "min": 10, "max": 10, "weight": 3 }, //Iron arrow
+          { "id": 886, "min": 9, "max": 9, "weight": 3 }, //Steel arrow
+          { "id": 1375, "min": 1, "max": 1, "weight": 1 }, //Bronze battleaxe
+          { "id": 882, "min": 1, "max": 15, "weight": 1 } //Bronze arrow
+        ]
+      },
+      {
+        "name": "Other drops",
+        "weight": 1,
+        "items": [
+          { "id": 995, "min": 5, "max": 32, "weight": 9 }, //Coins
+          { "id": 2142, "min": 1, "max": 1, "weight": 9 }, //Cooked meat
+          { "id": 1349, "min": 1, "max": 1, "weight": 6 }, //Iron axe
+          { "id": 1595, "min": 1, "max": 1, "weight": 6 }, //Amulet mould
+          { "id": 1917, "min": 1, "max": 1, "weight": 6 }, //Beer
+          { "id": 948, "min": 1, "max": 1, "weight": 6 }, //Bear fur
+          { "id": 1621, "min": 1, "max": 1, "weight": 3 }, //Uncut emerald
+          { "id": 2677, "min": 1, "max": 1, "weight": 3 }, //Clue scroll (easy)
+          { "id": 1623, "min": 1, "max": 1, "weight": 3 }, //Uncut sapphire
+          { "id": 956, "min": 1, "max": 1, "weight": 3 }, //Flier
+          { "id": 1619, "min": 1, "max": 1, "weight": 1 }, //Uncut ruby
+          { "id": 1617, "min": 1, "max": 1, "weight": 1 } //Uncut diamond
+        ]
+      }
+    ]
+  }
+]

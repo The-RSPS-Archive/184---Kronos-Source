@@ -1,0 +1,45 @@
+[
+  { #Giant bat (27)
+    "ids": [ 2834, 4504, 6824 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 32,
+    "aggressive_level": 54,
+    "max_damage": 3,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 32.0,
+    "slayer_tasks": [ "Bats" ],
+    //Combat Stats
+    "attack": 22,
+    "strength": 22,
+    "defence": 22,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 10,
+    "slash_defence": 10,
+    "crush_defence": 12,
+    "magic_defence": 10,
+    "ranged_defence": 8,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 2,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 4915,
+    "defend_animation": 4916,
+    "death_animation": 4917
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Zygomite",
+    "id": 537,
+    "x": 2490,
+    "y": 4452,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Zygomite",
+    "id": 537,
+    "x": 2481,
+    "y": 4452,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Zygomite",
+    "id": 537,
+    "x": 2479,
+    "y": 4459,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Zygomite",
+    "id": 537,
+    "x": 2474,
+    "y": 4461,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Zygomite",
+    "id": 537,
+    "x": 2479,
+    "y": 4466,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Zygomite",
+    "id": 537,
+    "x": 2465,
+    "y": 4467,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  }
+]

@@ -1,0 +1,704 @@
+[
+  {
+    "name": "Fairy Fixit",
+    "id": 7333,
+    "x": 2019,
+    "y": 3590,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1,
+    "world": "ECO",
+    "shopOptions": {
+      "trade": "57466715-a9d7-4284-bfc2-190ce93e07f2"
+    }
+  },
+  {
+    "name": "Adventurer John",
+    "id": 9244,
+    "x": 2028,
+    "y": 3581,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0,
+    "world": "ECO",
+    "shopOptions": {
+      "trade": "57466715-a9d7-4284-bfc2-190ce93e07f2"
+    }
+  },
+  {
+    "name": "Grum",
+    "id": 2889,
+    "x": 2022,
+    "y": 3565,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 0,
+    "world": "ECO",
+    "shopOptions": {
+      "trade": "9c9c490e-61b9-4aec-b4be-0321105e2d5b"
+    }
+  },
+  {
+    "name": "Herblore",
+    "id": 8532,
+    "x": 2021,
+    "y": 3568,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 0,
+    "world": "ECO",
+    "shopOptions": {
+      "trade": "1f68200d-0ba3-4a2e-859d-ec1888679034"
+    }
+  },
+  {
+    "name": "Tournament Manager",
+    "id": 7316,
+    "x": 3112,
+    "y": 3513,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0,
+    "world": "ECO"
+  },
+  {
+    "name": "Horvik",
+    "id": 2882,
+    "x": 2023,
+    "y": 3568,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0,
+    "world": "ECO"
+  },
+  {
+    "name": "Caretaker",
+    "id": 6002,
+    "x": 2024,
+    "y": 3585,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3,
+    "world": "ECO",
+    "shopOptions": {
+      "trade": "347ca8b3-dd43-4a46-bf05-3a452e5e1f3c"
+    }
+  },
+  {
+    "name": "Gambler",
+    "id": 5523,
+    "x": 2014,
+    "y": 3582,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0,
+    "shopOptions": {
+      "trade": "4d16cff7-a3a8-4351-9aae-d88ef2f7e037"
+    }
+  },
+  {
+    "name": "Make-over mage",
+    "id": 1307,
+    "x": 2016,
+    "y": 3585,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0
+  },
+  {
+    "name": "Kronos Expert",
+    "id": 306,
+    "x": 2022,
+    "y": 3569,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 0
+  },
+  {
+    "name": "Security Advisor",
+    "id": 5442,
+    "x": 2020,
+    "y": 3569,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 0
+  },
+  {
+    "name": "Sawmill operator",
+    "id": 5422,
+    "x": 2029,
+    "y": 3573,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1,
+    "shopOptions": {
+      "trade": "a1e55885-3aa4-4d63-8a5e-5808c01f54e0"
+    }
+  },
+  {
+    "name": "Estate agent",
+    "id": 5419,
+    "x": 2030,
+    "y": 3569,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 0
+  },
+  {
+    "name": "Man",
+    "id": 3080,
+    "x": 2022,
+    "y": 3584,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3,
+    "world": "ECO"
+  },
+  {
+    "name": "Man",
+    "id": 3080,
+    "x": 2016,
+    "y": 3573,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4,
+    "world": "ECO"
+  },
+  {
+    "name": "Portal Mage",
+    "id": 7064,
+    "x": 2045,
+    "y": 3579,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Portal Mage",
+    "id": 7064,
+    "x": 2043,
+    "y": 3577,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0
+  },
+  {
+    "name": "Portal Mage",
+    "id": 7064,
+    "x": 2045,
+    "y": 3575,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 0
+  },
+  {
+    "name": "Portal Mage",
+    "id": 7064,
+    "x": 2047,
+    "y": 3577,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 0
+  },
+  {
+    "name": "Nieve",
+    "id": 6797,
+    "x": 2025,
+    "y": 3585,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0,
+    "shopOptions": {
+      "trade": "06bf1d5a-e4d8-49f5-9aac-6229a965b98a"
+    }
+  },
+  {
+    "name": "Turael",
+    "id": 401,
+    "x": 2024,
+    "y": 3585,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0,
+    "shopOptions": {
+      "trade": "06bf1d5a-e4d8-49f5-9aac-6229a965b98a"
+    }
+  },
+  {
+    "name": "Drunken dwarf",
+    "id": 2408,
+    "x": 2027,
+    "y": 3585,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Grace",
+    "id": 5919,
+    "x": 2029,
+    "y": 3581,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0,
+    "shopOptions": {
+      "trade": "130e716b-eb95-479b-ab1e-2a3dbdc52c6f"
+    }
+  },
+  {
+    "name": "Garret",
+    "id": 2891,
+    "x": 2037,
+    "y": 3594,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 0,
+    "shopOptions": {
+      "trade": "4ea4cb73-305a-445c-a7ab-131a90a1d8b5"
+    }
+  },
+  {
+    "name": "Donation Manager",
+    "id": 2108,
+    "x": 2011,
+    "y": 3575,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 0
+  },
+  {
+    "name": "Vote Manager",
+    "id": 1815,
+    "x": 2011,
+    "y": 3579,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0,
+    "shopOptions": {
+      "trade": "aecef817-39c1-4a22-9ee9-2815da9dd3df"
+    }
+  },
+  {
+    "name": "Chief Servant",
+    "id": 5417,
+    "x": 2037,
+    "y": 3562,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 0
+  },
+  {
+    "name": "Rick",
+    "id": 221,
+    "x": 2034,
+    "y": 3560,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 1
+  },
+  {
+    "name": "Maid",
+    "id": 223,
+    "x": 2037,
+    "y": 3556,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 1
+  },
+  {
+    "name": "Cook",
+    "id": 225,
+    "x": 2034,
+    "y": 3557,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 1
+  },
+  {
+    "name": "Butler",
+    "id": 227,
+    "x": 2037,
+    "y": 3557,
+    "z": 1,
+    "direction": "W",
+    "walkRange": 1
+  },
+  {
+    "name": "Demon Butler",
+    "id": 229,
+    "x": 2036,
+    "y": 3561,
+    "z": 1,
+    "direction": "W",
+    "walkRange": 1
+  },
+  {
+    "name": "Guard",
+    "id": 3245,
+    "x": 2008,
+    "y": 3563,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Guard",
+    "id": 3245,
+    "x": 2008,
+    "y": 3568,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Paladin",
+    "id": 3105,
+    "x": 2011,
+    "y": 3566,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Max hit dummy",
+    "id": 2668,
+    "x": 2031,
+    "y": 3575,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 0
+  },
+  {
+    "name": "Max hit dummy",
+    "id": 2668,
+    "x": 2031,
+    "y": 3579,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Banker",
+    "id": 3888,
+    "x": 2006,
+    "y": 3580,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0
+  },
+  {
+    "name": "Banker",
+    "id": 3888,
+    "x": 2006,
+    "y": 3578,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0
+  },
+  {
+    "name": "Banker",
+    "id": 3888,
+    "x": 2006,
+    "y": 3576,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0
+  },
+  {
+    "name": "Banker",
+    "id": 3888,
+    "x": 2006,
+    "y": 3575,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0
+  },
+  {
+    "name": "Grand Exchange Clerk",
+    "id": 2148,
+    "x": 2022,
+    "y": 3577,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0
+  },
+  {
+    "name": "Grand Exchange Clerk",
+    "id": 3888,
+    "x": 2021,
+    "y": 3576,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Grand Exchange Clerk",
+    "id": 2148,
+    "x": 2020,
+    "y": 3577,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 0
+  },
+  {
+    "name": "Grand Exchange Clerk",
+    "id": 3888,
+    "x": 2021,
+    "y": 3578,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 0
+  },
+  {
+    "name": "Ironman",
+    "id": 311,
+    "x": 2027,
+    "y": 3562,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1,
+    "shopOptions": {
+      "open-shop": "11ddf699-41d6-4d0a-8c05-5b3c721b0849"
+    }
+  },
+  {
+    "name": "Shop",
+    "id": 5081,
+    "x": 2021,
+    "y": 3562,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0,
+    "shopOptions": {
+      "Magic": "64473b09-f91f-44b6-93be-4c36b4d19133",
+      "Armour": "3a66d8c1-dd6f-444e-a91e-24ea1f0135c0",
+      "Ironman": "236570a3-5c34-4942-bdbe-8457fc03c1fb"
+    }
+  },
+  {
+    "name": "Shop",
+    "id": 5051,
+    "x": 2018,
+    "y": 3560,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 0,
+    "shopOptions": {
+      "Ranged": "c1acaaeb-7e71-492d-97f1-ba2d38c90648",
+      "armour": "4643a9b8-4ccb-4180-bfbc-ad340319fef2",
+      "ironman": "bb1bac92-f812-4118-b462-8e020212934e"
+    }
+  },
+  {
+    "name": "Shop",
+    "id": 2153,
+    "x": 2020,
+    "y": 3561,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 0,
+    "shopOptions": {
+      "melee": "d8644890-1eb6-47c6-a074-ccb2833f8ea6",
+      "Armour": "81c7cb3a-f03f-4862-9d3e-3d63ddb64a8a",
+      "ironman": "8f2f56fa-6a9d-402f-bd4e-af6bdca6b709"
+    }
+  },
+  {
+    "name": "Twiggy O\u0027Korn",
+    "id": 5527,
+    "x": 2024,
+    "y": 3567,
+    "z": 1,
+    "direction": "W",
+    "walkRange": 0,
+    "shopOptions": {
+      "rewards": "afd8d69d-37c8-44d9-bfec-680bfaf4dfa4"
+    }
+  },
+  {
+    "name": "Shop assistant",
+    "id": 2820,
+    "x": 2024,
+    "y": 3566,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 0,
+    "shopOptions": {
+      "Trade": "e522b145-fbaa-4746-8d71-6ad9808d2338"
+    }
+  },
+  {
+    "name": "Mac",
+    "id": 6481,
+    "x": 2057,
+    "y": 3624,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 0
+  },
+  {
+    "name": "Bob Decanter",
+    "id": 5449,
+    "x": 2009,
+    "y": 3575,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 0
+  },
+  {
+    "name": "Sand Crab",
+    "id": 5935,
+    "x": 2026,
+    "y": 3531,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Sand Crab",
+    "id": 5935,
+    "x": 2032,
+    "y": 3530,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Sand Crab",
+    "id": 5935,
+    "x": 2022,
+    "y": 3536,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Sand Crab",
+    "id": 5935,
+    "x": 2016,
+    "y": 3533,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Sand Crab",
+    "id": 5935,
+    "x": 2016,
+    "y": 3540,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Sand Crab",
+    "id": 5935,
+    "x": 2010,
+    "y": 3540,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Sand Crab",
+    "id": 7206,
+    "x": 2009,
+    "y": 3538,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Sand Crab",
+    "id": 7206,
+    "x": 2013,
+    "y": 3534,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Sand Crab",
+    "id": 7206,
+    "x": 2016,
+    "y": 3536,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Sand Crab",
+    "id": 7206,
+    "x": 2019,
+    "y": 3540,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Sand Crab",
+    "id": 7206,
+    "x": 2021,
+    "y": 3531,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Sand Crab",
+    "id": 7206,
+    "x": 2025,
+    "y": 3534,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Sand Crab",
+    "id": 7206,
+    "x": 2030,
+    "y": 3530,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Sand Crab",
+    "id": 7206,
+    "x": 2034,
+    "y": 3529,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Sand Crab",
+    "id": 7206,
+    "x": 2006,
+    "y": 3541,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Stuart the Rat",
+    "id": 15009,
+    "x": 2019,
+    "y": 3575,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "50% Luke",
+    "id": 604,
+    "x": 2018,
+    "y": 3567,
+    "z": 1,
+    "direction": "E",
+    "walkRange": 0,
+    "shopOptions": {
+      "Talk-to": "5464df07-5091-4ddc-8c5a-426db5ae2193"
+    }
+  }
+]

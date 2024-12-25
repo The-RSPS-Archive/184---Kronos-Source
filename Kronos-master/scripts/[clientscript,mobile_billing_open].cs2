@@ -1,0 +1,3 @@
+// 2391
+[clientscript,mobile_billing_open](int $int0, boolean $boolean1)
+~mobile_billing_open($int0, $boolean1);

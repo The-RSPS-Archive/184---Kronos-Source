@@ -1,0 +1,88 @@
+[
+  { #Moss giant (42)
+    "ids": [ 2090, 2091, 2092, 2093, 7262 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 60,
+    "aggressive_level": 84,
+    "max_damage": 6,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 60.0,
+    "slayer_tasks": [ "Moss Giants" ],
+    //Combat Stats
+    "attack": 30,
+    "strength": 30,
+    "defence": 30,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 33,
+    "slash_attack": 33,
+    "crush_attack": 33,
+    "magic_attack": 33,
+    "ranged_attack": 33,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 0,
+    "crush_defence": 0,
+    "magic_defence": 0,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 6,
+    "death_ticks": 5,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 4658,
+    "defend_animation": 4657,
+    "death_animation": 4659
+  },
+  { #Moss giant (48)
+    "ids": [ 3851, 3852 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 1,
+    "aggressive_level": 96,
+    "max_damage": 1,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 1.0,
+    "slayer_tasks": [ "Moss Giants" ],
+    //Combat Stats
+    "attack": 1,
+    "strength": 1,
+    "defence": 1,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 0,
+    "crush_defence": 0,
+    "magic_defence": 0,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 6,
+    "death_ticks": 2,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": -1,
+    "defend_animation": -1,
+    "death_animation": -1
+  }
+]

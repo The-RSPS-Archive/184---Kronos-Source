@@ -1,0 +1,45 @@
+[
+  { #Kob (185)
+    "ids": [ 7106, 7107 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 200,
+    "aggressive_level": 370,
+    "max_damage": 57,
+    "attack_style": "SLASH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 0.0,
+    "slayer_tasks": [],
+    //Combat Stats
+    "attack": 180,
+    "strength": 175,
+    "defence": 80,
+    "ranged": 0,
+    "magic": 0,
+    //Aggressive Stats
+    "stab_attack": 200,
+    "slash_attack": 200,
+    "crush_attack": 200,
+    "magic_attack": 200,
+    "ranged_attack": 200,
+    //Defensive Stats
+    "stab_defence": 85,
+    "slash_defence": 85,
+    "crush_defence": 90,
+    "magic_defence": 200,
+    "ranged_defence": 200,
+    //Immunites
+    "poison_immunity": true,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 5,
+    "death_ticks": 2,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": -1,
+    "defend_animation": -1,
+    "death_animation": -1
+  }
+]

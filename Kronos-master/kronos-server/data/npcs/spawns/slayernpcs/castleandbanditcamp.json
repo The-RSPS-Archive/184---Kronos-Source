@@ -1,0 +1,488 @@
+[
+  {
+    "name": "Dark warrior",
+    "id": 6606,
+    "x": 3022,
+    "y": 3624,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dark warrior",
+    "id": 6606,
+    "x": 3020,
+    "y": 3638,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dark warrior",
+    "id": 523,
+    "x": 3022,
+    "y": 3625,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dark warrior",
+    "id": 6606,
+    "x": 3025,
+    "y": 3625,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Dark warrior",
+    "id": 523,
+    "x": 3022,
+    "y": 3639,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dark warrior",
+    "id": 6606,
+    "x": 3026,
+    "y": 3625,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Dark warrior",
+    "id": 6606,
+    "x": 3023,
+    "y": 3630,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dark warrior",
+    "id": 6606,
+    "x": 3026,
+    "y": 3627,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Dark warrior",
+    "id": 6606,
+    "x": 3023,
+    "y": 3637,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Dark warrior",
+    "id": 6606,
+    "x": 3025,
+    "y": 3637,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Dark warrior",
+    "id": 6606,
+    "x": 3027,
+    "y": 3626,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Dark warrior",
+    "id": 523,
+    "x": 3027,
+    "y": 3636,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Dark warrior",
+    "id": 523,
+    "x": 3031,
+    "y": 3627,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Dark warrior",
+    "id": 6606,
+    "x": 3029,
+    "y": 3638,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Dark warrior",
+    "id": 6606,
+    "x": 3031,
+    "y": 3626,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Dark warrior",
+    "id": 6606,
+    "x": 3035,
+    "y": 3628,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Dark warrior",
+    "id": 6606,
+    "x": 3035,
+    "y": 3624,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Dark warrior",
+    "id": 6606,
+    "x": 3035,
+    "y": 3626,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Dark warrior",
+    "id": 523,
+    "x": 3035,
+    "y": 3629,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Dark warrior",
+    "id": 6606,
+    "x": 3035,
+    "y": 3632,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dark warrior",
+    "id": 523,
+    "x": 3034,
+    "y": 3625,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dark warrior",
+    "id": 523,
+    "x": 3036,
+    "y": 3638,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dark warrior",
+    "id": 6606,
+    "x": 3036,
+    "y": 3637,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dark warrior",
+    "id": 6606,
+    "x": 3035,
+    "y": 3638,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Sam",
+    "id": 2204,
+    "x": 3048,
+    "y": 3627,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Bandit",
+    "id": 6605,
+    "x": 3025,
+    "y": 3695,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Noterazzo",
+    "id": 8692,
+    "x": 3024,
+    "y": 3700,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Neil",
+    "id": 2201,
+    "x": 3024,
+    "y": 3707,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Bandit",
+    "id": 526,
+    "x": 3034,
+    "y": 3699,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Bandit",
+    "id": 6605,
+    "x": 3027,
+    "y": 3704,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Bandit",
+    "id": 526,
+    "x": 3033,
+    "y": 3689,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Bandit",
+    "id": 6605,
+    "x": 3036,
+    "y": 3697,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Bandit",
+    "id": 526,
+    "x": 3034,
+    "y": 3694,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Bandit",
+    "id": 526,
+    "x": 3035,
+    "y": 3706,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Speedy Keith",
+    "id": 303,
+    "x": 3034,
+    "y": 3694,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Bandit",
+    "id": 6605,
+    "x": 3036,
+    "y": 3705,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Bandit",
+    "id": 6605,
+    "x": 3036,
+    "y": 3673,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Guard Bandit",
+    "id": 527,
+    "x": 3038,
+    "y": 3671,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Sheep",
+    "id": 1303,
+    "x": 3037,
+    "y": 3706,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Bandit",
+    "id": 6605,
+    "x": 3036,
+    "y": 3655,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Guard Bandit",
+    "id": 527,
+    "x": 3038,
+    "y": 3662,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Bandit",
+    "id": 526,
+    "x": 3039,
+    "y": 3684,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Bandit",
+    "id": 6605,
+    "x": 3038,
+    "y": 3661,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Guard Bandit",
+    "id": 527,
+    "x": 3037,
+    "y": 3671,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Bandit",
+    "id": 6605,
+    "x": 3033,
+    "y": 3690,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Donny the lad",
+    "id": 302,
+    "x": 3041,
+    "y": 3694,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Guard Bandit",
+    "id": 527,
+    "x": 3038,
+    "y": 3661,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Black Heather",
+    "id": 301,
+    "x": 3041,
+    "y": 3700,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Bandit",
+    "id": 6605,
+    "x": 3039,
+    "y": 3683,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Bandit",
+    "id": 526,
+    "x": 3040,
+    "y": 3701,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Bandit",
+    "id": 6605,
+    "x": 3040,
+    "y": 3706,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Giant rat",
+    "id": 2856,
+    "x": 3051,
+    "y": 3691,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Giant rat",
+    "id": 2864,
+    "x": 3050,
+    "y": 3693,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Fishing spot",
+    "id": 1524,
+    "x": 3045,
+    "y": 3702,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  }
+]

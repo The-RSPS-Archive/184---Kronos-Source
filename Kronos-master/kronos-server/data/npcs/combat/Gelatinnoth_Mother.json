@@ -1,0 +1,88 @@
+[
+  { #Gelatinnoth Mother (130)
+    "ids": [ 4884, 4885, 4886, 4887, 4888, 4889, 6373, 6374, 6375, 6376, 6377, 6378 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 240,
+    "aggressive_level": 260,
+    "max_damage": 9,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 0.0,
+    "slayer_tasks": [],
+    //Combat Stats
+    "attack": 78,
+    "strength": 78,
+    "defence": 81,
+    "ranged": 50,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 150,
+    "slash_defence": 150,
+    "crush_defence": 150,
+    "magic_defence": 50,
+    "ranged_defence": 50,
+    //Immunites
+    "poison_immunity": true,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 2,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": -1,
+    "defend_animation": -1,
+    "death_animation": -1
+  },
+  { #Gelatinnoth Mother (hard) (201)
+    "ids": [ 6312, 6313, 6314, 6315, 6316, 6317 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 240,
+    "aggressive_level": 402,
+    "max_damage": 20,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 0.0,
+    "slayer_tasks": [],
+    //Combat Stats
+    "attack": 186,
+    "strength": 186,
+    "defence": 81,
+    "ranged": 120,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 150,
+    "slash_defence": 150,
+    "crush_defence": 150,
+    "magic_defence": 50,
+    "ranged_defence": 50,
+    //Immunites
+    "poison_immunity": true,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 2,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": -1,
+    "defend_animation": -1,
+    "death_animation": -1
+  }
+]

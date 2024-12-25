@@ -1,0 +1,77 @@
+ [
+  {
+    "ids": [ 8610, 8611 ],
+    "guaranteed": [
+      { "id": 22780, "min": 1, "max": 1 }   //Wyrm bones
+    ],
+    "tables": [
+      {
+        "name": "Runes",
+        "weight": 12,
+        "items": [
+          { "id": 554, "min": 200, "max": 200, "weight": 3 },   //Fire rune
+          { "id": 557, "min": 77, "max": 150, "weight": 3 },   //Earth rune
+          { "id": 566, "min": 15, "max": 20, "weight": 1 },   //Soul rune
+          { "id": 565, "min": 25, "max": 30, "weight": 1 }   //Blood rune
+        ]
+      },
+      {
+        "name": "Weapons/Armour",
+        "weight": 12,
+        "items": [
+          { "id": 1357, "min": 1, "max": 1, "weight": 5 },   //Adamant axe
+          { "id": 2495, "min": 1, "max": 1, "weight": 5 },   //Red d'hide chaps
+          { "id": 1183, "min": 1, "max": 1, "weight": 5 },   //Adamant sq shield
+          { "id": 1371, "min": 1, "max": 1, "weight": 5 },   //Adamant battleaxe
+          { "id": 1317, "min": 1, "max": 1, "weight": 5 },   //Adamant 2h sword
+          { "id": 1399, "min": 1, "max": 1, "weight": 4 },   //Earth battlestaff
+          { "id": 1147, "min": 1, "max": 1, "weight": 4 },   //Rune med helm
+          { "id": 1373, "min": 1, "max": 1, "weight": 3 },   //Rune battleaxe
+          { "id": 1215, "min": 1, "max": 1, "weight": 2 }   //Dragon dagger
+        ]
+      },
+      {
+        "name": "Seeds",
+        "weight": 8,
+        "items": [
+          { "id": 22879, "min": 3, "max": 3, "weight": 1 },   //Snape grass seed
+          { "id": 22873, "min": 1, "max": 1, "weight": 1 },   //Potato cactus seed
+          { "id": 5281, "min": 1, "max": 1, "weight": 1 },   //Belladonna seed
+          { "id": 5106, "min": 1, "max": 1, "weight": 1 },   //Poison ivy seed
+          { "id": 5280, "min": 1, "max": 1, "weight": 1 },   //Cactus seed
+          { "id": 5297, "min": 1, "max": 1, "weight": 1 },   //Irit seed
+          { "id": 5299, "min": 1, "max": 1, "weight": 1 },   //Kwuarm seed
+          { "id": 5296, "min": 1, "max": 1, "weight": 1 },   //Toadflax seed
+          { "id": 5300, "min": 1, "max": 1, "weight": 1 },   //Snapdragon seed
+          { "id": 5303, "min": 1, "max": 1, "weight": 1 },   //Dwarf weed seed
+          { "id": 5304, "min": 1, "max": 3, "weight": 1 }   //Torstol seed
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 4,
+        "items": [
+          { "id": 995, "min": 1953, "max": 21500, "weight": 10 },   //Coins
+          { "id": 365, "min": 3, "max": 3, "weight": 12 },   //Bass
+          { "id": 7937, "min": 400, "max": 700, "weight": 12 },   //Pure essence
+          { "id": 44, "min": 8, "max": 12, "weight": 8 },   //Rune arrowtips
+          { "id": 43, "min": 8, "max": 12, "weight": 8 },   //Adamant arrowtips
+          { "id": 1619, "min": 1, "max": 1, "weight": 6 },   //Uncut ruby
+          { "id": 1617, "min": 1, "max": 1, "weight": 4 },   //Uncut diamond
+          { "id": 1623, "min": 1, "max": 1, "weight": 8 },   //Uncut sapphire
+          { "id": 2722, "min": 1, "max": 1, "weight": 4 }   //Clue scroll (hard)
+        ]
+      },
+      {
+        "name": "Unique",
+        "weight": 1,
+        "items": [
+          { "id": 21009, "min": 1, "max": 1, "weight": 4 }, // Dragon sword
+          { "id": 21028, "min": 1, "max": 1, "weight": 2 }, // Dragon harpoon
+          { "id": 22804, "min": 75, "max": 155, "weight": 4 },   //Dragon knife
+          { "id": 20849, "min": 76, "max": 150, "weight": 4 }   //Dragon thrownaxe
+        ]
+      }
+    ]
+  }
+ ]

@@ -1,0 +1,61 @@
+[
+  {
+    "ids": [ 430, 429, 428, 427 ],
+    "guaranteed": [
+      { "id": 526, "min": 1, "max": 1 } //Bones
+    ],
+    "tables": [
+      {
+        "name": "Armour/Weapons",
+        "weight": 1,
+        "items": [
+          { "id": 1069, "min": 1, "max": 1, "weight": 50 }, //Steel platelegs
+          { "id": 1355, "min": 1, "max": 1, "weight": 50 }, //Mithril axe
+          { "id": 1197, "min": 1, "max": 1, "weight": 20 }, //Mithril kiteshield
+          { "id": 1161, "min": 1, "max": 1, "weight": 20 }, //Adamant full helm
+          { "id": 1213, "min": 1, "max": 1, "weight": 20 }, //Rune dagger
+          { "id": 11902, "min": 1, "max": 1, "weight": 1 }, //Leaf-bladed sword
+          { "id": 4113, "min": 1, "max": 1, "weight": 1 } //Mystic robe bottom (light)
+        ]
+      },
+      {
+        "name": "Runes",
+        "weight": 1,
+        "items": [
+          { "id": 563, "min": 3, "max": 3, "weight": 1 }, //Law rune
+          { "id": 561, "min": 15, "max": 15, "weight": 1 }, //Nature rune
+          { "id": 561, "min": 37, "max": 37, "weight": 1 } //Nature rune
+        ]
+      },
+      {
+        "name": "Seeds",
+        "weight": 1,
+        "items": [
+          { "id": 5106, "min": 1, "max": 1, "weight": 6 }, //Poison ivy seed
+          { "id": 5280, "min": 1, "max": 1, "weight": 6 }, //Cactus seed
+          { "id": 5281, "min": 1, "max": 1, "weight": 6 }, //Belladonna seed
+          { "id": 5296, "min": 1, "max": 1, "weight": 6 }, //Toadflax seed
+          { "id": 5297, "min": 1, "max": 1, "weight": 6 }, //Irit seed
+          { "id": 5300, "min": 1, "max": 1, "weight": 3 }, //Snapdragon seed
+          { "id": 5301, "min": 1, "max": 1, "weight": 3 }, //Cadantine seed
+          { "id": 5282, "min": 3, "max": 3, "weight": 3 }, //Mushroom spore
+          { "id": 5298, "min": 1, "max": 1, "weight": 3 }, //Avantoe seed
+          { "id": 5299, "min": 1, "max": 1, "weight": 3 }, //Kwuarm seed
+          { "id": 5302, "min": 1, "max": 1, "weight": 3 }, //Lantadyme seed
+          { "id": 5303, "min": 1, "max": 1, "weight": 1 }, //Dwarf weed seed
+          { "id": 5295, "min": 1, "max": 1, "weight": 1 }, //Ranarr seed
+          { "id": 5304, "min": 1, "max": 1, "weight": 1 } //Torstol seed
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 995, "min": 44, "max": 440, "weight": 10 }, //Coins
+          { "id": 225, "min": 1, "max": 1, "weight": 10 }, //Limpwurt root
+          { "id": 2722, "min": 1, "max": 1, "weight": 1 } //Clue scroll (hard)
+        ]
+      }
+    ]
+  }
+]

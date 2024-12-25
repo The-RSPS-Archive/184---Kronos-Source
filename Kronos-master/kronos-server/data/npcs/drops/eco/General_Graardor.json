@@ -1,0 +1,77 @@
+[
+  {
+    "ids": [ 2215, 6494 ],
+    "tables": [
+      {
+        "name": "Always Drop",
+        "weight": 1,
+        "items": [
+          { "id": 532, "min": 1, "max": 1, "weight": 1 } //Big bones
+        ]
+      },
+      {
+        "name": "Weapons",
+        "weight": 20,
+        "items": [
+          { "id": 1319, "min": 1, "max": 1, "weight": 1 }, //Rune 2h sword
+          { "id": 1275, "min": 1, "max": 1, "weight": 1 }, //Rune pickaxe
+          { "id": 1303, "min": 1, "max": 1, "weight": 1 }, //Rune longsword
+          { "id": 1289, "min": 1, "max": 1, "weight": 1 } //Rune sword
+        ]
+      },
+      {
+        "name": "Armour",
+        "weight": 20,
+        "items": [
+          { "id": 1127, "min": 1, "max": 1, "weight": 3 } //Rune platebody
+        ]
+      },
+	  {
+        "name": "Bandos Armour",
+        "weight": 2,
+        "items": [
+	       { "id": 11832, "min": 1, "max": 1, "weight": 1 }, //Bandos chestplate
+          { "id": 11834, "min": 1, "max": 1, "weight": 1 }, //Bandos tassets
+          { "id": 11836, "min": 1, "max": 1, "weight": 2 } //Bandos boots
+        ]
+      },
+      {
+        "name": "Runes",
+        "weight": 20,
+        "items": [
+          { "id": 561, "min": 60, "max": 70, "weight": 1 } //Nature rune
+        ]
+      },
+      {
+        "name": "Gems and ores",
+        "weight": 20,
+        "items": [
+          { "id": 450, "min": 15, "max": 20, "weight": 1 }, //Adamantite ore (noted)
+          { "id": 454, "min": 115, "max": 120, "weight": 1 } //Coal (noted)
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 20,
+        "items": [
+          { "id": 995, "min": 19581, "max": 21000, "weight": 3 }, //Coins
+          { "id": 5300, "min": 1, "max": 1, "weight": 2 }, //Snapdragon seed
+          { "id": 1514, "min": 15, "max": 20, "weight": 2 }, //Magic logs (noted)
+          { "id": 3024, "min": 3, "max": 3, "weight": 1 }, //Super restore(4)
+          { "id": 3052, "min": 3, "max": 3, "weight": 2 }, //Grimy snapdragon (noted)
+          { "id": 12073, "min": 1, "max": 1, "weight": 1 } //Clue scroll (elite)
+        ]
+      },
+	  {
+        "name": "Godsword Items",
+        "weight": 1,
+        "items": [
+          { "id": 11812, "min": 1, "max": 1, "weight": 4 }, //Bandos hilt
+          { "id": 11818, "min": 1, "max": 1, "weight": 5 }, //Godsword shard 1
+          { "id": 11820, "min": 1, "max": 1, "weight": 5 }, //Godsword shard 2
+          { "id": 11822, "min": 1, "max": 1, "weight": 5 } //Godsword shard 3
+        ]
+      }
+    ]
+  }
+]

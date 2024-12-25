@@ -1,0 +1,75 @@
+[
+  {
+    "ids": [ 3129, 6495 ],
+    "guaranteed": [
+      { "id": 592, "min": 1, "max": 1 } //Ashes
+    ],
+    "tables": [
+	  {
+		"name": "Unique items",
+		"weight": 4,
+		"items": [
+          { "id": 11824, "min": 1, "max": 1, "weight": 3 }, //Zamorakian spear
+          { "id": 11787, "min": 1, "max": 1, "weight": 3 }, //Steam battlestaff
+          { "id": 11791, "min": 1, "max": 1, "weight": 1 } //Staff of the dead
+		]
+	  },
+      {
+        "name": "Weapons and Ammunition",
+        "weight": 40,
+        "items": [
+          { "id": 5626, "min": 295, "max": 300, "weight": 12 }, //Adamant arrow(p++)
+          { "id": 1333, "min": 1, "max": 1, "weight": 9 }, //Rune scimitar
+          { "id": 5698, "min": 1, "max": 1, "weight": 6 }, //Dragon dagger(p++)
+          { "id": 1289, "min": 1, "max": 1, "weight": 6 } //Rune sword
+        ]
+      },
+      {
+        "name": "Armour",
+        "weight": 40,
+        "items": [
+          { "id": 1079, "min": 1, "max": 1, "weight": 3 }, //Rune platelegs
+          { "id": 1123, "min": 1, "max": 1, "weight": 1 } //Adamant platebody
+        ]
+      },
+            	  {
+        "name": "Super atk/str",
+        "weight": 40,
+        "items": [
+          { "id": 145, "min": 3, "max": 3, "weight": 3 }, //Super attack(3)
+          { "id": 157, "min": 3, "max": 3, "weight": 1 } //Super strength(3)
+        ]
+            	  },
+      {
+        "name": "Restore/Brew",
+        "weight": 40,
+        "items": [
+          { "id": 3026, "min": 3, "max": 3, "weight": 3 }, //Super restore(3)
+          { "id": 189, "min": 3, "max": 3, "weight": 1 } //Zamorak brew(3)
+        ]
+      },
+      {
+        "name": "Other drops",
+        "weight": 40,
+        "items": [
+          { "id": 560, "min": 120, "max": 124, "weight": 125 }, //Death rune
+          { "id": 995, "min": 19362, "max": 20073, "weight": 125 }, //Coins
+          { "id": 565, "min": 80, "max": 90, "weight": 75 }, //Blood rune
+          { "id": 2486, "min": 7, "max": 13, "weight": 75 }, //Grimy lantadyme (noted)
+          { "id": 5302, "min": 3, "max": 3, "weight": 75 }, //Lantadyme seed
+          { "id": 12073, "min": 1, "max": 1, "weight": 20 } //Clue scroll (elite)
+        ]
+      },
+	  {
+        "name": "Godsword Items",
+        "weight": 3,
+        "items": [
+          { "id": 11816, "min": 1, "max": 1, "weight": 4 }, //Zamorak hilt
+          { "id": 11818, "min": 1, "max": 1, "weight": 5 }, //Godsword shard 1
+          { "id": 11820, "min": 1, "max": 1, "weight": 5 }, //Godsword shard 2
+          { "id": 11822, "min": 1, "max": 1, "weight": 5 } //Godsword shard 3
+        ]
+      }
+    ]
+  }
+]

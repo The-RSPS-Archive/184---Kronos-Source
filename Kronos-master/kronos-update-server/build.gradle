@@ -1,0 +1,14 @@
+version = '1.0'
+project.ext {
+    type = "server"
+}
+
+apply plugin: 'application'
+
+dependencies {
+    compile project(':kronos-api')
+}
+
+application {
+    mainClassName = 'io.ruin.update.Server'
+}

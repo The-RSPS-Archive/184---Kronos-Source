@@ -1,0 +1,45 @@
+[
+  { #Muttadile (large) (raids)
+    "ids": [ 7569, 7570, 7571, 7572 ],
+    "handler": "io.ruin.model.activities.raids.xeric.chamber.combat.Guardian",
+    //Combat Info
+    "hitpoints": 250,
+    "aggressive_level": 126,
+    "max_damage": 25,
+    "attack_style": "SLASH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 0.0,
+    "slayer_tasks": [],
+    //Combat Stats
+    "attack": 140,
+    "strength": 140,
+    "defence": 100,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 20,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 80,
+    "slash_defence": 180,
+    "crush_defence": -10,
+    "magic_defence": 400,
+    "ranged_defence": 400,
+    //Immunites
+    "poison_immunity": true,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 6,
+    "death_ticks": 3,
+    "respawn_ticks": -1,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 407,
+    "defend_animation": 410,
+    "death_animation": 836
+  }
+]

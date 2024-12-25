@@ -1,0 +1,94 @@
+[
+  { #Vet\u0027ion (454)
+    "ids": [ 6611 ],
+    "handler": "io.ruin.model.activities.wilderness.bosses.Vetion",
+    //Combat Info
+    "hitpoints": 255,
+    "aggressive_level": 908,
+    "max_damage": 45,
+    "attack_style": "STAB",
+    "pet": "VETION_JR_PURPLE",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 312.0,
+    "slayer_tasks": [ "Vet\u0027ion", "Skeletons" ],
+    //Combat Stats
+    "attack": 430,
+    "strength": 430,
+    "defence": 395,
+    "ranged": 1,
+    "magic": 300,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 201,
+    "slash_defence": 200,
+    "crush_defence": -10,
+    "magic_defence": 250,
+    "ranged_defence": 270,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 5,
+    "respawn_ticks": 16,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 5499,
+    "defend_animation": 5508,
+    "death_animation": 5503,
+	//Other
+	"local_loot": true
+  },
+  { #Vet\u0027ion Reborn (454)
+    "ids": [ 6612 ],
+    "handler": "io.ruin.model.activities.wilderness.bosses.Vetion",
+    //Combat Info
+    "hitpoints": 255,
+    "aggressive_level": 908,
+    "max_damage": 46,
+    "attack_style": "CRUSH",
+    "pet": "VETION_JR_PURPLE",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 322.0,
+    "slayer_tasks": [ "Vet\u0027ion", "Skeletons" ],
+    //Combat Stats
+    "attack": 430,
+    "strength": 430,
+    "defence": 395,
+    "ranged": 1,
+    "magic": 300,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 201,
+    "slash_defence": 200,
+    "crush_defence": -10,
+    "magic_defence": 250,
+    "ranged_defence": 270,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 5,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 5499,
+    "defend_animation": 5508,
+    "death_animation": 5503,
+	//Other
+	"local_loot": true
+  }
+]

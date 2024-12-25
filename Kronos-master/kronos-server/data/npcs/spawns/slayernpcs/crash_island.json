@@ -1,0 +1,146 @@
+[
+  {
+    "name": "null",
+    "id": 2022,
+    "x": 2892,
+    "y": 2726,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0
+  },
+  {
+    "name": "null",
+    "id": 2021,
+    "x": 2897,
+    "y": 2726,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Scorpion",
+    "id": 5242,
+    "x": 2895,
+    "y": 2721,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Scorpion",
+    "id": 5242,
+    "x": 2901,
+    "y": 2723,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Scorpion",
+    "id": 5242,
+    "x": 2902,
+    "y": 2730,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Scorpion",
+    "id": 5242,
+    "x": 2897,
+    "y": 2735,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Scorpion",
+    "id": 5242,
+    "x": 2902,
+    "y": 2738,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Snake",
+    "id": 5244,
+    "x": 2905,
+    "y": 2727,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 10
+  },
+  {
+    "name": "Snake",
+    "id": 5244,
+    "x": 2909,
+    "y": 2722,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 10
+  },
+  {
+    "name": "Snake",
+    "id": 5244,
+    "x": 2907,
+    "y": 2716,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 10
+  },
+  {
+    "name": "Snake",
+    "id": 5244,
+    "x": 2920,
+    "y": 2725,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 10
+  },
+  {
+    "name": "Bird",
+    "id": 5241,
+    "x": 2907,
+    "y": 2712,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Bird",
+    "id": 5241,
+    "x": 2917,
+    "y": 2719,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Bird",
+    "id": 5241,
+    "x": 2910,
+    "y": 2730,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Bird",
+    "id": 5241,
+    "x": 2921,
+    "y": 2726,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Bird",
+    "id": 5241,
+    "x": 2901,
+    "y": 2735,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  }
+]

@@ -1,0 +1,548 @@
+[
+  {
+    "name": "Forester",
+    "id": 7238,
+    "x": 1626,
+    "y": 3513,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Duck",
+    "id": 1838,
+    "x": 1636,
+    "y": 3501,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Duck",
+    "id": 1839,
+    "x": 1636,
+    "y": 3502,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Ducklings",
+    "id": 2002,
+    "x": 1636,
+    "y": 3502,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Essence impling",
+    "id": 1639,
+    "x": 1662,
+    "y": 3491,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Guildmaster Lars",
+    "id": 7236,
+    "x": 1650,
+    "y": 3499,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Berry",
+    "id": 7235,
+    "x": 1657,
+    "y": 3506,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Murfet",
+    "id": 7237,
+    "x": 1607,
+    "y": 3508,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Forester",
+    "id": 7238,
+    "x": 1614,
+    "y": 3491,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Sawmill operator",
+    "id": 5422,
+    "x": 1623,
+    "y": 3500,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0,
+    "shopOptions": {
+      "trade": "a1e55885-3aa4-4d63-8a5e-5808c01f54e0"
+    }
+  },
+  {
+    "name": "Forester",
+    "id": 7238,
+    "x": 1582,
+    "y": 3479,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Forester",
+    "id": 7238,
+    "x": 1596,
+    "y": 3489,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Nesty",
+    "id": 7321,
+    "x": 1615,
+    "y": 3514,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Ent",
+    "id": 7234,
+    "x": 1558,
+    "y": 9902,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Ent",
+    "id": 7234,
+    "x": 1566,
+    "y": 9908,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Ent",
+    "id": 7234,
+    "x": 1561,
+    "y": 9866,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Ent",
+    "id": 7234,
+    "x": 1566,
+    "y": 9901,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Ent",
+    "id": 7234,
+    "x": 1563,
+    "y": 9903,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Ent",
+    "id": 7234,
+    "x": 1571,
+    "y": 9882,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Ent",
+    "id": 7234,
+    "x": 1570,
+    "y": 9880,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Ent",
+    "id": 7234,
+    "x": 1575,
+    "y": 9872,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Ent",
+    "id": 7234,
+    "x": 1574,
+    "y": 9888,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 10
+  },
+  {
+    "name": "Ent",
+    "id": 7234,
+    "x": 1576,
+    "y": 9896,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Ent",
+    "id": 7234,
+    "x": 1577,
+    "y": 9886,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Ent",
+    "id": 7234,
+    "x": 1578,
+    "y": 9879,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Ent",
+    "id": 7234,
+    "x": 1578,
+    "y": 9910,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Ent",
+    "id": 7234,
+    "x": 1579,
+    "y": 9905,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Ent",
+    "id": 7234,
+    "x": 1585,
+    "y": 9866,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Ent",
+    "id": 7234,
+    "x": 1589,
+    "y": 9864,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Ent",
+    "id": 7234,
+    "x": 1591,
+    "y": 9866,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Kai",
+    "id": 7239,
+    "x": 1593,
+    "y": 9900,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Ent",
+    "id": 7234,
+    "x": 1547,
+    "y": 9888,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Ent",
+    "id": 7234,
+    "x": 1551,
+    "y": 9888,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Ent",
+    "id": 7234,
+    "x": 1552,
+    "y": 9899,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Ent",
+    "id": 7234,
+    "x": 1554,
+    "y": 9895,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 10
+  },
+  {
+    "name": "Ent",
+    "id": 7234,
+    "x": 1559,
+    "y": 9866,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Ent",
+    "id": 7234,
+    "x": 1561,
+    "y": 9866,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Aretha",
+    "id": 7042,
+    "x": 1817,
+    "y": 3858,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Tynan",
+    "id": 6964,
+    "x": 1841,
+    "y": 3786,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3,
+    "shopOptions": {
+      "trade": "a339b5c8-16be-4e82-b66e-37c15f5090ef"
+    }
+  },
+  {
+    "name": "Banker",
+    "id": 6969,
+    "x": 1796,
+    "y": 3792,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Banker",
+    "id": 6970,
+    "x": 1800,
+    "y": 3792,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Banker",
+    "id": 6969,
+    "x": 1804,
+    "y": 3792,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Banker",
+    "id": 6970,
+    "x": 1808,
+    "y": 3792,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Lizardman shaman",
+    "id": 6767,
+    "x": 1436,
+    "y": 3713,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Lizardman shaman",
+    "id": 6767,
+    "x": 1424,
+    "y": 3717,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Lizardman shaman",
+    "id": 6767,
+    "x": 1424,
+    "y": 3702,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Lizardman",
+    "id": 6915,
+    "x": 1442,
+    "y": 3697,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 15
+  },
+  {
+    "name": "Lizardman",
+    "id": 6915,
+    "x": 1442,
+    "y": 3711,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 15
+  },
+  {
+    "name": "Lizardman",
+    "id": 6915,
+    "x": 1437,
+    "y": 3712,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 15
+  },
+  {
+    "name": "Lizardman",
+    "id": 6915,
+    "x": 1423,
+    "y": 3707,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 15
+  },
+  {
+    "name": "Lizardman",
+    "id": 6915,
+    "x": 1433,
+    "y": 3717,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 15
+  },
+  {
+    "name": "Lizardman",
+    "id": 6916,
+    "x": 1430,
+    "y": 3703,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 15
+  },
+  {
+    "name": "Lizardman",
+    "id": 6916,
+    "x": 1445,
+    "y": 3701,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 15
+  },
+  {
+    "name": "Lizardman",
+    "id": 6916,
+    "x": 1422,
+    "y": 3722,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 15
+  },
+  {
+    "name": "Lizardman",
+    "id": 6916,
+    "x": 1427,
+    "y": 3701,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 15
+  },
+  {
+    "name": "Lizardman brute",
+    "id": 6918,
+    "x": 1442,
+    "y": 3704,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 15
+  },
+  {
+    "name": "Lizardman brute",
+    "id": 6918,
+    "x": 1437,
+    "y": 3719,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 15
+  },
+  {
+    "name": "Lizardman brute",
+    "id": 6918,
+    "x": 1437,
+    "y": 3719,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 15
+  },
+  {
+    "name": "Tool Leprechaun",
+    "id": 0,
+    "x": 1817,
+    "y": 3483,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Marisi",
+    "id": 6921,
+    "x": 1814,
+    "y": 3485,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  }
+]

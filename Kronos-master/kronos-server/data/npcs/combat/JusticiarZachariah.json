@@ -1,0 +1,45 @@
+[
+  {
+    "ids": [ 7858 ],
+    "handler": "io.ruin.model.activities.wilderness.bosses.magearena.JusticiarZachariah",
+    //Combat Info
+    "hitpoints": 320,
+    "aggressive_level": 300,
+    "max_damage": 32,
+    "attack_style": "SLASH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 0.0,
+    "slayer_tasks": [ ],
+    //Combat Stats
+    "attack": 500,
+    "strength": 250,
+    "defence": 100,
+    "ranged": 1,
+    "magic": 180,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 80,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 200,
+    "slash_defence": 200,
+    "crush_defence": 200,
+    "magic_defence": -60,
+    "ranged_defence": 200,
+    //Immunites
+    "poison_immunity": true,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 6,
+    "death_ticks": 3,
+    "respawn_ticks": -1,
+    //Animations
+    "spawn_animation": 7964,
+    "attack_animation": 7853,
+    "defend_animation": -1,
+    "death_animation": 7854
+  }
+]

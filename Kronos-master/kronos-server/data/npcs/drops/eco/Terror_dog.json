@@ -1,0 +1,81 @@
+[
+  {
+    "ids": [ 6474, 6473 ],
+    "guaranteed": [
+      { "id": 532, "min": 1, "max": 1 }, //Big bones
+      { "id": 995, "min": 10000, "max": 20000 } //Coins
+    ],
+    "tables": [
+      {
+        "name": "Unique",
+        "weight": 1,
+        "items": [
+          { "id": 22616, "min": 1, "max": 1, "weight": 5 },
+          { "id": 22619, "min": 1, "max": 1, "weight": 5 },
+          { "id": 22625, "min": 1, "max": 1, "weight": 6 },
+          { "id": 22628, "min": 1, "max": 1, "weight": 6 },
+          { "id": 22631, "min": 1, "max": 1, "weight": 6 },
+          { "id": 22650, "min": 1, "max": 1, "weight": 6 },
+          { "id": 22653, "min": 1, "max": 1, "weight": 6 },
+          { "id": 22656, "min": 1, "max": 1, "weight": 6 }
+        ]
+      },
+      {
+        "name": "Weapons/Armour",
+        "weight": 250,
+        "items": [
+          { "id": 1365, "min": 1, "max": 2, "weight": 12 }, //Steel battleaxe
+          { "id": 1069, "min": 1, "max": 2, "weight": 12 }, //Steel platelegs
+          { "id": 1355, "min": 1, "max": 2, "weight": 12 }, //Mithril axe
+          { "id": 1243, "min": 1, "max": 2, "weight": 12 }, //Mithril spear
+          { "id": 1197, "min": 1, "max": 2, "weight": 12 }, //Mithril kiteshield
+          { "id": 1161, "min": 1, "max": 2, "weight": 6 }, //Adamant full helm
+          { "id": 1213, "min": 1, "max": 2, "weight": 3 }, //Rune dagger
+          { "id": 10589, "min": 1, "max": 2, "weight": 1 } //Granite helm
+        ]
+      },
+      {
+        "name": "Runes",
+        "weight": 250,
+        "items": [
+          { "id": 555, "min": 75, "max": 150, "weight": 3 }, //Water rune
+          { "id": 554, "min": 37, "max": 74, "weight": 3 }, //Fire rune
+          { "id": 561, "min": 15, "max": 30, "weight": 1 }, //Nature rune
+          { "id": 563, "min": 3, "max": 6, "weight": 1 } //Law rune
+        ]
+      },
+      {
+        "name": "Herbs",
+        "weight": 250,
+        "items": [
+          { "id": 199, "min": 1, "max": 2, "weight": 8 }, //Grimy guam leaf
+          { "id": 201, "min": 1, "max": 2, "weight": 8 }, //Grimy marrentill
+          { "id": 203, "min": 1, "max": 2, "weight": 8 }, //Grimy tarromin
+          { "id": 205, "min": 1, "max": 2, "weight": 4 }, //Grimy harralander
+          { "id": 207, "min": 1, "max": 2, "weight": 4 }, //Grimy ranarr weed
+          { "id": 209, "min": 1, "max": 2, "weight": 4 }, //Grimy irit leaf
+          { "id": 211, "min": 1, "max": 2, "weight": 4 }, //Grimy avantoe
+          { "id": 213, "min": 1, "max": 2, "weight": 4 }, //Grimy kwuarm
+          { "id": 215, "min": 1, "max": 2, "weight": 3 }, //Grimy cadantine
+          { "id": 2485, "min": 1, "max": 2, "weight": 3 }, //Grimy lantadyme
+          { "id": 217, "min": 1, "max": 2, "weight": 1 } //Grimy dwarf weed
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 250,
+        "items": [
+          { "id": 995, "min": 50000, "max": 200000, "weight": 1 }, //Coins
+          { "id": 449, "min": 1, "max": 2, "weight": 10 }, //Adamantite ore
+          { "id": 365, "min": 1, "max": 2, "weight": 10 }, //Bass
+          { "id": 2722, "min": 1, "max": 2, "weight": 1 } //Clue scroll (hard)
+        ]
+      },
+      {
+        "name": "Empty",
+        "weight": 250,
+        "items": []
+      }
+    ]
+  }
+]

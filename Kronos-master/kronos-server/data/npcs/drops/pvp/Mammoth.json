@@ -1,0 +1,76 @@
+[
+  {
+    "ids": [ 6604 ],
+    "guaranteed": [
+      { "id": 532, "min": 1, "max": 1 } //Big bones
+    ],
+    "tables": [
+      {
+        "name": "Runes/Ammunition",
+        "weight": 1,
+        "items": [
+          { "id": 886, "min": 15, "max": 15, "weight": 1 } //Steel arrow
+        ]
+      },
+      {
+        "name": "Herbs",
+        "weight": 1,
+        "items": [
+          { "id": 199, "min": 1, "max": 1, "weight": 9 }, //Grimy guam leaf
+          { "id": 201, "min": 1, "max": 1, "weight": 6 }, //Grimy marrentill
+          { "id": 203, "min": 1, "max": 1, "weight": 6 }, //Grimy tarromin
+          { "id": 205, "min": 1, "max": 1, "weight": 6 }, //Grimy harralander
+          { "id": 209, "min": 1, "max": 1, "weight": 3 }, //Grimy irit leaf
+          { "id": 211, "min": 1, "max": 1, "weight": 3 }, //Grimy avantoe
+          { "id": 213, "min": 1, "max": 1, "weight": 3 }, //Grimy kwuarm
+          { "id": 215, "min": 1, "max": 1, "weight": 3 }, //Grimy cadantine
+          { "id": 217, "min": 1, "max": 1, "weight": 1 }, //Grimy dwarf weed
+          { "id": 207, "min": 1, "max": 1, "weight": 1 }, //Grimy ranarr weed
+          { "id": 2485, "min": 1, "max": 1, "weight": 1 } //Grimy lantadyme
+        ]
+      },
+      {
+        "name": "Seeds",
+        "weight": 1,
+        "items": [
+          { "id": 5312, "min": 1, "max": 1, "weight": 12 }, //Acorn
+          { "id": 5310, "min": 4, "max": 4, "weight": 12 }, //Krandorian seed
+          { "id": 5101, "min": 4, "max": 4, "weight": 12 }, //Redberry seed
+          { "id": 5305, "min": 4, "max": 4, "weight": 12 }, //Barley seed
+          { "id": 5324, "min": 1, "max": 4, "weight": 9 }, //Cabbage seed
+          { "id": 5102, "min": 2, "max": 2, "weight": 9 }, //Cadavaberry seed
+          { "id": 5308, "min": 4, "max": 4, "weight": 9 }, //Asgarnian seed
+          { "id": 5309, "min": 4, "max": 4, "weight": 9 }, //Yanillian seed
+          { "id": 5307, "min": 4, "max": 4, "weight": 9 }, //Hammerstone seed
+          { "id": 5283, "min": 1, "max": 1, "weight": 9 }, //Apple tree seed
+          { "id": 5320, "min": 3, "max": 3, "weight": 6 }, //Sweetcorn seed
+          { "id": 5322, "min": 3, "max": 3, "weight": 6 }, //Tomato seed
+          { "id": 5103, "min": 2, "max": 2, "weight": 6 }, //Dwellberry seed
+          { "id": 5319, "min": 3, "max": 3, "weight": 6 }, //Onion seed
+          { "id": 5306, "min": 4, "max": 4, "weight": 6 }, //Jute seed
+          { "id": 5100, "min": 2, "max": 2, "weight": 6 }, //Limpwurt seed
+          { "id": 5104, "min": 2, "max": 2, "weight": 3 }, //Jangerberry seed
+          { "id": 5284, "min": 1, "max": 1, "weight": 3 }, //Banana tree seed
+          { "id": 5323, "min": 3, "max": 3, "weight": 3 }, //Strawberry seed
+          { "id": 5287, "min": 1, "max": 1, "weight": 3 }, //Pineapple seed
+          { "id": 5105, "min": 2, "max": 2, "weight": 3 }, //Whiteberry seed
+          { "id": 5106, "min": 2, "max": 2, "weight": 1 }, //Poison ivy seed
+          { "id": 5285, "min": 1, "max": 1, "weight": 1 }, //Orange tree seed
+          { "id": 5286, "min": 1, "max": 1, "weight": 1 }, //Curry tree seed
+          { "id": 5288, "min": 1, "max": 1, "weight": 1 }, //Papaya tree seed
+          { "id": 5321, "min": 3, "max": 3, "weight": 1 } //Watermelon seed
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 995, "min": 30, "max": 3000, "weight": 30 }, //Coins
+          { "id": 143, "min": 1, "max": 1, "weight": 20 }, //Prayer potion(1)
+          { "id": 379, "min": 2, "max": 2, "weight": 10 }, //Lobster
+          { "id": 2801, "min": 1, "max": 1, "weight": 1 } //Clue scroll (medium)
+        ]
+      }
+    ]
+  }
+]

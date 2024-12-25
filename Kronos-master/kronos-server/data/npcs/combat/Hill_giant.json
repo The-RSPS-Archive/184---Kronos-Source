@@ -1,0 +1,45 @@
+[
+  { #Hill Giant (28)
+    "ids": [ 2098, 2099, 2100, 2101, 2102, 2103, 7261 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 35,
+    "aggressive_level": 56,
+    "max_damage": 4,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 35.0,
+    "slayer_tasks": [ "Hill Giants" ],
+    //Combat Stats
+    "attack": 18,
+    "strength": 22,
+    "defence": 26,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 18,
+    "slash_attack": 18,
+    "crush_attack": 18,
+    "magic_attack": 18,
+    "ranged_attack": 18,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 0,
+    "crush_defence": 0,
+    "magic_defence": 0,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 5,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 4652,
+    "defend_animation": 4651,
+    "death_animation": 4653
+  }
+]

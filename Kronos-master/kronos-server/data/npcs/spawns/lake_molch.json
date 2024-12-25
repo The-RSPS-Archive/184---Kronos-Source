@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Alry the Angler",
+    "id": 8521,
+    "x": 1368,
+    "y": 3631,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1,
+    "shopOptions": {
+      "trade": "aa4aa6f3-88fb-4938-ae28-301f4f78df1a"
+    }
+  }
+]

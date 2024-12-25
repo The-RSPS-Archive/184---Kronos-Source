@@ -1,0 +1,45 @@
+[
+  { #Molanisk (51)
+    "ids": [ 1 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 52,
+    "aggressive_level": 102,
+    "max_damage": 5,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 39,
+    "slayer_xp": 52.0,
+    "slayer_tasks": [ "Molanisks" ],
+    //Combat Stats
+    "attack": 40,
+    "strength": 40,
+    "defence": 50,
+    "ranged": 1,
+    "magic": 0,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 45,
+    "slash_defence": 45,
+    "crush_defence": 35,
+    "magic_defence": 30,
+    "ranged_defence": 55,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 2,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": -1,
+    "defend_animation": -1,
+    "death_animation": -1
+  }
+]

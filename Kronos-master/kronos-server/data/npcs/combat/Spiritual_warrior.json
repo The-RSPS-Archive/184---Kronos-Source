@@ -1,0 +1,174 @@
+[
+  { #Spiritual warrior (115)
+    "ids": [ 3159 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 100,
+    "aggressive_level": 230,
+    "max_damage": 11,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 68,
+    "slayer_xp": 100.0,
+    "slayer_tasks": [ "Spiritual Creatures" ],
+    //Combat Stats
+    "attack": 100,
+    "strength": 100,
+    "defence": 100,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 0,
+    "crush_defence": 0,
+    "magic_defence": 0,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 5,
+    "death_ticks": 5,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 401,
+    "defend_animation": 1156,
+    "death_animation": 836
+  },
+  { #Spiritual warrior (125)
+    "ids": [ 2210 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 110,
+    "aggressive_level": 250,
+    "max_damage": 13,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 68,
+    "slayer_xp": 110.0,
+    "slayer_tasks": [ "Spiritual Creatures" ],
+    //Combat Stats
+    "attack": 110,
+    "strength": 106,
+    "defence": 110,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 9,
+    "slash_attack": 9,
+    "crush_attack": 9,
+    "magic_attack": 9,
+    "ranged_attack": 9,
+    //Defensive Stats
+    "stab_defence": 12,
+    "slash_defence": 14,
+    "crush_defence": 13,
+    "magic_defence": 5,
+    "ranged_defence": 13,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 5,
+    "death_ticks": 5,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 386,
+    "defend_animation": 410,
+    "death_animation": 836
+  },
+  { #Spiritual warrior (134)
+    "ids": [ 2243 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 131,
+    "aggressive_level": 268,
+    "max_damage": 16,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 68,
+    "slayer_xp": 131.0,
+    "slayer_tasks": [ "Spiritual Creatures" ],
+    //Combat Stats
+    "attack": 116,
+    "strength": 120,
+    "defence": 100,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 29,
+    "slash_attack": 29,
+    "crush_attack": 29,
+    "magic_attack": 29,
+    "ranged_attack": 29,
+    //Defensive Stats
+    "stab_defence": 12,
+    "slash_defence": 14,
+    "crush_defence": 13,
+    "magic_defence": 5,
+    "ranged_defence": 13,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 5,
+    "death_ticks": 5,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 4320,
+    "defend_animation": 4322,
+    "death_animation": 4321
+  },
+  { #Spiritual warrior (123)
+    "ids": [ 3166 ],
+    "handler": "io.ruin.model.activities.godwars.combat.armadyl.ArmadylSpiritualWarrior",
+    //Combat Info
+    "hitpoints": 98,
+    "aggressive_level": 246,
+    "max_damage": 15,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 68,
+    "slayer_xp": 98.0,
+    "slayer_tasks": [ "Spiritual Creatures" ],
+    //Combat Stats
+    "attack": 1,
+    "strength": 1,
+    "defence": 120,
+    "ranged": 141,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 23,
+    "slash_defence": 25,
+    "crush_defence": 13,
+    "magic_defence": 35,
+    "ranged_defence": 35,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 5,
+    "death_ticks": 3,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 6957,
+    "defend_animation": 6955,
+    "death_animation": 6959
+  }
+]

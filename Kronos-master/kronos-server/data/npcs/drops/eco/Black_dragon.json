@@ -1,0 +1,54 @@
+[
+  {
+    "ids": [ 252, 253, 254, 255, 256, 257, 258, 259 ],
+    "guaranteed": [
+      { "id": 536, "min": 1, "max": 1 }, //Dragon bones
+      { "id": 1747, "min": 1, "max": 1 } //Black dragonhide
+    ],
+    "tables": [
+      {
+        "name": "Weapons/Armour",
+        "weight": 1,
+        "items": [
+          { "id": 1355, "min": 1, "max": 1, "weight": 6 }, //Mithril axe
+          { "id": 1369, "min": 1, "max": 1, "weight": 6 }, //Mithril battleaxe
+          { "id": 1197, "min": 1, "max": 1, "weight": 6 }, //Mithril kiteshield
+          { "id": 1315, "min": 1, "max": 1, "weight": 3 }, //Mithril 2h sword
+          { "id": 1123, "min": 1, "max": 1, "weight": 3 }, //Adamant platebody
+          { "id": 1303, "min": 1, "max": 1, "weight": 1 } //Rune longsword
+        ]
+      },
+      {
+        "name": "Ammunition/Runes",
+        "weight": 1,
+        "items": [
+          { "id": 816, "min": 16, "max": 16, "weight": 6 }, //Adamant dart(p)
+          { "id": 829, "min": 30, "max": 30, "weight": 6 }, //Adamant javelin
+          { "id": 829, "min": 60, "max": 60, "weight": 6 }, //Adamant javelin
+          { "id": 554, "min": 50, "max": 50, "weight": 6 }, //Fire rune
+          { "id": 868, "min": 2, "max": 2, "weight": 6 }, //Rune knife
+          { "id": 556, "min": 75, "max": 75, "weight": 3 }, //Air rune
+          { "id": 563, "min": 10, "max": 10, "weight": 3 }, //Law rune
+          { "id": 565, "min": 15, "max": 15, "weight": 1 }, //Blood rune
+          { "id": 19582, "min": 10, "max": 10, "weight": 1 } //Dragon javelin heads
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 995, "min": 196, "max": 196, "weight": 250 }, //Coins
+          { "id": 995, "min": 330, "max": 330, "weight": 250 }, //Coins
+          { "id": 995, "min": 690, "max": 690, "weight": 250 }, //Coins
+          { "id": 2361, "min": 1, "max": 1, "weight": 100 }, //Adamantite bar
+          { "id": 2361, "min": 2, "max": 2, "weight": 100 }, //Adamantite bar
+          { "id": 1897, "min": 1, "max": 1, "weight": 12 }, //Chocolate cake
+          { "id": 13511, "min": 1, "max": 1, "weight": 6 }, //Ensouled dragon head
+          { "id": 2722, "min": 1, "max": 1, "weight": 2 }, //Clue scroll (hard)
+          { "id": 12073, "min": 1, "max": 1, "weight": 2 }, //Clue scroll (elite)
+          { "id": 11286, "min": 1, "max": 1, "weight": 1 } //Draconic visage
+        ]
+      }
+    ]
+  }
+]

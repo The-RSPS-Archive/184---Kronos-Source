@@ -1,0 +1,270 @@
+{
+    "General": [
+    {
+      "name": "Cities",
+      "teleports": [
+        { "name": "Al Kharid", "x": 3299, "y": 3197, "z": 0 },
+        { "name": "Ardougne", "x": 2662, "y": 3307, "z": 0 },
+        { "name": "Ape Atoll", "x": 2805, "y": 2794, "z": 0 },
+        { "name": "Barbarian Village", "x": 3085, "y": 3421, "z": 0 },
+        { "name": "Burthope", "x": 2899, "y": 3544, "z": 0 },
+        { "name": "Canifis", "x": 3495, "y": 3490, "z": 0 },
+        { "name": "Catherby", "x": 2804, "y": 3435, "z": 0 },
+        { "name": "Crash Island", "x": 2894, "y": 2728, "z": 0 },
+        { "name": "Draynor Village", "x": 3103, "y": 3249, "z": 0 },
+        { "name": "Falador", "x": 2965, "y": 3379, "z": 0 },
+        { "name": "Karamja", "x": 2914, "y": 3151, "z": 0 },
+        { "name": "Lumbridge", "x": 3225, "y": 3219, "z": 0 },
+        { "name": "Lunar Isle", "x": 2152, "y": 3856, "z": 0 },
+        { "name": "Miscellania", "x": 2564, "y": 3847, "z": 0 },
+        { "name": "Port Sarim", "x": 3027, "y": 3241, "z": 0 },
+        { "name": "Rellekka", "x": 2631, "y": 3676, "z": 0 },
+        { "name": "Seers' Village", "x": 2710, "y": 3485, "z": 0 },
+        { "name": "Taverly", "x": 2898, "y": 3454, "z": 0 },
+        { "name": "TzHaar", "x": 2441, "y": 5170, "z": 0 },
+        { "name": "Varrock", "x": 3214, "y": 3424, "z": 0 },
+        { "name": "Yanille", "x": 2605, "y": 3094, "z": 0 }
+      ]
+    },
+      {
+        "name": "Guilds",
+        "teleports": [
+          { "name": "Cooking Guild", "x": 3143, "y": 3442, "z": 0 },
+          { "name": "Crafting Guild", "x": 2933, "y": 3291, "z": 0 },
+          { "name": "Fishing Guild", "x": 2611, "y": 3390, "z": 0 },
+          { "name": "Mining Guild", "x": 3022, "y": 3337, "z": 0 },
+          { "name": "Woodcutting Guild", "x": 1661, "y": 3505, "z": 0 }
+        ]
+      }
+  ],
+  "Wilderness": [
+    {
+      "name": "General",
+      "teleports": [
+        { "name": "Magebank", "x": 2539, "y": 4716, "z": 0 },
+        { "name": "Chaos Temple|<col=FF0000>Level 15|<img=43> <img=46>", "x": 3236, "y": 3638, "z": 0 },   
+        { "name": "East Dragons|<col=FF0000>Level 19|<img=46>", "x": 3364, "y": 3666, "z": 0 },
+        { "name": "West Dragons|<col=FF0000>Level 10|<img=46>", "x": 2983, "y": 3598, "z": 0 },
+        { "name": "Demonic Ruins|<col=FF0000>Level 46|<img=43> <img=46>", "x": 3287, "y": 3886, "z": 0 },
+        { "name": "Graveyard|<col=FF0000>Level 20|<img=46>", "x": 3160, "y": 3676, "z": 0 },
+        { "name": "Revenant Cave|<col=FF0000>Level 17|<img=43> <img=46>", "x": 3069, "y": 3651, "z": 0 },
+        { "name": "Revenant Cave|<col=FF0000>Level 40|<img=43> <img=46>", "x": 3129, "y": 3833, "z": 0 }
+      ]
+    },
+    {
+      "name": "Obelisks",
+      "teleports": [
+        { "name": "Obelisk|<col=FF0000>Level 13|<img=43> <img=46>", "x": 3144, "y": 3622, "z": 0 },
+        { "name": "Obelisk|<col=FF0000>Level 19|<img=43> <img=46>", "x": 3211, "y": 3664, "z": 0 },
+        { "name": "Obelisk|<col=FF0000>Level 27|<img=46>", "x": 3041, "y": 3731, "z": 0 },
+        { "name": "Obelisk|<col=FF0000>Level 35|<img=46>", "x": 3097, "y": 3799, "z": 0 },
+        { "name": "Obelisk|<col=FF0000>Level 44|<img=46>", "x": 2979, "y": 3871, "z": 0 },   
+        { "name": "Obelisk|<col=FF0000>Level 50|<img=46>", "x": 3307, "y": 3916, "z": 0 }
+      ]
+    }
+  ],
+  "Monsters": [
+    {
+      "name": "Paid",
+      "teleports": [
+        { "name": "Armadyl|<col=FF0000>100 bm|<img=47> <img=46>", "x": 2839, "y": 5292, "z": 2, "price": 100},
+        { "name": "Bandos|<col=FF0000>100 bm|<img=47> <img=46>", "x": 2858, "y": 5354, "z": 2, "price": 100},
+        { "name": "Callisto|<col=FF0000>100 bm|<img=47> <img=46>", "x": 3295, "y": 3841, "z": 0, "price": 100},
+        { "name": "Chaos Elemental|<col=FF0000>100 bm|<img=47> <img=46>", "x": 3242, "y": 3915, "z": 0, "price": 100},
+        { "name": "Chaos Fanatic|<col=FF0000>100 bm|<img=47> <img=46>", "x": 2984, "y": 3831, "z": 0, "price": 100},
+        { "name": "Demonic Gorillas|<col=FF0000>100 bm|<img=47> <img=46>", "x": 3108, "y": 3676, "z": 0, "price": 100}, 
+        { "name": "Lava Dragons|<col=FF0000>100 bm|<img=47> <img=46>", "x": 3202, "y": 3859, "z": 0, "price": 100},
+        { "name": "Saradomin|<col=FF0000>100 bm|<img=47> <img=46>", "x": 2910, "y": 5265, "z": 0, "price": 100},
+        { "name": "Scorpia|<col=FF0000>100 bm|<img=47> <img=46>", "x": 3236, "y": 3946, "z": 0, "price": 100},
+        { "name": "Venenatis|<col=FF0000>100 bm|<img=47> <img=46>", "x": 3345, "y": 3728, "z": 0, "price": 100},
+        { "name": "Zamorak|<col=FF0000>100 bm|<img=47> <img=46>", "x": 2925, "y": 5336, "z": 2, "price": 100}
+      ]
+    },
+    {
+      "name": "Beginner",
+      "teleports": [
+        { "name": "Cows", "x": 3246, "y": 3274, "z": 0 },
+        { "name": "Edgeville Dungeon", "x": 3096, "y": 9867, "z": 0 },
+        { "name": "Experiments", "x": 3574, "y": 9928, "z": 0 },
+        { "name": "Goblin Village", "x": 2956, "y": 3501, "z": 0 },
+        { "name": "Lumbridge Swamp Caves", "x": 3168, "y": 9572, "z": 0 },
+        { "name": "Rock Crabs", "x": 2676, "y": 3711, "z": 0 },
+        { "name": "Sand Crabs", "x": 1723, "y": 3464, "z": 0 },
+        { "name": "Stronghold Security", "x": 3081, "y": 3421, "z": 0 },
+        { "name": "Varrock Sewers", "x": 3237, "y": 3459, "z": 0 }
+      ]
+    },
+    {
+      "name": "Advanced",
+      "teleports": [
+        { "name": "Ancient Cavern", "x": 1762, "y": 5361, "z": 0 },
+        { "name": "Asganian Ice Dungeon", "x": 3006, "y": 9550, "z": 0 },
+        { "name": "Bandit Camp", "x": 3170, "y": 2982, "z": 0 },
+        { "name": "Brimhaven Dungeon", "x": 2710, "y": 9564, "z": 0 },
+        { "name": "Brine Rat Cavern", "x": 2696, "y": 10121, "z": 0 },
+        { "name": "Catacombs of Kourend", "x": 1665, "y": 10049, "z": 0 },
+        { "name": "Chasm of Fire", "x": 1435, "y": 3671, "z": 0 },
+        { "name": "Crash Site Cavern", "x": 2026, "y": 5610, "z": 0 },
+        { "name": "Fremennik Slayer Dungeon", "x": 2805, "y": 10001, "z": 0 },
+        { "name": "Godwars Dungeon", "x": 2916, "y": 3746, "z": 0 },
+        { "name": "Jungle Demons", "x": 2715, "y": 9211, "z": 1 },
+        { "name": "Kalphite Lair", "x": 3226, "y": 3108, "z": 0 },
+        { "name": "Karuulm Slayer Dungeon", "x": 1311, "y": 10188, "z": 0 },
+        { "name": "Kraken Cove", "x": 2278, "y": 3609, "z": 0 },
+        { "name": "Mourner Tunnels", "x": 2029, "y": 4636, "z": 0 },
+        { "name": "Mos Le'Harmless Caves", "x": 3823, "y": 9425, "z": 0 },
+        { "name": "Slayer Tower", "x": 3428, "y": 3534, "z": 0 },
+        { "name": "Smoke Dungeon", "x": 3203, "y": 9379, "z": 0 },
+        { "name": "Smoke Devil Dungeon", "x": 2412, "y": 3060, "z": 0 },
+        { "name": "Stronghold Slayer Cave", "x": 2431, "y": 3424, "z": 0 },
+        { "name": "Taverley Dungeon", "x": 2884, "y": 9799, "z": 0 },
+        { "name": "Trollheim trollpit", "x": 2884, "y": 3588, "z": 0 },
+        { "name": "Waterbirth Dungeon", "x": 2443, "y": 10146, "z": 0 },
+        { "name": "Waterfall Dungeon", "x": 2573, "y": 9866, "z": 0 }
+      ]
+    },
+    {
+      "name": "Bosses",
+      "teleports": [
+        { "name": "Abyssal Sire", "x": 3038, "y": 4771, "z": 0 },
+        { "name": "Adamant & Runite Dragons", "x": 1568, "y": 5075, "z": 0 },
+        { "name": "Cave Kraken", "x": 2292, "y": 10008, "z": 0 },
+        { "name": "Cerberus", "x": 1310, "y": 1252, "z": 0 },
+        { "name": "Corporeal Beast", "x": 2966, "y": 4382, "z": 2 },
+        { "name": "Dagannoth Kings", "x": 1912, "y": 4367, "z": 0 },
+        { "name": "Demonic Gorillas", "x": 2026, "y": 5610, "z": 0 },
+        { "name": "Elvarg", "x": 2844, "y": 9635, "z": 0 },
+        { "name": "Giant Mole", "x": 1764, "y": 5179, "z": 0 },
+        { "name": "God Wars", "x": 2916, "y": 3746, "z": 0 },
+        { "name": "Kalphite Queen", "x": 3509, "y": 9487, "z": 2 },
+        { "name": "Lizard Shamans (Canyon)", "x": 1445, "y": 3699, "z": 0 },
+        { "name": "Mithril Dragons", "x": 1777, "y": 5345, "z": 1 },
+        { "name": "Thermonuclear Smoke Devils", "x": 2412, "y": 3060, "z": 0 },
+        { "name": "Vorkath", "x": 2272, "y": 4051, "z": 0 },
+        { "name": "Zulrah", "x": 2198, "y": 3057, "z": 0 }
+      ]
+    }
+  ],
+  "Minigames": [
+    {
+      "name": "General",
+      "teleports": [
+        { "name": "Last Man Standing", "x": 3400, "y": 3180, "z":  0 },
+        { "name": "Barrows", "x": 3565, "y": 3313, "z": 0 },
+        { "name": "Duel Arena", "x": 3367, "y": 3265, "z": 0 },
+        { "name": "Fight Caves", "x": 2443, "y": 5171, "z": 0 },
+        { "name": "Motherlode Mine", "x": 3751, "y": 5669, "z": 0 },
+        { "name": "Puro Puro", "x": 2426, "y": 4443, "z": 0 },
+        { "name": "Warriors' Guild", "x": 2880, "y": 3546, "z": 0 },
+        { "name": "Wintertodt", "x": 1630, "y": 3957, "z": 0 },
+        { "name": "Raids 1", "x": 1254, "y": 3558, "z": 0 },
+        { "name": "Pest Control", "x": 2659, "y": 2676, "z":  0 }
+      ]
+    }
+  ],
+   "Skilling": [
+      {
+       "name": "Agility",
+       "teleports": [
+         { "name": "Gnome Stronghold Course", "x": 2471, "y": 3437, "z": 0 },
+         { "name": "Draynor Village Rooftop Course", "x": 3105, "y": 3272, "z": 0 },
+         { "name": "Al Kharid Rooftop Course", "x": 3281, "y": 3197, "z": 0 },
+         { "name": "Varrock Rooftop Course", "x": 3224, "y": 3415, "z": 0 },
+         { "name": "Barbarian Outpost Course", "x": 2552, "y": 3557, "z": 0 },
+         { "name": "Canifis Rooftop Course", "x": 3505, "y": 3486, "z": 0 },
+         { "name": "Falador Rooftop Course", "x": 3037, "y": 3339, "z": 0 },
+         { "name": "Seers' Village Rooftop Course", "x": 2728, "y": 3485, "z": 0 },
+         { "name": "Rellekka Rooftop Course", "x": 2629, "y": 3677, "z": 0 },
+         { "name": "Ardougne Rooftop Course", "x": 2673, "y": 3296, "z": 0 }
+       ]
+      },
+      {
+       "name": "Crafting",
+       "teleports": [
+         { "name": "Flax Field", "x": 2741, "y": 3442, "z": 0 },
+         { "name": "Pottery Oven", "x": 3086, "y": 3409, "z": 0 }
+       ]
+      },
+      {
+       "name": "Fishing",
+       "teleports": [
+         { "name": "Aerial Fishing", "x": 1368, "y": 3633, "z": 0 },
+         { "name": "Barbarian Village", "x": 3102, "y": 3427, "z": 0 },
+         { "name": "Catherby Shores", "x": 2809, "y": 3435, "z": 0 },
+         { "name": "Draynor Shores", "x": 3091, "y": 3225, "z": 0 },
+         { "name": "Great Kourend Anglers", "x": 1829, "y": 3782, "z": 0 },
+         { "name": "Karamja Docks", "x": 2925, "y": 3177, "z": 0 },
+         { "name": "Lumbridge River", "x": 3240, "y": 3251, "z": 0 },
+         { "name": "Otto's Barbarian Fishing", "x": 2503, "y": 3488, "z": 0 },
+         { "name": "Piscatoris Fishing Colony", "x": 2341, "y": 3666, "z": 0 }
+       ]
+      },
+      {
+       "name": "Hunter",
+       "teleports": [
+         { "name": "Canifis Swamp (Swamp Lizard)", "x": 3538, "y": 3449, "z": 0 },
+         { "name": "<col=FF4500>(Wilderness) Chinchompa Hill (Black Chinchompa)", "x": 3145, "y": 3771, "z": 0 },
+         { "name": "Desert Hunting (Golden Warbler/Orange Salamander)", "x": 3407, "y": 3073, "z": 0 },
+         { "name": "Feldip Hills (Crimson Swift)", "x": 2603, "y": 2932, "z": 0 },
+         { "name": "Gnome-Khazard Battlefield (Red Salamander)", "x": 2451, "y": 3221, "z": 0 },
+         { "name": "<col=FF4500>(Wilderness) Hill Giants (Black Salamander)", "x": 3302, "y": 3668, "z": 0 },
+         { "name": "Jungle Hunting (Tropical Wagtail/Carnviorous Chinchompa)", "x": 2533, "y": 2921, "z": 0 },
+         { "name": "Snow Hunting (Cerulean Twitch)", "x": 2723, "y": 3771, "z": 0 },
+         { "name": "Woodland Hunting (Copper Longtail/Chinchompa)", "x": 2341, "y": 3597, "z": 0 }
+       ]
+      },
+      {
+       "name": "Mining",
+       "teleports": [
+         { "name": "Dwarven Mine", "x": 3043, "y": 9817, "z": 0 },
+         { "name": "Essence Mine - Dense", "x": 1769, "y": 3849, "z": 0 },
+         { "name": "Essence Mine - Regular", "x": 2911, "y": 4831, "z": 0 },
+         { "name": "Gem Mine", "x": 2825, "y": 2997, "z": 0 },
+         { "name": "Jatizso Mine", "x": 2406, "y": 10190, "z": 0 }
+       ]
+      },
+      {
+       "name": "Thieving",
+       "teleports": [
+         { "name": "Ardougne Marketplace", "x": 2661, "y": 3305, "z": 0 },
+         { "name": "Draynor Marketplace", "x": 3082, "y": 3250, "z": 0 },
+         { "name": "Keldagrim Marketplace", "x": 2899, "y": 10199, "z": 0 },
+         { "name": "Rogues' Den", "x": 3046, "y": 4969, "z": 1 }
+       ]
+      },
+      {
+        "name": "Slayer",
+        "teleports": [
+        { "name": "Ancient Cavern", "x": 1762, "y": 5361, "z": 0 },
+          { "name": "Asganian Ice Dungeon", "x": 3006, "y": 9550, "z": 0 },
+          { "name": "Bandit Camp", "x": 3170, "y": 2982, "z": 0 },
+          { "name": "Brimhaven Dungeon", "x": 2710, "y": 9564, "z": 0 },
+          { "name": "Brine Rat Cavern", "x": 2696, "y": 10121, "z": 0 },
+          { "name": "Catacombs of Kourend", "x": 1665, "y": 10049, "z": 0 },
+          { "name": "Chasm of Fire", "x": 1435, "y": 3671, "z": 0 },
+          { "name": "Fremennik Slayer Dungeon", "x": 2805, "y": 10001, "z": 0 },
+          { "name": "Godwars Dungeon", "x": 2916, "y": 3746, "z": 0 },
+          { "name": "Kalphite Lair", "x": 3226, "y": 3108, "z": 0 },
+          { "name": "Kraken Cove", "x": 2278, "y": 3609, "z": 0 },
+          { "name": "Lithkren Vault", "x": 1568, "y": 5075, "z": 0 },
+          { "name": "Mourner Tunnels", "x": 2029, "y": 4636, "z": 0 },
+          { "name": "Mos Le'Harmless Caves", "x": 3823, "y": 9425, "z": 0 },
+          { "name": "Slayer Tower", "x": 3428, "y": 3534, "z": 0 },
+          { "name": "Smoke Dungeon", "x": 3203, "y": 9379, "z": 0 },
+          { "name": "Smoke Devil Dungeon", "x": 2412, "y": 3060, "z": 0 },
+          { "name": "Stronghold Slayer Cave", "x": 2431, "y": 3424, "z": 0 },
+          { "name": "Taverley Dungeon", "x": 2884, "y": 9799, "z": 0 },
+          { "name": "Trollheim trollpit", "x": 2884, "y": 3588, "z": 0 },
+          { "name": "Waterbirth Dungeon", "x": 2443, "y": 10146, "z": 0 },
+          { "name": "Waterfall Dungeon", "x": 2573, "y": 9866, "z": 0 }
+        ]
+      },
+     {
+       "name": "Runecrafting",
+       "teleports": [
+         { "name": "Ourania Cave", "x": 3015, "y": 5629, "z": 0 },
+         { "name": "Abyss", "x": 1762, "y": 5361, "z": 0 }
+       ]
+     }
+  ]
+}

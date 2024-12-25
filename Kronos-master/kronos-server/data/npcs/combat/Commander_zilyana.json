@@ -1,0 +1,48 @@
+[
+  { #Commander Zilyana (596)
+    "ids": [ 2205, 6493 ],
+    "handler": "io.ruin.model.activities.godwars.combat.impl.saradomin.CommanderZilyana",
+    //Combat Info
+    "hitpoints": 255,
+    "aggressive_level": 1192,
+    "max_damage": 31,
+    "attack_style": "CRUSH",
+    "pet": "ZILYANA",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 351.0,
+    "slayer_tasks": [ "Commander Zilyana" ],
+    //Combat Stats
+    "attack": 280,
+    "strength": 196,
+    "defence": 300,
+    "ranged": 250,
+    "magic": 300,
+    //Aggressive Stats
+    "stab_attack": 195,
+    "slash_attack": 195,
+    "crush_attack": 195,
+    "magic_attack": 200,
+    "ranged_attack": 195,
+    //Defensive Stats
+    "stab_defence": 100,
+    "slash_defence": 100,
+    "crush_defence": 100,
+    "magic_defence": 100,
+    "ranged_defence": 100,
+    //Immunites
+    "poison_immunity": true,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 2,
+    "death_ticks": 5,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 6967,
+    "defend_animation": 6969,
+    "death_animation": 6968,
+	//Other
+	"local_loot": true
+  }
+]

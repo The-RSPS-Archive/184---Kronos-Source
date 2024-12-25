@@ -1,0 +1,42 @@
+---
+identifier: "86f281c3-93e2-42d4-8929-15e3244baada"
+title: "Prospector Percy's Nugget Shop"
+currency: "GOLDEN_NUGGETS"
+accessibleByIronMan: true
+canSellToStore: false
+restockRules:
+  restockTicks: 52
+  restockPerTick: 1
+defaultStock:
+- id: 12013
+  amount: 1000
+  price: 40
+  placeholderId: 0
+- id: 12014
+  amount: 1000
+  price: 60
+  placeholderId: 0
+- id: 12015
+  amount: 1000
+  price: 50
+  placeholderId: 0
+- id: 12016
+  amount: 1000
+  price: 30
+  placeholderId: 0
+- id: 12019
+  amount: 1000
+  price: 100
+  placeholderId: 0
+- id: 12020
+  amount: 1000
+  price: 100
+  placeholderId: 0
+- id: 12009
+  amount: 1000
+  price: 10
+  placeholderId: 0
+- id: 19473
+  amount: 1000
+  price: 40
+  placeholderId: 0

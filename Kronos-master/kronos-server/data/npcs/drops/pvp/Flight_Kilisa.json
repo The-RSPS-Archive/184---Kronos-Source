@@ -1,0 +1,42 @@
+[
+  {
+    "ids": [ 3165 ],
+    "tables": [
+      {
+        "name": "Armour",
+        "weight": 1,
+        "items": [
+          { "id": 11826, "min": 1, "max": 1, "weight": 1 }, //Armadyl helmet
+          { "id": 11828, "min": 1, "max": 1, "weight": 1 }, //Armadyl chestplate
+          { "id": 11830, "min": 1, "max": 1, "weight": 1 } //Armadyl chainskirt
+        ]
+      },
+      {
+        "name": "Food",
+        "weight": 800,
+        "items": [
+          { "id": 391, "min": 2, "max": 2, "weight": 1 }, //Manta ray
+          { "id": 7058, "min": 3, "max": 3, "weight": 1 } //Mushroom potato
+        ]
+      },
+      {
+        "name": "Godsword shards",
+        "weight": 10,
+        "items": [
+          { "id": 11818, "min": 1, "max": 1, "weight": 1 }, //Godsword shard 1
+          { "id": 11820, "min": 1, "max": 1, "weight": 1 }, //Godsword shard 2
+          { "id": 11822, "min": 1, "max": 1, "weight": 1 } //Godsword shard 3
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 800,
+        "items": [
+          { "id": 995, "min": 1006, "max": 1500, "weight": 10}, //Coins
+          { "id": 6693, "min": 2, "max": 2, "weight": 3 }, //Crushed nest
+          { "id": 2722, "min": 1, "max": 1, "weight": 1 } //Clue scroll (hard)
+        ]
+      }
+    ]
+  }
+]

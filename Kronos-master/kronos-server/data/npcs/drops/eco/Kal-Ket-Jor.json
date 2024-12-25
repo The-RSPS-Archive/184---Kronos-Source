@@ -1,0 +1,71 @@
+[
+  {
+    "ids": [ 15021 ],
+    "guaranteed": [
+      { "id": 532, "min": 1, "max": 1 } //big bones
+    ],
+    "tables": [
+      {
+        "name": "Unique items",
+        "weight": 3,
+        "items": [
+          { "id": 30196, "min": 1, "max": 1, "weight": 30 }, //Karuulm Helm
+          { "id": 30199, "min": 1, "max": 1, "weight": 30 }, //Karuulm Plate
+          { "id": 30202, "min": 1, "max": 1, "weight": 30 }, //Karuulm Legs
+          { "id": 30208, "min": 1, "max": 1, "weight": 20 }, //Karuulm Shield
+          { "id": 30205, "min": 1, "max": 1, "weight": 8 } //Karuulm Sword
+        ]
+      },
+      {
+        "name": "Coins",
+        "weight": 1,
+        "items": [
+          { "id": 995, "min": 4500000, "max": 7500000, "weight": 100 } //coins
+        ]
+      },
+      {
+        "name": "Weapons and Ammunition",
+        "weight": 50,
+        "items": [
+          { "id": 5626, "min": 295, "max": 300, "weight": 12 }, //Adamant arrow(p++)
+          { "id": 1333, "min": 1, "max": 1, "weight": 9 }, //Rune scimitar
+          { "id": 5698, "min": 1, "max": 1, "weight": 6 }, //Dragon dagger(p++)
+          { "id": 1289, "min": 1, "max": 1, "weight": 6 } //Rune sword
+        ]
+      },
+      {
+        "name": "Armour",
+        "weight": 50,
+        "items": [
+          { "id": 1079, "min": 1, "max": 1, "weight": 3 }, //Rune platelegs
+          { "id": 1123, "min": 1, "max": 1, "weight": 1 } //Adamant platebody
+        ]
+      },
+      {
+        "name": "Super atk/str",
+        "weight": 50,
+        "items": [
+          { "id": 145, "min": 3, "max": 3, "weight": 3 }, //Super attack(3)
+          { "id": 157, "min": 3, "max": 3, "weight": 1 } //Super strength(3)
+        ]
+      },
+      {
+        "name": "Restore/Brew",
+        "weight": 50,
+        "items": [
+          { "id": 3026, "min": 3, "max": 3, "weight": 3 } //Super restore(3)
+        ]
+      },
+      {
+        "name": "Other drops",
+        "weight": 50,
+        "items": [
+          { "id": 560, "min": 360, "max": 450, "weight": 125 }, //Death rune
+          { "id": 995, "min": 60457, "max": 95864, "weight": 125 }, //Coins
+          { "id": 565, "min": 200, "max": 250, "weight": 75 }, //Blood rune
+          { "id": 12073, "min": 1, "max": 1, "weight": 15 } //Clue scroll (elite)
+        ]
+      }
+    ]
+  }
+]

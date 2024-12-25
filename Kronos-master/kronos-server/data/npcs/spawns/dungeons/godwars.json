@@ -1,0 +1,3161 @@
+[
+  {
+    "name": "Bloodveld",
+    "id": 3138,
+    "x": 2854,
+    "y": 5354,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Knight of Saradomin",
+    "id": 2213,
+    "x": 2891,
+    "y": 5292,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Hobgoblin",
+    "id": 2241,
+    "x": 2851,
+    "y": 5307,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Knight of Saradomin",
+    "id": 2214,
+    "x": 2891,
+    "y": 5297,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Spiritual mage",
+    "id": 2244,
+    "x": 2855,
+    "y": 5345,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Spiritual ranger",
+    "id": 2211,
+    "x": 2890,
+    "y": 5312,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Hobgoblin",
+    "id": 2241,
+    "x": 2856,
+    "y": 5312,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Hellhound",
+    "id": 3133,
+    "x": 2894,
+    "y": 5299,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Goblin",
+    "id": 2249,
+    "x": 2857,
+    "y": 5329,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Knight of Saradomin",
+    "id": 2213,
+    "x": 2894,
+    "y": 5297,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Spiritual ranger",
+    "id": 2242,
+    "x": 2855,
+    "y": 5348,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Spiritual warrior",
+    "id": 2210,
+    "x": 2896,
+    "y": 5291,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Jogre",
+    "id": 2234,
+    "x": 2855,
+    "y": 5360,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Spiritual ranger",
+    "id": 2211,
+    "x": 2896,
+    "y": 5297,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Goblin",
+    "id": 2247,
+    "x": 2857,
+    "y": 5329,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Spiritual ranger",
+    "id": 2211,
+    "x": 2896,
+    "y": 5303,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Jogre",
+    "id": 2234,
+    "x": 2856,
+    "y": 5350,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Spiritual mage",
+    "id": 2212,
+    "x": 2898,
+    "y": 5287,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Cyclops",
+    "id": 2235,
+    "x": 2856,
+    "y": 5357,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Spiritual warrior",
+    "id": 2210,
+    "x": 2894,
+    "y": 5311,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Werewolf",
+    "id": 3136,
+    "x": 2856,
+    "y": 5315,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Spiritual mage",
+    "id": 2212,
+    "x": 2898,
+    "y": 5308,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Goblin",
+    "id": 2245,
+    "x": 2857,
+    "y": 5328,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Spiritual warrior",
+    "id": 2210,
+    "x": 2894,
+    "y": 5311,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Goblin",
+    "id": 2248,
+    "x": 2857,
+    "y": 5329,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Knight of Saradomin",
+    "id": 2214,
+    "x": 2898,
+    "y": 5286,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Jogre",
+    "id": 2234,
+    "x": 2859,
+    "y": 5315,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Saradomin priest",
+    "id": 2209,
+    "x": 2899,
+    "y": 5295,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Gorak",
+    "id": 3141,
+    "x": 2857,
+    "y": 5325,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Knight of Saradomin",
+    "id": 2213,
+    "x": 2898,
+    "y": 5304,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Spiritual ranger",
+    "id": 2242,
+    "x": 2858,
+    "y": 5352,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Spiritual warrior",
+    "id": 2210,
+    "x": 2898,
+    "y": 5285,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Spiritual mage",
+    "id": 2244,
+    "x": 2860,
+    "y": 5353,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Saradomin priest",
+    "id": 2209,
+    "x": 2901,
+    "y": 5299,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Spiritual ranger",
+    "id": 2242,
+    "x": 2858,
+    "y": 5356,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Spiritual mage",
+    "id": 2212,
+    "x": 2899,
+    "y": 5295,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Goblin",
+    "id": 2248,
+    "x": 2863,
+    "y": 5314,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Spiritual warrior",
+    "id": 2210,
+    "x": 2903,
+    "y": 5298,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Ork",
+    "id": 2239,
+    "x": 2861,
+    "y": 5333,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Spiritual mage",
+    "id": 2212,
+    "x": 2906,
+    "y": 5301,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Bloodveld",
+    "id": 3138,
+    "x": 2861,
+    "y": 5335,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Spiritual warrior",
+    "id": 2210,
+    "x": 2905,
+    "y": 5291,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Goblin",
+    "id": 2245,
+    "x": 2863,
+    "y": 5314,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Knight of Saradomin",
+    "id": 2214,
+    "x": 2907,
+    "y": 5300,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Kree\u0027arra",
+    "id": 3162,
+    "x": 2832,
+    "y": 5301,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Ork",
+    "id": 2237,
+    "x": 2863,
+    "y": 5333,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Saradomin priest",
+    "id": 2209,
+    "x": 2907,
+    "y": 5299,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Ork",
+    "id": 2240,
+    "x": 2864,
+    "y": 5334,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Werewolf",
+    "id": 3136,
+    "x": 2906,
+    "y": 5299,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Goblin",
+    "id": 2249,
+    "x": 2861,
+    "y": 5312,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Spiritual warrior",
+    "id": 2210,
+    "x": 2908,
+    "y": 5298,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Goblin",
+    "id": 2246,
+    "x": 2863,
+    "y": 5312,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Spiritual ranger",
+    "id": 2211,
+    "x": 2908,
+    "y": 5298,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Goblin",
+    "id": 2247,
+    "x": 2863,
+    "y": 5314,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Ork",
+    "id": 2238,
+    "x": 2864,
+    "y": 5333,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Ork",
+    "id": 2240,
+    "x": 2862,
+    "y": 5334,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Ork",
+    "id": 2237,
+    "x": 2863,
+    "y": 5336,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Jogre",
+    "id": 2234,
+    "x": 2864,
+    "y": 5338,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Goblin",
+    "id": 2248,
+    "x": 2864,
+    "y": 5313,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Ogre",
+    "id": 2233,
+    "x": 2865,
+    "y": 5314,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Jogre",
+    "id": 2234,
+    "x": 2868,
+    "y": 5323,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Werewolf",
+    "id": 3136,
+    "x": 2868,
+    "y": 5328,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Hobgoblin",
+    "id": 2241,
+    "x": 2868,
+    "y": 5342,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Ork",
+    "id": 2240,
+    "x": 2869,
+    "y": 5321,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Hobgoblin",
+    "id": 2241,
+    "x": 2868,
+    "y": 5341,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Hobgoblin",
+    "id": 2241,
+    "x": 2868,
+    "y": 5341,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Ork",
+    "id": 2237,
+    "x": 2871,
+    "y": 5313,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Ork",
+    "id": 2239,
+    "x": 2872,
+    "y": 5321,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Ork",
+    "id": 2239,
+    "x": 2871,
+    "y": 5322,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Ork",
+    "id": 2240,
+    "x": 2872,
+    "y": 5313,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Ork",
+    "id": 2238,
+    "x": 2871,
+    "y": 5313,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Werewolf",
+    "id": 3135,
+    "x": 2871,
+    "y": 5319,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "General Graardor",
+    "id": 2215,
+    "x": 2870,
+    "y": 5358,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Pyrefiend",
+    "id": 3139,
+    "x": 2873,
+    "y": 5313,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Werewolf",
+    "id": 3136,
+    "x": 2875,
+    "y": 5313,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Hobgoblin",
+    "id": 2241,
+    "x": 2875,
+    "y": 5316,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Ogre",
+    "id": 2233,
+    "x": 2876,
+    "y": 5312,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Goblin",
+    "id": 2246,
+    "x": 2878,
+    "y": 5328,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Hobgoblin",
+    "id": 2241,
+    "x": 2875,
+    "y": 5319,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Hobgoblin",
+    "id": 2241,
+    "x": 2876,
+    "y": 5320,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Goblin",
+    "id": 2247,
+    "x": 2876,
+    "y": 5330,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Goblin",
+    "id": 2248,
+    "x": 2878,
+    "y": 5328,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Ogre",
+    "id": 2233,
+    "x": 2880,
+    "y": 5330,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Hobgoblin",
+    "id": 2241,
+    "x": 2878,
+    "y": 5322,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Hobgoblin",
+    "id": 2241,
+    "x": 2878,
+    "y": 5321,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Goblin",
+    "id": 2245,
+    "x": 2878,
+    "y": 5328,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Goblin",
+    "id": 2249,
+    "x": 2879,
+    "y": 5328,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Goblin",
+    "id": 2246,
+    "x": 2881,
+    "y": 5328,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Spiritual mage",
+    "id": 3168,
+    "x": 2833,
+    "y": 5285,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Aviansie",
+    "id": 3182,
+    "x": 2835,
+    "y": 5289,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Aviansie",
+    "id": 3174,
+    "x": 2834,
+    "y": 5286,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Aviansie",
+    "id": 3179,
+    "x": 2836,
+    "y": 5272,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Werewolf",
+    "id": 3136,
+    "x": 2837,
+    "y": 5287,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Spiritual mage",
+    "id": 3168,
+    "x": 2837,
+    "y": 5264,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Spiritual warrior",
+    "id": 3166,
+    "x": 2838,
+    "y": 5287,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Aviansie",
+    "id": 3176,
+    "x": 2837,
+    "y": 5273,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Aviansie",
+    "id": 3174,
+    "x": 2840,
+    "y": 5267,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Aviansie",
+    "id": 3171,
+    "x": 2848,
+    "y": 5270,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Spiritual warrior",
+    "id": 3166,
+    "x": 2841,
+    "y": 5281,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Aviansie",
+    "id": 3176,
+    "x": 2839,
+    "y": 5286,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Aviansie",
+    "id": 3171,
+    "x": 2838,
+    "y": 5288,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Spiritual ranger",
+    "id": 3160,
+    "x": 2842,
+    "y": 5265,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Spiritual ranger",
+    "id": 3167,
+    "x": 2845,
+    "y": 5261,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Aviansie",
+    "id": 3176,
+    "x": 2851,
+    "y": 5273,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Bloodveld",
+    "id": 3138,
+    "x": 2843,
+    "y": 5283,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Aviansie",
+    "id": 3181,
+    "x": 2846,
+    "y": 5282,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Aviansie",
+    "id": 3182,
+    "x": 2849,
+    "y": 5263,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Spiritual ranger",
+    "id": 3167,
+    "x": 2848,
+    "y": 5272,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Werewolf",
+    "id": 3135,
+    "x": 2849,
+    "y": 5276,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Spiritual ranger",
+    "id": 3160,
+    "x": 2847,
+    "y": 5283,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Aviansie",
+    "id": 3178,
+    "x": 2851,
+    "y": 5271,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Aviansie",
+    "id": 3180,
+    "x": 2849,
+    "y": 5293,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Aviansie",
+    "id": 3175,
+    "x": 2850,
+    "y": 5272,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Aviansie",
+    "id": 3177,
+    "x": 2855,
+    "y": 5313,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Aviansie",
+    "id": 3170,
+    "x": 2853,
+    "y": 5268,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Spiritual mage",
+    "id": 3168,
+    "x": 2855,
+    "y": 5272,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Aviansie",
+    "id": 3180,
+    "x": 2854,
+    "y": 5300,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Icefiend",
+    "id": 3140,
+    "x": 2854,
+    "y": 5302,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Aviansie",
+    "id": 3183,
+    "x": 2856,
+    "y": 5283,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Aviansie",
+    "id": 3173,
+    "x": 2859,
+    "y": 5267,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Spiritual warrior",
+    "id": 3166,
+    "x": 2858,
+    "y": 5264,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Aviansie",
+    "id": 3172,
+    "x": 2861,
+    "y": 5302,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Werewolf",
+    "id": 3136,
+    "x": 2859,
+    "y": 5285,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Aviansie",
+    "id": 3177,
+    "x": 2855,
+    "y": 5298,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Aviansie",
+    "id": 3172,
+    "x": 2863,
+    "y": 5304,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Gorak",
+    "id": 3141,
+    "x": 2862,
+    "y": 5260,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Feral Vampyre",
+    "id": 3137,
+    "x": 2863,
+    "y": 5292,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Aviansie",
+    "id": 3175,
+    "x": 2864,
+    "y": 5267,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Pyrefiend",
+    "id": 3139,
+    "x": 2862,
+    "y": 5305,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Pyrefiend",
+    "id": 3139,
+    "x": 2866,
+    "y": 5282,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Pyrefiend",
+    "id": 3139,
+    "x": 2866,
+    "y": 5282,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Gorak",
+    "id": 3141,
+    "x": 2865,
+    "y": 5292,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Aviansie",
+    "id": 3170,
+    "x": 2865,
+    "y": 5259,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Aviansie",
+    "id": 3178,
+    "x": 2868,
+    "y": 5268,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Spiritual mage",
+    "id": 3168,
+    "x": 2866,
+    "y": 5267,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Aviansie",
+    "id": 3169,
+    "x": 2866,
+    "y": 5306,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Aviansie",
+    "id": 3172,
+    "x": 2870,
+    "y": 5286,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Aviansie",
+    "id": 3173,
+    "x": 2871,
+    "y": 5263,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Aviansie",
+    "id": 3183,
+    "x": 2868,
+    "y": 5309,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Aviansie",
+    "id": 3181,
+    "x": 2871,
+    "y": 5261,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Aviansie",
+    "id": 3180,
+    "x": 2872,
+    "y": 5285,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Bloodveld",
+    "id": 3138,
+    "x": 2875,
+    "y": 5297,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Aviansie",
+    "id": 3172,
+    "x": 2873,
+    "y": 5292,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Icefiend",
+    "id": 3140,
+    "x": 2880,
+    "y": 5293,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Aviansie",
+    "id": 3183,
+    "x": 2877,
+    "y": 5298,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Aviansie",
+    "id": 3180,
+    "x": 2876,
+    "y": 5312,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Aviansie",
+    "id": 3177,
+    "x": 2880,
+    "y": 5283,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Feral Vampyre",
+    "id": 3137,
+    "x": 2877,
+    "y": 5286,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Aviansie",
+    "id": 3169,
+    "x": 2880,
+    "y": 5290,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 9
+  },
+  {
+    "name": "Feral Vampyre",
+    "id": 3137,
+    "x": 2881,
+    "y": 5318,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Werewolf",
+    "id": 3135,
+    "x": 2876,
+    "y": 5320,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Feral Vampyre",
+    "id": 3137,
+    "x": 2878,
+    "y": 5331,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Hellhound",
+    "id": 3133,
+    "x": 2881,
+    "y": 5322,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Gorak",
+    "id": 3141,
+    "x": 2881,
+    "y": 5327,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Bloodveld",
+    "id": 3138,
+    "x": 2886,
+    "y": 5350,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Spiritual mage",
+    "id": 3161,
+    "x": 2884,
+    "y": 5353,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Bloodveld",
+    "id": 3138,
+    "x": 2884,
+    "y": 5324,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Werewolf",
+    "id": 3136,
+    "x": 2886,
+    "y": 5354,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Feral Vampyre",
+    "id": 3137,
+    "x": 2883,
+    "y": 5309,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Bloodveld",
+    "id": 3138,
+    "x": 2883,
+    "y": 5315,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Imp",
+    "id": 3134,
+    "x": 2888,
+    "y": 5313,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Werewolf",
+    "id": 3135,
+    "x": 2885,
+    "y": 5321,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Gorak",
+    "id": 3141,
+    "x": 2886,
+    "y": 5350,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Bloodveld",
+    "id": 3138,
+    "x": 2889,
+    "y": 5359,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Icefiend",
+    "id": 3140,
+    "x": 2886,
+    "y": 5311,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Spiritual mage",
+    "id": 3161,
+    "x": 2888,
+    "y": 5358,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Gorak",
+    "id": 3141,
+    "x": 2887,
+    "y": 5313,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Feral Vampyre",
+    "id": 3137,
+    "x": 2888,
+    "y": 5320,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Spiritual mage",
+    "id": 3161,
+    "x": 2889,
+    "y": 5362,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Bloodveld",
+    "id": 3138,
+    "x": 2889,
+    "y": 5321,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Hellhound",
+    "id": 3133,
+    "x": 2887,
+    "y": 5327,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Spiritual warrior",
+    "id": 3159,
+    "x": 2891,
+    "y": 5357,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Werewolf",
+    "id": 3136,
+    "x": 2891,
+    "y": 5361,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Werewolf",
+    "id": 3135,
+    "x": 2891,
+    "y": 5316,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Feral Vampyre",
+    "id": 3137,
+    "x": 2892,
+    "y": 5324,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Bloodveld",
+    "id": 3138,
+    "x": 2892,
+    "y": 5351,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Bloodveld",
+    "id": 3138,
+    "x": 2894,
+    "y": 5361,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Werewolf",
+    "id": 3135,
+    "x": 2893,
+    "y": 5312,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Werewolf",
+    "id": 3136,
+    "x": 2896,
+    "y": 5351,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Feral Vampyre",
+    "id": 3137,
+    "x": 2897,
+    "y": 5311,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Imp",
+    "id": 3134,
+    "x": 2896,
+    "y": 5313,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Icefiend",
+    "id": 3140,
+    "x": 2895,
+    "y": 5312,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Werewolf",
+    "id": 3136,
+    "x": 2901,
+    "y": 5355,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Imp",
+    "id": 3134,
+    "x": 2902,
+    "y": 5357,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Spiritual mage",
+    "id": 3161,
+    "x": 2902,
+    "y": 5359,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Gorak",
+    "id": 3141,
+    "x": 2903,
+    "y": 5349,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Spiritual warrior",
+    "id": 3159,
+    "x": 2903,
+    "y": 5350,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Gorak",
+    "id": 3141,
+    "x": 2902,
+    "y": 5361,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Spiritual mage",
+    "id": 3161,
+    "x": 2904,
+    "y": 5355,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Gorak",
+    "id": 3141,
+    "x": 2906,
+    "y": 5345,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Imp",
+    "id": 3134,
+    "x": 2906,
+    "y": 5346,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Werewolf",
+    "id": 3136,
+    "x": 2911,
+    "y": 5340,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Spiritual warrior",
+    "id": 3159,
+    "x": 2913,
+    "y": 5339,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Werewolf",
+    "id": 3136,
+    "x": 2913,
+    "y": 5352,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Spiritual warrior",
+    "id": 3159,
+    "x": 2912,
+    "y": 5357,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Werewolf",
+    "id": 3136,
+    "x": 2914,
+    "y": 5337,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Hellhound",
+    "id": 3133,
+    "x": 2914,
+    "y": 5345,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Werewolf",
+    "id": 3136,
+    "x": 2916,
+    "y": 5341,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Werewolf",
+    "id": 3136,
+    "x": 2915,
+    "y": 5353,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Spiritual mage",
+    "id": 3161,
+    "x": 2917,
+    "y": 5339,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Spiritual warrior",
+    "id": 3159,
+    "x": 2917,
+    "y": 5339,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Spiritual warrior",
+    "id": 3159,
+    "x": 2918,
+    "y": 5344,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Spiritual warrior",
+    "id": 3159,
+    "x": 2919,
+    "y": 5341,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Spiritual mage",
+    "id": 3161,
+    "x": 2918,
+    "y": 5360,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Spiritual mage",
+    "id": 3161,
+    "x": 2918,
+    "y": 5339,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Werewolf",
+    "id": 3136,
+    "x": 2921,
+    "y": 5347,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Imp",
+    "id": 3134,
+    "x": 2921,
+    "y": 5355,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Werewolf",
+    "id": 3136,
+    "x": 2922,
+    "y": 5357,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Spiritual warrior",
+    "id": 3159,
+    "x": 2922,
+    "y": 5345,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Gorak",
+    "id": 3141,
+    "x": 2923,
+    "y": 5353,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Bloodveld",
+    "id": 3138,
+    "x": 2921,
+    "y": 5356,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Spiritual mage",
+    "id": 3161,
+    "x": 2923,
+    "y": 5340,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "K\u0027ril Tsutsaroth",
+    "id": 3129,
+    "x": 2920,
+    "y": 5326,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Imp",
+    "id": 3134,
+    "x": 2924,
+    "y": 5352,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Spiritual warrior",
+    "id": 3159,
+    "x": 2926,
+    "y": 5342,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Spiritual warrior",
+    "id": 3159,
+    "x": 2926,
+    "y": 5340,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Spiritual warrior",
+    "id": 3159,
+    "x": 2927,
+    "y": 5345,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Werewolf",
+    "id": 3136,
+    "x": 2925,
+    "y": 5354,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Bloodveld",
+    "id": 3138,
+    "x": 2927,
+    "y": 5354,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Spiritual mage",
+    "id": 3161,
+    "x": 2929,
+    "y": 5346,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Gorak",
+    "id": 3141,
+    "x": 2928,
+    "y": 5344,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Werewolf",
+    "id": 3136,
+    "x": 2929,
+    "y": 5355,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Werewolf",
+    "id": 3136,
+    "x": 2932,
+    "y": 5346,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Bloodveld",
+    "id": 3138,
+    "x": 2934,
+    "y": 5352,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Spiritual mage",
+    "id": 3161,
+    "x": 2935,
+    "y": 5348,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Werewolf",
+    "id": 3136,
+    "x": 2935,
+    "y": 5349,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Spiritual ranger",
+    "id": 3160,
+    "x": 2935,
+    "y": 5351,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Spiritual mage",
+    "id": 2244,
+    "x": 2827,
+    "y": 5331,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Spiritual warrior",
+    "id": 2243,
+    "x": 2827,
+    "y": 5334,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Jogre",
+    "id": 2234,
+    "x": 2829,
+    "y": 5338,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Spiritual ranger",
+    "id": 2242,
+    "x": 2829,
+    "y": 5328,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Feral Vampyre",
+    "id": 3137,
+    "x": 2828,
+    "y": 5330,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Spiritual mage",
+    "id": 2244,
+    "x": 2830,
+    "y": 5315,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Jogre",
+    "id": 2234,
+    "x": 2832,
+    "y": 5317,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Cyclops",
+    "id": 2235,
+    "x": 2832,
+    "y": 5324,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Spiritual mage",
+    "id": 2244,
+    "x": 2832,
+    "y": 5340,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Cyclops",
+    "id": 2236,
+    "x": 2834,
+    "y": 5352,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Cyclops",
+    "id": 2236,
+    "x": 2836,
+    "y": 5322,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Spiritual warrior",
+    "id": 2243,
+    "x": 2834,
+    "y": 5350,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Spiritual ranger",
+    "id": 2242,
+    "x": 2835,
+    "y": 5336,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Spiritual warrior",
+    "id": 2243,
+    "x": 2835,
+    "y": 5321,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Werewolf",
+    "id": 3135,
+    "x": 2836,
+    "y": 5350,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Ork",
+    "id": 2238,
+    "x": 2835,
+    "y": 5352,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Ork",
+    "id": 2240,
+    "x": 2836,
+    "y": 5354,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Jogre",
+    "id": 2234,
+    "x": 2835,
+    "y": 5354,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Hellhound",
+    "id": 3133,
+    "x": 2833,
+    "y": 5338,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Spiritual mage",
+    "id": 2244,
+    "x": 2837,
+    "y": 5342,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Spiritual ranger",
+    "id": 2242,
+    "x": 2837,
+    "y": 5344,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Ork",
+    "id": 2237,
+    "x": 2837,
+    "y": 5351,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Ork",
+    "id": 2239,
+    "x": 2837,
+    "y": 5353,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Spiritual ranger",
+    "id": 2242,
+    "x": 2838,
+    "y": 5325,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Spiritual mage",
+    "id": 2244,
+    "x": 2838,
+    "y": 5329,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Cyclops",
+    "id": 2235,
+    "x": 2838,
+    "y": 5346,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Ork",
+    "id": 2237,
+    "x": 2838,
+    "y": 5354,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Spiritual ranger",
+    "id": 2242,
+    "x": 2839,
+    "y": 5321,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Ork",
+    "id": 2239,
+    "x": 2839,
+    "y": 5332,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Ork",
+    "id": 2239,
+    "x": 2839,
+    "y": 5333,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Imp",
+    "id": 3134,
+    "x": 2839,
+    "y": 5345,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Spiritual mage",
+    "id": 2244,
+    "x": 2839,
+    "y": 5360,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Cyclops",
+    "id": 2235,
+    "x": 2840,
+    "y": 5325,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Ork",
+    "id": 2240,
+    "x": 2840,
+    "y": 5333,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Ork",
+    "id": 2238,
+    "x": 2840,
+    "y": 5334,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Spiritual warrior",
+    "id": 2243,
+    "x": 2842,
+    "y": 5344,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Spiritual mage",
+    "id": 2244,
+    "x": 2843,
+    "y": 5320,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Cyclops",
+    "id": 2236,
+    "x": 2842,
+    "y": 5323,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Spiritual warrior",
+    "id": 2210,
+    "x": 2880,
+    "y": 5291,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Spiritual ranger",
+    "id": 2242,
+    "x": 2842,
+    "y": 5329,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Spiritual warrior",
+    "id": 2210,
+    "x": 2880,
+    "y": 5306,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Jogre",
+    "id": 2234,
+    "x": 2843,
+    "y": 5332,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Spiritual ranger",
+    "id": 2211,
+    "x": 2880,
+    "y": 5282,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Cyclops",
+    "id": 2235,
+    "x": 2842,
+    "y": 5339,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Spiritual warrior",
+    "id": 2210,
+    "x": 2881,
+    "y": 5284,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Spiritual warrior",
+    "id": 2243,
+    "x": 2843,
+    "y": 5341,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Saradomin priest",
+    "id": 2209,
+    "x": 2880,
+    "y": 5285,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Cyclops",
+    "id": 2236,
+    "x": 2843,
+    "y": 5344,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Spiritual mage",
+    "id": 2212,
+    "x": 2880,
+    "y": 5292,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Cyclops",
+    "id": 2235,
+    "x": 2841,
+    "y": 5357,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Spiritual warrior",
+    "id": 2210,
+    "x": 2881,
+    "y": 5294,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Spiritual warrior",
+    "id": 2243,
+    "x": 2843,
+    "y": 5361,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Spiritual ranger",
+    "id": 2211,
+    "x": 2883,
+    "y": 5286,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Spiritual warrior",
+    "id": 2243,
+    "x": 2843,
+    "y": 5328,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Knight of Saradomin",
+    "id": 2213,
+    "x": 2882,
+    "y": 5287,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Spiritual ranger",
+    "id": 2242,
+    "x": 2845,
+    "y": 5347,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Spiritual ranger",
+    "id": 2211,
+    "x": 2883,
+    "y": 5296,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Spiritual mage",
+    "id": 2244,
+    "x": 2845,
+    "y": 5352,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Spiritual mage",
+    "id": 2212,
+    "x": 2884,
+    "y": 5305,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Spiritual mage",
+    "id": 2244,
+    "x": 2846,
+    "y": 5332,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Saradomin priest",
+    "id": 2209,
+    "x": 2883,
+    "y": 5307,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Jogre",
+    "id": 2234,
+    "x": 2845,
+    "y": 5336,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Spiritual warrior",
+    "id": 2210,
+    "x": 2884,
+    "y": 5310,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Spiritual warrior",
+    "id": 2243,
+    "x": 2847,
+    "y": 5358,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Werewolf",
+    "id": 3136,
+    "x": 2883,
+    "y": 5294,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Spiritual ranger",
+    "id": 2242,
+    "x": 2846,
+    "y": 5340,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Spiritual warrior",
+    "id": 2210,
+    "x": 2885,
+    "y": 5305,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Cyclops",
+    "id": 2235,
+    "x": 2846,
+    "y": 5346,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Saradomin priest",
+    "id": 2209,
+    "x": 2885,
+    "y": 5284,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Werewolf",
+    "id": 3136,
+    "x": 2848,
+    "y": 5351,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Spiritual warrior",
+    "id": 2210,
+    "x": 2886,
+    "y": 5287,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Spiritual mage",
+    "id": 2244,
+    "x": 2848,
+    "y": 5342,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Knight of Saradomin",
+    "id": 2214,
+    "x": 2885,
+    "y": 5291,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Cyclops",
+    "id": 2236,
+    "x": 2847,
+    "y": 5343,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Knight of Saradomin",
+    "id": 2214,
+    "x": 2887,
+    "y": 5301,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Spiritual ranger",
+    "id": 2242,
+    "x": 2850,
+    "y": 5349,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Spiritual warrior",
+    "id": 2210,
+    "x": 2887,
+    "y": 5313,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Cyclops",
+    "id": 2236,
+    "x": 2850,
+    "y": 5357,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Spiritual mage",
+    "id": 2212,
+    "x": 2886,
+    "y": 5310,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Spiritual warrior",
+    "id": 2243,
+    "x": 2851,
+    "y": 5346,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Spiritual warrior",
+    "id": 2210,
+    "x": 2888,
+    "y": 5283,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Spiritual mage",
+    "id": 2244,
+    "x": 2851,
+    "y": 5359,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "",
+    "id": 5931,
+    "x": 2888,
+    "y": 5286,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Spiritual ranger",
+    "id": 2242,
+    "x": 2852,
+    "y": 5357,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Saradomin priest",
+    "id": 2209,
+    "x": 2889,
+    "y": 5290,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Jogre",
+    "id": 2234,
+    "x": 2855,
+    "y": 5323,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Spiritual ranger",
+    "id": 2211,
+    "x": 2888,
+    "y": 5295,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Feral Vampyre",
+    "id": 3137,
+    "x": 2854,
+    "y": 5327,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Spiritual ranger",
+    "id": 2211,
+    "x": 2889,
+    "y": 5300,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Hobgoblin",
+    "id": 2241,
+    "x": 2853,
+    "y": 5314,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Spiritual mage",
+    "id": 2212,
+    "x": 2887,
+    "y": 5284,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Jogre",
+    "id": 2234,
+    "x": 2855,
+    "y": 5331,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Saradomin priest",
+    "id": 2209,
+    "x": 2890,
+    "y": 5304,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Feral Vampyre",
+    "id": 3137,
+    "x": 2853,
+    "y": 5347,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Werewolf",
+    "id": 3135,
+    "x": 2887,
+    "y": 5284,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Spiritual warrior",
+    "id": 2243,
+    "x": 2853,
+    "y": 5350,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Spiritual ranger",
+    "id": 2211,
+    "x": 2892,
+    "y": 5287,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Knight of Saradomin",
+    "id": 2214,
+    "x": 2921,
+    "y": 5289,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Spiritual mage",
+    "id": 2212,
+    "x": 2923,
+    "y": 5286,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Spiritual mage",
+    "id": 2212,
+    "x": 2917,
+    "y": 5289,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Knight of Saradomin",
+    "id": 2214,
+    "x": 2918,
+    "y": 5284,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Feral Vampyre",
+    "id": 3137,
+    "x": 2919,
+    "y": 5280,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Saradomin priest",
+    "id": 2209,
+    "x": 2919,
+    "y": 5282,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Spiritual warrior",
+    "id": 2210,
+    "x": 2918,
+    "y": 5285,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Knight of Saradomin",
+    "id": 2213,
+    "x": 2919,
+    "y": 5293,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Spiritual ranger",
+    "id": 2211,
+    "x": 2919,
+    "y": 5289,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Werewolf",
+    "id": 3136,
+    "x": 2920,
+    "y": 5288,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Spiritual warrior",
+    "id": 2210,
+    "x": 2919,
+    "y": 5295,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Spiritual warrior",
+    "id": 2210,
+    "x": 2920,
+    "y": 5282,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Spiritual mage",
+    "id": 2212,
+    "x": 2919,
+    "y": 5278,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Spiritual ranger",
+    "id": 2211,
+    "x": 2920,
+    "y": 5285,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Spiritual warrior",
+    "id": 2210,
+    "x": 2920,
+    "y": 5290,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Saradomin priest",
+    "id": 2209,
+    "x": 2920,
+    "y": 5293,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Feral Vampyre",
+    "id": 3137,
+    "x": 2921,
+    "y": 5281,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Commander Zilyana",
+    "id": 2205,
+    "x": 2899,
+    "y": 5267,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 9
+  },
+  {
+    "name": "Knight of Saradomin",
+    "id": 2213,
+    "x": 2916,
+    "y": 5272,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Saradomin priest",
+    "id": 2209,
+    "x": 2911,
+    "y": 5266,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Spiritual mage",
+    "id": 2212,
+    "x": 2911,
+    "y": 5269,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Gorak",
+    "id": 3141,
+    "x": 2912,
+    "y": 5268,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Spiritual warrior",
+    "id": 2210,
+    "x": 2913,
+    "y": 5268,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Spiritual ranger",
+    "id": 2211,
+    "x": 2913,
+    "y": 5268,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Saradomin priest",
+    "id": 2209,
+    "x": 2916,
+    "y": 5270,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Werewolf",
+    "id": 3135,
+    "x": 2915,
+    "y": 5268,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Icefiend",
+    "id": 3140,
+    "x": 2916,
+    "y": 5271,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  }
+]

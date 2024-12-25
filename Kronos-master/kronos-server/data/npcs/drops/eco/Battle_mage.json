@@ -1,0 +1,39 @@
+[
+  {
+    "ids": [ 1610, 1611, 1612 ],
+    "guaranteed": [
+      { "id": 526, "min": 1, "max": 1 } //Bones
+    ],
+    "tables": [
+    {
+      "name": "Runes",
+      "weight": 148,
+      "items": [
+        { "id": 556, "min": 50, "max": 250, "weight": 10 }, //Air rune
+        { "id": 565, "min": 10, "max": 50, "weight": 7 }, //Blood rune
+        { "id": 562, "min": 25, "max": 100, "weight": 9 }, //Chaos rune
+        { "id": 563, "min": 25, "max": 100, "weight": 8 } //Law rune
+      ]
+    },
+      {
+        "name": "infinity",
+        "weight": 1,
+        "items": [
+          { "id": 6916, "min": 1, "max": 1, "weight": 1 }, //inf top
+          { "id": 6918, "min": 1, "max": 1, "weight": 1 }, //inf hat
+          { "id": 6920, "min": 1, "max": 1, "weight": 1 }, //inf boots
+          { "id": 6922, "min": 1, "max": 1, "weight": 1 }, //inf gloves
+          { "id": 6924, "min": 1, "max": 1, "weight": 1 } //inf bottom
+        ]
+      },
+      {
+        "name": "weps",
+        "weight": 1,
+        "items": [
+          { "id": 6914, "min": 1, "max": 1, "weight": 1 }, //master wand
+          { "id": 6889, "min": 1, "max": 1, "weight": 1 } //mages book
+        ]
+      }
+    ]
+  }
+]

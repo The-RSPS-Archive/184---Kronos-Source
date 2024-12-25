@@ -1,0 +1,45 @@
+[
+  { #Verac the Defiled (115)
+    "ids": [ 1677 ],
+    "handler": "io.ruin.model.activities.barrows.brothers.Verac",
+    //Combat Info
+    "hitpoints": 100,
+    "aggressive_level": 230,
+    "max_damage": 23,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 112.0,
+    "slayer_tasks": [ "Barrows Brothers" ],
+    //Combat Stats
+    "attack": 100,
+    "strength": 100,
+    "defence": 100,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 68,
+    "slash_attack": 0,
+    "crush_attack": 82,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 227,
+    "slash_defence": 230,
+    "crush_defence": 221,
+    "magic_defence": 0,
+    "ranged_defence": 225,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 5,
+    "death_ticks": 3,
+    "respawn_ticks": -1,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 2062,
+    "defend_animation": 2063,
+    "death_animation": 4167
+  }
+]

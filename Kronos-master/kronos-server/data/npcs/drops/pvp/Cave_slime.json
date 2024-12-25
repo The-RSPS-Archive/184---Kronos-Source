@@ -1,0 +1,48 @@
+[
+  {
+    "ids": [ 480 ],
+    "tables": [
+      {
+        "name": "Always Drops",
+        "weight": 1,
+        "items": [
+          { "id": 1939, "min": 1, "max": 6, "weight": 1 } //Swamp tar
+        ]
+      },
+      {
+        "name": "Weapons and Armour",
+        "weight": 1,
+        "items": [
+          { "id": 1351, "min": 1, "max": 1, "weight": 3 }, //Bronze axe
+          { "id": 1279, "min": 1, "max": 1, "weight": 3 }, //Iron sword
+          { "id": 1155, "min": 1, "max": 1, "weight": 3 }, //Bronze full helm
+          { "id": 1191, "min": 1, "max": 1, "weight": 1 }, //Iron kiteshield
+          { "id": 4121, "min": 1, "max": 1, "weight": 1 } //Iron boots
+        ]
+      },
+      {
+        "name": "Runes",
+        "weight": 1,
+        "items": [
+          { "id": 555, "min": 15, "max": 15, "weight": 1 }, //Water rune
+          { "id": 557, "min": 5, "max": 5, "weight": 1 } //Earth rune
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 995, "min": 1, "max": 1, "weight": 6 }, //Coins
+          { "id": 995, "min": 4, "max": 4, "weight": 6 }, //Coins
+          { "id": 995, "min": 10, "max": 10, "weight": 6 }, //Coins
+          { "id": 995, "min": 22, "max": 22, "weight": 6 }, //Coins
+          { "id": 995, "min": 46, "max": 46, "weight": 6 }, //Coins
+          { "id": 596, "min": 1, "max": 1, "weight": 3 }, //Unlit torch
+          { "id": 4540, "min": 1, "max": 1, "weight": 3 }, //Oil lantern frame
+          { "id": 2357, "min": 1, "max": 1, "weight": 3 }, //Gold bar
+          { "id": 2677, "min": 1, "max": 1, "weight": 1 } //Clue scroll (easy)
+        ]
+      }
+    ]
+  }
+]

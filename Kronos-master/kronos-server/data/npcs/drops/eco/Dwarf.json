@@ -1,0 +1,53 @@
+[
+  {
+    "ids": [ 290, 296, 1405 ],
+    "guaranteed": [
+      { "id": 526, "min": 1, "max": 1 } //Bones
+    ],
+    "tables": [
+      {
+        "name": "Ores and Bars",
+        "weight": 1,
+        "items": [
+          { "id": 1265, "min": 1, "max": 1, "weight": 6 }, //Bronze pickaxe
+          { "id": 438, "min": 1, "max": 1, "weight": 6 }, //Tin ore
+          { "id": 2349, "min": 1, "max": 1, "weight": 3 }, //Bronze bar
+          { "id": 436, "min": 1, "max": 1, "weight": 3 }, //Copper ore
+          { "id": 440, "min": 1, "max": 1, "weight": 3 }, //Iron ore
+          { "id": 453, "min": 1, "max": 1, "weight": 1 }, //Coal
+          { "id": 2351, "min": 1, "max": 1, "weight": 1 } //Iron bar
+        ]
+      },
+      {
+        "name": "Runes",
+        "weight": 1,
+        "items": [
+          { "id": 562, "min": 2, "max": 2, "weight": 1 }, //Chaos rune
+          { "id": 561, "min": 2, "max": 2, "weight": 1 } //Nature rune
+        ]
+      },
+      {
+        "name": "Weapons/Armour",
+        "weight": 1,
+        "items": [
+          { "id": 1139, "min": 1, "max": 1, "weight": 4 }, //Bronze med helm
+          { "id": 1375, "min": 1, "max": 1, "weight": 4 }, //Bronze battleaxe
+          { "id": 1363, "min": 1, "max": 1, "weight": 4 }, //Iron battleaxe
+          { "id": 877, "min": 2, "max": 2, "weight": 1 }, //Bronze bolts
+          { "id": 877, "min": 11, "max": 11, "weight": 1 } //Bronze bolts
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 995, "min": 4, "max": 4, "weight": 3 }, //Coins
+          { "id": 995, "min": 10, "max": 10, "weight": 3 }, //Coins
+          { "id": 995, "min": 30, "max": 30, "weight": 3 }, //Coins
+          { "id": 2347, "min": 1, "max": 1, "weight": 3 }, //Hammer
+          { "id": 1913, "min": 1, "max": 1, "weight": 1 } //Dwarven stout
+        ]
+      }
+    ]
+  }
+]

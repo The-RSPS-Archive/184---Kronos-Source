@@ -1,0 +1,45 @@
+[
+  { #Spinolyp (76)
+    "ids": [ 5947, 5961, 5963, 5946, 5948, 5962 ],
+    "handler": "io.ruin.model.activities.bosses.dagannothkings.Spinolyp",
+    //Combat Info
+    "hitpoints": 100,
+    "aggressive_level": 152,
+    "max_damage": 10,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 0.0,
+    "slayer_tasks": [],
+    //Combat Stats
+    "attack": 10,
+    "strength": 10,
+    "defence": 10,
+    "ranged": 2,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 100,
+    "slash_defence": 100,
+    "crush_defence": 100,
+    "magic_defence": 50,
+    "ranged_defence": 50,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 5,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 2868,
+    "defend_animation": 2869,
+    "death_animation": 2865
+  }
+]

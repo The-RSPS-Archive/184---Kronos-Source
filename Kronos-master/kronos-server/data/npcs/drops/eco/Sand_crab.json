@@ -1,0 +1,33 @@
+[
+  {
+    "ids": [ 5935, 7206 ],
+    "tables": [
+      {
+        "name": "Drops",
+        "weight": 1,
+        "items": [
+          { "id": 995, "min": 4, "max": 4, "weight": 12 }, //Coins
+          { "id": 995, "min": 36, "max": 36, "weight": 9 }, //Coins
+          { "id": 407, "min": 1, "max": 2, "weight": 9 }, //Oyster
+          { "id": 401, "min": 1, "max": 5, "weight": 9 }, //Seaweed
+          { "id": 411, "min": 1, "max": 1, "weight": 6 }, //Oyster pearl
+          { "id": 438, "min": 3, "max": 3, "weight": 6 }, //Tin ore
+          { "id": 440, "min": 1, "max": 1, "weight": 6 }, //Iron ore
+          { "id": 409, "min": 1, "max": 1, "weight": 6 }, //Empty oyster
+          { "id": 1265, "min": 1, "max": 1, "weight": 6 }, //Bronze pickaxe
+          { "id": 1783, "min": 1, "max": 1, "weight": 6 }, //Bucket of sand
+          { "id": 436, "min": 3, "max": 3, "weight": 6 }, //Copper ore
+          { "id": 403, "min": 2, "max": 2, "weight": 6 }, //Edible seaweed
+          { "id": 45, "min": 5, "max": 5, "weight": 6 }, //Opal bolt tips
+          { "id": 313, "min": 10, "max": 10, "weight": 6 }, //Fishing bait
+          { "id": 453, "min": 2, "max": 2, "weight": 3 }, //Coal
+          { "id": 592, "min": 2, "max": 2, "weight": 3 }, //Ashes
+          { "id": 1267, "min": 1, "max": 1, "weight": 3 }, //Iron pickaxe
+          { "id": 1969, "min": 1, "max": 1, "weight": 3 }, //Spinach roll
+          { "id": 2742, "min": 1, "max": 1, "weight": 1 }, //Casket
+          { "id": 2677, "min": 1, "max": 1, "weight": 1 } //Clue scroll (easy)
+        ]
+      }
+    ]
+  }
+]

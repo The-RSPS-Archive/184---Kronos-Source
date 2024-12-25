@@ -1,0 +1,983 @@
+[
+  {
+    "name": "Giant rat",
+    "id": 2856,
+    "x": 3099,
+    "y": 9883,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Giant spider",
+    "id": 3017,
+    "x": 3099,
+    "y": 9884,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Giant spider",
+    "id": 3017,
+    "x": 3096,
+    "y": 9873,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Skeleton",
+    "id": 76,
+    "x": 3094,
+    "y": 9889,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Skeleton",
+    "id": 75,
+    "x": 3096,
+    "y": 9895,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Skeleton",
+    "id": 74,
+    "x": 3095,
+    "y": 9899,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Skeleton",
+    "id": 76,
+    "x": 3097,
+    "y": 9905,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Skeleton",
+    "id": 74,
+    "x": 3096,
+    "y": 9911,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Giant rat",
+    "id": 2863,
+    "x": 3090,
+    "y": 9894,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Giant rat",
+    "id": 2856,
+    "x": 3091,
+    "y": 9898,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Skeleton",
+    "id": 75,
+    "x": 3100,
+    "y": 9912,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Rat",
+    "id": 2854,
+    "x": 3110,
+    "y": 9882,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Giant rat",
+    "id": 2863,
+    "x": 3122,
+    "y": 9890,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Giant rat",
+    "id": 2856,
+    "x": 3120,
+    "y": 9893,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Skeleton",
+    "id": 71,
+    "x": 3113,
+    "y": 9909,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Skeleton",
+    "id": 77,
+    "x": 3120,
+    "y": 9909,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Skeleton",
+    "id": 70,
+    "x": 3134,
+    "y": 9905,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Skeleton",
+    "id": 77,
+    "x": 3133,
+    "y": 9907,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Skeleton",
+    "id": 81,
+    "x": 3140,
+    "y": 9878,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Skeleton",
+    "id": 77,
+    "x": 3139,
+    "y": 9872,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Skeleton",
+    "id": 73,
+    "x": 3136,
+    "y": 9871,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Skeleton",
+    "id": 79,
+    "x": 3136,
+    "y": 9877,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Skeleton",
+    "id": 73,
+    "x": 3132,
+    "y": 9913,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Skeleton",
+    "id": 71,
+    "x": 3131,
+    "y": 9910,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Skeleton",
+    "id": 79,
+    "x": 3150,
+    "y": 9876,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Skeleton",
+    "id": 80,
+    "x": 3149,
+    "y": 9870,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Skeleton",
+    "id": 82,
+    "x": 3105,
+    "y": 9951,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Skeleton",
+    "id": 82,
+    "x": 3106,
+    "y": 9954,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Skeleton",
+    "id": 82,
+    "x": 3109,
+    "y": 9954,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Skeleton",
+    "id": 82,
+    "x": 3110,
+    "y": 9957,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Skeleton",
+    "id": 82,
+    "x": 3109,
+    "y": 9953,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Hobgoblin",
+    "id": 3050,
+    "x": 3127,
+    "y": 9873,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Hobgoblin",
+    "id": 3049,
+    "x": 3124,
+    "y": 9874,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Hobgoblin",
+    "id": 3049,
+    "x": 3123,
+    "y": 9879,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Hobgoblin",
+    "id": 3050,
+    "x": 3119,
+    "y": 9873,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Hobgoblin",
+    "id": 3050,
+    "x": 3116,
+    "y": 9870,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Zombie",
+    "id": 56,
+    "x": 3119,
+    "y": 9869,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Zombie",
+    "id": 55,
+    "x": 3120,
+    "y": 9862,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Zombie",
+    "id": 57,
+    "x": 3127,
+    "y": 9861,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Zombie",
+    "id": 58,
+    "x": 3126,
+    "y": 9865,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Zombie",
+    "id": 55,
+    "x": 3130,
+    "y": 9862,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Zombie",
+    "id": 42,
+    "x": 3141,
+    "y": 9911,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Zombie",
+    "id": 42,
+    "x": 3147,
+    "y": 9906,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Zombie",
+    "id": 42,
+    "x": 3150,
+    "y": 9888,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Zombie",
+    "id": 42,
+    "x": 3144,
+    "y": 9883,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Zombie",
+    "id": 43,
+    "x": 3147,
+    "y": 9907,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Zombie",
+    "id": 43,
+    "x": 3141,
+    "y": 9915,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Zombie",
+    "id": 43,
+    "x": 3141,
+    "y": 9897,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Zombie",
+    "id": 43,
+    "x": 3145,
+    "y": 9890,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Zombie",
+    "id": 44,
+    "x": 3151,
+    "y": 9877,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Zombie",
+    "id": 44,
+    "x": 3139,
+    "y": 9890,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Hill Giant",
+    "id": 2098,
+    "x": 3118,
+    "y": 9849,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Hill Giant",
+    "id": 2100,
+    "x": 3120,
+    "y": 9845,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Hill Giant",
+    "id": 2099,
+    "x": 3116,
+    "y": 9845,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Hill Giant",
+    "id": 2101,
+    "x": 3110,
+    "y": 9843,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Hill Giant",
+    "id": 2098,
+    "x": 3111,
+    "y": 9840,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Hill Giant",
+    "id": 2102,
+    "x": 3117,
+    "y": 9835,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Hill Giant",
+    "id": 2102,
+    "x": 3116,
+    "y": 9832,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Hill Giant",
+    "id": 2103,
+    "x": 3112,
+    "y": 9832,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Hill Giant",
+    "id": 2101,
+    "x": 3108,
+    "y": 9833,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Hill Giant",
+    "id": 2103,
+    "x": 3106,
+    "y": 9828,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Hill Giant",
+    "id": 2099,
+    "x": 3102,
+    "y": 9831,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Hill Giant",
+    "id": 2100,
+    "x": 3100,
+    "y": 9834,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Thug",
+    "id": 517,
+    "x": 3133,
+    "y": 9928,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Thug",
+    "id": 517,
+    "x": 3130,
+    "y": 9928,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Thug",
+    "id": 517,
+    "x": 3132,
+    "y": 9932,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Thug",
+    "id": 517,
+    "x": 3129,
+    "y": 9931,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Thug",
+    "id": 517,
+    "x": 3132,
+    "y": 9935,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Thug",
+    "id": 517,
+    "x": 3128,
+    "y": 9931,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Thug",
+    "id": 517,
+    "x": 3130,
+    "y": 9934,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Thug",
+    "id": 517,
+    "x": 3131,
+    "y": 9930,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Thug",
+    "id": 517,
+    "x": 3130,
+    "y": 9926,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Chaos druid",
+    "id": 512,
+    "x": 3110,
+    "y": 9936,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Chaos druid",
+    "id": 512,
+    "x": 3108,
+    "y": 9934,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Chaos druid",
+    "id": 512,
+    "x": 3105,
+    "y": 9936,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Chaos druid",
+    "id": 512,
+    "x": 3105,
+    "y": 9940,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Chaos druid",
+    "id": 512,
+    "x": 3107,
+    "y": 9943,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Chaos druid",
+    "id": 512,
+    "x": 3110,
+    "y": 9941,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Chaos druid",
+    "id": 512,
+    "x": 3105,
+    "y": 9941,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Chaos druid",
+    "id": 512,
+    "x": 3111,
+    "y": 9931,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Chaos druid",
+    "id": 512,
+    "x": 3111,
+    "y": 9929,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Deadly red spider",
+    "id": 3021,
+    "x": 3126,
+    "y": 9950,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Deadly red spider",
+    "id": 3021,
+    "x": 3127,
+    "y": 9953,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Deadly red spider",
+    "id": 3021,
+    "x": 3122,
+    "y": 9956,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Deadly red spider",
+    "id": 3021,
+    "x": 3119,
+    "y": 9952,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Deadly red spider",
+    "id": 3021,
+    "x": 3121,
+    "y": 9949,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Deadly red spider",
+    "id": 3021,
+    "x": 3119,
+    "y": 9957,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Deadly red spider",
+    "id": 3021,
+    "x": 3116,
+    "y": 9957,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Deadly red spider",
+    "id": 3021,
+    "x": 3120,
+    "y": 9960,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Chronozon",
+    "id": 4987,
+    "x": 3086,
+    "y": 9937,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Poison spider",
+    "id": 3023,
+    "x": 3084,
+    "y": 9937,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Poison spider",
+    "id": 3023,
+    "x": 3089,
+    "y": 9936,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Poison spider",
+    "id": 3023,
+    "x": 3089,
+    "y": 9941,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Black demon",
+    "id": 2050,
+    "x": 3082,
+    "y": 9957,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Black demon",
+    "id": 2052,
+    "x": 3090,
+    "y": 9955,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Black demon",
+    "id": 2049,
+    "x": 3094,
+    "y": 9960,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Skeleton",
+    "id": 82,
+    "x": 3101,
+    "y": 9954,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Skeleton",
+    "id": 82,
+    "x": 3100,
+    "y": 9957,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Earth warrior",
+    "id": 2840,
+    "x": 3118,
+    "y": 9972,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Earth warrior",
+    "id": 2840,
+    "x": 3122,
+    "y": 9972,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Earth warrior",
+    "id": 2840,
+    "x": 3121,
+    "y": 9975,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Earth warrior",
+    "id": 2840,
+    "x": 3123,
+    "y": 9877,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Earth warrior",
+    "id": 2840,
+    "x": 3117,
+    "y": 9988,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Earth warrior",
+    "id": 2840,
+    "x": 3120,
+    "y": 9988,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Earth warrior",
+    "id": 2840,
+    "x": 3121,
+    "y": 9991,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Earth warrior",
+    "id": 2840,
+    "x": 3124,
+    "y": 9992,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Earth warrior",
+    "id": 2840,
+    "x": 3121,
+    "y": 9995,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Earth warrior",
+    "id": 2840,
+    "x": 3123,
+    "y": 9988,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Giant rat",
+    "id": 2864,
+    "x": 3117,
+    "y": 9890,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "ids": [ 1366, 1367 ],
+    "guaranteed": [
+      { "id": 1480, "min": 1, "max": 1 } //Rock (elemental)
+    ],
+    "tables": [
+      {
+        "name": "Weapons",
+        "weight": 1,
+        "items": [
+          { "id": 1385, "min": 1, "max": 1, "weight": 1 } //Staff of earth
+        ]
+      },
+      {
+        "name": "Runes",
+        "weight": 1,
+        "items": [
+          { "id": 557, "min": 15, "max": 15, "weight": 6 }, //Earth rune
+          { "id": 557, "min": 20, "max": 20, "weight": 6 }, //Earth rune
+          { "id": 557, "min": 60, "max": 60, "weight": 6 }, //Earth rune
+          { "id": 562, "min": 2, "max": 2, "weight": 3 }, //Chaos rune
+          { "id": 561, "min": 2, "max": 2, "weight": 3 }, //Nature rune
+          { "id": 563, "min": 1, "max": 1, "weight": 3 }, //Law rune
+          { "id": 565, "min": 1, "max": 1, "weight": 3 }, //Blood rune
+          { "id": 560, "min": 1, "max": 1, "weight": 1 } //Death rune
+        ]
+      },
+      {
+        "name": "Herbs",
+        "weight": 1,
+        "items": [
+          { "id": 199, "min": 1, "max": 1, "weight": 6 }, //Grimy guam leaf
+          { "id": 201, "min": 1, "max": 1, "weight": 6 }, //Grimy marrentill
+          { "id": 203, "min": 1, "max": 1, "weight": 6 }, //Grimy tarromin
+          { "id": 205, "min": 1, "max": 1, "weight": 6 }, //Grimy harralander
+          { "id": 207, "min": 1, "max": 1, "weight": 6 }, //Grimy ranarr weed
+          { "id": 209, "min": 1, "max": 1, "weight": 3 }, //Grimy irit leaf
+          { "id": 211, "min": 1, "max": 1, "weight": 3 }, //Grimy avantoe
+          { "id": 213, "min": 1, "max": 1, "weight": 3 }, //Grimy kwuarm
+          { "id": 215, "min": 1, "max": 1, "weight": 3 }, //Grimy cadantine
+          { "id": 2485, "min": 1, "max": 1, "weight": 1 }, //Grimy lantadyme
+          { "id": 217, "min": 1, "max": 1, "weight": 1 } //Grimy dwarf weed
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 995, "min": 12, "max": 12, "weight": 1 }, //Coins
+          { "id": 995, "min": 42, "max": 42, "weight": 1 } //Coins
+        ]
+      }
+    ]
+  },
+  { #Make this one drop ore as well as everything else!
+    "ids": [ 1367 ],
+    "guaranteed": [
+      { "id": 2892, "min": 1, "max": 1 } //Elemental ore
+    ]
+  }
+]

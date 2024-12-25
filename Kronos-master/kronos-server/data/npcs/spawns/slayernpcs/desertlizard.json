@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Desert Lizard",
+    "id": 460,
+    "x": 3322,
+    "y": 2913,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Desert Lizard",
+    "id": 460,
+    "x": 3316,
+    "y": 2915,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Desert Lizard",
+    "id": 460,
+    "x": 3326,
+    "y": 2916,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Desert Lizard",
+    "id": 460,
+    "x": 3331,
+    "y": 2914,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Desert Lizard",
+    "id": 460,
+    "x": 3336,
+    "y": 2917,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Desert Lizard",
+    "id": 460,
+    "x": 3341,
+    "y": 2921,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Desert Lizard",
+    "id": 460,
+    "x": 3345,
+    "y": 2919,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Desert Lizard",
+    "id": 460,
+    "x": 3351,
+    "y": 2920,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  }
+]

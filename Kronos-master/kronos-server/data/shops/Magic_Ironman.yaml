@@ -1,0 +1,71 @@
+---
+identifier: "236570a3-5c34-4942-bdbe-8457fc03c1fb"
+title: "Ironman Magic Shop"
+currency: "COINS"
+accessibleByIronMan: true
+canSellToStore: false
+restockRules:
+  restockTicks: 2
+  restockPerTick: 1000
+defaultStock:
+  - id: 12728
+    amount: 50000
+  - id: 12730
+    amount: 50000
+  - id: 12732
+    amount: 50000
+  - id: 12734
+    amount: 50000
+  - id: 12736
+    amount: 50000
+  - id: 12738
+    amount: 50000
+    price: 14000
+  - id: 559
+    amount: 50000
+  - id: 560
+    amount: 50000
+  - id: 565
+    amount: 50000
+  - id: 564
+    amount: 50000
+  - id: 561
+    amount: 50000
+  - id: 563
+    amount: 50000
+  - id: 566
+    amount: 50000
+  - id: 9075
+    amount: 50000
+  - id: 4675
+    amount: 100
+  - id: 2415
+    amount: 100
+  - id: 2416
+    amount: 100
+  - id: 2417
+    amount: 100
+  - id: 12658
+    amount: 100
+  - id: 542
+    amount: 100
+  - id: 544
+    amount: 100
+  - id: 6106
+    amount: 100
+    price: 20000
+  - id: 6107
+    amount: 100
+    price: 20000
+  - id: 6108
+    amount: 100
+    price: 20000
+  - id: 6109
+    amount: 100
+    price: 20000
+  - id: 6110
+    amount: 100
+    price: 20000
+  - id: 6111
+    amount: 100
+    price: 20000

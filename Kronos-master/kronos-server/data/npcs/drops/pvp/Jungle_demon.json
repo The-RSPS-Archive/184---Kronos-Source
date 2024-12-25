@@ -1,0 +1,42 @@
+[
+  {
+    "ids": [ 1443, 6382, 6321 ],
+	"guaranteed": [
+      { "id": 592, "min": 1, "max": 1 } //Ashes
+    ],
+    "tables": [
+      {
+        "name": "Weapons/Armour",
+        "weight": 1,
+        "items": [
+          { "id": 1359, "min": 1, "max": 1, "weight": 8 }, //Rune axe
+          { "id": 1317, "min": 1, "max": 1, "weight": 11 }, //Adamant 2h
+          { "id": 1073, "min": 1, "max": 1, "weight": 11 }, //Adamant platelegs
+          { "id": 1163, "min": 1, "max": 1, "weight": 10 }, //Rune full helm
+          { "id": 1123, "min": 1, "max": 1, "weight": 10 }, //Adamant platebody
+          { "id": 1079, "min": 1, "max": 1, "weight": 10 }, //Rune platelegs
+          { "id": 4587, "min": 1, "max": 1, "weight": 2 }  //Dragon scimitar
+        ]
+      },
+      {
+        "name": "Runes",
+        "weight": 1,
+        "items": [
+          { "id": 554, "min": 200, "max": 350, "weight": 3 }, //Fire rune
+          { "id": 560, "min": 25, "max": 40, "weight": 3 }, //Death rune
+          { "id": 565, "min": 25, "max": 40, "weight": 1 } //Blood rune
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 995, "min": 1500, "max": 15000, "weight": 36 }, //Coins
+          { "id": 2357, "min": 1, "max": 1, "weight": 6 }, //Gold bar
+          { "id": 385, "min": 1, "max": 1, "weight": 12 }, //Shark
+          { "id": 2722, "min": 1, "max": 1, "weight": 1 } //Clue scroll (hard)
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,76 @@
+[
+  {
+    "ids": [ 1798, 4114, 1799, 1800, 1829 ],
+    "tables": [
+      {
+        "name": "Drops (Level 36 White Knight)",
+        "weight": 1,
+        "items": [
+          { "id": 995, "min": 1, "max": 120, "weight": 6 }, //Coins
+          { "id": 1293, "min": 1, "max": 1, "weight": 3 }, //Iron longsword
+          { "id": 440, "min": 1, "max": 1, "weight": 3 }, //Iron ore
+          { "id": 2351, "min": 1, "max": 2, "weight": 3 }, //Iron bar
+          { "id": 2335, "min": 1, "max": 1, "weight": 3 }, //Half an apple pie
+          { "id": 1933, "min": 1, "max": 1, "weight": 3 }, //Pot of flour
+          { "id": 558, "min": 5, "max": 5, "weight": 3 }, //Mind rune
+          { "id": 555, "min": 25, "max": 28, "weight": 3 }, //Water rune
+          { "id": 559, "min": 12, "max": 12, "weight": 3 }, //Body rune
+          { "id": 562, "min": 2, "max": 2, "weight": 1 }, //Chaos rune
+          { "id": 563, "min": 2, "max": 2, "weight": 1 }, //Law rune
+          { "id": 561, "min": 4, "max": 5, "weight": 1 }, //Nature rune
+          { "id": 1281, "min": 1, "max": 1, "weight": 1 }, //Steel sword
+          { "id": 1141, "min": 1, "max": 1, "weight": 1 }, //Steel med helm
+          { "id": 888, "min": 5, "max": 5, "weight": 1 }, //Mithril arrow
+          { "id": 890, "min": 2, "max": 2, "weight": 1 } //Adamant arrow
+        ]
+      },
+      {
+        "name": "Drops (Level 38 White Knight)",
+        "weight": 1,
+        "items": [
+          { "id": 995, "min": 10, "max": 54, "weight": 12 }, //Coins
+          { "id": 5324, "min": 1, "max": 1, "weight": 6 }, //Cabbage seed
+          { "id": 5318, "min": 4, "max": 4, "weight": 6 }, //Potato seed
+          { "id": 1293, "min": 1, "max": 1, "weight": 6 }, //Iron longsword
+          { "id": 1281, "min": 1, "max": 1, "weight": 3 }, //Steel sword
+          { "id": 5322, "min": 3, "max": 3, "weight": 3 }, //Tomato seed
+          { "id": 440, "min": 1, "max": 1, "weight": 3 }, //Iron ore
+          { "id": 2351, "min": 1, "max": 2, "weight": 3 }, //Iron bar
+          { "id": 2335, "min": 1, "max": 1, "weight": 3 }, //Half an apple pie
+          { "id": 1933, "min": 1, "max": 1, "weight": 3 }, //Pot of flour
+          { "id": 558, "min": 5, "max": 5, "weight": 3 }, //Mind rune
+          { "id": 555, "min": 27, "max": 35, "weight": 3 }, //Water rune
+          { "id": 559, "min": 10, "max": 14, "weight": 3 }, //Body rune
+          { "id": 562, "min": 3, "max": 3, "weight": 3 }, //Chaos rune
+          { "id": 563, "min": 2, "max": 3, "weight": 3 }, //Law rune
+          { "id": 561, "min": 5, "max": 5, "weight": 3 }, //Nature rune
+          { "id": 1141, "min": 1, "max": 1, "weight": 1 }, //Steel med helm
+          { "id": 888, "min": 5, "max": 5, "weight": 1 }, //Mithril arrow
+          { "id": 890, "min": 2, "max": 2, "weight": 1 } //Adamant arrow
+        ]
+      },
+      {
+        "name": "Drops (Level 39 White Knight)",
+        "weight": 1,
+        "items": [
+          { "id": 995, "min": 19, "max": 19, "weight": 1 }, //Coins
+          { "id": 995, "min": 50, "max": 50, "weight": 1 }, //Coins
+          { "id": 995, "min": 58, "max": 58, "weight": 1 }, //Coins
+          { "id": 995, "min": 63, "max": 63, "weight": 1 } //Coins
+        ]
+      },
+      {
+        "name": "Drops (Level 42 White Knight)",
+        "weight": 1,
+        "items": [
+          { "id": 5319, "min": 4, "max": 4, "weight": 20 }, //Onion seed
+          { "id": 5319, "min": 5, "max": 5, "weight": 20 }, //Onion seed
+          { "id": 2351, "min": 1, "max": 2, "weight": 20 }, //Iron bar
+          { "id": 1293, "min": 1, "max": 1, "weight": 20 }, //Iron longsword
+          { "id": 558, "min": 10, "max": 30, "weight": 10 }, //Mind rune
+          { "id": 888, "min": 5, "max": 30, "weight": 1 } //Mithril arrow
+        ]
+      }
+    ]
+  }
+]

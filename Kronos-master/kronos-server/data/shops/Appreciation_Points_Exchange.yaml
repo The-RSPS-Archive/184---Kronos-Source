@@ -1,0 +1,46 @@
+---
+identifier: "347ca8b3-dd43-4a46-bf05-3a452e5e1f3c"
+title: "Appreciation Points Exchange"
+currency: "APPRECIATION_POINTS"
+accessibleByIronMan: true
+canSellToStore: false
+restockRules:
+  restockTicks: 52
+  restockPerTick: 1
+defaultStock:
+- id: 6758
+  amount: 1000
+  price: 25500
+  placeholderId: 0
+- id: 608
+  amount: 1000
+  price: 17000
+  placeholderId: 0
+- id: 607
+  amount: 1000
+  price: 8500
+  placeholderId: 0
+- id: 7394
+  amount: 1000
+  price: 30000
+  placeholderId: 0
+- id: 12453
+  amount: 1000
+  price: 30000
+  placeholderId: 0
+- id: 7003
+  amount: 1000
+  price: 100000
+  placeholderId: 0
+- id: 11015
+  amount: 1000
+  price: 100000
+  placeholderId: 0
+- id: 20029
+  amount: 1000
+  price: 30000
+  placeholderId: 0
+- id: 12432
+  amount: 1000
+  price: 125000
+  placeholderId: 0

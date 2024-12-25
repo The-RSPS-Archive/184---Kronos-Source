@@ -1,0 +1,58 @@
+[
+  {
+    "ids": [ 7416 ],
+    "guaranteed": [
+      { "id": 532, "min": 1, "max": 1 }, //Big bones
+      { "id": 13475, "min": 1, "max": 1 } //Ensouled giant head
+    ],
+    "tables": [
+      {
+        "name": "Weapon",
+        "weight": 1,
+        "items": [
+          { "id": 1373, "min": 1, "max": 1, "weight": 3 }, //Rune battleaxe
+          { "id": 1303, "min": 1, "max": 1, "weight": 3 }, //Rune longsword
+          { "id": 1319, "min": 1, "max": 1, "weight": 3 }, //Rune 2h sword
+          { "id": 20756, "min": 1, "max": 1, "weight": 1 } //Hill giant club
+        ]
+      },
+      {
+        "name": "Runes",
+        "weight": 4,
+        "items": [
+          { "id": 563, "min": 51, "max": 99, "weight": 12 }, //Law rune
+          { "id": 564, "min": 58, "max": 119, "weight": 12 }, //Cosmic rune
+          { "id": 556, "min": 300, "max": 300, "weight": 6 }, //Air rune
+          { "id": 562, "min": 66, "max": 200, "weight": 6 }, //Chaos rune
+          { "id": 560, "min": 40, "max": 79, "weight": 3 }, //Death rune
+          { "id": 561, "min": 42, "max": 93, "weight": 1 } //Nature rune
+        ]
+      },
+      {
+        "name": "Armour",
+        "weight": 1,
+        "items": [
+          { "id": 1163, "min": 1, "max": 1, "weight": 6 }, //Rune full helm
+          { "id": 1147, "min": 1, "max": 1, "weight": 6 }, //Rune med helm
+          { "id": 1113, "min": 1, "max": 1, "weight": 3 }, //Rune chainbody
+          { "id": 1201, "min": 1, "max": 1, "weight": 3 }, //Rune kiteshield
+          { "id": 1079, "min": 1, "max": 1, "weight": 3 }, //Rune platelegs
+          { "id": 1093, "min": 1, "max": 1, "weight": 1 } //Rune plateskirt
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 4,
+        "items": [
+          { "id": 995, "min": 10000, "max": 25000, "weight": 12 }, //Coins
+          { "id": 226, "min": 20, "max": 20, "weight": 6 }, //Limpwurt root (noted)
+          { "id": 533, "min": 50, "max": 50, "weight": 6 }, //Big bones (noted)
+          { "id": 1624, "min": 5, "max": 5, "weight": 3 }, //Uncut sapphire (noted)
+          { "id": 1620, "min": 5, "max": 5, "weight": 3 }, //Uncut ruby (noted)
+          { "id": 1618, "min": 5, "max": 5, "weight": 1 }, //Uncut diamond (noted)
+          { "id": 20754, "min": 1, "max": 1, "weight": 1 } //Giant key
+        ]
+      }
+    ]
+  }
+]

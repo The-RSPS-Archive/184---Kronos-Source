@@ -1,0 +1,56 @@
+[
+  {
+    "ids": [ 260, 261, 262, 263, 264, 7868, 7869, 7870  ],
+    "guaranteed": [
+      { "id": 536, "min": 1, "max": 1 }, //Dragon bones
+      { "id": 1753, "min": 1, "max": 1 } //Green dragonhide
+    ],
+    "tables": [
+      {
+        "name": "Herbs",
+        "weight": 1,
+        "items": [
+          { "id": 209, "min": 1, "max": 1, "weight": 6 }, //Grimy irit leaf
+          { "id": 205, "min": 1, "max": 1, "weight": 6 }, //Grimy harralander
+          { "id": 199, "min": 1, "max": 1, "weight": 6 }, //Grimy guam leaf
+          { "id": 211, "min": 1, "max": 1, "weight": 3 }, //Grimy avantoe
+          { "id": 215, "min": 1, "max": 1, "weight": 3 }, //Grimy cadantine
+          { "id": 201, "min": 1, "max": 1, "weight": 3 }, //Grimy marrentill
+          { "id": 203, "min": 1, "max": 1, "weight": 3 }, //Grimy tarromin
+          { "id": 207, "min": 1, "max": 1, "weight": 3 }, //Grimy ranarr weed
+          { "id": 213, "min": 1, "max": 1, "weight": 1 }, //Grimy kwuarm
+          { "id": 2485, "min": 1, "max": 1, "weight": 1 }, //Grimy lantadyme
+          { "id": 217, "min": 1, "max": 1, "weight": 1 } //Grimy dwarf weed
+        ]
+      },
+      {
+        "name": "Weapons/Armour",
+        "weight": 1,
+        "items": [
+          { "id": 1365, "min": 1, "max": 1, "weight": 6 }, //Steel battleaxe
+          { "id": 1069, "min": 1, "max": 1, "weight": 6 }, //Steel platelegs
+          { "id": 1355, "min": 1, "max": 1, "weight": 3 }, //Mithril axe
+          { "id": 1243, "min": 1, "max": 1, "weight": 3 }, //Mithril spear
+          { "id": 1197, "min": 1, "max": 1, "weight": 3 }, //Mithril kiteshield
+          { "id": 1161, "min": 1, "max": 1, "weight": 1 }, //Adamant full helm
+          { "id": 1213, "min": 1, "max": 1, "weight": 1 } //Rune dagger
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 995, "min": 11, "max": 440, "weight": 12 }, //Coins
+          { "id": 365, "min": 1, "max": 1, "weight": 12 }, //Bass
+          { "id": 555, "min": 75, "max": 75, "weight": 6 }, //Water rune
+          { "id": 554, "min": 37, "max": 37, "weight": 6 }, //Fire rune
+          { "id": 561, "min": 15, "max": 15, "weight": 6 }, //Nature rune
+          { "id": 563, "min": 3, "max": 3, "weight": 6 }, //Law rune
+          { "id": 13511, "min": 1, "max": 1, "weight": 1 }, //Ensouled dragon head
+          { "id": 449, "min": 1, "max": 1, "weight": 3 }, //Adamantite ore
+          { "id": 2722, "min": 1, "max": 1, "weight": 1 } //Clue scroll (hard)
+        ]
+      }
+    ]
+  }
+]

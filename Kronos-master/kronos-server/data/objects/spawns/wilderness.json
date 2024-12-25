@@ -1,0 +1,12 @@
+[
+  {"id": 50008, "x": 3269, "y": 3813, "z": 0, "type": 10}, // corrupted tree
+  {"id": 50008, "x": 3264, "y": 3807, "z": 0, "type": 10}, // corrupted tree
+  {"id": 50008, "x": 3272, "y": 3800, "z": 0, "type": 10}, // corrupted tree
+  {"id": 50008, "x": 3276, "y": 3807, "z": 0, "type": 10}, // corrupted tree
+  {"id": 50006, "x": 3065, "y": 3867, "z": 0, "type": 10}, // corrupted ore
+  {"id": 50006, "x": 3066, "y": 3865, "z": 0, "type": 10}, // corrupted ore
+  {"id": 50006, "x": 3068, "y": 3865, "z": 0, "type": 10}, // corrupted ore
+  {"id": 50006, "x": 3070, "y": 3866, "z": 0, "type": 10}, // corrupted ore
+  {"id": 50005, "x": 3082, "y": 3872, "z": 0, "type": 10}, // cauldron
+  {"id": 4411, "x": 3809, "y": 2827, "z": 0, "type": 22} // Extra stepping stone
+]

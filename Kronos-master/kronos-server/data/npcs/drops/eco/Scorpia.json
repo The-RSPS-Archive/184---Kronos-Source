@@ -1,0 +1,45 @@
+[
+  {
+    "ids": [ 6615 ],
+    "tables": [
+      {
+        "name": "Weapons/Armour",
+        "weight": 1,
+        "items": [
+          { "id": 11090, "min": 1, "max": 1, "weight": 3 }, //Phoenix necklace
+          { "id": 1113, "min": 1, "max": 1, "weight": 3 }, //Rune chainbody
+          { "id": 1275, "min": 1, "max": 1, "weight": 3 }, //Rune pickaxe
+          { "id": 1333, "min": 1, "max": 1, "weight": 3 }, //Rune scimitar
+          { "id": 1247, "min": 1, "max": 1, "weight": 3 }, //Rune spear
+          { "id": 1289, "min": 1, "max": 1, "weight": 3 }, //Rune sword
+          { "id": 1347, "min": 1, "max": 1, "weight": 3 }, //Rune warhammer
+          { "id": 1319, "min": 1, "max": 1, "weight": 3 }, //Rune 2h sword
+          { "id": 4587, "min": 1, "max": 1, "weight": 1 } //Dragon scimitar
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 995, "min": 10, "max": 10, "weight": 18 }, //Coins
+          { "id": 995, "min": 500, "max": 3987, "weight": 18 }, //Coins
+          { "id": 7198, "min": 3, "max": 3, "weight": 18 }, //Admiral pie
+          { "id": 2298, "min": 8, "max": 8, "weight": 18 }, //Anchovy pizza (noted)
+          { "id": 1784, "min": 25, "max": 25, "weight": 12 }, //Bucket of sand (noted)
+          { "id": 6017, "min": 10, "max": 10, "weight": 12 }, //Cactus spine (noted)
+          { "id": 2434, "min": 1, "max": 1, "weight": 12 }, //Prayer potion(4)
+          { "id": 385, "min": 1, "max": 1, "weight": 12 }, //Shark
+          { "id": 1624, "min": 4, "max": 4, "weight": 6 }, //Uncut sapphire (noted)
+          { "id": 1622, "min": 6, "max": 6, "weight": 6 }, //Uncut emerald (noted)
+          { "id": 4696, "min": 30, "max": 30, "weight": 6 }, //Dust rune
+          { "id": 214, "min": 4, "max": 4, "weight": 3 }, //Grimy kwuarm (noted)
+          { "id": 2448, "min": 1, "max": 1, "weight": 3 }, //Superantipoison(4)
+          { "id": 13460, "min": 1, "max": 1, "weight": 3 }, //Ensouled scorpion head
+          { "id": 2722, "min": 1, "max": 1, "weight": 1 }, //Clue scroll (hard)
+          { "id": 11930, "min": 1, "max": 1, "weight": 1 }, //Odium shard 3
+          { "id": 11933, "min": 1, "max": 1, "weight": 1 } //Malediction shard 3
+        ]
+      }
+    ]
+  }
+]

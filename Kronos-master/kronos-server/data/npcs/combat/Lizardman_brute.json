@@ -1,0 +1,45 @@
+[
+  { #Lizardman brute (73)
+    "ids": [ 6918, 6919 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 60,
+    "aggressive_level": 0,
+    "max_damage": 11,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 60.0,
+    "slayer_tasks": [ "Lizardmen" ],
+    //Combat Stats
+    "attack": 65,
+    "strength": 65,
+    "defence": 65,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 34,
+    "slash_attack": 34,
+    "crush_attack": 34,
+    "magic_attack": 34,
+    "ranged_attack": 34,
+    //Defensive Stats
+    "stab_defence": -10,
+    "slash_defence": 30,
+    "crush_defence": 10,
+    "magic_defence": 0,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": true,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 5,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 7192,
+    "defend_animation": 7194,
+    "death_animation": 7196
+  }
+]

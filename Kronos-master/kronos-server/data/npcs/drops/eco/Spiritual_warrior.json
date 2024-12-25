@@ -1,0 +1,40 @@
+[
+  {
+    "ids": [ 3159, 2210, 2243, 3166 ],
+    "tables": [
+      {
+        "name": "Weapons/Armour",
+        "weight": 100,
+        "items": [
+          { "id": 1059, "min": 1, "max": 1, "weight": 10 }, //Leather gloves
+          { "id": 1279, "min": 1, "max": 1, "weight": 10 }, //Iron sword
+          { "id": 1323, "min": 1, "max": 1, "weight": 10 }, //Iron scimitar
+          { "id": 1071, "min": 1, "max": 1, "weight": 10 }, //Mithril platelegs
+          { "id": 1295, "min": 1, "max": 1, "weight": 10 }, //Steel longsword
+          { "id": 1105, "min": 1, "max": 1, "weight": 10 }, //Steel chainbody
+          { "id": 1161, "min": 1, "max": 1, "weight": 10 }, //Adamant full helm
+          { "id": 1281, "min": 1, "max": 1, "weight": 10 }, //Steel sword
+          { "id": 1195, "min": 1, "max": 1, "weight": 10 }, //Black kiteshield
+          { "id": 1341, "min": 1, "max": 1, "weight": 3 }, //Black warhammer
+          { "id": 1428, "min": 1, "max": 1, "weight": 3 }, //Mithril mace
+          { "id": 1217, "min": 1, "max": 1, "weight": 3 }, //Black dagger
+          { "id": 1257, "min": 1, "max": 1, "weight": 3 }, //Mithril spear(p)
+          { "id": 1371, "min": 1, "max": 1, "weight": 3 }, //Adamant battleaxe
+          { "id": 1355, "min": 1, "max": 1, "weight": 3 }, //Mithril axe
+          { "id": 1081, "min": 1, "max": 1, "weight": 3 }, //Iron plateskirt
+          { "id": 1317, "min": 1, "max": 1, "weight": 1 }, //Adamant 2h sword
+          { "id": 1303, "min": 1, "max": 1, "weight": 1 }, //Rune longsword
+          { "id": 1201, "min": 1, "max": 1, "weight": 1 }, //Rune kiteshield
+          { "id": 3202, "min": 1, "max": 1, "weight": 1 } //Rune halberd
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 2722, "min": 1, "max": 1, "weight": 1 } //Clue scroll (hard)
+        ]
+      }
+    ]
+  }
+]

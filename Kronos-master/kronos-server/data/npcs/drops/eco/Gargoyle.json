@@ -1,0 +1,46 @@
+[
+  {
+    "ids": [ 412, 413, 1543 ],
+    "tables": [
+      {
+        "name": "Weapons/Armour",
+        "weight": 1,
+        "items": [
+          { "id": 1073, "min": 1, "max": 1, "weight": 40 }, //Adamant platelegs
+          { "id": 1163, "min": 1, "max": 1, "weight": 40 }, //Rune full helm
+          { "id": 4129, "min": 1, "max": 1, "weight": 15 }, //Adamant boots
+          { "id": 1319, "min": 1, "max": 1, "weight": 10 }, //Rune 2h sword
+          { "id": 1373, "min": 1, "max": 1, "weight": 10 }, //Rune battleaxe
+          { "id": 1079, "min": 1, "max": 1, "weight": 1 }, //Rune platelegs
+          { "id": 4153, "min": 1, "max": 1, "weight": 1 }, //Granite maul
+          { "id": 4101, "min": 1, "max": 1, "weight": 1 } //Mystic robe top (dark)
+        ]
+      },
+      {
+        "name": "Runes",
+        "weight": 1,
+        "items": [
+          { "id": 554, "min": 75, "max": 75, "weight": 1 }, //Fire rune
+          { "id": 554, "min": 150, "max": 150, "weight": 1 }, //Fire rune
+          { "id": 562, "min": 30, "max": 30, "weight": 1 }, //Chaos rune
+          { "id": 560, "min": 15, "max": 15, "weight": 1 } //Death rune
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 995, "min": 400, "max": 1000, "weight": 6 }, //Coins
+          { "id": 995, "min": 10000, "max": 10000, "weight": 6 }, //Coins
+          { "id": 7937, "min": 150, "max": 150, "weight": 6 }, //Pure essence (noted)
+          { "id": 445, "min": 10, "max": 20, "weight": 3 }, //Gold ore (noted)
+          { "id": 2354, "min": 15, "max": 15, "weight": 3 }, //Steel bar (noted)
+          { "id": 2358, "min": 10, "max": 15, "weight": 3 }, //Gold bar (noted)
+          { "id": 2360, "min": 15, "max": 15, "weight": 1 }, //Mithril bar (noted)
+          { "id": 451, "min": 1, "max": 1, "weight": 1 }, //Runite ore
+          { "id": 2722, "min": 1, "max": 1, "weight": 1 } //Clue scroll (hard)
+        ]
+      }
+    ]
+  }
+]

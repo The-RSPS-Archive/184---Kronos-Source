@@ -1,0 +1,1014 @@
+/**
+ * Warning: Since we use the tasks stored in the cache, we can't add custom tasks. (Like "Rock crabs" for example)
+ */
+{
+  "Monkeys": {
+	"type": [ "EASY" ],
+    "teleports": [
+      { "names": "Ape Atoll: Monkey Guards", "x": 2806, "y": 2794, "z": 0 },
+    ]
+  },
+  "Goblins": {
+	"type": [ "EASY" ],
+    "teleports": [
+      { "name": "Lumbridge: Goblins", "x": 3255, "y": 3231, "z": 0 },
+      { "name": "Goblin Village: Goblins", "x": 2956, "y": 3491, "z": 0 },
+      { "name": "Stronghold Security: Goblins", "x": 1861, "y": 5222, "z": 0 }
+    ]
+  },
+  "Rats": {
+	"type": [ "EASY" ],
+    "teleports": [
+      { "name": "Varrock Sewer: Rats", "x": 3237, "y": 9868, "z": 0 },
+      { "name": "Edgeville Sewer: Rats", "x": 3095, "y": 9884, "z": 0 }
+    ]
+  },
+  "Spiders": {
+	"type": [ "EASY" ],
+    "teleports": [
+      { "name": "Edgeville Sewer: Spiders", "x": 3095, "y": 9884, "z": 0 },
+      { "name": "Varrock Sewer: Spiders", "x": 3210, "y": 9887, "z": 0 }
+    ]
+  },
+  "Birds": {
+	"type": [ "EASY" ],
+    "teleports": [
+      { "name": "Crash Island: Birds", "x": 2893, "y": 2728, "z": 0 },
+      { "name": "Port Sarim: Seagulls", "x": 3027, "y": 3235, "z": 0 },
+    ]
+  },
+  "Cows": {
+	"type": [ "EASY" ],
+    "teleports": [
+      { "name": "Lumbridge: Cows", "x": 3262, "y": 3271, "z": 0 },
+    ]
+  },
+  "Scorpions": {
+	"type": [ "EASY" ],
+    "teleports": [
+      { "name": "Al Kharid: Scorpions", "x": 3299, "y": 3278, "z": 0 },
+      { "name": "Dwarven Mine: Scorpions", "x": 3048, "y": 9768, "z": 0 },
+    { "name": "<col=FF4500>(WILDERNESS) Scorpion Pit: Scorpions", "x": 3233, "y": 3943, "z": 0 } //Wilderness
+    ]
+  },
+  "Bats": {
+	"type": [ "EASY" ],
+    "teleports": [
+      { "name": "Taverly Dungeon: Bats", "x": 2911, "y": 9832, "z": 0 },
+      { "name": "Brine Rat Cavern: Bats", "x": 2696, "y": 10121, "z": 0 },
+    { "name": "<col=FF4500>(WILDERNESS) Mage Bank: Bats", "x": 3077, "y": 3955, "z": 0 } //Wilderness
+    ]
+  },
+  "Wolves": {
+	"type": [ "EASY" ],
+  	"disable": "true",
+    "teleports": [
+      { "name": "White wolf mountain: Wolves", "x": 2848, "y": 3498, "z": 0 },
+    { "name": "<col=FF4500>(WILDERNESS) South of Scorpion Pit: Wolves", "x": 3220, "y": 3918, "z": 0 } //Wilderness
+    ]
+  },
+  "Zombies": { 
+	"type": [ "EASY", "MEDIUM" ],
+    "teleports": [
+      { "name": "Edgeville Sewer: Zombies", "x": 3147, "y": 9897, "z": 0 },
+      { "name": "Stronghold Security: Zombies", "x": 2032, "y": 5233, "z": 0 },
+      { "name": "Stronghold Security 2: Zombies", "x": 1995, "y": 5189, "z": 0 },
+      { "name": "<col=FF4500>(WILDERNESS) Ruins: Zombies", "x": 3147, "y": 3731, "z": 0 }
+    ]
+  },
+  "Skeletons": { 
+	"type": [ "EASY" ],
+    "teleports": [
+      { "name": "Edgeville Sewer: Skeletons", "x": 3096, "y": 9903, "z": 0 },
+      { "name": "Stronghold Security: Skeletons", "x": 2355, "y": 5193, "z": 0 },
+      { "name": "<col=FF4500>(WILDERNESS) Fortress Mine: Skeletons", "x": 3018, "y": 3592, "z": 0 },
+      { "name": "<col=FF4500>(WILDERNESS) Forgotten Cemetery: Skeletons", "x": 2980, "y": 3763, "z": 0 }
+    ]
+  },
+  "Ghosts": {
+	"type": [ "EASY" ],
+    "teleports": [
+      { "name": "Stronghold Security: Ghosts", "x": 2355, "y": 5193, "z": 0 },
+      { "name": "Catacombs of Kourend: Ghosts", "x": 1689, "y": 10062, "z": 0 },
+      { "name": "<col=FF4500>(WILDERNESS) Forgotten Cemetery: Ghosts", "x": 2980, "y": 3763, "z": 0 }
+    ]
+  },
+  "Bears": { //TODO
+  	"disable": "true",
+	"type": [ "EASY" ],
+    "teleports": [
+      { "name": "<col=FF4500>(WILDERNESS) North of mine: Bears", "x": 3102, "y": 3601, "z": 0 }
+    ]
+  },
+  "Hill Giants": {
+	"type": [ "EASY" ],
+    "teleports": [
+      { "name": "Edgeville Sewer: Hill Giants", "x": 3115, "y": 9836, "z": 0 },
+      { "name": "Catacombs of Kourend: Hill Giants", "x": 1676, "y": 10057, "z": 0 },
+      { "name": "<col=FF4500>(WILDERNESS) Deathdot Hill: Hill Giants", "x": 3296, "y": 3650, "z": 0 }
+    ]
+  },
+  "Ice Giants": {
+	"type": [ "MEDIUM" ],
+    "teleports": [
+      { "name": "Asgarnian Ice Dungeon: Ice Giants", "x": 3059, "y": 9570, "z": 0 },
+      { "name": "<col=FF4500>(WILDERNESS) Frozen Waste Plateau: Ice Giants", "x": 2952, "y": 3898, "z": 0 }
+    ]
+  },
+  "Fire Giants": {
+	"type": [ "MEDIUM", "HARD" ],
+    "teleports": [
+      { "name": "Smoke Dungeon: Fire Giants", "x": 3246, "y": 9365, "z": 0 },
+      { "name": "Stronghold Slayer Cave: Fire Giants", "x": 2402, "y": 9779, "z": 0 },
+      { "name": "Catacombs of Kourend: Fire Giants", "x": 1633, "y": 10057, "z": 0 }
+    ]
+  },
+  "Moss Giants": {
+	"type": [ "MEDIUM" ],
+    "teleports": [
+      { "name": "Varrock Sewer: Moss Giants", "x": 3198, "y": 9892, "z": 0 },
+      { "name": "Catacombs of Korend: Moss Giants", "x": 1688, "y": 10046, "z": 0 }
+    ]
+  },
+  "Trolls": { 
+	"type": [ "MEDIUM" ],
+    "teleports": [
+      { "name": "Trollheim: Trolls", "x": 2869, "y": 3591, "z": 0 }
+    ]
+  },
+  "Ice Warriors": {
+	"type": [ "MEDIUM" ],
+    "teleports": [
+      { "name": "Asgarnian Ice Dungeon: Ice Warriors", "x": 3040, "y": 9582, "z": 0 },
+      { "name": "<col=FF4500>(WILDERNESS) Frozen Waste Plateau: Ice Warriors", "x": 2952, "y": 3898, "z": 0 }
+    ]
+  },
+  "Ogres": { //TODO
+	"type": [ "MEDIUM" ],
+    "disable": "true",
+    "teleports": [
+      { "name": "TODO 1", "x": 3200, "y": 3200, "z": 0 },
+      { "name": "TODO 2", "x": 3200, "y": 3200, "z": 0 }
+    ]
+  },
+  "Hobgoblins": {
+	"type": [ "MEDIUM" ],
+    "teleports": [
+      { "name": "Edgeville Sewer: Hobgoblins", "x": 3123, "y": 9874, "z": 0 },
+      { "name": "Asgarnian Ice Dungeon: Hobgoblins", "x": 3018, "y": 9580, "z": 0 }
+    ]
+  },
+  "Dogs": { //TODO
+	"type": [ "MEDIUM" ],
+    "disable": "true",
+    "teleports": [
+      { "name": "TODO 1", "x": 3200, "y": 3200, "z": 0 },
+      { "name": "TODO 2", "x": 3200, "y": 3200, "z": 0 }
+    ]
+  },
+  "Ghouls": {
+	"type": [ "MEDIUM" ],
+  	"disable": "true",
+    "teleports": [
+      { "name": "Graveyard: Ghouls", "x": 3435, "y": 3461, "z": 0 },
+    ]
+  },
+  "Green Dragons": {
+	"type": [ "MEDIUM", "HARD" ],
+	"min": 50,
+	"max": 75,
+    "teleports": [
+      { "name": "<col=FF4500>(WILDERNESS) NorthEast Deathdot Hill: Green Dragons", "x": 3348, "y": 3671, "z": 0 },
+       { "name": "<col=FF4500>(WILDERNESS) Lava Maze: Green Dragons", "x": 3099, "y": 3812, "z": 0 },
+      { "name": "<col=FF4500>(WILDERNESS) West of Dark Warriors' Fortress: Green Dragons", "x": 2990, "y": 3612, "z": 0 }
+    ]
+  },
+  "Blue Dragons": {
+	"type": [ "MEDIUM", "HARD" ],
+	"min": 60,
+	"max": 90,
+    "teleports": [
+      { "name": "Taverly Dungeon: Blue Dragons", "x": 2904, "y": 9803, "z": 0 },
+      { "name": "Taverly Dungeon 2: Blue Dragons", "x": 2895, "y": 9810, "z": 1 }
+    ]
+  },
+  "Red Dragons": {
+	"type": [ "HARD" ],
+	"unlock": "SEEING_RED",
+	"min": 35,
+	"max": 50,
+    "teleports": [
+      { "name": "Catacombs of Kourend: Red Dragons", "x": 1614, "y": 10072, "z": 0 }
+    ]
+  },
+  "Black Dragons": {
+	"type": [ "HARD" ],
+    "extension": "FIRE_AND_DARKNESS",
+	"min": 15,
+	"max": 25,
+    "teleports": [
+      { "name": "Taverly Dungeon: Black Dragons", "x": 2793, "y": 9818, "z": 1 }
+    ]
+  },
+  "Lesser Demons": {
+	"type": [ "MEDIUM", "HARD" ],
+    "teleports": [
+      { "name": "Catacombs of Kourend: Lesser Demons", "x": 1722, "y": 10070, "z": 0 },
+      { "name": "Chasm of Fire: Lesser Demons", "x": 1434, "y": 10076, "z": 3 },
+      { "name": "Taverly Dungeon: Lesser Demons", "x": 2930, "y": 9801, "z": 0 }
+    ]
+  },
+  "Greater Demons": {
+	"type": [ "HARD" ],
+    "extension": "GREATER_CHALLENGE",
+    "teleports": [
+      { "name": "Catacombs of Kourend: Greater Demons", "x": 1709, "y": 10098, "z": 0 },
+      { "name": "Chasm of Fire: Greater Demons", "x": 1451, "y": 10091, "z": 2 },
+      { "name": "<col=FF4500>(WILDERNESS) Demonic Ruins: Greater Demons", "x": 3286, "y": 3884, "z": 0 }
+    ]
+  },
+  "Black Demons": {
+	"type": [ "HARD" ],
+    "extension": "ITS_DARK_IN_HERE",
+	"weight": 2,
+    "teleports": [
+      { "name": "Catacombs of Kourend: Black Demons", "x": 1722, "y": 10086, "z": 0 },
+      { "name": "Chasm of Fire: Black Demons", "x": 1451, "y": 10094, "z": 0 },
+      { "name": "Taverly Dungeon: Black Demons", "x": 2844, "y": 9798, "z": 0 },
+      { "name": "<col=FF4500>(WILDERNESS) Edgeville Dungeon: Black Demons", "x": 3092, "y": 9957, "z": 0 }
+    ]
+  },
+  "Hellhounds": {
+	"type": [ "HARD" ],
+    "teleports": [
+      { "name": "Taverly Dungeon: Hellhounds", "x": 2863, "y": 9851, "z": 0 },
+      { "name": "Stronghold Slayer Cave: Hellhounds", "x": 2427, "y": 9781, "z": 0 },
+      { "name": "Catacombs of Kourend", "x": 1645, "y": 10064, "z": 0 }
+    ]
+  },
+  "Shadow Warriors": { //TODO
+	"type": [ "MEDIUM", "HARD" ],
+    "disable": "true",
+    "teleports": [
+      { "name": "TODO 1", "x": 3200, "y": 3200, "z": 0 },
+      { "name": "TODO 2", "x": 3200, "y": 3200, "z": 0 }
+    ]
+  },
+  "Werewolves": { //TODO
+	"type": [ "MEDIUM", "HARD" ],
+    "disable": "true",
+    "teleports": [
+      { "name": "TODO 1", "x": 3200, "y": 3200, "z": 0 },
+      { "name": "TODO 2", "x": 3200, "y": 3200, "z": 0 }
+    ]
+  },
+  "Vampyres": {
+	"type": [ "MEDIUM" ],
+	"disable": "true",
+    "teleports": [
+      { "name": "Abandoned Mine: Vampires", "x": 3455, "y": 3240, "z": 0 }
+    ]
+  },
+  "Dagannoth": {
+	"type": [ "MEDIUM", "HARD" ],
+	"weight": 2,
+    "teleports": [
+      { "name": "Catacombs of Kourend: Dagannoths", "x": 1667, "y": 9994, "z": 0 },
+      { "name": "Waterbirth Islands: Dagannoths", "x": 2454, "y": 10154, "z": 0 }
+    ]
+  },
+  "Turoth": {
+	"type": [ "MEDIUM", "HARD" ],
+    "level": 55,
+    "teleports": [
+      { "name": "Fremennik Slayer Dungeon: Turoth", "x": 2722, "y": 10001, "z": 0 }
+    ]
+  },
+  "Cave Crawlers": {
+	"type": [ "EASY" ],
+    "level": 10,
+    "teleports": [
+      { "name": "Fremennik Slayer Dungeon: Cave Crawlers", "x": 2786, "y": 9996, "z": 0 }
+    ]
+  },
+  "Banshees": {
+	"type": [ "EASY" ],
+    "level": 15,
+    "teleports": [
+      { "name": "Slayer Tower: Banshees", "x": 3439, "y": 3544, "z": 0 }
+
+    ]
+  },
+  "Crawling Hands": {
+	"type": [ "EASY" ],
+    "level": 5,
+    "teleports": [
+      { "name": "Slayer Tower: Crawling Hands", "x": 3417, "y": 3547, "z": 0 }
+    ]
+  },
+  "Infernal Mages": {
+	"type": [ "MEDIUM" ],
+    "level": 45,
+    "teleports": [
+      { "name": "Slayer Tower: Infernal Mage", "x": 3437, "y": 3564, "z": 1 }
+    ]
+  },
+  "Aberrant Spectres": {
+	"type": [ "MEDIUM", "HARD" ],
+    "level": 60,
+    "extension": "SMELL_YA_LATER",
+	"weight": 2,
+    "teleports": [
+      { "name": "Stronghold Slayer Cave: Aberrant Spectre", "x": 2461, "y": 9780, "z": 1 },
+      { "name": "Slayer Tower: Aberrant Spectre", "x": 3422, "y": 3541, "z": 1 }
+    ]
+  },
+  "Abyssal Demons": {
+	"type": [ "HARD" ],
+    "level": 85,
+    "extension": "AUGMENT_MY_ABBIES",
+	"weight": 4,
+    "teleports": [
+      { "name": "Slayer Tower: Abyssal Demons", "x": 3422, "y": 3568, "z": 2 },
+      { "name": "Catacombs of Kourend: Abyssal Demons", "x": 1674, "y": 10096, "z": 0 }
+    ]
+  },
+  "Basilisks": {
+	"type": [ "MEDIUM" ],
+    "level": 40,
+    "teleports": [
+      { "name": "Fremennik Slayer Dungeon: Basilisk", "x": 2741, "y": 10007, "z": 0 }
+    ]
+  },
+  "Cockatrice": {
+	"type": [ "MEDIUM" ],
+    "level": 25,
+    "teleports": [
+      { "name": "Fremennik Slayer Dungeon: Cockatrice", "x": 2790, "y": 10037, "z": 0 }
+    ]
+  },
+  "Kurask": {
+	"type": [ "HARD" ],
+    "level": 70,
+	"weight": 3,
+    "teleports": [
+      { "name": "Fremennik Slayer Dungeon: Kurask", "x": 3700, "y": 9996, "z": 0 }
+    ]
+  },
+  "Gargoyles": {
+	"type": [ "HARD" ],
+    "level": 75,
+    "extension": "GET_SMASHED",
+	"weight": 3,
+    "teleports": [
+      { "name": "Slayer Tower: Gargoyles", "x": 3439, "y": 3544, "z": 2 }
+    ]
+  },
+  "Pyrefiends": {
+	"type": [ "MEDIUM" ],
+    "level": 30,
+    "teleports": [
+      { "name": "Smoke Dungeon: Pyrefiends", "x": 3251, "y": 9364, "z": 0 },
+      { "name": "Fremennik Slayer Dungeon: Pyrefiends", "x": 2763, "y": 9999, "z": 0 }
+    ]
+  },
+  "Bloodveld": {
+	"type": [ "MEDIUM", "HARD" ],
+    "extension": "BLEED_ME_DRY",
+	"level": 50,
+    "teleports": [
+      { "name": "Slayer Tower: Bloodveld", "x": 3418, "y": 3562, "z": 0 },
+      { "name": "Stronghold Slayer Cave: Bloodveld", "x": 2448, "y": 9822, "z": 0 }
+    ]
+  },
+  "Dust Devils": {
+	"type": [ "HARD" ],
+    "level": 65,
+    "extension": "TO_DUST_YOU_SHALL_RETURN",
+    "teleports": [
+      { "name": "Smoke Dungeon: Dust Devils", "x": 3215, "y": 9360, "z": 0 },
+      { "name": "Catacombs of Kourend: Dust Devils", "x": 1713, "y": 10016, "z": 0 }
+    ]
+  },
+  "Jellies": {
+	"type": [ "MEDIUM" ],
+    "level": 52,
+    "teleports": [
+      { "name": "Fremennik Slayer Dungeon: Jellies", "x": 2709, "y": 10027, "z": 0 }
+    ]
+  },
+  "Rockslugs": {
+	"type": [ "EASY" ],
+    "level": 20,
+    "teleports": [
+      { "name": "Fremennik Slayer Dungeon: Rockslugs", "x": 2799, "y": 10018, "z": 0 }
+    ]
+  },
+  "Nechryael": {
+	"type": [ "HARD" ],
+    "level": 80,
+	"weight": 3,
+    "extension": "NECHS_PLEASE",
+    "teleports": [
+      { "name": "Slayer Tower: Nechryaels", "x": 3441, "y": 3563, "z": 0 }
+    ]
+  },
+  "Kalphite": {
+	"type": [ "EASY", "MEDIUM", "HARD" ],
+	"weight": 2,
+    "teleports": [
+      { "name": "Kalphite Lair", "x": 3226, "y": 3108, "z": 0 },
+      { "name": "Kalphite Cave (Slayer task exclusive)", "x": 3321, "y": 3122, "z": 0 }
+    ]
+  },
+  "Earth Warriors": {
+	"type": [ "MEDIUM" ],
+    "teleports": [
+      { "name": "<col=FF4500>(WILDERNESS) Edgeville Dungeon: Earth Warriors", "x": 3121, "y": 9987, "z": 0 }
+    ]
+  },
+  "Otherworldly Beings": {
+  	"disable": "true",
+	"type": [ "MEDIUM" ],
+    "teleports": [
+      { "name": "Zanaris: Otherworldly Beings", "x": 2387, "y": 4427, "z": 0 }
+    ]
+  },
+  "Elves": {
+  	"disable": "true",
+	"type": [ "HARD" ],
+    "teleports": [
+      { "name": "Elf Camp: Elves", "x": 2203, "y": 3254, "z": 0 }
+    ]
+  },
+  "Dwarves": {
+	"type": [ "EASY" ],
+    "teleports": [
+      { "name": "Dwarven Mines: Dwarves", "x": 3022, "y": 9839, "z": 0 },
+    ]
+  },
+  "Bronze Dragons": {
+	"type": [ "MEDIUM", "HARD" ],
+    "extension": "PEDAL_TO_THE_METALS",
+	"min": 30,
+	"max": 45,
+    "teleports": [
+      { "name": "Catacombs of Kourend: Bronze Dragons", "x": 1645, "y": 10089, "z": 0 }
+    ]
+  },
+  "Iron Dragons": { 
+	"type": [ "HARD" ],
+    "extension": "PEDAL_TO_THE_METALS",
+	"min": 30,
+	"max": 45,
+    "teleports": [
+      { "name": "Catacombs of Kourend: Iron Dragons", "x": 1666, "y": 10093, "z": 0 },
+      { "name": "TODO 2", "x": 3200, "y": 3200, "z": 0 }
+    ]
+  },
+  "Steel Dragons": { 
+	"type": [ "HARD" ],
+    "extension": "PEDAL_TO_THE_METALS",
+	"min": 30,
+	"max": 45,
+    "teleports": [
+      { "name": "Catacombs of Kourend: Steel Dragons", "x": 1606, "y": 10051, "z": 0 },
+      { "name": "TODO 2", "x": 3200, "y": 3200, "z": 0 }
+    ]
+  },
+  "Wall Beasts": { 
+	"type": [ "MEDIUM" ],
+    "disable": "true",
+    "level": 37,
+    "teleports": [
+      { "name": "TODO 1", "x": 3200, "y": 3200, "z": 0 },
+      { "name": "TODO 2", "x": 3200, "y": 3200, "z": 0 }
+    ]
+  },
+  "Cave Slimes": {
+	"type": [ "EASY", "MEDIUM" ],
+    "level": 17,
+    "teleports": [
+      { "name": "Lumbridge Swamp Caves: Cave Slime", "x": 3163, "y": 9586, "z": 0 }
+    ]
+  },
+  "Cave Bugs": {
+	"type": [ "EASY", "MEDIUM" ],
+    "level": 7,
+    "teleports": [
+      { "name": "Lumbridge Swamp Caves: Cave bug", "x": 3151, "y": 9574, "z": 0 }
+    ]
+  },
+  "Shades": {
+	"type": [ "MEDIUM" ],
+    "teleports": [
+      { "name": "Catacombs of Kourend: Shades", "x": 1606, "y": 10032, "z": 0 },
+      { "name": "Stronghold Security: Shades", "x": 2361, "y": 5213, "z": 0 }
+    ]
+  },
+  "Crocodiles": {
+	"type": [ "EASY", "MEDIUM" ],
+  	"disable": "true",
+    "teleports": [
+      { "name": "Kharidian Desert: Crocodiles", "x": 3331, "y": 2914, "z": 0 }
+    ]
+  },
+  "Dark Beasts": {
+	"type": [ "HARD" ],
+    "level": 90,
+	"extension": "NEED_MORE_DARKNESS",
+	"min": 40,
+	"max": 60,
+	"weight": 2,
+    "teleports": [
+      { "name": "Catacombs of Kourend: Dark Beasts", "x": 1624, "y": 10061, "z": 0 },
+      { "name": "Mourner Tunnels: Dark Beasts", "x": 1999, "y": 4645, "z": 0 }
+    ]
+  },
+  "Mogres": { //TODO
+	"type": [ "MEDIUM" ],
+    "disable": "true",
+    "level": 32,
+    "teleports": [
+      { "name": "TODO 1", "x": 3200, "y": 3200, "z": 0 },
+      { "name": "TODO 2", "x": 3200, "y": 3200, "z": 0 }
+    ]
+  },
+  "Lizards": {
+	"type": [ "EASY", "MEDIUM" ],
+  	"disable": "true",
+    "level": 22,
+    "teleports": [
+      { "name": "Kharidian Desert: Desert Lizards", "x": 3383, "y": 3080, "z": 0 }
+    ]
+  },
+  "Fever Spiders": { //TODO
+	"type": [ "MEDIUM" ],
+    "disable": "true",
+    "level": 42,
+    "teleports": [
+      { "name": "TODO 1", "x": 3200, "y": 3200, "z": 0 },
+      { "name": "TODO 2", "x": 3200, "y": 3200, "z": 0 }
+    ]
+  },
+  "Harpie Bug Swarms": {
+	"type": [ "MEDIUM" ],
+  	"disable": "true",
+    "level": 33,
+    "teleports": [
+      { "name": "Karmaja: Harpie Bug Swarms", "x": 2863, "y": 3114, "z": 0 }
+    ]
+  },
+  "Sea Snakes": { //TODO
+	"type": [ "MEDIUM" ],
+    "disable": "true",
+    "level": 40,
+    "teleports": [
+      { "name": "TODO 1", "x": 3200, "y": 3200, "z": 0 },
+      { "name": "TODO 2", "x": 3200, "y": 3200, "z": 0 }
+    ]
+  },
+  "Skeletal Wyverns": {
+	"type": [ "HARD" ],
+    "level": 72,
+    "extension": "WYVER_NOTHER_ONE",
+	"weight": 3,
+	"min": 20,
+	"max": 40,
+    "teleports": [
+      { "name": "Asgarnian Ice Dungeons", "x": 3049, "y": 9547, "z": 0 }
+    ]
+  },
+  "Killerwatts": { //TODO
+	"type": [ "MEDIUM" ],
+    "disable": "true",
+    "teleports": [
+      { "name": "TODO 1", "x": 3200, "y": 3200, "z": 0 },
+      { "name": "TODO 2", "x": 3200, "y": 3200, "z": 0 }
+    ]
+  },
+  "Mutated Zygomites": { //TODO (NEED ANIMS and maybe proper spawn?)
+	"type": [ "MEDIUM" ],
+    "disable": "true",
+    "level": 57,
+    "teleports": [
+      { "name": "Zanaris: Mutated Zygomites", "x": 3200, "y": 3200, "z": 0 }
+    ]
+  },
+  "Icefiends": {
+	"type": [ "MEDIUM" ],
+    "teleports": [
+      { "name": "White Mountain: Icefiends", "x": 3007, "y": 3472, "z": 0 }
+    ]
+  },
+  "Minotaurs": {
+	"type": [ "EASY", "MEDIUM" ],
+    "teleports": [
+      { "name": "Stronghold of Security: Minotaurs", "x": 1879, "y": 5217, "z": 0 }
+    ]
+  },
+  "Fleshcrawlers": {
+	"type": [ "EASY", "MEDIUM" ],
+    "teleports": [
+      { "name": "Stronghold of Security: Fleshcrawlers", "x": 2008, "y": 5203, "z": 0 }
+    ]
+  },
+  "Catablepon": {
+	"type": [ "EASY", "MEDIUM" ],
+    "teleports": [
+      { "name": "Stronghold of Security: Catablepon", "x": 2120, "y": 5301, "z": 0 }
+    ]
+  },
+  "Ankou": {
+	"type": [ "MEDIUM", "HARD" ],
+    "extension": "ANKOU_VERY_MUCH",
+	"min": 50,
+	"max": 80,
+    "teleports": [
+      { "name": "Stronghold Security: Ankou", "x": 3320, "y": 5221, "z": 0 },
+      { "name": "Stronghold Slayer Cave: Ankou", "x": 2478, "y": 9799, "z": 0 },
+      { "name": "<col=FF4500>(WILDERNESS) Forgotten Cemetery: Ankou", "x": 2980, "y": 3763, "z": 0 }
+    ]
+  },
+  "Cave Horrors": {
+	"type": [ "MEDIUM", "HARD" ],
+    "level": 58,
+    "extension": "HORRORIFIC",
+    "teleports": [
+      { "name": "Mos Le'Harmless: Cave Horrors", "x": 3822, "y": 9422, "z": 0 }
+    ]
+  },
+  "Jungle Horrors": { //TODO
+	"type": [ "MEDIUM" ],
+    "disable": "true",
+    "teleports": [
+      { "name": "TODO 1", "x": 3200, "y": 3200, "z": 0 },
+      { "name": "TODO 2", "x": 3200, "y": 3200, "z": 0 }
+    ]
+  },
+  "Goraks": {
+	"type": [ "MEDIUM", "HARD" ],
+    "teleports": [
+      { "name": "Godwars: Goraks", "x": 2886, "y": 5316, "z": 0 }
+    ]
+  },
+  "Suqahs": { //TODO
+	"type": [ "HARD" ],
+    "disable": "true",
+	"extension": "SUQ_ANOTHER_ONE",
+    "teleports": [
+      { "name": "TODO 1", "x": 3200, "y": 3200, "z": 0 },
+      { "name": "TODO 2", "x": 3200, "y": 3200, "z": 0 }
+    ]
+  },
+  "Brine Rats": {
+	"type": [ "MEDIUM" ],
+    "level": 47,
+    "teleports": [
+      { "name": "Brine Rat Cavern: Brine Rats", "x": 2709, "y": 10134, "z": 0 }
+    ]
+  },
+  "Minions of Scabaras": { //TODO
+	"type": [ "MEDIUM", "HARD" ],
+    "disable": "true",
+    "extension": "GET_SCABARIGHT_ON_IT",
+    "teleports": [
+      { "name": "TODO 1", "x": 3200, "y": 3200, "z": 0 },
+      { "name": "TODO 2", "x": 3200, "y": 3200, "z": 0 }
+    ]
+  },
+  "Terror Dogs": { //TODO
+	"type": [ "MEDIUM" ],
+    "disable": "true",
+    "level": 40,
+    "teleports": [
+      { "name": "TODO 1", "x": 3200, "y": 3200, "z": 0 },
+      { "name": "TODO 2", "x": 3200, "y": 3200, "z": 0 }
+    ]
+  },
+  "Molanisks": { //TODO
+	"type": [ "MEDIUM" ],
+    "disable": "true",
+    "level": 39,
+    "teleports": [
+      { "name": "TODO 1", "x": 3200, "y": 3200, "z": 0 },
+      { "name": "TODO 2", "x": 3200, "y": 3200, "z": 0 }
+    ]
+  },
+  "Waterfiends": {
+	"type": [ "MEDIUM", "HARD" ],
+    "teleports": [
+      { "name": "Ancient Cavern: Waterfiends", "x": 1766, "y": 5359, "z": 0 },
+      { "name": "Kraken Cove: Waterfiends", "x": 2282, "y": 9991, "z": 0 }
+    ]
+  },
+  "Spiritual Creatures": {
+	"type": [ "MEDIUM", "HARD" ],
+    "level": 63,
+    "extension": "SPIRITUAL_FERVOUR",
+	"weight": 3,
+    "teleports": [
+      { "name": "Godwars: Spiritual Creatures", "x": 2883, "y": 5308, "z": 0 },
+    ]
+  },
+  "Lizardmen": { //TODO
+	"type": [ "HARD" ],
+    "disable": "true",
+	"unlock": "REPTILE_GOT_RIPPED",
+    "teleports": [
+      { "name": "TODO 1", "x": 3200, "y": 3200, "z": 0 },
+      { "name": "TODO 2", "x": 3200, "y": 3200, "z": 0 }
+    ]
+  },
+  "Magic Axes": {
+	"type": [ "MEDIUM" ],
+    "teleports": [
+      { "name": "Taverly Dungeon: Magic Axes", "x": 2960, "y": 9788, "z": 0 }
+    ]
+  },
+  "Cave Kraken": {
+	"type": [ "HARD" ],
+    "level": 87,
+    "extension": "KRACK_ON",
+	"weight": 3,
+    "teleports": [
+      { "name": "Kraken Cove: Cave Kraken", "x": 2278, "y": 10001, "z": 0 }
+    ]
+  },
+  "Mithril Dragons": {
+	"type": [ "HARD" ],
+    "extension": "I_REALLY_MITH_YOU",
+	"unlock": "I_HOPE_YOU_MITH_ME",
+	"min": 10,
+	"max": 20,
+    "teleports": [
+      { "name": "Ancient Cavern: Mithril Dragons", "x": 1770, "y": 5348, "z": 1 }
+    ]
+  },
+  "Aviansies": {
+	"type": [ "HARD" ],
+    "extension": "BIRDS_OF_A_FEATHER",
+	"unlock": "WATCH_THE_BIRDIE",
+	"weight": 2,
+    "teleports": [
+      { "name": "Godwars: Aviansies", "x": 2870, "y": 5264, "z": 0 }
+    ]
+  },
+  "Smoke Devils": {
+	"type": [ "HARD" ],
+	"weight": 3,
+    "level": 93,
+    "teleports": [
+      { "name": "Smoke Dungeon: Smoke Devils", "x": 3216, "y": 9361, "z": 0 },
+    ]
+  },
+  "TzHaar": {
+	"type": [ "HARD" ],
+	"unlock": "HOT_STUFF",
+    "teleports": [
+      { "name": "TzHaar: Tzhaar Monsters", "x": 2457, "y": 5156, "z": 0 }
+    ]
+  },
+  "TzTok-Jad": {
+	"type": [ "BOSS" ],
+    "teleports": [
+      { "name": "Fight Caves: TzTok-Jad", "x": 2437, "y": 5171, "z": 0 }
+    ]
+  },
+  "Mammoths": {
+	"type": [ "MEDIUM", "HARD" ],
+    "teleports": [
+      { "name": "<col=FF4500>(WILDERNESS) West of Chaos Altar: Mammoths", "x": 3144, "y": 3623, "z": 0 }
+    ]
+  },
+  "Rogues": {
+	"type": [ "EASY", "MEDIUM" ],
+    "teleports": [
+      { "name": "Rogues' Castle: Rogues", "x": 3285, "y": 3921, "z": 0 }
+    ]
+  },
+  "Ents": { //TODO make so u can chop em upon killin
+	"type": [ "HARD" ],
+    "teleports": [
+      { "name": "<col=FF4500>(WILDERNESS) North of Chaos Altar: Ents", "x": 3226, "y": 3696, "z": 0 }
+    ]
+  },
+  "Bandits": {
+	"type": [ "MEDIUM" ],
+    "teleports": [
+      { "name": "<col=FF4500>(WILDERNESS) Bandit Camp: Bandits", "x": 3038, "y": 3690, "z": 0 }
+    ]
+  },
+  "Dark Warriors": {
+	"type": [ "HARD" ],
+    "teleports": [
+      { "name": "<col=FF4500>(WILDERNESS) Dark Warriors' Fortress: Dark Warriors", "x": 3011, "y": 3631, "z": 0 }
+    ]
+  },
+  "Adamant Dragons": {
+    "type": [ "HARD" ],
+	"min": 6,
+	"max": 9,
+	"teleports": [
+	  { "name": "Lithkren Laboratory", "x": 1568, "y": 5061, "z": 0 }
+	]
+  },
+  "Rune Dragons": {
+    "type": [ "HARD" ],
+	"min": 4,
+	"max": 8,
+	"teleports": [
+	  { "name": "Lithkren Laboratory", "x": 1568, "y": 5061, "z": 0 }
+	]
+  },
+  "Lava Dragons": {
+	"type": [ "HARD" ],
+    "teleports": [
+      { "name": "<col=FF4500>(WILDERNESS) Lava Maze: Lava Dragons", "x": 3202, "y": 3826, "z": 0 }
+    ]
+  },
+  "Wyrms": {
+	"type": [ "HARD" ],
+	"teleports": [
+		{ "name": "Karuulm Slayer Dungeon", "x": 1311, "y": 10188, "z": 0 }
+	]
+  },
+  "Drakes": {
+	"type": [ "HARD" ],
+	"teleports": [
+		{ "name": "Karuulm Slayer Dungeon", "x": 1311, "y": 10188, "z": 0 }
+	]
+  },
+  "Hydras": {
+	"type": [ "HARD" ],
+	"teleports": [
+		{ "name": "Karuulm Slayer Dungeon", "x": 1311, "y": 10188, "z": 0 }
+	]
+  },
+  "TzKal-Zuk": {
+	"type": [ "BOSS" ],
+    "teleports": [
+      { "name": "Tzhaar: TzKal-Zuk", "x": 2460, "y": 5160, "z": 0 }
+    ]
+  },
+  "Kree'arra": { //TODO Discuss the addition of adding direct boss teleports to the slayer teleports - how about no
+    "type": [ "BOSS" ],
+    "teleports": [
+      { "name": "TODO 1", "x": 3200, "y": 3200, "z": 0 },
+      { "name": "TODO 2", "x": 3200, "y": 3200, "z": 0 }
+    ]
+  },
+  "Commander Zilyana": {
+    "type": [ "BOSS" ],
+    "teleports": [
+      { "name": "TODO 1", "x": 3200, "y": 3200, "z": 0 },
+      { "name": "TODO 2", "x": 3200, "y": 3200, "z": 0 }
+    ]
+  },
+  "General Graardor": {
+    "type": [ "BOSS" ],
+    "teleports": [
+      { "name": "TODO 1", "x": 3200, "y": 3200, "z": 0 },
+      { "name": "TODO 2", "x": 3200, "y": 3200, "z": 0 }
+    ]
+  },
+  "K'ril Tsutsaroth": {
+    "type": [ "BOSS" ],
+    "teleports": [
+      { "name": "TODO 1", "x": 3200, "y": 3200, "z": 0 },
+      { "name": "TODO 2", "x": 3200, "y": 3200, "z": 0 }
+    ]
+  },
+  "Dagannoth Kings": {
+    "type": [ "BOSS" ],
+    "teleports": [
+      { "name": "TODO 1", "x": 3200, "y": 3200, "z": 0 },
+      { "name": "TODO 2", "x": 3200, "y": 3200, "z": 0 }
+    ]
+  },
+  "The Giant Mole": {
+    "type": [ "BOSS" ],
+	"disable": "true",
+    "teleports": [
+      { "name": "TODO 1", "x": 3200, "y": 3200, "z": 0 },
+      { "name": "TODO 2", "x": 3200, "y": 3200, "z": 0 }
+    ]
+  },
+  "The Kalphite Queen": {
+    "type": [ "BOSS" ],
+    "teleports": [
+      { "name": "TODO 1", "x": 3200, "y": 3200, "z": 0 },
+      { "name": "TODO 2", "x": 3200, "y": 3200, "z": 0 }
+    ]
+  },
+  "The King Black Dragon": {
+    "type": [ "BOSS" ],
+    "teleports": [
+      { "name": "TODO 1", "x": 3200, "y": 3200, "z": 0 },
+      { "name": "TODO 2", "x": 3200, "y": 3200, "z": 0 }
+    ]
+  },
+  "Callisto": {
+    "type": [ "BOSS" ],
+    "teleports": [
+      { "name": "TODO 1", "x": 3200, "y": 3200, "z": 0 },
+      { "name": "TODO 2", "x": 3200, "y": 3200, "z": 0 }
+    ]
+  },
+  "Venenatis": {
+    "type": [ "BOSS" ],
+    "teleports": [
+      { "name": "TODO 1", "x": 3200, "y": 3200, "z": 0 },
+      { "name": "TODO 2", "x": 3200, "y": 3200, "z": 0 }
+    ]
+  },
+  "Vet'ion": {
+    "type": [ "BOSS" ],
+    "teleports": [
+      { "name": "TODO 1", "x": 3200, "y": 3200, "z": 0 },
+      { "name": "TODO 2", "x": 3200, "y": 3200, "z": 0 }
+    ]
+  },
+  "The Chaos Elemental": {
+    "type": [ "BOSS" ],
+    "teleports": [
+      { "name": "TODO 1", "x": 3200, "y": 3200, "z": 0 },
+      { "name": "TODO 2", "x": 3200, "y": 3200, "z": 0 }
+    ]
+  },
+  "The Chaos Fanatic": {
+    "type": [ "BOSS" ],
+    "teleports": [
+      { "name": "TODO 1", "x": 3200, "y": 3200, "z": 0 },
+      { "name": "TODO 2", "x": 3200, "y": 3200, "z": 0 }
+    ]
+  },
+  "Crazy Archaeologists": {
+    "type": [ "BOSS" ],
+    "teleports": [
+      { "name": "TODO 1", "x": 3200, "y": 3200, "z": 0 },
+      { "name": "TODO 2", "x": 3200, "y": 3200, "z": 0 }
+    ]
+  },
+  "Scorpia": {
+    "type": [ "BOSS" ],
+    "teleports": [
+      { "name": "TODO 1", "x": 3200, "y": 3200, "z": 0 },
+      { "name": "TODO 2", "x": 3200, "y": 3200, "z": 0 }
+    ]
+  },
+  "Zulrah": {
+    "type": [ "BOSS" ],
+	"disable": "true",
+    "teleports": [
+      { "name": "TODO 1", "x": 3200, "y": 3200, "z": 0 },
+      { "name": "TODO 2", "x": 3200, "y": 3200, "z": 0 }
+    ]
+  },
+  "Barrows Brothers": {
+    "type": [ "BOSS" ],
+    "teleports": [
+      { "name": "TODO 1", "x": 3200, "y": 3200, "z": 0 },
+      { "name": "TODO 2", "x": 3200, "y": 3200, "z": 0 }
+    ]
+  },
+  "The Cave Kraken Boss": {
+    "level": 87,
+	"disable": "true",
+    "type": [ "BOSS" ],
+    "teleports": [
+      { "name": "TODO 1", "x": 3200, "y": 3200, "z": 0 },
+      { "name": "TODO 2", "x": 3200, "y": 3200, "z": 0 }
+    ]
+  },
+  "The Thermonuclear Smoke Devil": {
+    "level": 93,
+    "type": [ "BOSS" ],
+    "teleports": [
+      { "name": "TODO 1", "x": 3200, "y": 3200, "z": 0 },
+      { "name": "TODO 2", "x": 3200, "y": 3200, "z": 0 }
+    ]
+  },
+  "Cerberus": {
+    "level": 91,
+    "type": [ "BOSS" ],
+    "teleports": [
+      { "name": "TODO 1", "x": 3200, "y": 3200, "z": 0 },
+      { "name": "TODO 2", "x": 3200, "y": 3200, "z": 0 }
+    ]
+  },
+  "The Abyssal Sire": {
+    "type": [ "BOSS" ],
+    "teleports": [
+      { "name": "TODO 1", "x": 3200, "y": 3200, "z": 0 },
+      { "name": "TODO 2", "x": 3200, "y": 3200, "z": 0 }
+    ]
+  },
+  "Kaal-Ket-Jor": {
+    "type": [ "BOSS" ],
+    "teleports": [
+      { "name": "TODO 1", "x": 3200, "y": 3200, "z": 0 },
+      { "name": "TODO 2", "x": 3200, "y": 3200, "z": 0 }
+    ]
+  }
+}

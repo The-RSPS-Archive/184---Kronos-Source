@@ -1,0 +1,45 @@
+[
+  { #Ranalph Devere (92)
+    "ids": [ 3966, 8300, 8301, 8302 ],
+    "handler": "io.ruin.model.activities.bosses.Ranalph",
+    //Combat Info
+    "hitpoints": 130,
+    "aggressive_level": 184,
+    "max_damage": 13,
+    "attack_style": "SLASH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 0.0,
+    "slayer_tasks": [],
+    //Combat Stats
+    "attack": 66,
+    "strength": 67,
+    "defence": 66,
+    "ranged": 0,
+    "magic": 0,
+    //Aggressive Stats
+    "stab_attack": 45,
+    "slash_attack": 45,
+    "crush_attack": 45,
+    "magic_attack": 45,
+    "ranged_attack": 45,
+    //Defensive Stats
+    "stab_defence": 38,
+    "slash_defence": 40,
+    "crush_defence": 36,
+    "magic_defence": 0,
+    "ranged_defence": 38,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 2,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 5485,
+    "defend_animation": 5489,
+    "death_animation": 5491
+  }
+]

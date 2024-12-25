@@ -1,0 +1,46 @@
+---
+identifier: "87417294-907b-4634-8aa6-79891e27ba11"
+title: "Arnold's Electic Supplies"
+currency: "COINS"
+accessibleByIronMan: true
+canSellToStore: false
+restockRules:
+  restockTicks: 52
+  restockPerTick: 1
+defaultStock:
+- id: 303
+  amount: 1000
+  placeholderId: 0
+- id: 311
+  amount: 1000
+  placeholderId: 0
+- id: 7944
+  amount: 1000
+  placeholderId: 0
+- id: 7946
+  amount: 1000
+  placeholderId: 0
+- id: 2309
+  amount: 1000
+  placeholderId: 0
+- id: 1931
+  amount: 1000
+  placeholderId: 0
+- id: 1927
+  amount: 1000
+  placeholderId: 0
+- id: 1733
+  amount: 1000
+  placeholderId: 0
+- id: 1734
+  amount: 1000
+  placeholderId: 0
+- id: 1917
+  amount: 1000
+  placeholderId: 0
+- id: 1785
+  amount: 1000
+  placeholderId: 0
+- id: 946
+  amount: 1000
+  placeholderId: 0

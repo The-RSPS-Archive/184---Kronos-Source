@@ -1,0 +1,75 @@
+[
+  {
+    "ids": [ 6118 ],
+    "guaranteed": [     
+      { "id": 536, "min": 1, "max": 1 }, //Dragon bones
+      { "id": 1753, "min": 1, "max": 1 } //Green dragonhide 
+    ],
+    "tables": [
+      {
+        "name": "Herbs",
+        "weight": 35,
+        "items": [
+          { "id": 220, "min": 5, "max": 8, "weight": 1 }, //Grimy torstol
+          { "id": 208, "min": 10, "max": 15, "weight": 3 }, //Grimy ranarr weed
+          { "id": 214, "min": 15, "max": 15, "weight": 3 }, //Grimy kwuarm
+          { "id": 2486, "min": 10, "max": 15, "weight": 3 }, //Grimy lantadyme
+          { "id": 218, "min": 10, "max": 15, "weight": 3 } //Grimy dwarf weed
+        ]
+      },
+      {
+        "name": "Weapons/Armour",
+        "weight": 20,
+        "items": [
+          { "id": 1127, "min": 1, "max": 1, "weight": 1 }, //Rune platebody
+          { "id": 1093, "min": 1, "max": 1, "weight": 1 }, //Rune plateskirt
+          { "id": 1079, "min": 1, "max": 1, "weight": 1 }, //Rune plateslegs
+          { "id": 1213, "min": 1, "max": 1, "weight": 1 }, //Rune dagger
+          { "id": 1432, "min": 1, "max": 1, "weight": 1 } //Rune mace
+        ]
+      },
+      {
+        "name": "Runes",
+        "weight": 30,
+        "items": [
+          { "id": 560, "min": 50, "max": 100, "weight": 1 }, //Death runes
+          { "id": 554, "min": 300, "max": 500, "weight": 2 }, //Fire runes
+          { "id": 7937, "min": 100, "max": 250, "weight": 2 }, //Pure essence
+		  { "id": 1380, "min": 10, "max": 15, "weight": 1} // Staff
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 35,
+        "items": [
+          { "id": 995, "min": 40000, "max": 80000, "weight": 12 }, //Coins
+		  { "id": 11237, "min": 30, "max": 60, "weight": 2}, // Dragon arrowtips
+		  { "id": 19582, "min": 30, "max": 60, "weight": 2}, // Dragon javelin heads
+          { "id": 450, "min": 25, "max": 40, "weight": 3 }, //Adamantite ore
+          { "id": 454, "min": 80, "max": 120, "weight": 4 } //Coal
+        ]
+      },
+	  {
+        "name": "Seeds",
+        "weight": 10,
+        "items": [
+          { "id": 5295, "min": 1, "max": 2, "weight": 4 }, //Ranarr seed
+          { "id": 5302, "min": 1, "max": 1, "weight": 2 }, //Lantadyme seed
+          { "id": 5315, "min": 1, "max": 1, "weight": 2 }, //Yew seed
+          { "id": 5288, "min": 1, "max": 1, "weight": 2 }, //Papaya tree seed
+          { "id": 5304, "min": 1, "max": 1, "weight": 1 } //Torstol seed
+        ]
+      },
+	  {
+		"name": "Unique",
+		"weight": 2,
+		"items": [
+			{ "id": 4087, "min": 1, "max": 1, "weight": 2, "broadcast": "FRIENDS"}, // Dragon platelegs
+			{ "id": 4585, "min": 1, "max": 1, "weight": 2, "broadcast": "FRIENDS"}, // Dragon plateskirt
+			{ "id": 21012, "min": 1, "max": 1, "weight": 1, "broadcast": "GLOBAL"}, // Dragon hunter crossbow
+			{ "id": 11286, "min": 1, "max": 1, "weight": 1, "broadcast": "GLOBAL"} // Draconic visage
+        ]
+      }
+    ]
+  }
+]

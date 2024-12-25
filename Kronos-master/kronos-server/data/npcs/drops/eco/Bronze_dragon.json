@@ -1,0 +1,52 @@
+[
+  {
+    "ids": [ 270, 271, 7253 ],
+    "guaranteed": [
+      { "id": 536, "min": 1, "max": 1 }, //Dragon bones
+      { "id": 2349, "min": 5, "max": 5 } //Bronze bar
+    ],
+    "tables": [
+      {
+        "name": "Weapons/Armour",
+        "weight": 1,
+        "items": [
+          { "id": 1123, "min": 1, "max": 1, "weight": 12 }, //Adamant platebody
+          { "id": 1315, "min": 1, "max": 1, "weight": 12 }, //Mithril 2h sword
+          { "id": 1355, "min": 1, "max": 1, "weight": 6 }, //Mithril axe
+          { "id": 1369, "min": 1, "max": 1, "weight": 6 }, //Mithril battleaxe
+          { "id": 1197, "min": 1, "max": 1, "weight": 6 }, //Mithril kiteshield
+          { "id": 868, "min": 2, "max": 2, "weight": 3 }, //Rune knife
+          { "id": 868, "min": 4, "max": 4, "weight": 3 }, //Rune knife
+          { "id": 1303, "min": 1, "max": 1, "weight": 1 }, //Rune longsword
+          { "id": 4585, "min": 1, "max": 1, "weight": 1 }, //Dragon plateskirt
+          { "id": 4087, "min": 1, "max": 1, "weight": 1 } //Dragon platelegs
+        ]
+      },
+      {
+        "name": "Runes/Ammunition",
+        "weight": 1,
+        "items": [
+          { "id": 829, "min": 30, "max": 30, "weight": 6 }, //Adamant javelin
+          { "id": 554, "min": 50, "max": 50, "weight": 6 }, //Fire rune
+          { "id": 563, "min": 10, "max": 10, "weight": 6 }, //Law rune
+          { "id": 9142, "min": 2, "max": 11, "weight": 3 }, //Mithril bolts
+          { "id": 816, "min": 16, "max": 16, "weight": 3 }, //Adamant dart(p)
+          { "id": 565, "min": 3, "max": 3, "weight": 3 }, //Blood rune
+          { "id": 565, "min": 15, "max": 15, "weight": 1 }, //Blood rune
+          { "id": 560, "min": 25, "max": 25, "weight": 1 } //Death rune
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 995, "min": 196, "max": 196, "weight": 12 }, //Coins
+          { "id": 995, "min": 330, "max": 330, "weight": 12 }, //Coins
+          { "id": 2361, "min": 1, "max": 1, "weight": 3 }, //Adamantite bar
+          { "id": 373, "min": 1, "max": 2, "weight": 1 }, //Swordfish
+          { "id": 2722, "min": 1, "max": 1, "weight": 1 } //Clue scroll (hard)
+        ]
+      }
+    ]
+  }
+]

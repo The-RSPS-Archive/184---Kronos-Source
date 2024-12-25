@@ -1,0 +1,45 @@
+[
+  { #Green dragon (79)
+    "ids": [ 260, 261, 262, 263, 264, 7868, 7869, 7870 ],
+    "handler": "io.ruin.model.activities.miscpvm.dragons.ChromaticDragon",
+    //Combat Info
+    "hitpoints": 75,
+    "aggressive_level": 158,
+    "max_damage": 8,
+    "attack_style": "SLASH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 75.0,
+    "slayer_tasks": [ "Green Dragons" ],
+    //Combat Stats
+    "attack": 68,
+    "strength": 68,
+    "defence": 68,
+    "ranged": 1,
+    "magic": 68,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 20,
+    "slash_defence": 40,
+    "crush_defence": 40,
+    "magic_defence": 30,
+    "ranged_defence": 20,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 5,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 80,
+    "defend_animation": 89,
+    "death_animation": 92
+  }
+]

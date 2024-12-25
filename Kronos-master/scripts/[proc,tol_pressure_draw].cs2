@@ -1,0 +1,296 @@
+// 2763
+[proc,tol_pressure_draw]
+if (%varbit3347 = 1) {
+	if_sethide(false, tol_pressure_machine:112);
+	if (%varbit3351 >= 5) {
+		if_sethide(false, tol_pressure_machine:19);
+	} else {
+		if_sethide(true, tol_pressure_machine:19);
+	}
+	if (%varbit3351 >= 4) {
+		if_sethide(false, tol_pressure_machine:25);
+	} else {
+		if_sethide(true, tol_pressure_machine:25);
+	}
+	if (%varbit3351 >= 3) {
+		if_sethide(false, tol_pressure_machine:17);
+	} else {
+		if_sethide(true, tol_pressure_machine:17);
+	}
+	if_sethide(true, tol_pressure_machine:15);
+	if (%varbit3351 >= 2) {
+		if_sethide(false, tol_pressure_machine:12);
+	} else {
+		if_sethide(true, tol_pressure_machine:12);
+	}
+	if_sethide(true, tol_pressure_machine:10);
+	if (%varbit3351 >= 1) {
+		if_sethide(false, tol_pressure_machine:7);
+	} else {
+		if_sethide(true, tol_pressure_machine:7);
+	}
+	if_sethide(true, tol_pressure_machine:5);
+	if_sethide(true, tol_pressure_machine:102);
+	if_sethide(true, tol_pressure_machine:120);
+} else {
+	if_sethide(true, tol_pressure_machine:112);
+	if_sethide(true, tol_pressure_machine:19);
+	if_sethide(true, tol_pressure_machine:25);
+	if (%varbit3351 >= 3) {
+		if_sethide(true, tol_pressure_machine:17);
+		if_sethide(false, tol_pressure_machine:15);
+		if_sethide(false, tol_pressure_machine:12);
+		if_sethide(true, tol_pressure_machine:10);
+		if_sethide(false, tol_pressure_machine:7);
+		if_sethide(true, tol_pressure_machine:5);
+		if_sethide(false, tol_pressure_machine:102);
+		if_sethide(true, tol_pressure_machine:120);
+	} else if (%varbit3351 = 2) {
+		if_sethide(true, tol_pressure_machine:17);
+		if_sethide(true, tol_pressure_machine:15);
+		if_sethide(true, tol_pressure_machine:12);
+		if_sethide(false, tol_pressure_machine:10);
+		if_sethide(false, tol_pressure_machine:7);
+		if_sethide(true, tol_pressure_machine:5);
+		if_sethide(false, tol_pressure_machine:102);
+		if_sethide(true, tol_pressure_machine:120);
+	} else if (%varbit3351 <= 1) {
+		if_sethide(true, tol_pressure_machine:15);
+		if_sethide(true, tol_pressure_machine:17);
+		if_sethide(true, tol_pressure_machine:10);
+		if_sethide(true, tol_pressure_machine:12);
+		if_sethide(false, tol_pressure_machine:5);
+		if_sethide(true, tol_pressure_machine:7);
+		if_sethide(true, tol_pressure_machine:102);
+		if_sethide(false, tol_pressure_machine:120);
+	}
+}
+if (%varbit3348 = 1) {
+	if_sethide(false, tol_pressure_machine:114);
+	if (%varbit3352 >= 5) {
+		if_sethide(false, tol_pressure_machine:57);
+	} else {
+		if_sethide(true, tol_pressure_machine:57);
+	}
+	if (%varbit3352 >= 4) {
+		if_sethide(false, tol_pressure_machine:53);
+	} else {
+		if_sethide(true, tol_pressure_machine:53);
+	}
+	if_sethide(true, tol_pressure_machine:51);
+	if (%varbit3352 >= 3) {
+		if_sethide(false, tol_pressure_machine:48);
+	} else {
+		if_sethide(true, tol_pressure_machine:48);
+	}
+	if_sethide(true, tol_pressure_machine:46);
+	if (%varbit3352 >= 2) {
+		if_sethide(false, tol_pressure_machine:44);
+	} else {
+		if_sethide(true, tol_pressure_machine:44);
+	}
+	if_sethide(true, tol_pressure_machine:42);
+	if (%varbit3352 >= 1) {
+		if_sethide(false, tol_pressure_machine:39);
+	} else {
+		if_sethide(true, tol_pressure_machine:39);
+	}
+	if_sethide(true, tol_pressure_machine:37);
+	if_sethide(true, tol_pressure_machine:104);
+	if_sethide(true, tol_pressure_machine:122);
+} else {
+	if_sethide(true, tol_pressure_machine:114);
+	if_sethide(true, tol_pressure_machine:57);
+	if (%varbit3352 >= 4) {
+		if_sethide(false, tol_pressure_machine:51);
+		if_sethide(true, tol_pressure_machine:53);
+		if_sethide(true, tol_pressure_machine:46);
+		if_sethide(false, tol_pressure_machine:48);
+		if_sethide(true, tol_pressure_machine:42);
+		if_sethide(false, tol_pressure_machine:44);
+		if_sethide(true, tol_pressure_machine:37);
+		if_sethide(false, tol_pressure_machine:39);
+		if_sethide(false, tol_pressure_machine:104);
+		if_sethide(true, tol_pressure_machine:122);
+	} else if (%varbit3352 = 3) {
+		if_sethide(true, tol_pressure_machine:51);
+		if_sethide(true, tol_pressure_machine:53);
+		if_sethide(false, tol_pressure_machine:46);
+		if_sethide(true, tol_pressure_machine:48);
+		if_sethide(true, tol_pressure_machine:42);
+		if_sethide(false, tol_pressure_machine:44);
+		if_sethide(true, tol_pressure_machine:37);
+		if_sethide(false, tol_pressure_machine:39);
+		if_sethide(false, tol_pressure_machine:104);
+		if_sethide(true, tol_pressure_machine:122);
+	} else if (%varbit3352 = 2) {
+		if_sethide(true, tol_pressure_machine:51);
+		if_sethide(true, tol_pressure_machine:53);
+		if_sethide(true, tol_pressure_machine:46);
+		if_sethide(true, tol_pressure_machine:48);
+		if_sethide(false, tol_pressure_machine:42);
+		if_sethide(true, tol_pressure_machine:44);
+		if_sethide(true, tol_pressure_machine:37);
+		if_sethide(false, tol_pressure_machine:39);
+		if_sethide(true, tol_pressure_machine:104);
+		if_sethide(false, tol_pressure_machine:122);
+	} else if (%varbit3352 <= 1) {
+		if_sethide(true, tol_pressure_machine:51);
+		if_sethide(true, tol_pressure_machine:53);
+		if_sethide(true, tol_pressure_machine:46);
+		if_sethide(true, tol_pressure_machine:48);
+		if_sethide(true, tol_pressure_machine:42);
+		if_sethide(true, tol_pressure_machine:44);
+		if_sethide(false, tol_pressure_machine:37);
+		if_sethide(true, tol_pressure_machine:39);
+		if_sethide(true, tol_pressure_machine:104);
+		if_sethide(false, tol_pressure_machine:122);
+	}
+}
+if (%varbit3349 = 1) {
+	if_sethide(false, tol_pressure_machine:116);
+	if (%varbit3353 >= 5) {
+		if_sethide(false, tol_pressure_machine:77);
+	} else {
+		if_sethide(true, tol_pressure_machine:77);
+	}
+	if (%varbit3353 >= 4) {
+		if_sethide(false, tol_pressure_machine:74);
+	} else {
+		if_sethide(true, tol_pressure_machine:74);
+	}
+	if (%varbit3353 >= 3) {
+		if_sethide(false, tol_pressure_machine:71);
+	} else {
+		if_sethide(true, tol_pressure_machine:71);
+	}
+	if_sethide(true, tol_pressure_machine:69);
+	if (%varbit3353 >= 2) {
+		if_sethide(false, tol_pressure_machine:66);
+	} else {
+		if_sethide(true, tol_pressure_machine:66);
+	}
+	if_sethide(true, tol_pressure_machine:64);
+	if (%varbit3353 >= 1) {
+		if_sethide(false, tol_pressure_machine:61);
+	} else {
+		if_sethide(true, tol_pressure_machine:61);
+	}
+	if_sethide(true, tol_pressure_machine:59);
+	if_sethide(true, tol_pressure_machine:106);
+	if_sethide(true, tol_pressure_machine:124);
+} else {
+	if_sethide(true, tol_pressure_machine:116);
+	if_sethide(true, tol_pressure_machine:77);
+	if_sethide(true, tol_pressure_machine:74);
+	if (%varbit3353 >= 3) {
+		if_sethide(false, tol_pressure_machine:69);
+		if_sethide(true, tol_pressure_machine:71);
+		if_sethide(true, tol_pressure_machine:64);
+		if_sethide(false, tol_pressure_machine:66);
+		if_sethide(true, tol_pressure_machine:59);
+		if_sethide(false, tol_pressure_machine:61);
+		if_sethide(false, tol_pressure_machine:106);
+		if_sethide(true, tol_pressure_machine:124);
+	} else if (%varbit3353 = 2) {
+		if_sethide(true, tol_pressure_machine:69);
+		if_sethide(true, tol_pressure_machine:71);
+		if_sethide(false, tol_pressure_machine:64);
+		if_sethide(true, tol_pressure_machine:66);
+		if_sethide(true, tol_pressure_machine:59);
+		if_sethide(false, tol_pressure_machine:61);
+		if_sethide(true, tol_pressure_machine:106);
+		if_sethide(false, tol_pressure_machine:124);
+	} else if (%varbit3353 <= 1) {
+		if_sethide(true, tol_pressure_machine:69);
+		if_sethide(true, tol_pressure_machine:71);
+		if_sethide(true, tol_pressure_machine:64);
+		if_sethide(true, tol_pressure_machine:66);
+		if_sethide(false, tol_pressure_machine:59);
+		if_sethide(true, tol_pressure_machine:61);
+		if_sethide(true, tol_pressure_machine:106);
+		if_sethide(false, tol_pressure_machine:124);
+	}
+}
+if (%varbit3350 = 1) {
+	if_sethide(false, tol_pressure_machine:118);
+	if (%varbit3355 >= 5) {
+		if_sethide(false, tol_pressure_machine:100);
+	} else {
+		if_sethide(true, tol_pressure_machine:100);
+	}
+	if (%varbit3355 >= 4) {
+		if_sethide(false, tol_pressure_machine:97);
+	} else {
+		if_sethide(true, tol_pressure_machine:97);
+	}
+	if_sethide(true, tol_pressure_machine:95);
+	if (%varbit3355 >= 3) {
+		if_sethide(false, tol_pressure_machine:92);
+	} else {
+		if_sethide(true, tol_pressure_machine:92);
+	}
+	if_sethide(true, tol_pressure_machine:90);
+	if (%varbit3355 >= 2) {
+		if_sethide(false, tol_pressure_machine:87);
+	} else {
+		if_sethide(true, tol_pressure_machine:87);
+	}
+	if_sethide(true, tol_pressure_machine:85);
+	if (%varbit3355 >= 1) {
+		if_sethide(false, tol_pressure_machine:82);
+	} else {
+		if_sethide(true, tol_pressure_machine:82);
+	}
+	if_sethide(true, tol_pressure_machine:80);
+	if_sethide(true, tol_pressure_machine:108);
+	if_sethide(true, tol_pressure_machine:126);
+} else {
+	if_sethide(true, tol_pressure_machine:118);
+	if_sethide(true, tol_pressure_machine:100);
+	if (%varbit3355 >= 4) {
+		if_sethide(false, tol_pressure_machine:95);
+		if_sethide(true, tol_pressure_machine:97);
+		if_sethide(true, tol_pressure_machine:90);
+		if_sethide(false, tol_pressure_machine:92);
+		if_sethide(true, tol_pressure_machine:85);
+		if_sethide(false, tol_pressure_machine:87);
+		if_sethide(true, tol_pressure_machine:80);
+		if_sethide(false, tol_pressure_machine:82);
+		if_sethide(false, tol_pressure_machine:108);
+		if_sethide(true, tol_pressure_machine:126);
+	} else if (%varbit3355 = 3) {
+		if_sethide(true, tol_pressure_machine:95);
+		if_sethide(true, tol_pressure_machine:97);
+		if_sethide(false, tol_pressure_machine:90);
+		if_sethide(true, tol_pressure_machine:92);
+		if_sethide(true, tol_pressure_machine:85);
+		if_sethide(false, tol_pressure_machine:87);
+		if_sethide(true, tol_pressure_machine:80);
+		if_sethide(false, tol_pressure_machine:82);
+		if_sethide(true, tol_pressure_machine:108);
+		if_sethide(false, tol_pressure_machine:126);
+	} else if (%varbit3355 = 2) {
+		if_sethide(true, tol_pressure_machine:95);
+		if_sethide(true, tol_pressure_machine:97);
+		if_sethide(true, tol_pressure_machine:90);
+		if_sethide(true, tol_pressure_machine:92);
+		if_sethide(false, tol_pressure_machine:85);
+		if_sethide(true, tol_pressure_machine:87);
+		if_sethide(true, tol_pressure_machine:80);
+		if_sethide(false, tol_pressure_machine:82);
+		if_sethide(true, tol_pressure_machine:108);
+		if_sethide(false, tol_pressure_machine:126);
+	} else if (%varbit3355 <= 1) {
+		if_sethide(true, tol_pressure_machine:95);
+		if_sethide(true, tol_pressure_machine:97);
+		if_sethide(true, tol_pressure_machine:90);
+		if_sethide(true, tol_pressure_machine:92);
+		if_sethide(true, tol_pressure_machine:85);
+		if_sethide(true, tol_pressure_machine:87);
+		if_sethide(false, tol_pressure_machine:80);
+		if_sethide(true, tol_pressure_machine:82);
+		if_sethide(true, tol_pressure_machine:108);
+		if_sethide(false, tol_pressure_machine:126);
+	}
+}

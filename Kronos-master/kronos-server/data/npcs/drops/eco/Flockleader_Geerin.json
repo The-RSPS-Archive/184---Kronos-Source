@@ -1,0 +1,52 @@
+[
+  {
+    "ids": [ 3164 ],
+    "tables": [
+      {
+        "name": "Armour",
+        "weight": 1,
+        "items": [
+          { "id": 11826, "min": 1, "max": 1, "weight": 1 }, //Armadyl helmet
+          { "id": 11828, "min": 1, "max": 1, "weight": 1 }, //Armadyl chestplate
+          { "id": 11830, "min": 1, "max": 1, "weight": 1 } //Armadyl chainskirt
+        ]
+      },
+      {
+        "name": "Food",
+        "weight": 350,
+        "items": [
+          { "id": 391, "min": 2, "max": 2, "weight": 1 }, //Manta ray
+          { "id": 7058, "min": 3, "max": 3, "weight": 1 } //Mushroom potato
+        ]
+      },
+      {
+        "name": "Runes and Ammunition",
+        "weight": 350,
+        "items": [
+          { "id": 4697, "min": 13, "max": 25, "weight": 1 }, //Smoke rune
+          { "id": 808, "min": 95, "max": 100, "weight": 1 }, //Steel dart
+          { "id": 886, "min": 95, "max": 100, "weight": 1 } //Steel arrow
+        ]
+      },
+      {
+        "name": "Godsword shards",
+        "weight": 15,
+        "items": [
+          { "id": 11818, "min": 1, "max": 1, "weight": 1 }, //Godsword shard 1
+          { "id": 11820, "min": 1, "max": 1, "weight": 1 }, //Godsword shard 2
+          { "id": 11822, "min": 1, "max": 1, "weight": 1 } //Godsword shard 3
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 350,
+        "items": [
+          { "id": 995, "min": 1000, "max": 1050, "weight": 10 }, //Coins
+          { "id": 213, "min": 1, "max": 1, "weight": 5 }, //Grimy kwuarm
+          { "id": 6693, "min": 2, "max": 2, "weight": 5 }, //Crushed nest
+          { "id": 2722, "min": 1, "max": 1, "weight": 1 } //Clue scroll (hard)
+        ]
+      }
+    ]
+  }
+]

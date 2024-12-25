@@ -1,0 +1,92 @@
+[
+  {
+    "name": "High Priestess Zul-Harcinqa",
+    "id": 1616,
+    "x": 2192,
+    "y": 3055,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0
+  },
+  {
+    "name": "Zul-Areth",
+    "id": 2040,
+    "x": 2197,
+    "y": 3061,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Zul-Aniel",
+    "id": 2039,
+    "x": 2194,
+    "y": 3059,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Zul-Cheray",
+    "id": 2035,
+    "x": 2204,
+    "y": 3050,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Zul-Onan",
+    "id": 2038,
+    "x": 2189,
+    "y": 3069,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 0
+  },
+  {
+    "name": "Zul-Urgish",
+    "id": 2034,
+    "x": 2199,
+    "y": 3055,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Zul-Gutusolly",
+    "id": 2036,
+    "x": 2201,
+    "y": 3049,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Sacrifice",
+    "id": 2037,
+    "x": 2210,
+    "y": 3056,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Priestess Zul-Gwenwynig",
+    "id": 2033,
+    "x": 2212,
+    "y": 3056,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Zulrah",
+    "id": 2042,
+    "x": 2266,
+    "y": 3072,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  }
+]

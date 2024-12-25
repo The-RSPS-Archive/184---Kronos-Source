@@ -1,0 +1,100 @@
+[
+  {
+    "ids": [ 6075, 6076 ],
+    "tables": [
+      {
+        "name": "Remains",
+        "weight": 1,
+        "items": [
+          { "id": 526, "min": 1, "max": 1, "weight": 1 }, //Bones
+          { "id": 526, "min": 3, "max": 3, "weight": 1 }, //Bones
+          { "id": 7939, "min": 1, "max": 3, "weight": 1 }, //Tortoise shell
+          { "id": 10995, "min": 1, "max": 3, "weight": 1 } //Perfect shell
+        ]
+      },
+      {
+        "name": "Seeds",
+        "weight": 1,
+        "items": [
+          { "id": 5324, "min": 3, "max": 29, "weight": 1 }, //Cabbage seed
+          { "id": 5101, "min": 1, "max": 1, "weight": 1 }, //Redberry seed
+          { "id": 5318, "min": 4, "max": 4, "weight": 1 }, //Potato seed
+          { "id": 5319, "min": 4, "max": 4, "weight": 1 }, //Onion seed
+          { "id": 5322, "min": 1, "max": 1, "weight": 1 }, //Tomato seed
+          { "id": 5321, "min": 1, "max": 2, "weight": 1 }, //Watermelon seed
+          { "id": 5096, "min": 1, "max": 1, "weight": 1 }, //Marigold seed
+          { "id": 5097, "min": 1, "max": 4, "weight": 1 }, //Rosemary seed
+          { "id": 5099, "min": 1, "max": 1, "weight": 1 }, //Woad seed
+          { "id": 5103, "min": 1, "max": 1, "weight": 1 }, //Dwellberry seed
+          { "id": 5308, "min": 1, "max": 3, "weight": 1 }, //Asgarnian seed
+          { "id": 5305, "min": 2, "max": 4, "weight": 1 }, //Barley seed
+          { "id": 5323, "min": 1, "max": 2, "weight": 1 }, //Strawberry seed
+          { "id": 5098, "min": 1, "max": 2, "weight": 1 }, //Nasturtium seed
+          { "id": 5309, "min": 1, "max": 2, "weight": 1 }, //Yanillian seed
+          { "id": 5307, "min": 1, "max": 2, "weight": 1 }, //Hammerstone seed
+          { "id": 5320, "min": 1, "max": 4, "weight": 1 } //Sweetcorn seed
+        ]
+      },
+      {
+        "name": "Herbs",
+        "weight": 1,
+        "items": [
+          { "id": 199, "min": 1, "max": 1, "weight": 1 }, //Grimy guam leaf
+          { "id": 201, "min": 1, "max": 1, "weight": 1 }, //Grimy marrentill
+          { "id": 203, "min": 1, "max": 1, "weight": 1 }, //Grimy tarromin
+          { "id": 205, "min": 1, "max": 1, "weight": 1 }, //Grimy harralander
+          { "id": 207, "min": 1, "max": 1, "weight": 1 }, //Grimy ranarr weed
+          { "id": 209, "min": 1, "max": 1, "weight": 1 }, //Grimy irit leaf
+          { "id": 211, "min": 1, "max": 1, "weight": 1 }, //Grimy avantoe
+          { "id": 213, "min": 1, "max": 1, "weight": 1 }, //Grimy kwuarm
+          { "id": 215, "min": 1, "max": 1, "weight": 1 }, //Grimy cadantine
+          { "id": 2485, "min": 1, "max": 1, "weight": 1 }, //Grimy lantadyme
+          { "id": 217, "min": 1, "max": 1, "weight": 1 } //Grimy dwarf weed
+        ]
+      },
+      {
+        "name": "Food",
+        "weight": 1,
+        "items": [
+          { "id": 2114, "min": 1, "max": 1, "weight": 1 }, //Pineapple
+          { "id": 1966, "min": 16, "max": 101, "weight": 1 }, //Cabbage (noted)
+          { "id": 2253, "min": 1, "max": 1, "weight": 1 }, //Worm batta
+          { "id": 2217, "min": 1, "max": 1, "weight": 1 }, //Toad crunchies
+          { "id": 2064, "min": 1, "max": 1, "weight": 1 }, //Blurberry special
+          { "id": 2187, "min": 1, "max": 1, "weight": 1 } //Tangled toad's legs
+        ]
+      },
+      {
+        "name": "Runes/Talismans",
+        "weight": 1,
+        "items": [
+          { "id": 1458, "min": 1, "max": 1, "weight": 1 }, //Law talisman
+          { "id": 561, "min": 1, "max": 3, "weight": 1 }, //Nature rune
+          { "id": 557, "min": 10, "max": 14, "weight": 1 }, //Earth rune
+          { "id": 566, "min": 5, "max": 11, "weight": 1 } //Soul rune
+        ]
+      },
+      {
+        "name": "Arrows",
+        "weight": 1,
+        "items": [
+          { "id": 886, "min": 12, "max": 23, "weight": 1 }, //Steel arrow
+          { "id": 888, "min": 6, "max": 13, "weight": 1 } //Mithril arrow
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 2150, "min": 1, "max": 1, "weight": 1 }, //Swamp toad
+          { "id": 6333, "min": 1, "max": 1, "weight": 1 }, //Teak logs
+          { "id": 6333, "min": 2, "max": 2, "weight": 1 }, //Teak logs
+          { "id": 6333, "min": 4, "max": 4, "weight": 1 }, //Teak logs
+          { "id": 6332, "min": 1, "max": 1, "weight": 1 }, //Mahogany logs
+          { "id": 6332, "min": 2, "max": 2, "weight": 1 }, //Mahogany logs
+          { "id": 6332, "min": 4, "max": 4, "weight": 1 } //Mahogany logs
+        ]
+      }
+    ]
+  }
+]

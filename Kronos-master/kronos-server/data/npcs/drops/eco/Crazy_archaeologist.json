@@ -1,0 +1,71 @@
+[
+  {
+    "ids": [ 6618 ],
+            	"guaranteed": [
+      { "id": 526, "min": 1, "max": 1, "weight": 1 } //Bones
+            	],
+    "tables": [
+      {
+        "name": "Weapons/Armour",
+        "weight": 1,
+        "items": [
+          { "id": 1731, "min": 1, "max": 1, "weight": 3 }, //Amulet of power
+          { "id": 2501, "min": 1, "max": 1, "weight": 3 }, //Red d'hide body
+          { "id": 868, "min": 10, "max": 10, "weight": 3 }, //Rune knife
+          { "id": 9185, "min": 2, "max": 2, "weight": 2 } //Rune crossbow
+        ]
+      },
+      {
+        "name": "Runes/Ammunition",
+        "weight": 1,
+        "items": [
+          { "id": 4698, "min": 30, "max": 30, "weight": 10 }, //Mud rune
+          { "id": 11212, "min": 75, "max": 75, "weight": 1 } //Dragon arrow
+        ]
+      },
+      {
+        "name": "Herbs",
+        "weight": 1,
+        "items": [
+          { "id": 218, "min": 4, "max": 4, "weight": 1 } //Grimy dwarf weed (noted)
+        ]
+      },
+      {
+        "name": "Food/Potions",
+        "weight": 1,
+        "items": [
+          { "id": 385, "min": 1, "max": 1, "weight": 6 }, //Shark
+          { "id": 2298, "min": 8, "max": 8, "weight": 3 }, //Anchovy pizza (noted)
+          { "id": 6705, "min": 3, "max": 3, "weight": 3 }, //Potato with cheese
+          { "id": 2434, "min": 1, "max": 1, "weight": 1 } //Prayer potion(4)
+        ]
+      },
+      {
+        "name": "Gems",
+        "weight": 1,
+        "items": [
+          { "id": 1624, "min": 4, "max": 4, "weight": 3 }, //Uncut sapphire (noted)
+          { "id": 1622, "min": 6, "max": 6, "weight": 3 } //Uncut emerald (noted)
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 995, "min": 522, "max": 4000, "weight": 8 }, //Coins
+          { "id": 443, "min": 40, "max": 40, "weight": 8 }, //Silver ore (noted)
+          { "id": 686, "min": 1, "max": 1, "weight": 8 }, //Rusty sword
+          { "id": 2, "min": 150, "max": 150, "weight": 8 }, //Cannonball
+          { "id": 991, "min": 1, "max": 1, "weight": 6 }, //Muddy key
+          { "id": 1750, "min": 10, "max": 10, "weight": 6 }, //Red dragonhide (noted)
+          { "id": 240, "min": 10, "max": 10, "weight": 6 }, //White berries (noted)
+          { "id": 9194, "min": 12, "max": 12, "weight": 3 }, //Onyx bolt tips
+          { "id": 2722, "min": 1, "max": 1, "weight": 1 }, //Clue scroll (hard)
+          { "id": 11990, "min": 1, "max": 1, "weight": 1 }, //Fedora
+          { "id": 11929, "min": 1, "max": 1, "weight": 1 }, //Odium shard 2
+          { "id": 11932, "min": 1, "max": 1, "weight": 1 } //Malediction shard 2
+        ]
+      }
+    ]
+  }
+]

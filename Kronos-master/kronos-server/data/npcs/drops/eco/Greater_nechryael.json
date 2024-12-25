@@ -1,0 +1,90 @@
+[
+  {
+    "ids": [ 7278 ],
+    "guaranteed": [
+      { "id": 592, "min": 1, "max": 1 } //Ashes
+    ],
+    "tables": [
+      {
+        "name": "Weapons",
+        "weight": 1,
+        "items": [
+          { "id": 1359, "min": 1, "max": 1, "weight": 6 }, //Rune axe
+          { "id": 1371, "min": 1, "max": 1, "weight": 6 }, //Adamant battleaxe
+          { "id": 1405, "min": 1, "max": 1, "weight": 1 } //Mystic air staff
+        ]
+      },
+      {
+        "name": "Armour",
+        "weight": 1,
+        "items": [
+          { "id": 1199, "min": 1, "max": 1, "weight": 6 }, //Adamant kiteshield
+          { "id": 1185, "min": 1, "max": 1, "weight": 6 }, //Rune sq shield
+          { "id": 1113, "min": 1, "max": 1, "weight": 6 }, //Rune chainbody
+          { "id": 1147, "min": 1, "max": 1, "weight": 3 }, //Rune med helm
+          { "id": 1163, "min": 1, "max": 1, "weight": 3 }, //Rune full helm
+          { "id": 4131, "min": 1, "max": 1, "weight": 1 } //Rune boots
+        ]
+      },
+      {
+        "name": "Runes",
+        "weight": 1,
+        "items": [
+          { "id": 556, "min": 150, "max": 150, "weight": 1 }, //Air rune
+          { "id": 562, "min": 50, "max": 50, "weight": 1 }, //Chaos rune
+          { "id": 560, "min": 23, "max": 23, "weight": 1 }, //Death rune
+          { "id": 565, "min": 20, "max": 20, "weight": 1 }, //Blood rune
+          { "id": 566, "min": 25, "max": 25, "weight": 1 } //Soul rune
+        ]
+      },
+      {
+        "name": "Herbs",
+        "weight": 1,
+        "items": [
+          { "id": 199, "min": 1, "max": 1, "weight": 6 }, //Grimy guam leaf
+          { "id": 201, "min": 1, "max": 1, "weight": 6 }, //Grimy marrentill
+          { "id": 203, "min": 1, "max": 1, "weight": 6 }, //Grimy tarromin
+          { "id": 205, "min": 1, "max": 1, "weight": 6 }, //Grimy harralander
+          { "id": 207, "min": 1, "max": 1, "weight": 6 }, //Grimy ranarr weed
+          { "id": 209, "min": 1, "max": 1, "weight": 6 }, //Grimy irit leaf
+          { "id": 211, "min": 1, "max": 1, "weight": 3 }, //Grimy avantoe
+          { "id": 213, "min": 1, "max": 1, "weight": 3 }, //Grimy kwuarm
+          { "id": 215, "min": 1, "max": 1, "weight": 1 }, //Grimy cadantine
+          { "id": 2485, "min": 1, "max": 1, "weight": 1 }, //Grimy lantadyme
+          { "id": 217, "min": 1, "max": 1, "weight": 1 } //Grimy dwarf weed
+        ]
+      },
+      {
+        "name": "Seeds ",
+        "weight": 1,
+        "items": [
+          { "id": 5281, "min": 1, "max": 1, "weight": 9 }, //Belladonna seed
+          { "id": 5298, "min": 1, "max": 1, "weight": 9 }, //Avantoe seed
+          { "id": 5299, "min": 1, "max": 1, "weight": 9 }, //Kwuarm seed
+          { "id": 5296, "min": 1, "max": 1, "weight": 6 }, //Toadflax seed
+          { "id": 5301, "min": 1, "max": 1, "weight": 6 }, //Cadantine seed
+          { "id": 5297, "min": 1, "max": 1, "weight": 6 }, //Irit seed
+          { "id": 5280, "min": 1, "max": 1, "weight": 6 }, //Cactus seed
+          { "id": 5106, "min": 1, "max": 1, "weight": 3 }, //Poison ivy seed
+          { "id": 5303, "min": 1, "max": 1, "weight": 3 }, //Dwarf weed seed
+          { "id": 5302, "min": 1, "max": 1, "weight": 3 }, //Lantadyme seed
+          { "id": 5300, "min": 1, "max": 1, "weight": 1 }, //Snapdragon seed
+          { "id": 5304, "min": 1, "max": 1, "weight": 1 } //Torstol seed
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 995, "min": 300, "max": 7000, "weight": 6 }, //Coins
+          { "id": 995, "min": 10000, "max": 10000, "weight": 6 }, //Coins
+          { "id": 361, "min": 2, "max": 2, "weight": 3 }, //Tuna
+          { "id": 379, "min": 1, "max": 1, "weight": 3 }, //Lobster
+          { "id": 2358, "min": 5, "max": 5, "weight": 3 }, //Gold bar (noted)
+          { "id": 246, "min": 3, "max": 3, "weight": 1 }, //Wine of zamorak (noted)
+          { "id": 2722, "min": 1, "max": 1, "weight": 1 } //Clue scroll (hard)
+        ]
+      }
+    ]
+  }
+]

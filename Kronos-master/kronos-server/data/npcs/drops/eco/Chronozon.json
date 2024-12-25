@@ -1,0 +1,9 @@
+[
+  {
+    "ids": [ 4987, 6354, 6292 ],
+    "guaranteed": [
+      { "id": 592, "min": 1, "max": 1 }, //Ashes
+      { "id": 779, "min": 1, "max": 1 } //Crest part
+    ]
+  }
+]

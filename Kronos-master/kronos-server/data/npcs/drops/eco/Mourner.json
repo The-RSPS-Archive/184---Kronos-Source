@@ -1,0 +1,79 @@
+[
+  {
+    "ids": [ 1114, 5285, 5286, 5287, 1149, 1136, 1115, 1148, 5311 ],
+    "guaranteed": [
+      { "id": 526, "min": 1, "max": 1 } //Bones
+    ],
+    "tables": [
+      {
+        "name": "Weapons",
+        "weight": 1,
+        "items": [
+          { "id": 1213, "min": 1, "max": 1, "weight": 1 } //Rune dagger
+        ]
+      },
+      {
+        "name": "Runes/Ammunition",
+        "weight": 1,
+        "items": [
+          { "id": 555, "min": 70, "max": 70, "weight": 1 }, //Water rune
+          { "id": 554, "min": 37, "max": 37, "weight": 1 }, //Fire rune
+          { "id": 561, "min": 12, "max": 12, "weight": 1 }, //Nature rune
+          { "id": 563, "min": 2, "max": 2, "weight": 1 } //Law rune
+        ]
+      },
+      {
+        "name": "Armour",
+        "weight": 1,
+        "items": [
+          { "id": 1161, "min": 1, "max": 1, "weight": 1 }, //Adamant full helm
+          { "id": 1135, "min": 1, "max": 1, "weight": 1 }, //Green d'hide body
+          { "id": 1099, "min": 1, "max": 1, "weight": 1 }, //Green d'hide chaps
+          { "id": 1197, "min": 1, "max": 1, "weight": 1 } //Mithril kiteshield
+        ]
+      },
+      {
+        "name": "Herbs",
+        "weight": 1,
+        "items": [
+          { "id": 199, "min": 1, "max": 1, "weight": 1 }, //Grimy guam leaf
+          { "id": 203, "min": 1, "max": 1, "weight": 1 }, //Grimy tarromin
+          { "id": 201, "min": 1, "max": 1, "weight": 1 }, //Grimy marrentill
+          { "id": 211, "min": 1, "max": 1, "weight": 1 }, //Grimy avantoe
+          { "id": 213, "min": 1, "max": 1, "weight": 1 }, //Grimy kwuarm
+          { "id": 207, "min": 1, "max": 1, "weight": 1 } //Grimy ranarr weed
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 385, "min": 1, "max": 1, "weight": 1 }, //Shark
+          { "id": 995, "min": 20, "max": 20, "weight": 1 }, //Coins
+          { "id": 995, "min": 44, "max": 44, "weight": 1 }, //Coins
+          { "id": 995, "min": 64, "max": 64, "weight": 1 }, //Coins
+          { "id": 995, "min": 132, "max": 132, "weight": 1 }, //Coins
+          { "id": 995, "min": 180, "max": 180, "weight": 1 }, //Coins
+          { "id": 995, "min": 440, "max": 440, "weight": 1 }, //Coins
+          { "id": 2722, "min": 1, "max": 1, "weight": 1 } //Clue scroll (hard)
+        ]
+      }
+    ]
+  },
+  {
+    "ids": [ 5285, 5286, 5287, 5311 ],
+    "guaranteed": [
+      { "id": 6070, "min": 1, "max": 1 }, //Mourner cloak
+      { "id": 6069, "min": 1, "max": 1 }, //Mourner boots
+      { "id": 6068, "min": 1, "max": 1 }, //Mourner gloves
+      { "id": 1506, "min": 1, "max": 1 } //Gas mask
+    ]
+  },
+  {
+    "ids": [ 5311 ],
+    "guaranteed": [
+      { "id": 6065, "min": 1, "max": 1 }, //Mourner top
+      { "id": 6067, "min": 1, "max": 1 } //Mourner trousers
+    ]
+  }
+]

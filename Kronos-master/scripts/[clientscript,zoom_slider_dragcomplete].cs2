@@ -1,0 +1,9 @@
+// 1043
+[clientscript,zoom_slider_dragcomplete](component $component0, component $component1, int $int2)
+if ($component0 ! options:15) {
+	return;
+}
+if (%varbit4606 ! 0) {
+	return;
+}
+~zoom_position_slider;

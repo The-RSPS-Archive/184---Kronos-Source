@@ -1,0 +1,46 @@
+[
+  {
+  "ids": [ 8615, 8616, 8617, 8618, 8619, 8620, 8621, 8622 ],
+  "handler": "io.ruin.model.activities.bosses.hydra.AlchemicalHydra",
+    "pet": "IKKLE_HYDRA_GREEN",
+  //Combat Info
+  "hitpoints": 1100,
+  "aggressive_level": 300,
+  "max_damage": 35,
+  "attack_style": "RANGED",
+  //Slayer Info
+  "slayer_level": 95,
+  "slayer_xp": 1320,
+  "slayer_tasks": [ "Hydras" ],
+  //Combat Stats
+  "attack": 100,
+  "strength": 100,
+  "defence": 100,
+  "ranged": 260,
+  "magic": 260,
+  //Aggressive Stats
+  "stab_attack": 0,
+  "slash_attack": 0,
+  "crush_attack": 0,
+  "magic_attack": 0,
+  "ranged_attack": 0,
+  //Defensive Stats
+  "stab_defence": 75,
+  "slash_defence": 150,
+  "crush_defence": 150,
+  "magic_defence": 150,
+  "ranged_defence": 45,
+  //Immunites
+  "poison_immunity": true,
+  "venom_immunity": true,
+  //Speeds
+  "attack_ticks": 6,
+  "death_ticks": 5,
+  "respawn_ticks": 30,
+  //Animations
+  "spawn_animation": -1,
+  "attack_animation": 8234,
+  "defend_animation": -1,
+  "death_animation": -1
+  }
+]

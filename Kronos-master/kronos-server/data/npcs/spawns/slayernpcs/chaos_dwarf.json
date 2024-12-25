@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Chaos dwarf",
+    "id": 291,
+    "x": 3243,
+    "y": 3796,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Chaos dwarf",
+    "id": 291,
+    "x": 3248,
+    "y": 3796,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Chaos dwarf",
+    "id": 291,
+    "x": 3246,
+    "y": 3793,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Chaos dwarf",
+    "id": 291,
+    "x": 3244,
+    "y": 3791,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Chaos dwarf",
+    "id": 291,
+    "x": 3246,
+    "y": 3789,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Chaos dwarf",
+    "id": 291,
+    "x": 3242,
+    "y": 3787,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  }
+]

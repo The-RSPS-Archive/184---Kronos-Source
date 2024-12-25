@@ -1,0 +1,83 @@
+[
+  {
+    "ids": [ 5862, 5863, 5866 ],
+    "guaranteed": [
+      { "id": 592, "min": 1, "max": 1 } //Ashes
+    ],
+    "tables": [
+      {
+        "name": "Weapons/Armour",
+        "weight": 10,
+        "items": [
+          { "id": 3053, "min": 1, "max": 1, "weight": 9 }, //Lava battlestaff
+          { "id": 1392, "min": 6, "max": 6, "weight": 9 }, //Battlestaff (noted)
+          { "id": 1319, "min": 1, "max": 1, "weight": 6 }, //Rune 2h sword
+          { "id": 3202, "min": 1, "max": 1, "weight": 6 }, //Rune halberd
+          { "id": 2503, "min": 1, "max": 1, "weight": 6 }, //Black d'hide body
+          { "id": 1163, "min": 1, "max": 1, "weight": 3 }, //Rune full helm
+          { "id": 1359, "min": 1, "max": 1, "weight": 3 }, //Rune axe
+          { "id": 1275, "min": 1, "max": 1, "weight": 3 }, //Rune pickaxe
+          { "id": 1113, "min": 1, "max": 1, "weight": 1 }, //Rune chainbody
+          { "id": 1127, "min": 1, "max": 1, "weight": 1 } //Rune platebody
+        ]
+      },
+      {
+        "name": "Runes/Ammunition",
+        "weight": 10,
+        "items": [
+          { "id": 7937, "min": 300, "max": 300, "weight": 6 }, //Pure essence (noted)
+          { "id": 554, "min": 300, "max": 300, "weight": 3 }, //Fire rune
+          { "id": 560, "min": 100, "max": 100, "weight": 3 }, //Death rune
+          { "id": 566, "min": 100, "max": 100, "weight": 3 }, //Soul rune
+          { "id": 565, "min": 60, "max": 60, "weight": 1 }, //Blood rune
+          { "id": 9381, "min": 40, "max": 40, "weight": 1 }, //Runite bolts (unf)
+          { "id": 2, "min": 50, "max": 50, "weight": 1 } //Cannonball
+        ]
+      },
+      {
+        "name": "Herbs, potions, and seeds",
+        "weight": 10,
+        "items": [
+          { "id": 3024, "min": 2, "max": 2, "weight": 6 }, //Super restore(4)
+          { "id": 5304, "min": 3, "max": 3, "weight": 3 }, //Torstol seed
+          { "id": 220, "min": 6, "max": 6, "weight": 1 } //Grimy torstol (noted)
+        ]
+      },
+      {
+        "name": "Unique",
+        "weight": 1,
+        "items": [
+          { "id": 13231, "min": 1, "max": 1, "weight": 1 }, //Primordial crystal
+          { "id": 13229, "min": 1, "max": 1, "weight": 1 }, //Peg crystal
+          { "id": 13227, "min": 1, "max": 1, "weight": 1 }, //Eternal crystal
+          { "id": 13233, "min": 1, "max": 1, "weight": 1 }  //Smouldering stone
+        ]
+      },
+      {
+        "name": "Ores",
+        "weight": 10,
+        "items": [
+          { "id": 454, "min": 120, "max": 120, "weight": 3 }, //Coal (noted)
+          { "id": 452, "min": 5, "max": 5, "weight": 1 } //Runite ore (noted)
+        ]
+      },
+      {
+        "name": "Others",
+        "weight": 10,
+        "items": [
+          { "id": 995, "min": 10000, "max": 20000, "weight": 12 }, //Coins
+          { "id": 1724, "min": 1, "max": 1, "weight": 12 }, //Unholy symbol
+          { "id": 7218, "min": 3, "max": 3, "weight": 12 }, //Summer pie
+          { "id": 593, "min": 50, "max": 50, "weight": 12 }, //Ashes (noted)
+          { "id": 537, "min": 20, "max": 20, "weight": 6 }, //Dragon bones (noted)
+          { "id": 246, "min": 15, "max": 15, "weight": 6 }, //Wine of zamorak (noted)
+          { "id": 570, "min": 20, "max": 20, "weight": 6 }, //Fire orb (noted)
+          { "id": 1618, "min": 5, "max": 5, "weight": 3 }, //Uncut diamond (noted)
+          { "id": 13249, "min": 3, "max": 3, "weight": 1 }, //Key master teleport
+          { "id": 12073, "min": 1, "max": 1, "weight": 1 }, //Clue scroll (elite)
+          { "id": 13245, "min": 1, "max": 1, "weight": 1 } //Jar of souls
+        ]
+      }
+    ]
+  }
+]

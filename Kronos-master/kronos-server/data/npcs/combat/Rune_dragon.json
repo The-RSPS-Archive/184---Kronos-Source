@@ -1,0 +1,90 @@
+[
+  { #Rune dragon (380)
+    "ids": [ 8031, 8091 ],
+    "handler": "io.ruin.model.activities.miscpvm.dragons.RuneDragon",
+    //Combat Info
+    "hitpoints": 330,
+    "aggressive_level": 608,
+    "max_damage": 38,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 550.0,
+    "slayer_tasks": [ "Rune Dragons" ],
+    //Combts
+    "attack": 284,
+    "strength": 284,
+    "defence": 276,
+    "ranged": 246,
+    "magic": 196,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 30,
+    "slash_defence": 115,
+    "crush_defence": 90,
+    "magic_defence": 30,
+    "ranged_defence": 95,
+    //Immunites
+    "poison_immunity": true,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 5,
+    "respawn_ticks": 20,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 80,
+    "defend_animation": 89,
+    "death_animation": 92
+  },
+    { #Rune dragon (POH)
+    "ids": [ 8027 ],
+    "handler": "io.ruin.model.activities.miscpvm.dragons.RuneDragon",
+    //Combat Info
+    "hitpoints": 330,
+    "aggressive_level": 608,
+    "max_damage": 38,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 0.0,
+    "slayer_tasks": [ ],
+    //Combts
+    "attack": 284,
+    "strength": 284,
+    "defence": 276,
+    "ranged": 246,
+    "magic": 196,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 30,
+    "slash_defence": 115,
+    "crush_defence": 90,
+    "magic_defence": 30,
+    "ranged_defence": 95,
+    //Immunites
+    "poison_immunity": true,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 5,
+    "respawn_ticks": 20,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 80,
+    "defend_animation": 89,
+    "death_animation": 92,
+	//Misc
+	"combat_xp_modifier": 0
+  }
+]

@@ -1,0 +1,20 @@
+// 2616
+[proc,magic_spellbook_initialisespells](enum $enum0, component $component1, boolean $boolean2)
+def_component $component3 = null;
+def_int $int4 = 0;
+def_obj $obj5 = enum(int, obj, $enum0, $int4);
+while ($obj5 ! null) {
+	if (~league_world = 1) {
+		$obj5 = ~script3159($obj5);
+	}
+	$component3 = oc_param($obj5, spell_button);
+	if_setopbase("<col=00ff00><oc_param($obj5, spell_name)></col>", $component3);
+	if (if_gettargetmask($component3) ! 0) {
+		if_setontargetenter("magic_spellbook_targetmode(true, event_com, $obj5)", $component3);
+		if_setontargetleave("magic_spellbook_targetmode(false, event_com, $obj5)", $component3);
+	} else {
+		if_setonop("script2080($obj5)", $component3);
+	}
+	$int4 = calc($int4 + 1);
+	$obj5 = enum(int, obj, $enum0, $int4);
+}

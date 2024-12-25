@@ -1,0 +1,176 @@
+[
+  { #Lesser demon (82)
+    "ids": [ 2005, 2006, 2007, 2008, 2018, 3982, 7656, 7657, 7664 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 81,
+    "aggressive_level": 164,
+    "max_damage": 8,
+    "attack_style": "SLASH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 79.0,
+    "slayer_tasks": [ "Lesser Demons" ],
+    //Combat Stats
+    "attack": 68,
+    "strength": 70,
+    "defence": 71,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 0,
+    "crush_defence": 0,
+    "magic_defence": -10,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 5,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 64,
+    "defend_animation": 65,
+    "death_animation": 67
+  },
+    { #Demon (POH)
+    "ids": [ 142 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 81,
+    "aggressive_level": 164,
+    "max_damage": 8,
+    "attack_style": "SLASH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 79.0,
+    "slayer_tasks": [ ],
+    //Combat Stats
+    "attack": 68,
+    "strength": 70,
+    "defence": 71,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 0,
+    "crush_defence": 0,
+    "magic_defence": -10,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 5,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 64,
+    "defend_animation": 65,
+    "death_animation": 67,
+	//Misc
+	"combat_xp_modifier": 0
+  },
+  { #Lesser demon (87)
+    "ids": [ 7247, 7865, 7866, 7867 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 87,
+    "aggressive_level": 174,
+    "max_damage": 1,
+    "attack_style": "SLASH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 85.0,
+    "slayer_tasks": [ "Lesser Demons" ],
+    //Combat Stats
+    "attack": 80,
+    "strength": 70,
+    "defence": 71,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 0,
+    "crush_defence": 0,
+    "magic_defence": 0,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 5,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 64,
+    "defend_animation": 65,
+    "death_animation": 67
+  },
+  { #Lesser demon (94)
+    "ids": [ 7248 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 98,
+    "aggressive_level": 174,
+    "max_damage": 8,
+    "attack_style": "SLASH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 98.0,
+    "slayer_tasks": [ "Lesser Demons" ],
+    //Combat Stats
+    "attack": 80,
+    "strength": 70,
+    "defence": 85,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 0,
+    "crush_defence": 0,
+    "magic_defence": -10,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 5,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 64,
+    "defend_animation": 65,
+    "death_animation": 67
+  }
+]

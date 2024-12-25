@@ -1,0 +1,45 @@
+[
+    { #Rev dragon
+    "ids": [ 7936 ],
+    "handler": "io.ruin.model.activities.miscpvm.Revenant",
+    //Combat Info
+    "hitpoints": 80,
+    "aggressive_level": 135,
+    "max_damage": 18,
+    "attack_style": "STAB",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 140.0,
+    "slayer_tasks": [],
+    //Combat Stats
+    "attack": 83,
+    "strength": 76,
+    "defence": 80,
+    "ranged": 80,
+    "magic": 120,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 50,
+    "ranged_attack": 40,
+    //Defensive Stats
+    "stab_defence": 124,
+    "slash_defence": 118,
+    "crush_defence": 130,
+    "magic_defence": 85,
+    "ranged_defence": 90,
+   //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 5,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 64,
+    "defend_animation": 65,
+    "death_animation": 67
+  }
+]

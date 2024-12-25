@@ -1,0 +1,28 @@
+---
+identifier: "d8644890-1eb6-47c6-a074-ccb2833f8ea6"
+title: "Melee Shop"
+currency: "COINS"
+accessibleByIronMan: false
+canSellToStore: false
+restockRules:
+  restockTicks: 6
+  restockPerTick: 10
+defaultStock:
+  - id: 1321
+    amount: 100
+  - id: 1323
+    amount: 100
+  - id: 1325
+    amount: 100
+  - id: 1327
+    amount: 100
+  - id: 1329
+    amount: 100
+  - id: 1331
+    amount: 100
+  - id: 1333
+    amount: 100
+  - id: 4587
+    amount: 100
+  - id: 1215
+    amount: 100

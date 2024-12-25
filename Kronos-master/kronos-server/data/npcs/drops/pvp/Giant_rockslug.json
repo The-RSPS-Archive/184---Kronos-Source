@@ -1,0 +1,47 @@
+[
+  {
+    "ids": [ 7392 ],
+    "tables": [
+      {
+        "name": "Weapons/Armour",
+        "weight": 1,
+        "items": [
+          { "id": 4115, "min": 1, "max": 1, "weight": 1 } //Mystic gloves (light)
+        ]
+      },
+      {
+        "name": "Ores/Bars",
+        "weight": 1,
+        "items": [
+          { "id": 453, "min": 1, "max": 1, "weight": 3 }, //Coal
+          { "id": 440, "min": 1, "max": 1, "weight": 3 }, //Iron ore
+          { "id": 2349, "min": 1, "max": 1, "weight": 3 }, //Bronze bar
+          { "id": 2351, "min": 1, "max": 1, "weight": 3 }, //Iron bar
+          { "id": 436, "min": 1, "max": 1, "weight": 3 }, //Copper ore
+          { "id": 438, "min": 1, "max": 1, "weight": 1 }, //Tin ore
+          { "id": 447, "min": 1, "max": 1, "weight": 1 } //Mithril ore
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 1913, "min": 1, "max": 1, "weight": 6 }, //Dwarven stout
+          { "id": 2347, "min": 1, "max": 1, "weight": 6 }, //Hammer
+          { "id": 557, "min": 5, "max": 5, "weight": 6 }, //Earth rune
+          { "id": 557, "min": 10, "max": 10, "weight": 6 }, //Earth rune
+          { "id": 557, "min": 42, "max": 42, "weight": 6 }, //Earth rune
+          { "id": 562, "min": 2, "max": 2, "weight": 6 }, //Chaos rune
+          { "id": 5319, "min": 4, "max": 4, "weight": 6 }, //Onion seed
+          { "id": 5318, "min": 4, "max": 4, "weight": 6 }, //Potato seed
+          { "id": 5324, "min": 4, "max": 4, "weight": 3 }, //Cabbage seed
+          { "id": 5322, "min": 3, "max": 3, "weight": 3 }, //Tomato seed
+          { "id": 5323, "min": 2, "max": 2, "weight": 3 }, //Strawberry seed
+          { "id": 5320, "min": 3, "max": 3, "weight": 1 }, //Sweetcorn seed
+          { "id": 5321, "min": 2, "max": 2, "weight": 1 }, //Watermelon seed
+          { "id": 1452, "min": 1, "max": 1, "weight": 1 } //Chaos talisman
+        ]
+      }
+    ]
+  }
+]

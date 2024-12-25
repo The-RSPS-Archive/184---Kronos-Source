@@ -1,0 +1,45 @@
+[
+  { #Deviant spectre (169)
+    "ids": [ 7279 ],
+    "handler": "io.ruin.model.activities.miscpvm.slayer.AberrantSpectre",
+    //Combat Info
+    "hitpoints": 190,
+    "aggressive_level": 338,
+    "max_damage": 21,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 60,
+    "slayer_xp": 194.5,
+    "slayer_tasks": [ "Aberrant Spectres" ],
+    //Combat Stats
+    "attack": 1,
+    "strength": 1,
+    "defence": 90,
+    "ranged": 1,
+    "magic": 205,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 80,
+    "slash_defence": 80,
+    "crush_defence": 80,
+    "magic_defence": 0,
+    "ranged_defence": 85,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 2,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 1507,
+    "defend_animation": 1509,
+    "death_animation": 1508
+  }
+]

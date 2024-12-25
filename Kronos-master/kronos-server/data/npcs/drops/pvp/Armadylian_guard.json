@@ -1,0 +1,34 @@
+[
+  {
+    "ids": [ 6587 ],
+    "guaranteed": [
+      { "id": 526, "min": 1, "max": 1 } //Bones
+    ],
+    "tables": [
+      {
+        "name": "Weapons and armour",
+        "weight": 1,
+        "items": [
+          { "id": 1247, "min": 1, "max": 1, "weight": 15000 }, //Rune spear
+          { "id": 805, "min": 6, "max": 6, "weight": 15000 }, //Rune thrownaxe
+          { "id": 11826, "min": 1, "max": 1, "weight": 1 }, //Armadyl helmet
+          { "id": 11836, "min": 1, "max": 1, "weight": 1 } //Bandos boots
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 995, "min": 35, "max": 350, "weight": 9 }, //Coins
+          { "id": 2347, "min": 1, "max": 1, "weight": 9 }, //Hammer
+          { "id": 53, "min": 30, "max": 30, "weight": 6 }, //Headless arrow
+          { "id": 564, "min": 20, "max": 20, "weight": 6 }, //Cosmic rune
+          { "id": 2362, "min": 5, "max": 5, "weight": 3 }, //Adamantite bar (noted)
+          { "id": 385, "min": 1, "max": 4, "weight": 3 }, //Shark
+          { "id": 561, "min": 20, "max": 20, "weight": 1 }, //Nature rune
+          { "id": 565, "min": 20, "max": 20, "weight": 1 } //Blood rune
+        ]
+      }
+    ]
+  }
+]

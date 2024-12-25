@@ -1,0 +1,45 @@
+[
+  { #Adamant dragon (338)
+    "ids": [ 8030, 8090 ],
+    "handler": "io.ruin.model.activities.miscpvm.dragons.AdamantDragon",
+    //Combat Info
+    "hitpoints": 295,
+    "aggressive_level": 608,
+    "max_damage": 29,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 450.0,
+    "slayer_tasks": [ "Adamant Dragons" ],
+    //Combts
+    "attack": 280,
+    "strength": 280,
+    "defence": 272,
+    "ranged": 186,
+    "magic": 186,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 30,
+    "slash_defence": 110,
+    "crush_defence": 85,
+    "magic_defence": 30,
+    "ranged_defence": 95,
+    //Immunites
+    "poison_immunity": true,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 5,
+    "respawn_ticks": 20,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 80,
+    "defend_animation": 89,
+    "death_animation": 92
+  }
+]

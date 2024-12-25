@@ -1,0 +1,131 @@
+[
+  { #Fire giant (86)
+    "ids": [ 2075, 2076, 2077, 2078, 2079, 2080, 2081, 2082, 2083, 2084 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 111,
+    "aggressive_level": 172,
+    "max_damage": 11,
+    "attack_style": "SLASH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 111.0,
+    "slayer_tasks": [ "Fire Giants" ],
+    //Combat Stats
+    "attack": 65,
+    "strength": 65,
+    "defence": 65,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 29,
+    "slash_attack": 29,
+    "crush_attack": 29,
+    "magic_attack": 29,
+    "ranged_attack": 29,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 3,
+    "crush_defence": 2,
+    "magic_defence": 0,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 5,
+    "death_ticks": 5,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 4666,
+    "defend_animation": 4665,
+    "death_animation": 4668
+  },
+  { #Fire giant (104)
+    "ids": [ 7252 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 130,
+    "aggressive_level": 208,
+    "max_damage": 10,
+    "attack_style": "SLASH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 133.5,
+    "slayer_tasks": [ "Fire Giants" ],
+    //Combat Stats
+    "attack": 65,
+    "strength": 65,
+    "defence": 120,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 50,
+    "slash_attack": 50,
+    "crush_attack": 50,
+    "magic_attack": 50,
+    "ranged_attack": 50,
+    //Defensive Stats
+    "stab_defence": 20,
+    "slash_defence": 10,
+    "crush_defence": 10,
+    "magic_defence": 50,
+    "ranged_defence": -10,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 5,
+    "death_ticks": 2,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": -1,
+    "defend_animation": -1,
+    "death_animation": -1
+  },
+  { #Fire giant (109)
+    "ids": [ 7251 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 150,
+    "aggressive_level": 218,
+    "max_damage": 13,
+    "attack_style": "SLASH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 153.5,
+    "slayer_tasks": [ "Fire Giants" ],
+    //Combat Stats
+    "attack": 90,
+    "strength": 80,
+    "defence": 65,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 29,
+    "slash_attack": 29,
+    "crush_attack": 29,
+    "magic_attack": 29,
+    "ranged_attack": 29,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 3,
+    "crush_defence": 2,
+    "magic_defence": 0,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 5,
+    "death_ticks": 2,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": -1,
+    "defend_animation": -1,
+    "death_animation": -1
+  }
+]

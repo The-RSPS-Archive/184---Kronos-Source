@@ -1,0 +1,13 @@
+identifier: cc09c464-23f8-4f34-a6d7-6cf8ba112d05
+title: Test Shop Title
+currency: COINS
+defaultStock:
+  - id: 4151
+    amount: 100
+    price: 69_150_000
+  - id: 5555
+    amount: 100
+    price: 100
+    requirementCheckType: REQUIRED_TO_BUY_SELL
+    requiredAchievements:
+      - INTO_THE_ABYSS

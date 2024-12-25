@@ -1,0 +1,362 @@
+[
+  {
+    "id": 9069,
+    "x": 3272,
+    "y": 6037,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1,
+    "world": "ECO",
+    "npcName": "Elladan"
+  },
+  {
+    "id": 9122,
+    "x": 3280,
+    "y": 6041,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Lady Tangwen Trahaearn"
+  },
+  {
+    "id": 3421,
+    "x": 3284,
+    "y": 6049,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Rabbit"
+  },
+  {
+    "id": 3421,
+    "x": 3281,
+    "y": 6053,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Rabbit"
+  },
+  {
+    "id": 9071,
+    "x": 3290,
+    "y": 6050,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Ingwe"
+  },
+  {
+    "id": 9072,
+    "x": 3291,
+    "y": 6060,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3,
+    "world": "ECO",
+    "npcName": "Cirdan"
+  },
+  {
+    "id": 9131,
+    "x": 3297,
+    "y": 6060,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 0,
+    "world": "ECO",
+    "npcName": "Banker"
+  },
+  {
+    "id": 9127,
+    "x": 3297,
+    "y": 6059,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 0,
+    "world": "ECO",
+    "npcName": "Banker"
+  },
+  {
+    "id": 9131,
+    "x": 3297,
+    "y": 6058,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 0,
+    "world": "ECO",
+    "npcName": "Banker"
+  },
+  {
+    "id": 9158,
+    "x": 3302,
+    "y": 6051,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 1,
+    "world": "ECO",
+    "npcName": "Gwallter"
+  },
+  {
+    "id": 9073,
+    "x": 3308,
+    "y": 6054,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 1,
+    "world": "ECO",
+    "npcName": "Glorfindel"
+  },
+  {
+    "id": 9074,
+    "x": 3309,
+    "y": 6055,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 1,
+    "world": "ECO",
+    "npcName": "Aredhel"
+  },
+  {
+    "id": 3421,
+    "x": 3313,
+    "y": 6058,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Rabbit"
+  },
+  {
+    "id": 3421,
+    "x": 3297,
+    "y": 6052,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Rabbit"
+  },
+  {
+    "id": 9120,
+    "x": 3305,
+    "y": 6065,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Lord Baxtorian Cadarn"
+  },
+  {
+    "id": 9146,
+    "x": 3300,
+    "y": 6064,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Islwyn"
+  },
+  {
+    "id": 9201,
+    "x": 3302,
+    "y": 6044,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 1,
+    "world": "ECO",
+    "npcName": "Crab"
+  },
+  {
+    "id": 8733,
+    "x": 3304,
+    "y": 6043,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 1,
+    "world": "ECO",
+    "npcName": "Crab"
+  },
+  {
+    "id": 3422,
+    "x": 3314,
+    "y": 6048,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 3,
+    "world": "ECO",
+    "npcName": "Rabbit"
+  },
+  {
+    "id": 3422,
+    "x": 3305,
+    "y": 6036,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 3,
+    "world": "ECO",
+    "npcName": "Rabbit"
+  },
+  {
+    "id": 9075,
+    "x": 3314,
+    "y": 6045,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 3,
+    "world": "ECO",
+    "npcName": "Celegorm"
+  },
+  {
+    "id": 9089,
+    "x": 3300,
+    "y": 6072,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 1,
+    "world": "ECO",
+    "npcName": "Saeros"
+  },
+  {
+    "id": 9166,
+    "x": 3305,
+    "y": 6074,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 1,
+    "world": "ECO",
+    "npcName": "Sian"
+  },
+  {
+    "id": 9184,
+    "x": 3317,
+    "y": 6079,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Guard"
+  },
+  {
+    "id": 9185,
+    "x": 3280,
+    "y": 6078,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Guard"
+  },
+  {
+    "id": 9185,
+    "x": 3278,
+    "y": 6068,
+    "z": 2,
+    "direction": "W",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Guard"
+  },
+  {
+    "id": 9115,
+    "x": 3281,
+    "y": 6063,
+    "z": 2,
+    "direction": "W",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Turgon"
+  },
+  {
+    "id": 9184,
+    "x": 3293,
+    "y": 6053,
+    "z": 2,
+    "direction": "W",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Guard"
+  },
+  {
+    "id": 9111,
+    "x": 3303,
+    "y": 6065,
+    "z": 2,
+    "direction": "W",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Caranthir"
+  },
+  {
+    "id": 9110,
+    "x": 3285,
+    "y": 6044,
+    "z": 2,
+    "direction": "W",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Earwen"
+  },
+  {
+    "id": 9183,
+    "x": 3265,
+    "y": 6028,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Guard"
+  },
+  {
+    "id": 9159,
+    "x": 3291,
+    "y": 6044,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 1,
+    "world": "ECO",
+    "npcName": "Gwyn"
+  },
+  {
+    "id": 9133,
+    "x": 3294,
+    "y": 6043,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 1,
+    "world": "ECO",
+    "npcName": "Reese"
+  },
+  {
+    "id": 3422,
+    "x": 3303,
+    "y": 6038,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 1,
+    "world": "ECO",
+    "npcName": "Rabbit"
+  },
+  {
+    "id": 9070,
+    "x": 3276,
+    "y": 6058,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Guilin"
+  },
+  {
+    "id": 9066,
+    "x": 3264,
+    "y": 6054,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Elenwe"
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "ids": [ 7307, 7308, 7309 ],
+    "guaranteed": [
+      { "id": 526, "min": 1, "max": 1 } //Bones
+    ],
+    "tables": [
+      {
+        "name": "Runes and Ammunition",
+        "weight": 1,
+        "items": [
+          { "id": 556, "min": 5, "max": 24, "weight": 3 }, //Air rune
+          { "id": 554, "min": 15, "max": 21, "weight": 3 }, //Fire rune
+          { "id": 560, "min": 5, "max": 23, "weight": 1 }, //Death rune
+          { "id": 9144, "min": 1, "max": 5, "weight": 1 } //Runite bolts
+        ]
+      },
+      {
+        "name": "Herbs",
+        "weight": 1,
+        "items": [
+          { "id": 199, "min": 1, "max": 1, "weight": 3 }, //Grimy guam leaf
+          { "id": 201, "min": 1, "max": 1, "weight": 3 }, //Grimy marrentill
+          { "id": 205, "min": 1, "max": 1, "weight": 3 }, //Grimy harralander
+          { "id": 209, "min": 1, "max": 1, "weight": 1 }, //Grimy irit leaf
+          { "id": 207, "min": 1, "max": 1, "weight": 1 } //Grimy ranarr weed
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 995, "min": 71, "max": 225, "weight": 6 }, //Coins
+          { "id": 2434, "min": 1, "max": 1, "weight": 6 }, //Prayer potion(4)
+          { "id": 7937, "min": 25, "max": 25, "weight": 6 }, //Pure essence (noted)
+          { "id": 5318, "min": 1, "max": 1, "weight": 6 }, //Potato seed
+          { "id": 5323, "min": 1, "max": 1, "weight": 3 }, //Strawberry seed
+          { "id": 1387, "min": 1, "max": 1, "weight": 3 }, //Staff of fire
+          { "id": 1393, "min": 1, "max": 1, "weight": 3 }, //Fire battlestaff
+          { "id": 9465, "min": 1, "max": 1, "weight": 1 } //Runite crossbow (u)
+        ]
+      }
+    ]
+  }
+]

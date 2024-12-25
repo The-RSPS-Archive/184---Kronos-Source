@@ -1,0 +1,81 @@
+[
+  {
+    "ids": [ 8612, 8613 ],
+    "guaranteed": [
+      { "id": 22783, "min": 1, "max": 1 }   //Drake bones
+    ],
+    "tables": [
+      {
+        "name": "Weapons and armour",
+        "weight": 10,
+        "items": [
+          { "id": 2491, "min": 1, "max": 1, "weight": 1 },   //Black d'hide vamb
+          { "id": 2501, "min": 1, "max": 1, "weight": 1 },   //Red d'hide body
+          { "id": 1163, "min": 1, "max": 1, "weight": 1 },   //Rune full helm
+          { "id": 1407, "min": 1, "max": 1, "weight": 1 },   //Mystic earth staff
+          { "id": 1434, "min": 1, "max": 1, "weight": 1 }   //Dragon mace
+        ]
+      },
+      {
+        "name": "Runes and ammunition",
+        "weight": 10,
+        "items": [
+          { "id": 561, "min": 30, "max": 60, "weight": 5 },   //Nature rune
+          { "id": 554, "min": 100, "max": 200, "weight": 5 },   //Fire rune
+          { "id": 563, "min": 25, "max": 50, "weight": 5 },   //Law rune
+          { "id": 892, "min": 35, "max": 65, "weight": 5 },   //Rune arrow
+          { "id": 560, "min": 20, "max": 40, "weight": 3}   //Death rune
+        ]
+      },
+      {
+        "name": "Herbs",
+        "weight": 8,
+        "items": [
+          { "id": 3051, "min": 1, "max": 3, "weight": 3 },   //Grimy snapdragon
+          { "id": 216, "min": 1, "max": 3, "weight": 3 },   //Grimy cadantine
+          { "id": 2486, "min": 1, "max": 3, "weight": 3 },   //Grimy lantadyme
+          { "id": 268, "min": 1, "max": 3, "weight": 3 },   //Grimy dwarf weed
+          { "id": 220, "min": 1, "max": 2, "weight": 2 }   //Grimy
+        ]
+      },
+      {
+        "name": "Seeds",
+        "weight": 8,
+        "items": [
+          { "id": 5297, "min": 1, "max": 1, "weight": 1 },   //Irit seed
+          { "id": 5302, "min": 1, "max": 1, "weight": 1 },   //Lantadyme seed
+          { "id": 5296, "min": 1, "max": 1, "weight": 1 },   //Toadflax seed
+          { "id": 5300, "min": 1, "max": 1, "weight": 1 },   //Snapdragon seed
+          { "id": 5299, "min": 1, "max": 1, "weight": 1 },   //Kwuarm seed
+          { "id": 5298, "min": 1, "max": 1, "weight": 1 },   //Avantoe seed
+          { "id": 5303, "min": 1, "max": 1, "weight": 1 },   //Dwarf weed seed
+          { "id": 5280, "min": 1, "max": 1, "weight": 1 },   //Cactus seed
+          { "id": 5106, "min": 1, "max": 1, "weight": 1 },   //Poison ivy seed
+          { "id": 5281, "min": 1, "max": 1, "weight": 1 },   //Belladonna seed
+          { "id": 22879, "min": 3, "max": 3, "weight": 1 }   //Snape grass seed
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 10,
+        "items": [
+          { "id": 995, "min": 10000, "max": 20000, "weight": 10 },   //Coins
+          { "id": 995, "min": 25781, "max": 29885, "weight": 8 },   //Coins
+          { "id": 1602, "min": 3, "max": 6, "weight": 8 },   //Diamond (noted)
+          { "id": 373, "min": 1, "max": 3, "weight": 12 },   //Swordfish
+          { "id": 2722, "min": 1, "max": 1, "weight": 1 }   //Clue scroll (hard)
+        ]
+      },
+      {
+        "name": "Unique",
+        "weight": 1,
+        "items": [
+          { "id": 22960, "min": 1, "max": 1, "weight": 1 },   //Drake's tooth
+          { "id": 22957, "min": 1, "max": 1, "weight": 1 },   //Drake's claw
+          { "id": 20849, "min": 100, "max": 200, "weight": 2 },   //Dragon thrownaxe
+          { "id": 22804, "min": 100, "max": 200, "weight": 2 }   //Dragon knife
+        ]
+      }
+    ]
+  }
+]

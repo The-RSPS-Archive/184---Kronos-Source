@@ -1,0 +1,93 @@
+[
+  {
+    "ids": [ 499 ],
+    "guaranteed": [
+      { "id": 592, "min": 1, "max": 1 } //Ashes
+    ],
+    "tables": [
+      {
+        "name": "Weapons",
+        "weight": 1,
+        "items": [
+          { "id": 1213, "min": 1, "max": 1, "weight": 10 }, //Rune dagger
+          { "id": 1333, "min": 1, "max": 1, "weight": 10 }, //Rune scimitar
+          { "id": 1373, "min": 1, "max": 1, "weight": 5 }, //Rune battleaxe
+          { "id": 1405, "min": 1, "max": 1, "weight": 5 }, //Mystic air staff
+          { "id": 1401, "min": 1, "max": 1, "weight": 7 }, //Mystic fire staff
+          { "id": 4587, "min": 1, "max": 1, "weight": 5 }, //Dragon scimitar
+          { "id": 4675, "min": 1, "max": 1, "weight": 5}, //Ancient staff
+          { "id": 11998, "min": 1, "max": 1, "weight": 1 } //Smoke battlestaff
+        ]
+      },
+      {
+        "name": "Armour",
+        "weight": 1,
+        "items": [
+          { "id": 2501, "min": 1, "max": 1, "weight": 125 }, //Red d'hide body
+          { "id": 1113, "min": 1, "max": 1, "weight": 125 }, //Rune chainbody
+          { "id": 12002, "min": 1, "max": 1, "weight": 5 }, //Occult necklace
+          { "id": 3140, "min": 1, "max": 1, "weight": 1 } //Dragon chainbody
+        ]
+      },
+      {
+        "name": "Runes/Ammunition",
+        "weight": 1,
+        "items": [
+          { "id": 4697, "min": 100, "max": 100, "weight": 6 }, //Smoke rune
+          { "id": 556, "min": 300, "max": 300, "weight": 3 }, //Air rune
+          { "id": 566, "min": 60, "max": 60, "weight": 3 }, //Soul rune
+          { "id": 5667, "min": 50, "max": 50, "weight": 3 }, //Rune knife(p++)
+          { "id": 892, "min": 100, "max": 100, "weight": 1 } //Rune arrow
+        ]
+      },
+      {
+        "name": "Seeds",
+        "weight": 1,
+        "items": [
+          { "id": 5300, "min": 2, "max": 2, "weight": 1 }, //Snapdragon seed
+          { "id": 5316, "min": 1, "max": 1, "weight": 1 } //Magic seed
+        ]
+      },
+      {
+        "name": "Materials",
+        "weight": 1,
+        "items": [
+          { "id": 7937, "min": 300, "max": 300, "weight": 5 }, //Pure essence (noted)
+          { "id": 9738, "min": 50, "max": 50, "weight": 5 }, //Desert goat horn (noted)
+          { "id": 1776, "min": 100, "max": 100, "weight": 5 }, //Molten glass (noted)
+          { "id": 2360, "min": 20, "max": 20, "weight": 5 }, //Mithril bar (noted)
+          { "id": 3050, "min": 15, "max": 15, "weight": 5 }, //Grimy toadflax (noted)
+          { "id": 454, "min": 150, "max": 150, "weight": 5 }, //Coal (noted)
+          { "id": 445, "min": 200, "max": 200, "weight": 3 }, //Gold ore (noted)
+          { "id": 9194, "min": 12, "max": 12, "weight": 3 }, //Onyx bolt tips
+          { "id": 1988, "min": 100, "max": 100, "weight": 3 }, //Grapes (noted)
+          { "id": 1602, "min": 10, "max": 10, "weight": 3 }, //Diamond (noted)
+          { "id": 1514, "min": 20, "max": 20, "weight": 1 } //Magic logs (noted)
+        ]
+      },
+      {
+        "name": "Consumables",
+        "weight": 1,
+        "items": [
+          { "id": 1883, "min": 3, "max": 3, "weight": 5 }, //Ugthanki kebab
+          { "id": 7060, "min": 3, "max": 3, "weight": 5 }, //Tuna potato
+          { "id": 2434, "min": 2, "max": 2, "weight": 5 }, //Prayer potion(4)
+          { "id": 10925, "min": 2, "max": 2, "weight": 1 } //Sanfew serum(4)
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 995, "min": 10000, "max": 19996, "weight": 10 }, //Coins
+          { "id": 590, "min": 1, "max": 1, "weight": 10 }, //Tinderbox
+          { "id": 4548, "min": 1, "max": 1, "weight": 10 }, //Bullseye lantern (unlit)
+          { "id": 1442, "min": 1, "max": 1, "weight": 10 }, //Fire talisman
+          { "id": 1645, "min": 1, "max": 1, "weight": 10 }, //Dragonstone ring
+          { "id": 989, "min": 1, "max": 1, "weight": 10 }, //Crystal key
+          { "id": 12073, "min": 1, "max": 1, "weight": 1 } //Clue scroll (elite)
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,54 @@
+---
+identifier: "01b031a3-1d69-4e16-92d2-51ad05f4366f"
+title: "TzHaar-Hur-Zal's Equipment Store"
+currency: "TOKKUL"
+accessibleByIronMan: true
+canSellToStore: false
+restockRules:
+  restockTicks: 52
+  restockPerTick: 1
+defaultStock:
+- id: 6522
+  amount: 1000
+  price: 375
+  placeholderId: 0
+- id: 6523
+  amount: 1000
+  price: 60000
+  placeholderId: 0
+- id: 6524
+  amount: 1000
+  price: 67500
+  placeholderId: 0
+- id: 6525
+  amount: 1000
+  price: 37500
+  placeholderId: 0
+- id: 6526
+  amount: 1000
+  price: 52500
+  placeholderId: 0
+- id: 6527
+  amount: 1000
+  price: 45000
+  placeholderId: 0
+- id: 6528
+  amount: 1000
+  price: 75000
+  placeholderId: 0
+- id: 6568
+  amount: 1000
+  price: 90000
+  placeholderId: 0
+- id: 21298
+  amount: 1000
+  price: 84480
+  placeholderId: 0
+- id: 21301
+  amount: 1000
+  price: 126000
+  placeholderId: 0
+- id: 21304
+  amount: 1000
+  price: 100500
+  placeholderId: 0

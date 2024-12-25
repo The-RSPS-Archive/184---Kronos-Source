@@ -1,0 +1,362 @@
+[
+  {
+    "name": "Waterfiend",
+    "id": 2917,
+    "x": 2248,
+    "y": 9998,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 2
+  },
+  {
+    "name": "Waterfiend",
+    "id": 2917,
+    "x": 2249,
+    "y": 9993,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 2
+  },
+  {
+    "name": "Waterfiend",
+    "id": 2917,
+    "x": 2252,
+    "y": 9994,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 2
+  },
+  {
+    "name": "Whirlpool",
+    "id": 493,
+    "x": 2255,
+    "y": 10031,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 3
+  },
+  {
+    "name": "Waterfiend",
+    "id": 2917,
+    "x": 2256,
+    "y": 9988,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Whirlpool",
+    "id": 493,
+    "x": 2256,
+    "y": 10027,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 3
+  },
+  {
+    "name": "Whirlpool",
+    "id": 493,
+    "x": 2255,
+    "y": 10026,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 3
+  },
+  {
+    "name": "Whirlpool",
+    "id": 493,
+    "x": 2254,
+    "y": 10036,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 2
+  },
+  {
+    "name": "Waterfiend",
+    "id": 2917,
+    "x": 2259,
+    "y": 9989,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 2
+  },
+  {
+    "name": "Waterfiend",
+    "id": 2917,
+    "x": 2259,
+    "y": 9991,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 2
+  },
+  {
+    "name": "Whirlpool",
+    "id": 493,
+    "x": 2260,
+    "y": 9996,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 2
+  },
+  {
+    "name": "Whirlpool",
+    "id": 493,
+    "x": 2257,
+    "y": 10020,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 4
+  },
+  {
+    "name": "Waterfiend",
+    "id": 2917,
+    "x": 2262,
+    "y": 9988,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 2
+  },
+  {
+    "name": "Whirlpool",
+    "id": 493,
+    "x": 2262,
+    "y": 10016,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 2
+  },
+  {
+    "name": "Waterfiend",
+    "id": 2917,
+    "x": 2264,
+    "y": 9987,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Whirlpool",
+    "id": 493,
+    "x": 2264,
+    "y": 10002,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 2
+  },
+  {
+    "name": "Whirlpool",
+    "id": 493,
+    "x": 2267,
+    "y": 10010,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 4
+  },
+  {
+    "name": "Whirlpool",
+    "id": 493,
+    "x": 2271,
+    "y": 9992,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 4
+  },
+  {
+    "name": "Whirlpool",
+    "id": 493,
+    "x": 2271,
+    "y": 9994,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 2
+  },
+  {
+    "name": "Whirlpool",
+    "id": 493,
+    "x": 2266,
+    "y": 9996,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 1
+  },
+  {
+    "name": "Whirlpool",
+    "id": 493,
+    "x": 2279,
+    "y": 10011,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 2
+  },
+  {
+    "name": "Whirlpool",
+    "id": 496,
+    "x": 2278,
+    "y": 10034,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0
+  },
+  {
+    "name": "Waterfiend",
+    "id": 2917,
+    "x": 2280,
+    "y": 9988,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Whirlpool",
+    "id": 493,
+    "x": 2283,
+    "y": 10008,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 2
+  },
+  {
+    "name": "Waterfiend",
+    "id": 2917,
+    "x": 2282,
+    "y": 9988,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 2
+  },
+  {
+    "name": "Waterfiend",
+    "id": 2917,
+    "x": 2283,
+    "y": 9988,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 2
+  },
+  {
+    "name": "Whirlpool",
+    "id": 493,
+    "x": 2286,
+    "y": 10004,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Waterfiend",
+    "id": 2917,
+    "x": 2287,
+    "y": 9988,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Waterfiend",
+    "id": 2917,
+    "x": 2285,
+    "y": 9989,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 3
+  },
+  {
+    "name": "Whirlpool",
+    "id": 493,
+    "x": 2292,
+    "y": 10016,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 2
+  },
+  {
+    "name": "Whirlpool",
+    "id": 493,
+    "x": 2295,
+    "y": 9991,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 3
+  },
+  {
+    "name": "Whirlpool",
+    "id": 493,
+    "x": 2298,
+    "y": 9991,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 3
+  },
+  {
+    "name": "Whirlpool",
+    "id": 493,
+    "x": 2296,
+    "y": 10001,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 3
+  },
+  {
+    "name": "Whirlpool",
+    "id": 493,
+    "x": 2296,
+    "y": 10003,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 3
+  },
+  {
+    "name": "Whirlpool",
+    "id": 493,
+    "x": 2298,
+    "y": 10009,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Whirlpool",
+    "id": 493,
+    "x": 2297,
+    "y": 10018,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 3
+  },
+  {
+    "name": "Whirlpool",
+    "id": 493,
+    "x": 2246,
+    "y": 10026,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Whirlpool",
+    "id": 493,
+    "x": 2246,
+    "y": 10014,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 2
+  },
+  {
+    "name": "Whirlpool",
+    "id": 493,
+    "x": 2243,
+    "y": 10022,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 2
+  },
+  {
+    "name": "Waterfiend",
+    "id": 2917,
+    "x": 2248,
+    "y": 9996,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 2
+  }
+]

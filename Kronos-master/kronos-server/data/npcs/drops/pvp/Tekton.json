@@ -1,0 +1,23 @@
+[
+ {
+    "ids": [7540, 7541, 7542, 7543, 7544, 7545],
+    "guaranteed": [
+	      { "id": 20910, "min": 5, "max": 5 }    //Stinkhorn mushroom
+    ],
+	"tables": [
+      {
+        "name": "Potions",
+        "weight": 1,
+        "items": [
+			{ "id": 20924, "min": 1, "max": 1, "weight": 1 }, // Elder (+)
+			{ "id": 20936, "min": 1, "max": 1, "weight": 1 }, // Twisted (+)
+			{ "id": 20948, "min": 1, "max": 1, "weight": 1 }, // Kodai (+)
+			{ "id": 20960, "min": 1, "max": 1, "weight": 1 }, // Revitalisation (+)
+			{ "id": 20972, "min": 1, "max": 1, "weight": 1 }, // Prayer enhance (+)
+			{ "id": 20984, "min": 1, "max": 1, "weight": 1 }, // Xeric's aid (+)
+			{ "id": 20996, "min": 2, "max": 3, "weight": 1 } // Overload (+)
+        ]
+      }
+    ]
+  }
+ ]

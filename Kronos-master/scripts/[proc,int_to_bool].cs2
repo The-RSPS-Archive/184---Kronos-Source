@@ -1,0 +1,6 @@
+// 633
+[proc,int_to_bool](int $bit0)(boolean)
+if ($bit0 >= ^true) {
+	return(true);
+}
+return(false);

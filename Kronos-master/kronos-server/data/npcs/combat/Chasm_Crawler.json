@@ -1,0 +1,45 @@
+[
+  { #Chasm Crawler (68)
+    "ids": [ 7389 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 1,
+    "aggressive_level": 136,
+    "max_damage": 7,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 10,
+    "slayer_xp": 600.0,
+    "slayer_tasks": [ "Cave Crawlers" ],
+    //Combat Stats
+    "attack": 22,
+    "strength": 18,
+    "defence": 18,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 10,
+    "slash_defence": 10,
+    "crush_defence": 5,
+    "magic_defence": 5,
+    "ranged_defence": 10,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 3,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 227,
+    "defend_animation": 1504,
+    "death_animation": 228
+  }
+]

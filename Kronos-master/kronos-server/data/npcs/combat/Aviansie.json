@@ -1,0 +1,647 @@
+[
+  { #Aviansie (69)
+    "ids": [ 3169 ],
+    "handler": "io.ruin.model.activities.godwars.combat.armadyl.Aviansie",
+    //Combat Info
+    "hitpoints": 70,
+    "aggressive_level": 138,
+    "max_damage": 8,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 70.0,
+    "slayer_tasks": [ "Aviansies" ],
+    //Combat Stats
+    "attack": 1,
+    "strength": 1,
+    "defence": 70,
+    "ranged": 71,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 0,
+    "crush_defence": 0,
+    "magic_defence": 0,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 3,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 6956,
+    "defend_animation": 6955,
+    "death_animation": 6959
+  },
+  { #Aviansie (71)
+    "ids": [ 3177 ],
+    "handler": "io.ruin.model.activities.godwars.combat.armadyl.Aviansie",
+    //Combat Info
+    "hitpoints": 63,
+    "aggressive_level": 142,
+    "max_damage": 10,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 63.0,
+    "slayer_tasks": [ "Aviansies" ],
+    //Combat Stats
+    "attack": 1,
+    "strength": 1,
+    "defence": 55,
+    "ranged": 86,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 0,
+    "crush_defence": 0,
+    "magic_defence": 0,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 3,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 6956,
+    "defend_animation": 6955,
+    "death_animation": 6959
+  },
+  { #Aviansie (73)
+    "ids": [ 3178 ],
+    "handler": "io.ruin.model.activities.godwars.combat.armadyl.Aviansie",
+    //Combat Info
+    "hitpoints": 67,
+    "aggressive_level": 146,
+    "max_damage": 10,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 67.0,
+    "slayer_tasks": [ "Aviansies" ],
+    //Combat Stats
+    "attack": 1,
+    "strength": 1,
+    "defence": 55,
+    "ranged": 89,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 0,
+    "crush_defence": 0,
+    "magic_defence": 0,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 3,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 6956,
+    "defend_animation": 6955,
+    "death_animation": 6959
+  },
+  { #Aviansie (79)
+    "ids": [ 3170, 3179 ],
+    "handler": "io.ruin.model.activities.godwars.combat.armadyl.Aviansie",
+    //Combat Info
+    "hitpoints": 83,
+    "aggressive_level": 158,
+    "max_damage": 9,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 83.0,
+    "slayer_tasks": [ "Aviansies" ],
+    //Combat Stats
+    "attack": 1,
+    "strength": 1,
+    "defence": 70,
+    "ranged": 85,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 0,
+    "crush_defence": 0,
+    "magic_defence": 0,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 3,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 6956,
+    "defend_animation": 6955,
+    "death_animation": 6959
+  },
+  { #Aviansie (79)
+    "ids": [ 3170, 3179 ],
+    "handler": "io.ruin.model.activities.godwars.combat.armadyl.Aviansie",
+    //Combat Info
+    "hitpoints": 77,
+    "aggressive_level": 158,
+    "max_damage": 11,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 77.0,
+    "slayer_tasks": [ "Aviansies" ],
+    //Combat Stats
+    "attack": 1,
+    "strength": 1,
+    "defence": 55,
+    "ranged": 96,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 0,
+    "crush_defence": 0,
+    "magic_defence": 0,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 3,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 6956,
+    "defend_animation": 6955,
+    "death_animation": 6959
+  },
+  { #Aviansie (83)
+    "ids": [ 3172 ],
+    "handler": "io.ruin.model.activities.godwars.combat.armadyl.Aviansie",
+    //Combat Info
+    "hitpoints": 86,
+    "aggressive_level": 166,
+    "max_damage": 9,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 86.0,
+    "slayer_tasks": [ "Aviansies" ],
+    //Combat Stats
+    "attack": 1,
+    "strength": 1,
+    "defence": 100,
+    "ranged": 76,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 0,
+    "crush_defence": 0,
+    "magic_defence": 0,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 3,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 6956,
+    "defend_animation": 6955,
+    "death_animation": 6959
+  },
+  { #Aviansie (84)
+    "ids": [ 3171 ],
+    "handler": "io.ruin.model.activities.godwars.combat.armadyl.Aviansie",
+    //Combat Info
+    "hitpoints": 86,
+    "aggressive_level": 168,
+    "max_damage": 10,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 86.0,
+    "slayer_tasks": [ "Aviansies" ],
+    //Combat Stats
+    "attack": 1,
+    "strength": 1,
+    "defence": 70,
+    "ranged": 93,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 0,
+    "crush_defence": 0,
+    "magic_defence": 0,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 3,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 6956,
+    "defend_animation": 6955,
+    "death_animation": 6959
+  },
+  { #Aviansie (89)
+    "ids": [ 3180 ],
+    "handler": "io.ruin.model.activities.godwars.combat.armadyl.Aviansie",
+    //Combat Info
+    "hitpoints": 69,
+    "aggressive_level": 178,
+    "max_damage": 12,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 69.0,
+    "slayer_tasks": [ "Aviansies" ],
+    //Combat Stats
+    "attack": 1,
+    "strength": 1,
+    "defence": 115,
+    "ranged": 89,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 0,
+    "crush_defence": 0,
+    "magic_defence": 0,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 3,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 6956,
+    "defend_animation": 6955,
+    "death_animation": 6959
+  },
+  { #Aviansie (92)
+    "ids": [ 3173 ],
+    "handler": "io.ruin.model.activities.godwars.combat.armadyl.Aviansie",
+    //Combat Info
+    "hitpoints": 95,
+    "aggressive_level": 184,
+    "max_damage": 10,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 95.0,
+    "slayer_tasks": [ "Aviansies" ],
+    //Combat Stats
+    "attack": 1,
+    "strength": 1,
+    "defence": 100,
+    "ranged": 90,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 0,
+    "crush_defence": 0,
+    "magic_defence": 0,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 3,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 6956,
+    "defend_animation": 6955,
+    "death_animation": 6959
+  },
+  { #Aviansie (94)
+    "ids": [ 3181 ],
+    "handler": "io.ruin.model.activities.godwars.combat.armadyl.Aviansie",
+    //Combat Info
+    "hitpoints": 75,
+    "aggressive_level": 188,
+    "max_damage": 11,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 75.0,
+    "slayer_tasks": [ "Aviansies" ],
+    //Combat Stats
+    "attack": 1,
+    "strength": 1,
+    "defence": 115,
+    "ranged": 96,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 0,
+    "crush_defence": 0,
+    "magic_defence": 0,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 3,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 6956,
+    "defend_animation": 6955,
+    "death_animation": 6959
+  },
+  { #Aviansie (97)
+    "ids": [ 3174, 3182 ],
+    "handler": "io.ruin.model.activities.godwars.combat.armadyl.Aviansie",
+    //Combat Info
+    "hitpoints": 98,
+    "aggressive_level": 194,
+    "max_damage": 11,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 98.0,
+    "slayer_tasks": [ "Aviansies" ],
+    //Combat Stats
+    "attack": 1,
+    "strength": 1,
+    "defence": 100,
+    "ranged": 99,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 0,
+    "crush_defence": 0,
+    "magic_defence": 0,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 3,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 6956,
+    "defend_animation": 6955,
+    "death_animation": 6959
+  },
+  { #Aviansie (97)
+    "ids": [ 3174, 3182 ],
+    "handler": "io.ruin.model.activities.godwars.combat.armadyl.Aviansie",
+    //Combat Info
+    "hitpoints": 79,
+    "aggressive_level": 194,
+    "max_damage": 11,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 79.0,
+    "slayer_tasks": [ "Aviansies" ],
+    //Combat Stats
+    "attack": 1,
+    "strength": 1,
+    "defence": 115,
+    "ranged": 101,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 0,
+    "crush_defence": 0,
+    "magic_defence": 0,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 3,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 6956,
+    "defend_animation": 6955,
+    "death_animation": 6959
+  },
+  { #Aviansie (131)
+    "ids": [ 3183 ],
+    "handler": "io.ruin.model.activities.godwars.combat.armadyl.Aviansie",
+    //Combat Info
+    "hitpoints": 115,
+    "aggressive_level": 262,
+    "max_damage": 15,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 115.0,
+    "slayer_tasks": [ "Aviansies" ],
+    //Combat Stats
+    "attack": 1,
+    "strength": 1,
+    "defence": 175,
+    "ranged": 143,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 0,
+    "crush_defence": 0,
+    "magic_defence": 0,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 3,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 6956,
+    "defend_animation": 6955,
+    "death_animation": 6959
+  },
+  { #Aviansie (137)
+    "ids": [ 3175 ],
+    "handler": "io.ruin.model.activities.godwars.combat.armadyl.Aviansie",
+    //Combat Info
+    "hitpoints": 124,
+    "aggressive_level": 274,
+    "max_damage": 15,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 124.0,
+    "slayer_tasks": [ "Aviansies" ],
+    //Combat Stats
+    "attack": 1,
+    "strength": 1,
+    "defence": 160,
+    "ranged": 136,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 0,
+    "crush_defence": 0,
+    "magic_defence": 0,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 3,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 6956,
+    "defend_animation": 6955,
+    "death_animation": 6959
+  },
+  { #Aviansie (148)
+    "ids": [ 3176 ],
+    "handler": "io.ruin.model.activities.godwars.combat.armadyl.Aviansie",
+    //Combat Info
+    "hitpoints": 139,
+    "aggressive_level": 296,
+    "max_damage": 16,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 139.0,
+    "slayer_tasks": [ "Aviansies" ],
+    //Combat Stats
+    "attack": 1,
+    "strength": 1,
+    "defence": 160,
+    "ranged": 151,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 0,
+    "crush_defence": 0,
+    "magic_defence": 0,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 3,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 6956,
+    "defend_animation": 6955,
+    "death_animation": 6959
+  }
+]

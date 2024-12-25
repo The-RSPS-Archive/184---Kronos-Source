@@ -1,0 +1,48 @@
+---
+identifier: "81c7cb3a-f03f-4862-9d3e-3d63ddb64a8a"
+title: "Melee Armour Shop"
+currency: "COINS"
+accessibleByIronMan: false
+canSellToStore: false
+restockRules:
+  restockTicks: 2
+  restockPerTick: 1000
+defaultStock:
+  - id: 12960
+    amount: 100
+  - id: 12972
+    amount: 100
+  - id: 12984
+    amount: 100
+  - id: 12988
+    amount: 100
+  - id: 13000
+    amount: 100
+  - id: 13012
+    amount: 100
+  - id: 13024
+    amount: 100
+    price: 160000
+  - id: 3105
+    amount: 100
+  - id: 1540
+    amount: 100
+  - id: 1712
+    amount: 100
+  - id: 3751
+    amount: 100
+    price: 30000
+  - id: 10828
+    amount: 100
+  - id: 5574
+    amount: 100
+  - id: 5575
+    amount: 100
+  - id: 5576
+    amount: 100
+  - id: 9672
+    amount: 100
+  - id: 9674
+    amount: 100
+  - id: 9676
+    amount: 100

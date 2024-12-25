@@ -1,0 +1,45 @@
+[
+  { #Kurask (106)
+    "ids": [ 410, 411 ],
+    "handler": "io.ruin.model.activities.miscpvm.slayer.LeafVulnerableMonster",
+    //Combat Info
+    "hitpoints": 103,
+    "aggressive_level": 212,
+    "max_damage": 11,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 70,
+    "slayer_xp": 97.0,
+    "slayer_tasks": [ "Kurask" ],
+    //Combat Stats
+    "attack": 67,
+    "strength": 105,
+    "defence": 105,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 20,
+    "crush_defence": 20,
+    "magic_defence": 0,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": true,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 5,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 1512,
+    "defend_animation": 1514,
+    "death_animation": 1513
+  }
+]

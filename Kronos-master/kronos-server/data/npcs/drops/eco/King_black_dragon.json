@@ -1,0 +1,53 @@
+[
+  {
+    "ids": [ 239, 6502 ],
+    "guaranteed": [
+      { "id": 536, "min": 1, "max": 1 },
+      { "id": 1747, "min": 2, "max": 2 }
+    ],
+    "tables": [
+      {
+        "name": "Weapons/Armour",
+        "weight": 1,
+        "items": [
+          { "id": 1303, "min": 1, "max": 1, "weight": 25 }, //Rune longsword
+          { "id": 1123, "min": 1, "max": 1, "weight": 25 }, //Adamant platebody
+          { "id": 1199, "min": 1, "max": 1, "weight": 10 }, //Adamant kiteshield
+          { "id": 1149, "min": 1, "max": 1, "weight": 10 }, //Dragon med helm
+          { "id": 11920, "min": 1, "max": 1, "weight": 1 } //Dragon pickaxe
+        ]
+      },
+      {
+        "name": "Runes/Ammunition",
+        "weight": 1,
+        "items": [
+          { "id": 554, "min": 300, "max": 300, "weight": 9 }, //Fire rune
+          { "id": 556, "min": 300, "max": 300, "weight": 9 }, //Air rune
+          { "id": 565, "min": 30, "max": 30, "weight": 6 }, //Blood rune
+          { "id": 884, "min": 690, "max": 690, "weight": 6 }, //Iron arrow
+          { "id": 563, "min": 30, "max": 30, "weight": 3 }, //Law rune
+          { "id": 9144, "min": 10, "max": 25, "weight": 3 }, //Runite bolts
+          { "id": 11232, "min": 5, "max": 14, "weight": 2 }, //Dragon dart tip
+          { "id": 11237, "min": 5, "max": 14, "weight": 2 }, //Dragon arrowtips
+          { "id": 19582, "min": 15, "max": 15, "weight": 2 } //Dragon javelin heads
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 1731, "min": 1, "max": 1, "weight": 15 }, //Amulet of power
+          { "id": 1516, "min": 150, "max": 150, "weight": 15 }, //Yew logs (noted)
+          { "id": 385, "min": 4, "max": 4, "weight": 15 }, //Shark
+          { "id": 445, "min": 100, "max": 100, "weight": 25 }, //Gold ore (noted)
+          { "id": 9431, "min": 1, "max": 1, "weight": 10 }, //Runite limbs
+          { "id": 2363, "min": 1, "max": 1, "weight": 10 }, //Runite bar
+          { "id": 2361, "min": 3, "max": 3, "weight": 10 }, //Adamantite bar
+          { "id": 7980, "min": 1, "max": 1, "weight": 1 }, //Kbd heads
+          { "id": 12073, "min": 1, "max": 1, "weight": 2 }, //Clue scroll (elite)
+          { "id": 11286, "min": 1, "max": 1, "weight": 1 } //Draconic visage
+        ]
+      }
+    ]
+  }
+]

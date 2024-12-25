@@ -1,0 +1,45 @@
+[
+  { #Jewelled Crab (raids)
+    "ids": [ 7576, 7577, 7578, 7579],
+    "handler": "io.ruin.model.activities.raids.xeric.chamber.combat.JewelledCrab",
+    //Combat Info
+    "hitpoints": 150,
+    "aggressive_level": 0,
+    "max_damage": 10,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 0.0,
+    "slayer_tasks": [],
+    //Combat Stats
+    "attack": 60,
+    "strength": 60,
+    "defence": 255,
+    "ranged": 1,
+    "magic": 255,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 400,
+    "slash_defence": 400,
+    "crush_defence": 400,
+    "magic_defence": 400,
+    "ranged_defence": 400,
+    //Immunites
+    "poison_immunity": true,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 5,
+    "death_ticks": 3,
+    "respawn_ticks": 1,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 2368,
+    "defend_animation": 1313,
+    "death_animation": 1314
+  }
+]

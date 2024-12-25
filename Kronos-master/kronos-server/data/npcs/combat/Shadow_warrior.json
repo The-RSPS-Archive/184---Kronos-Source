@@ -1,0 +1,45 @@
+[
+  { #Shadow warrior (48)
+    "ids": [ 2853 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 67,
+    "aggressive_level": 96,
+    "max_damage": 6,
+    "attack_style": "SLASH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 67.0,
+    "slayer_tasks": [ "Shadow Warriors" ],
+    //Combat Stats
+    "attack": 36,
+    "strength": 36,
+    "defence": 33,
+    "ranged": 0,
+    "magic": 0,
+    //Aggressive Stats
+    "stab_attack": 20,
+    "slash_attack": 20,
+    "crush_attack": 20,
+    "magic_attack": 20,
+    "ranged_attack": 20,
+    //Defensive Stats
+    "stab_defence": 43,
+    "slash_defence": 31,
+    "crush_defence": 19,
+    "magic_defence": 15,
+    "ranged_defence": 38,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 2,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": -1,
+    "defend_animation": -1,
+    "death_animation": -1
+  }
+]

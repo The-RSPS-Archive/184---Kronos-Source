@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Snake",
+    "id": 2845,
+    "x": 2819,
+    "y": 3083,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Snake",
+    "id": 2845,
+    "x": 2823,
+    "y": 3077,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Snake",
+    "id": 2845,
+    "x": 2827,
+    "y": 3083,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  }
+]

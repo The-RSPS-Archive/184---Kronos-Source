@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Elkoy",
+    "id": 4968,
+    "x": 2502,
+    "y": 3193,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Tool Leprechaun",
+    "id": 0,
+    "x": 2489,
+    "y": 3183,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Gileth",
+    "id": 2683,
+    "x": 2491,
+    "y": 3182,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  }
+]

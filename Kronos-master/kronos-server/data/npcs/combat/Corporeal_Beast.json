@@ -1,0 +1,48 @@
+[
+  { #Corporeal Beast (785)
+    "ids": [ 319 ],
+    "handler": "io.ruin.model.activities.bosses.corp.CorporealBeast",
+    //Combat Info
+    "hitpoints": 2000,
+    "aggressive_level": 1570,
+    "max_damage": 51,
+    "attack_style": "CRUSH",
+    "pet": "DARK_CORE",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 0.0,
+    "slayer_tasks": [],
+    //Combat Stats
+    "attack": 320,
+    "strength": 320,
+    "defence": 310,
+    "ranged": 150,
+    "magic": 350,
+    //Aggressive Stats
+    "stab_attack": 50,
+    "slash_attack": 50,
+    "crush_attack": 50,
+    "magic_attack": 50,
+    "ranged_attack": 50,
+    //Defensive Stats
+    "stab_defence": 25,
+    "slash_defence": 200,
+    "crush_defence": 100,
+    "magic_defence": 150,
+    "ranged_defence": 230,
+    //Immunites
+    "poison_immunity": true,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 6,
+    "death_ticks": 5,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 1683,
+    "defend_animation": 1677,
+    "death_animation": 1676,
+	//Other
+	"local_loot": true
+  }
+]

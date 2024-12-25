@@ -1,0 +1,15 @@
+[
+  {
+    "ids": [ 4927 ],
+    "tables": [
+      {
+        "name": "Drops",
+        "weight": 1,
+        "items": [
+          { "id": 526, "min": 1, "max": 1, "weight": 1 }, //Bones
+          { "id": 1583, "min": 1, "max": 1, "weight": 1 } //Fire feather
+        ]
+      }
+    ]
+  }
+]

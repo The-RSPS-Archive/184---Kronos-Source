@@ -1,0 +1,88 @@
+[
+  { #Tekton (raids) (not enraged)
+    "ids": [ 7540, 7541, 7542, 7545],
+    "handler": "io.ruin.model.activities.raids.xeric.chamber.combat.Tekton",
+    //Combat Info
+    "hitpoints": 300,
+    "aggressive_level": 800,
+    "max_damage": 40,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 1.0,
+    "slayer_tasks": [ ],
+    //Combat Stats
+    "attack": 390,
+    "strength": 390,
+    "defence": 205,
+    "ranged": 1,
+    "magic": 205,
+    //Aggressive Stats
+    "stab_attack": 64,
+    "slash_attack": 64,
+    "crush_attack": 64,
+    "magic_attack": 64,
+    "ranged_attack": 64,
+    //Defensive Stats
+    "stab_defence": 155,
+    "slash_defence": 165,
+    "crush_defence": 105,
+    "magic_defence": 0,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": true,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 6,
+    "death_ticks": 5,
+    "respawn_ticks": -1,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": -1,
+    "defend_animation": -1,
+    "death_animation": 7495
+  },
+    { #Tekton (raids) (ENRAGED)
+    "ids": [ 7543, 7544 ],
+    "handler": "io.ruin.model.activities.raids.xeric.chamber.combat.Tekton",
+    //Combat Info
+    "hitpoints": 600,
+    "aggressive_level": 136,
+    "max_damage": 50,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 1.0,
+    "slayer_tasks": [ ],
+    //Combat Stats
+    "attack": 390,
+    "strength": 390,
+    "defence": 205,
+    "ranged": 1,
+    "magic": 205,
+    //Aggressive Stats
+    "stab_attack": 64,
+    "slash_attack": 64,
+    "crush_attack": 64,
+    "magic_attack": 64,
+    "ranged_attack": 64,
+    //Defensive Stats
+    "stab_defence": 280,
+    "slash_defence": 290,
+    "crush_defence": 180,
+    "magic_defence": 0,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": true,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 6,
+    "death_ticks": 5,
+    "respawn_ticks": -1,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": -1,
+    "defend_animation": -1,
+    "death_animation": 7495
+  }
+]

@@ -1,0 +1,848 @@
+[
+  {
+    "name": "Skeleton",
+    "id": 2522,
+    "x": 2348,
+    "y": 5194,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Ghost",
+    "id": 2528,
+    "x": 2349,
+    "y": 5194,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Skeleton",
+    "id": 2521,
+    "x": 2349,
+    "y": 5197,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Skeleton",
+    "id": 2523,
+    "x": 2350,
+    "y": 5197,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Skeleton",
+    "id": 2520,
+    "x": 2350,
+    "y": 5198,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Ghost",
+    "id": 2527,
+    "x": 2352,
+    "y": 5192,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Skeleton",
+    "id": 2520,
+    "x": 2351,
+    "y": 5195,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Ghost",
+    "id": 2529,
+    "x": 2351,
+    "y": 5199,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Skeleton",
+    "id": 2520,
+    "x": 2352,
+    "y": 5193,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Ghost",
+    "id": 2527,
+    "x": 2352,
+    "y": 5196,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Skeleton",
+    "id": 2521,
+    "x": 2351,
+    "y": 5200,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Skeleton",
+    "id": 2523,
+    "x": 2353,
+    "y": 5192,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Skeleton",
+    "id": 2521,
+    "x": 2353,
+    "y": 5193,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Ghost",
+    "id": 2529,
+    "x": 2352,
+    "y": 5194,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Ghost",
+    "id": 2530,
+    "x": 2353,
+    "y": 5199,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Ghost",
+    "id": 2528,
+    "x": 2351,
+    "y": 5199,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Skeleton",
+    "id": 2522,
+    "x": 2353,
+    "y": 5196,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Skeleton",
+    "id": 2520,
+    "x": 2353,
+    "y": 5197,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Ankou",
+    "id": 2514,
+    "x": 2359,
+    "y": 5238,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Skeleton",
+    "id": 2522,
+    "x": 2353,
+    "y": 5192,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Ghost",
+    "id": 2530,
+    "x": 2353,
+    "y": 5194,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Ghost",
+    "id": 2527,
+    "x": 2354,
+    "y": 5201,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Shade",
+    "id": 6740,
+    "x": 2356,
+    "y": 5216,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Ghost",
+    "id": 2527,
+    "x": 2354,
+    "y": 5193,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Shade",
+    "id": 6740,
+    "x": 2357,
+    "y": 5213,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Ankou",
+    "id": 2514,
+    "x": 2358,
+    "y": 5242,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Ankou",
+    "id": 2514,
+    "x": 2359,
+    "y": 5242,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Ankou",
+    "id": 2514,
+    "x": 2357,
+    "y": 5243,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Ankou",
+    "id": 2514,
+    "x": 2357,
+    "y": 5238,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Ankou",
+    "id": 2514,
+    "x": 2358,
+    "y": 5240,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Ankou",
+    "id": 2514,
+    "x": 2357,
+    "y": 5242,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Ankou",
+    "id": 2514,
+    "x": 2360,
+    "y": 5240,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Zombie",
+    "id": 6741,
+    "x": 2362,
+    "y": 5209,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Shade",
+    "id": 6740,
+    "x": 2363,
+    "y": 5212,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Ankou",
+    "id": 2514,
+    "x": 2360,
+    "y": 5242,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Shade",
+    "id": 6740,
+    "x": 2364,
+    "y": 5216,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Ghost",
+    "id": 2531,
+    "x": 2306,
+    "y": 5230,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Ghost",
+    "id": 2531,
+    "x": 2305,
+    "y": 5239,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Ghost",
+    "id": 2531,
+    "x": 2306,
+    "y": 5226,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Ghost",
+    "id": 2531,
+    "x": 2309,
+    "y": 5245,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Skeleton",
+    "id": 2525,
+    "x": 2311,
+    "y": 5189,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Ghost",
+    "id": 2531,
+    "x": 2306,
+    "y": 5242,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Skeleton",
+    "id": 2526,
+    "x": 2311,
+    "y": 5191,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Skeleton",
+    "id": 2524,
+    "x": 2311,
+    "y": 5190,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Skeleton",
+    "id": 2525,
+    "x": 2311,
+    "y": 5191,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Skeleton",
+    "id": 2524,
+    "x": 2310,
+    "y": 5192,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Ghost",
+    "id": 2531,
+    "x": 2312,
+    "y": 5238,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Skeleton",
+    "id": 2526,
+    "x": 2311,
+    "y": 5191,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Ghost",
+    "id": 2531,
+    "x": 2313,
+    "y": 5238,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Ghost",
+    "id": 2531,
+    "x": 2312,
+    "y": 5239,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Ghost",
+    "id": 2528,
+    "x": 2316,
+    "y": 5227,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Ankou",
+    "id": 2516,
+    "x": 2316,
+    "y": 5226,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Ghost",
+    "id": 2531,
+    "x": 2312,
+    "y": 5237,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Ghost",
+    "id": 2531,
+    "x": 2315,
+    "y": 5226,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Ankou",
+    "id": 2516,
+    "x": 2318,
+    "y": 5223,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Ghost",
+    "id": 2529,
+    "x": 2319,
+    "y": 5226,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Ankou",
+    "id": 2516,
+    "x": 2318,
+    "y": 5229,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 9
+  },
+  {
+    "name": "Ankou",
+    "id": 2516,
+    "x": 2321,
+    "y": 5225,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Ghost",
+    "id": 2530,
+    "x": 2320,
+    "y": 5227,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Ghost",
+    "id": 2530,
+    "x": 2320,
+    "y": 5229,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Ghost",
+    "id": 2530,
+    "x": 2320,
+    "y": 5225,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Ankou",
+    "id": 2516,
+    "x": 2324,
+    "y": 5232,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Skeleton",
+    "id": 2523,
+    "x": 2324,
+    "y": 5199,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Ankou",
+    "id": 2516,
+    "x": 2322,
+    "y": 5223,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Ankou",
+    "id": 2516,
+    "x": 2321,
+    "y": 5228,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 9
+  },
+  {
+    "name": "Ankou",
+    "id": 2516,
+    "x": 2321,
+    "y": 5227,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Ghost",
+    "id": 2529,
+    "x": 2325,
+    "y": 5228,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Ghost",
+    "id": 2531,
+    "x": 2321,
+    "y": 5233,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Ankou",
+    "id": 2516,
+    "x": 2323,
+    "y": 5224,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Ankou",
+    "id": 2515,
+    "x": 2324,
+    "y": 5199,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Skeleton",
+    "id": 2523,
+    "x": 2324,
+    "y": 5205,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Ghost",
+    "id": 2529,
+    "x": 2323,
+    "y": 5225,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Ankou",
+    "id": 2516,
+    "x": 2320,
+    "y": 5229,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Ankou",
+    "id": 2516,
+    "x": 2319,
+    "y": 5233,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Ankou",
+    "id": 2515,
+    "x": 2326,
+    "y": 5198,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Ghost",
+    "id": 2531,
+    "x": 2325,
+    "y": 5228,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Ghost",
+    "id": 2528,
+    "x": 2325,
+    "y": 5231,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Skeleton",
+    "id": 2520,
+    "x": 2325,
+    "y": 5199,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Ankou",
+    "id": 2515,
+    "x": 2328,
+    "y": 5201,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Ankou",
+    "id": 2515,
+    "x": 2324,
+    "y": 5203,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Ankou",
+    "id": 2515,
+    "x": 2325,
+    "y": 5204,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Skeleton",
+    "id": 2520,
+    "x": 2326,
+    "y": 5206,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Ghost",
+    "id": 2528,
+    "x": 2325,
+    "y": 5226,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Ankou",
+    "id": 2515,
+    "x": 2327,
+    "y": 5200,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 9
+  },
+  {
+    "name": "Ankou",
+    "id": 2515,
+    "x": 2328,
+    "y": 5201,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 9
+  },
+  {
+    "name": "Ankou",
+    "id": 2516,
+    "x": 2325,
+    "y": 5227,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Ankou",
+    "id": 2515,
+    "x": 2327,
+    "y": 5199,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Skeleton",
+    "id": 2521,
+    "x": 2329,
+    "y": 5205,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Skeleton",
+    "id": 2521,
+    "x": 2328,
+    "y": 5199,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Ankou",
+    "id": 2515,
+    "x": 2329,
+    "y": 5201,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Ankou",
+    "id": 2515,
+    "x": 2329,
+    "y": 5197,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Ankou",
+    "id": 2515,
+    "x": 2328,
+    "y": 5202,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 9
+  },
+  {
+    "name": "Skeleton",
+    "id": 2520,
+    "x": 2330,
+    "y": 5200,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Skeleton",
+    "id": 2523,
+    "x": 2330,
+    "y": 5199,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  }
+]

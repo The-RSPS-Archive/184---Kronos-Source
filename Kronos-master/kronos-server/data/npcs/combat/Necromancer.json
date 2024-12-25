@@ -1,0 +1,45 @@
+[
+  { #Necromancer (15003)
+  "ids": [ 15003 ],
+  "handler": "io.ruin.model.activities.bosses.necromancer.Necromancer",
+  //Combat Info
+  "hitpoints": 1200,
+  "aggressive_level": 150,
+  "max_damage": 41,
+  "attack_style": "MAGIC",
+  //Slayer Info
+  "slayer_level": 1,
+  "slayer_xp": 0.0,
+  "slayer_tasks": [],
+  //Combat Stats
+  "attack": 150,
+  "strength": 150,
+  "defence": 150,
+  "ranged": 150,
+  "magic": 150,
+  //Aggressive Stats
+  "stab_attack": 140,
+  "slash_attack": 140,
+  "crush_attack": 140,
+  "magic_attack": 140,
+  "ranged_attack": 140,
+  //Defensive Stats
+  "stab_defence": 70,
+  "slash_defence": 70,
+  "crush_defence": 30,
+  "magic_defence": 250,
+  "ranged_defence": 100,
+  //Immunites
+  "poison_immunity": true,
+  "venom_immunity": true,
+  //Speeds
+  "attack_ticks": 4,
+  "death_ticks": 2,
+  "respawn_ticks": 50,
+  //Animations
+  "spawn_animation": -1,
+  "attack_animation": 422,
+  "defend_animation": 424,
+  "death_animation": 836
+  }
+]

@@ -1,0 +1,402 @@
+[
+  {
+    "id": 9182,
+    "x": 3210,
+    "y": 6078,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4,
+    "world": "ECO",
+    "npcName": "Guard"
+  },
+  {
+    "id": 9165,
+    "x": 3222,
+    "y": 6074,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Nia"
+  },
+  {
+    "id": 9060,
+    "x": 3230,
+    "y": 6076,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1,
+    "world": "ECO",
+    "npcName": "Mithrellas"
+  },
+  {
+    "id": 9170,
+    "x": 3231,
+    "y": 6069,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1,
+    "world": "ECO",
+    "npcName": "Lliann"
+  },
+  {
+    "id": 8676,
+    "x": 3236,
+    "y": 6072,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Ilfeen"
+  },
+  {
+    "id": 9135,
+    "x": 3237,
+    "y": 6066,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1,
+    "world": "ECO",
+    "npcName": "Conwenna"
+  },
+  {
+    "id": 9062,
+    "x": 3243,
+    "y": 6070,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1,
+    "world": "ECO",
+    "npcName": "Lindir"
+  },
+  {
+    "id": 9059,
+    "x": 3245,
+    "y": 6076,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Gelmir"
+  },
+  {
+    "id": 9061,
+    "x": 3249,
+    "y": 6066,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3,
+    "world": "ECO",
+    "npcName": "Erestor"
+  },
+  {
+    "id": 9157,
+    "x": 3252,
+    "y": 6059,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1,
+    "world": "ECO",
+    "npcName": "Aneirin"
+  },
+  {
+    "id": 9156,
+    "x": 3259,
+    "y": 6059,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1,
+    "world": "ECO",
+    "npcName": "Celyn"
+  },
+  {
+    "id": 9068,
+    "x": 3263,
+    "y": 6056,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Vaire"
+  },
+  {
+    "id": 9067,
+    "x": 3263,
+    "y": 6045,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Orophin"
+  },
+  {
+    "id": 9183,
+    "x": 3239,
+    "y": 6058,
+    "z": 2,
+    "direction": "W",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Guard"
+  },
+  {
+    "id": 9114,
+    "x": 3235,
+    "y": 6053,
+    "z": 2,
+    "direction": "W",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Galathil"
+  },
+  {
+    "id": 9106,
+    "x": 3224,
+    "y": 6061,
+    "z": 2,
+    "direction": "W",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Enelye"
+  },
+  {
+    "id": 9107,
+    "x": 3242,
+    "y": 6045,
+    "z": 2,
+    "direction": "W",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Nerdanel"
+  },
+  {
+    "id": 9098,
+    "x": 3246,
+    "y": 6054,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0,
+    "world": "ECO",
+    "npcName": "Ysbeid"
+  },
+  {
+    "id": 9093,
+    "x": 3246,
+    "y": 6053,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0,
+    "world": "ECO",
+    "npcName": "Enilly"
+  },
+  {
+    "id": 9094,
+    "x": 3247,
+    "y": 6053,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0,
+    "world": "ECO",
+    "npcName": "Ffoni"
+  },
+  {
+    "id": 9095,
+    "x": 3249,
+    "y": 6051,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 0,
+    "world": "ECO",
+    "npcName": "Ymladd"
+  },
+  {
+    "id": 9096,
+    "x": 3249,
+    "y": 6050,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 0,
+    "world": "ECO",
+    "npcName": "Sadwrn"
+  },
+  {
+    "id": 9097,
+    "x": 3248,
+    "y": 6048,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 0,
+    "world": "ECO",
+    "npcName": "Diol"
+  },
+  {
+    "id": 9100,
+    "x": 3245,
+    "y": 6048,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 0,
+    "world": "ECO",
+    "npcName": "Saeth"
+  },
+  {
+    "id": 9091,
+    "x": 3244,
+    "y": 6050,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0,
+    "world": "ECO",
+    "npcName": "Rhyfel"
+  },
+  {
+    "id": 9099,
+    "x": 3243,
+    "y": 6049,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0,
+    "world": "ECO",
+    "npcName": "Cleddyf"
+  },
+  {
+    "id": 9092,
+    "x": 3244,
+    "y": 6051,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0,
+    "world": "ECO",
+    "npcName": "Gwyl"
+  },
+  {
+    "id": 9143,
+    "x": 3247,
+    "y": 6051,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 1,
+    "world": "ECO",
+    "npcName": "Gladiator"
+  },
+  {
+    "id": 9144,
+    "x": 3247,
+    "y": 6050,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 1,
+    "world": "ECO",
+    "npcName": "Gladiator"
+  },
+  {
+    "id": 9088,
+    "x": 3238,
+    "y": 6058,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Feanor"
+  },
+  {
+    "id": 9164,
+    "x": 3229,
+    "y": 6057,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 1,
+    "world": "ECO",
+    "npcName": "Guinevere"
+  },
+  {
+    "id": 9145,
+    "x": 3229,
+    "y": 6063,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Eluned"
+  },
+  {
+    "id": 9121,
+    "x": 3223,
+    "y": 6065,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Lady Kelyn Ithell"
+  },
+  {
+    "id": 9137,
+    "x": 3217,
+    "y": 6057,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Alwyn"
+  },
+  {
+    "id": 9063,
+    "x": 3221,
+    "y": 6053,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 4,
+    "world": "ECO",
+    "npcName": "Idril"
+  },
+  {
+    "id": 9064,
+    "x": 3228,
+    "y": 6047,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 4,
+    "world": "ECO",
+    "npcName": "Ingwion"
+  },
+  {
+    "id": 9065,
+    "x": 3237,
+    "y": 6040,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 1,
+    "world": "ECO",
+    "npcName": "Thingol"
+  },
+  {
+    "id": 9126,
+    "x": 3246,
+    "y": 6041,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Lord Iestin Iorwerth"
+  },
+  {
+    "id": 9184,
+    "x": 3261,
+    "y": 6027,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Guard"
+  },
+  {
+    "id": 9190,
+    "x": 3263,
+    "y": 6019,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Guard"
+  }
+]

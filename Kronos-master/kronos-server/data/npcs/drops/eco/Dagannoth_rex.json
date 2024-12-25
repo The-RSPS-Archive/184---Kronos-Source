@@ -1,0 +1,84 @@
+[
+  {
+    "ids": [ 2267, 6498 ],
+    "guaranteed": [
+      { "id": 6729, "min": 1, "max": 1 }, //Dagannoth bones
+      { "id": 6155, "min": 1, "max": 1 } //Dagannoth hide
+    ],
+    "tables": [
+      {
+        "name": "Weapons",
+        "weight": 1,
+        "items": [
+          { "id": 3757, "min": 1, "max": 1, "weight": 5 }, //Fremennik blade
+          { "id": 1343, "min": 1, "max": 1, "weight": 5 }, //Mithril warhammer
+          { "id": 1315, "min": 1, "max": 1, "weight": 5 }, //Mithril 2h sword
+          { "id": 1273, "min": 1, "max": 1, "weight": 5 }, //Mithril pickaxe
+          { "id": 1357, "min": 1, "max": 1, "weight": 1 }, //Adamant axe
+          { "id": 1359, "min": 1, "max": 1, "weight": 1 }, //Rune axe
+          { "id": 6739, "min": 1, "max": 1, "weight": 1 } //Dragon axe
+        ]
+      },
+      {
+        "name": "Armour",
+        "weight": 1,
+        "items": [
+          { "id": 1193, "min": 1, "max": 1, "weight": 6 }, //Steel kiteshield
+          { "id": 1119, "min": 1, "max": 1, "weight": 3 }, //Steel platebody
+          { "id": 1123, "min": 1, "max": 1, "weight": 3 }, //Adamant platebody
+          { "id": 3758, "min": 1, "max": 1, "weight": 3 }, //Fremennik shield
+          { "id": 3748, "min": 1, "max": 1, "weight": 3 }, //Fremennik helm
+          { "id": 6129, "min": 1, "max": 1, "weight": 3 }, //Rock-shell plate
+          { "id": 6130, "min": 1, "max": 1, "weight": 3 }, //Rock-shell legs
+          { "id": 2570, "min": 1, "max": 1, "weight": 3 }, //Ring of life
+          { "id": 6737, "min": 1, "max": 1, "weight": 1 }, //Berserker ring
+          { "id": 6735, "min": 1, "max": 1, "weight": 1 } //Warrior ring
+        ]
+      },
+      {
+        "name": "Potions",
+        "weight": 1,
+        "items": [
+          { "id": 2456, "min": 1, "max": 1, "weight": 6 }, //Antifire potion(2)
+          { "id": 141, "min": 1, "max": 1, "weight": 3 }, //Prayer potion(2)
+          { "id": 147, "min": 1, "max": 1, "weight": 3 }, //Super attack(2)
+          { "id": 159, "min": 1, "max": 1, "weight": 3 }, //Super strength(2)
+          { "id": 165, "min": 1, "max": 1, "weight": 1 }, //Super defence(2)
+          { "id": 191, "min": 1, "max": 1, "weight": 1 }, //Zamorak brew(2)
+          { "id": 129, "min": 1, "max": 1, "weight": 1 } //Restore potion(2)
+        ]
+      },
+      {
+        "name": "Ores and Bars",
+        "weight": 1,
+        "items": [
+          { "id": 2361, "min": 1, "max": 1, "weight": 3 }, //Adamantite bar
+          { "id": 448, "min": 25, "max": 25, "weight": 3 }, //Mithril ore (noted)
+          { "id": 454, "min": 100, "max": 100, "weight": 3 }, //Coal (noted)
+          { "id": 441, "min": 150, "max": 150, "weight": 1 }, //Iron ore (noted)
+          { "id": 2354, "min": 15, "max": 38, "weight": 1 } //Steel bar (noted)
+        ]
+      },
+      {
+        "name": "Food",
+        "weight": 1,
+        "items": [
+          { "id": 365, "min": 5, "max": 5, "weight": 6 }, //Bass
+          { "id": 373, "min": 5, "max": 5, "weight": 3 }, //Swordfish
+          { "id": 385, "min": 5, "max": 5, "weight": 1 } //Shark
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 995, "min": 126, "max": 3000, "weight": 10 }, //Coins
+          { "id": 207, "min": 1, "max": 1, "weight": 10 }, //Grimy ranarr weed
+          { "id": 13493, "min": 1, "max": 1, "weight": 10 }, //Ensouled dagannoth head
+          { "id": 2722, "min": 1, "max": 1, "weight": 1 }, //Clue scroll (hard)
+          { "id": 12073, "min": 1, "max": 1, "weight": 1 } //Clue scroll (elite)
+        ]
+      }
+    ]
+  }
+]

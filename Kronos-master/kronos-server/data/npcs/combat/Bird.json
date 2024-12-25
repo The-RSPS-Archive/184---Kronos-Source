@@ -1,0 +1,88 @@
+[
+  { #Bird (5)
+    "ids": [ 5241 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 5,
+    "aggressive_level": 10,
+    "max_damage": 1,
+    "attack_style": "STAB",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 5.0,
+    "slayer_tasks": [ "Birds" ],
+    //Combat Stats
+    "attack": 5,
+    "strength": 5,
+    "defence": 5,
+    "ranged": 1,
+    "magic": 5,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 0,
+    "crush_defence": 0,
+    "magic_defence": 0,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 2,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": -1,
+    "defend_animation": -1,
+    "death_animation": -1
+  },
+  { #Bird (11)
+    "ids": [ 5240 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 10,
+    "aggressive_level": 22,
+    "max_damage": 1,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 10.0,
+    "slayer_tasks": [ "Birds" ],
+    //Combat Stats
+    "attack": 10,
+    "strength": 10,
+    "defence": 10,
+    "ranged": 1,
+    "magic": 10,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 0,
+    "crush_defence": 0,
+    "magic_defence": 0,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 2,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": -1,
+    "defend_animation": -1,
+    "death_animation": -1
+  }
+]

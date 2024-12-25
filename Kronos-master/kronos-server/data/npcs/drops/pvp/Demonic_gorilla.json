@@ -1,0 +1,87 @@
+[
+  {
+    "ids": [ 7144, 7145, 7146, 7147, 7148, 7149, 7152 ],
+    "guaranteed": [
+      { "id": 592, "min": 1, "max": 1 }, //Ashes
+      { "id": 995, "min": 150000, "max": 250000 } //Coins
+    ],
+    "tables": [
+       {
+        "name": "Unique",
+        "weight": 1,
+        "items": [
+          { "id": 19529, "min": 1, "max": 1, "weight": 7 },
+          { "id": 19592, "min": 1, "max": 1, "weight": 4 },
+          { "id": 19601, "min": 1, "max": 1, "weight": 4 },
+          { "id": 19586, "min": 1, "max": 1, "weight": 4 },
+          { "id": 19589, "min": 1, "max": 1, "weight": 4 },
+          { "id": 19610, "min": 1, "max": 1, "weight": 4 }
+        ]
+      },
+      {
+        "name": "Equipment and Ammunition",
+        "weight": 15,
+        "items": [
+          { "id": 1079, "min": 1, "max": 1, "weight": 1 }, //Rune platelegs
+          { "id": 1093, "min": 1, "max": 1, "weight": 1 }, //Rune plateskirt
+          { "id": 1113, "min": 1, "max": 1, "weight": 1 }, //Rune chainbody
+          { "id": 9144, "min": 100, "max": 150, "weight": 1 }, //Runite bolts
+          { "id": 4587, "min": 1, "max": 1, "weight": 1 } //Dragon scimitar
+        ]
+      },
+      {
+        "name": "Runes and Consumables",
+        "weight": 15,
+        "items": [
+          { "id": 563, "min": 50, "max": 75, "weight": 1 }, //Law rune
+          { "id": 560, "min": 50, "max": 75, "weight": 1 }, //Death rune
+          { "id": 139, "min": 2, "max": 2, "weight": 1 }, //Prayer potion(3)
+          { "id": 6689, "min": 1, "max": 1, "weight": 1 }, //Saradomin brew(2)
+          { "id": 385, "min": 2, "max": 3, "weight": 1 } //Shark
+        ]
+      },
+      {
+        "name": "Herbs and Seeds",
+        "weight": 15,
+        "items": [
+          { "id": 214, "min": 7, "max": 13, "weight": 12 }, //Grimy kwuarm (noted)
+          { "id": 216, "min": 7, "max": 13, "weight": 12 }, //Grimy cadantine (noted)
+          { "id": 2486, "min": 7, "max": 13, "weight": 12 }, //Grimy lantadyme (noted)
+          { "id": 218, "min": 7, "max": 12, "weight": 6 }, //Grimy dwarf weed (noted)
+          { "id": 5321, "min": 30, "max": 30, "weight": 6 }, //Watermelon seed
+          { "id": 5295, "min": 2, "max": 2, "weight": 3 }, //Ranarr seed
+          { "id": 5300, "min": 2, "max": 2, "weight": 3 }, //Snapdragon seed
+          { "id": 5304, "min": 1, "max": 2, "weight": 3 }, //Torstol seed
+          { "id": 5288, "min": 2, "max": 2, "weight": 3 }, //Papaya tree seed
+          { "id": 5289, "min": 2, "max": 2, "weight": 3 }, //Palm tree seed
+          { "id": 5313, "min": 2, "max": 2, "weight": 3 }, //Willow seed
+          { "id": 5314, "min": 2, "max": 2, "weight": 3 }, //Maple seed
+          { "id": 5315, "min": 2, "max": 2, "weight": 1 }, //Yew seed
+          { "id": 5316, "min": 2, "max": 2, "weight": 1 }, //Magic seed
+          { "id": 5317, "min": 2, "max": 2, "weight": 1 } //Spirit seed
+        ]
+      },
+      {
+        "name": "Resources",
+        "weight": 15,
+        "items": [
+          { "id": 1602, "min": 4, "max": 6, "weight": 1 }, //Diamond (noted)
+          { "id": 2362, "min": 6, "max": 6, "weight": 1 }, //Adamantite bar (noted)
+          { "id": 2364, "min": 3, "max": 3, "weight": 1 } //Runite bar (noted)
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 15,
+        "items": [
+          { "id": 995, "min": 150000, "max": 250000, "weight": 10 }, //Coins
+          { "id": 19584, "min": 266, "max": 1238, "weight": 10 }, //Javelin shaft
+          { "id": 19580, "min": 31, "max": 55, "weight": 10 }, //Rune javelin heads
+          { "id": 19582, "min": 5, "max": 43, "weight": 10 }, //Dragon javelin heads
+          { "id": 2722, "min": 1, "max": 1, "weight": 1 }, //Clue scroll (hard)
+          { "id": 12073, "min": 1, "max": 1, "weight": 1 } //Clue scroll (elite)
+        ]
+      }
+    ]
+  }
+]

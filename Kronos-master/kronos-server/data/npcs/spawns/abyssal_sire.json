@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Abyssal Sire",
+    "id": 5886,
+    "x": 2967,
+    "y": 4791,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Abyssal Sire",
+    "id": 5886,
+    "x": 2977,
+    "y": 4855,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Abyssal Sire",
+    "id": 5886,
+    "x": 3102,
+    "y": 4855,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Abyssal Sire",
+    "id": 5886,
+    "x": 3107,
+    "y": 4791,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  }
+]

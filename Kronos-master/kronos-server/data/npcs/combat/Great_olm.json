@@ -1,0 +1,45 @@
+[
+  {
+    "ids": [ 7551, 7554 ],
+    "handler": "io.ruin.model.activities.raids.xeric.chamber.combat.GreatOlm",
+    //Combat Info
+    "hitpoints": 800,
+    "aggressive_level": 2086,
+    "max_damage": 33,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 0.0,
+    "slayer_tasks": [],
+    //Combat Stats
+    "attack": 250,
+    "strength": 250,
+    "defence": 150,
+    "ranged": 250,
+    "magic": 250,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 60,
+    "ranged_attack": 60,
+    //Defensive Stats
+    "stab_defence": 200,
+    "slash_defence": 200,
+    "crush_defence": 200,
+    "magic_defence": 200,
+    "ranged_defence": 50,
+    //Immunites
+    "poison_immunity": true,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 2,
+    "respawn_ticks": -1,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": -1,
+    "defend_animation": -1,
+    "death_animation": -1
+  }
+]

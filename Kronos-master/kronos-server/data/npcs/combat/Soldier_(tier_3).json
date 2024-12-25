@@ -1,0 +1,45 @@
+[
+  { #Soldier (tier 3) (58)
+    "ids": [ 6908, 6909 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 55,
+    "aggressive_level": 116,
+    "max_damage": 7,
+    "attack_style": "STAB",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 0.0,
+    "slayer_tasks": [],
+    //Combat Stats
+    "attack": 50,
+    "strength": 50,
+    "defence": 50,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 20,
+    "slash_attack": 20,
+    "crush_attack": 20,
+    "magic_attack": 20,
+    "ranged_attack": 20,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 0,
+    "crush_defence": 0,
+    "magic_defence": 0,
+    "ranged_defence": -1,
+    //Immunites
+    "poison_immunity": true,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 5,
+    "death_ticks": 2,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 422,
+    "defend_animation": 424,
+    "death_animation": 836
+  }
+]

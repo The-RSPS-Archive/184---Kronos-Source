@@ -1,0 +1,82 @@
+[
+  {
+    "ids": [ 1541 ],
+    "tables": [
+      {
+        "name": "Always Drops",
+        "weight": 1,
+        "items": [
+          { "id": 526, "min": 1, "max": 1, "weight": 1 } //Bones
+        ]
+      },
+      {
+        "name": "Weapons",
+        "weight": 1,
+        "items": [
+          { "id": 1295, "min": 1, "max": 1, "weight": 12 }, //Steel longsword
+          { "id": 1424, "min": 1, "max": 1, "weight": 12 }, //Steel mace
+          { "id": 1325, "min": 1, "max": 1, "weight": 12 }, //Steel scimitar
+          { "id": 11371, "min": 1, "max": 1, "weight": 12 }, //Steel hasta
+          { "id": 857, "min": 1, "max": 1, "weight": 9 }, //Yew shortbow
+          { "id": 886, "min": 20, "max": 20, "weight": 6 }, //Steel arrow
+          { "id": 9145, "min": 5, "max": 5, "weight": 6 }, //Silver bolts
+          { "id": 9419, "min": 2, "max": 2, "weight": 6 }, //Mith grapple
+          { "id": 1371, "min": 1, "max": 1, "weight": 6 }, //Adamant battleaxe
+          { "id": 1333, "min": 1, "max": 1, "weight": 3 }, //Rune scimitar
+          { "id": 808, "min": 10, "max": 10, "weight": 3 }, //Steel dart
+          { "id": 865, "min": 10, "max": 10, "weight": 3 }, //Steel knife
+          { "id": 890, "min": 5, "max": 5, "weight": 1 }, //Adamant arrow
+          { "id": 1391, "min": 1, "max": 1, "weight": 1 } //Battlestaff
+        ]
+      },
+      {
+        "name": "Armour",
+        "weight": 1,
+        "items": [
+          { "id": 1191, "min": 1, "max": 1, "weight": 6 }, //Iron kiteshield
+          { "id": 1193, "min": 1, "max": 1, "weight": 6 }, //Steel kiteshield
+          { "id": 1157, "min": 1, "max": 1, "weight": 6 }, //Steel full helm
+          { "id": 1143, "min": 1, "max": 1, "weight": 6 }, //Mithril med helm
+          { "id": 1197, "min": 1, "max": 1, "weight": 1 }, //Mithril kiteshield
+          { "id": 1181, "min": 1, "max": 1, "weight": 1 } //Mithril sq shield
+        ]
+      },
+      {
+        "name": "Herbs",
+        "weight": 1,
+        "items": [
+          { "id": 199, "min": 1, "max": 1, "weight": 6 }, //Grimy guam leaf
+          { "id": 201, "min": 1, "max": 1, "weight": 6 }, //Grimy marrentill
+          { "id": 203, "min": 1, "max": 1, "weight": 6 }, //Grimy tarromin
+          { "id": 205, "min": 1, "max": 1, "weight": 3 }, //Grimy harralander
+          { "id": 207, "min": 1, "max": 1, "weight": 3 }, //Grimy ranarr weed
+          { "id": 209, "min": 1, "max": 1, "weight": 3 }, //Grimy irit leaf
+          { "id": 211, "min": 1, "max": 1, "weight": 3 }, //Grimy avantoe
+          { "id": 213, "min": 1, "max": 1, "weight": 1 }, //Grimy kwuarm
+          { "id": 215, "min": 1, "max": 1, "weight": 1 }, //Grimy cadantine
+          { "id": 2485, "min": 1, "max": 1, "weight": 1 }, //Grimy lantadyme
+          { "id": 217, "min": 1, "max": 1, "weight": 1 } //Grimy dwarf weed
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 995, "min": 106, "max": 323, "weight": 12 }, //Coins
+          { "id": 11443, "min": 1, "max": 1, "weight": 12 }, //Strength mix(2)
+          { "id": 2357, "min": 1, "max": 1, "weight": 12}, //Gold bar
+          { "id": 2354, "min": 3, "max": 3, "weight": 12 }, //Steel bar (noted)
+          { "id": 2356, "min": 3, "max": 3, "weight": 12 }, //Silver bar (noted)
+          { "id": 1515, "min": 1, "max": 1, "weight": 12 }, //Yew logs
+          { "id": 444, "min": 1, "max": 1, "weight": 6 }, //Gold ore
+          { "id": 565, "min": 3, "max": 3, "weight": 6 }, //Blood rune
+          { "id": 560, "min": 5, "max": 5, "weight": 6 }, //Death rune
+          { "id": 1637, "min": 1, "max": 1, "weight": 3 }, //Sapphire ring
+          { "id": 11341, "min": 1, "max": 1, "weight": 3 }, //Ancient page
+          { "id": 2361, "min": 1, "max": 1, "weight": 3 }, //Adamantite bar
+          { "id": 2801, "min": 1, "max": 1, "weight": 1 } //Clue scroll (medium)
+        ]
+      }
+    ]
+  }
+]

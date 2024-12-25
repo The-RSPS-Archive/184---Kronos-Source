@@ -1,0 +1,24 @@
+[
+  {
+    "ids": [ 2067, 2068, 5971, 5972, 5973 ],
+    "guaranteed": [
+      { "id": 526, "min": 1, "max": 1 } //Bones
+    ],
+    "tables": [
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 2128, "min": 1, "max": 1, "weight": 6 }, //Equa leaves
+          { "id": 2102, "min": 1, "max": 1, "weight": 6 }, //Lemon
+          { "id": 2171, "min": 1, "max": 1, "weight": 6 }, //Gianne dough
+          { "id": 2120, "min": 1, "max": 1, "weight": 3 }, //Lime
+          { "id": 2165, "min": 1, "max": 1, "weight": 3 }, //Crunchy tray
+          { "id": 2166, "min": 1, "max": 1, "weight": 3 }, //Gnomebowl mould
+          { "id": 2169, "min": 1, "max": 1, "weight": 1 }, //Gnome spice
+          { "id": 2164, "min": 1, "max": 1, "weight": 1 } //Batta tin
+        ]
+      }
+    ]
+  }
+]

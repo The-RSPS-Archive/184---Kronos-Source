@@ -1,0 +1,69 @@
+// 546
+[proc,wear_updateslot](component $component0, int $int1, boolean $boolean2)
+if_clearops($component0);
+def_obj $obj3 = inv_getobj(worn, $int1);
+if ($obj3 = null) {
+	cc_sethide(true);
+	.cc_sethide(false);
+	if_setonop(null, $component0);
+	if_setonvartransmit(null, $component0);
+	return;
+}
+cc_sethide(false);
+.cc_sethide(true);
+cc_setobject($obj3, inv_getnum(worn, $int1));
+if_setopbase("<col=ff9040><oc_name($obj3)></col>", $component0);
+if_setop(1, "Remove", $component0);
+def_string $string0 = "";
+if ($boolean2 = true) {
+	if ((map_members = ^true) | (oc_members($obj3) = ^false)) {
+		$string0 = oc_param($obj3, param_451);
+		if (string_length($string0) > 0) {
+			if_setop(2, $string0, $component0);
+		}
+		$string0 = oc_param($obj3, param_452);
+		if (string_length($string0) > 0) {
+			if_setop(3, $string0, $component0);
+		}
+		$string0 = oc_param($obj3, param_453);
+		if (string_length($string0) > 0) {
+			if_setop(4, $string0, $component0);
+		}
+		$string0 = oc_param($obj3, param_454);
+		if (string_length($string0) > 0) {
+			if_setop(5, $string0, $component0);
+		}
+		$string0 = oc_param($obj3, param_455);
+		if (string_length($string0) > 0) {
+			if_setop(6, $string0, $component0);
+		}
+		$string0 = oc_param($obj3, param_456);
+		if (string_length($string0) > 0) {
+			if_setop(7, $string0, $component0);
+		}
+		$string0 = oc_param($obj3, param_457);
+		if (string_length($string0) > 0) {
+			if_setop(8, $string0, $component0);
+		}
+		$string0 = oc_param($obj3, param_458);
+		if (string_length($string0) > 0) {
+			if_setop(9, $string0, $component0);
+		}
+		if ($obj3 = camulet_6707) {
+			if ((%varbit4525 = 1) | (%varbit4526 = 1)) {
+				if_setop(3, "Temple", $component0);
+				if_setop(4, "Surface", $component0);
+			}
+			if_setonvartransmit("wear_updateslot($component0, $int1, $boolean2, cc_getid, .cc_getid){var1190}", $component0);
+		} else {
+			if_setonvartransmit(null, $component0);
+		}
+	} else {
+		if_setonvartransmit(null, $component0);
+	}
+} else {
+	if_setonvartransmit(null, $component0);
+	if_setop(2, "Bank", $component0);
+}
+if_setop(10, "Examine", $component0);
+if_setonop("cc_settrans_temporarily($component0, cc_getid, 100, 0)", $component0);

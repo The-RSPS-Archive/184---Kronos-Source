@@ -1,0 +1,275 @@
+[
+  {
+    "name": "Gardener Gunnhild",
+    "id": 3656,
+    "x": 3811,
+    "y": 2834,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Sawmill operator",
+    "id": 5422,
+    "x": 3830,
+    "y": 2846,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 3,
+    "shopOptions": {
+      "trade": "a1e55885-3aa4-4d63-8a5e-5808c01f54e0"
+    }
+  },
+  {
+    "name": "Kronos Wizard",
+    "id": 4398,
+    "x": 3814,
+    "y": 2865,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Banker",
+    "id": 1027,
+    "x": 3806,
+    "y": 2849,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Banker",
+    "id": 1028,
+    "x": 3807,
+    "y": 2849,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Banker",
+    "id": 1027,
+    "x": 3810,
+    "y": 2849,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Banker",
+    "id": 1028,
+    "x": 3811,
+    "y": 2849,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Banker",
+    "id": 1028,
+    "x": 3812,
+    "y": 2849,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Banker",
+    "id": 1027,
+    "x": 3814,
+    "y": 2849,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Horvik",
+    "id": 2882,
+    "x": 3804,
+    "y": 2845,
+    "z": 1,
+    "direction": "E",
+    "walkRange": 0
+  },
+  {
+    "name": "Sigmund The Merchant",
+    "id": 3894,
+    "x": 3804,
+    "y": 2843,
+    "z": 1,
+    "direction": "E",
+    "walkRange": 0
+  },
+  {
+    "name": "Mac",
+    "id": 6481,
+    "x": 3804,
+    "y": 2842,
+    "z": 1,
+    "direction": "E",
+    "walkRange": 0
+  },
+  {
+    "name": "Donation Manager",
+    "id": 2108,
+    "x": 3806,
+    "y": 2840,
+    "z": 1,
+    "direction": "N",
+    "walkRange": 0,
+    "shopOptions": {
+      "Open-shop": "545d3f40-361e-42ce-84bc-4681264685de"
+    }
+  },
+  {
+    "name": "Twiggy O\u0027Korn",
+    "id": 5527,
+    "x": 3807,
+    "y": 2840,
+    "z": 1,
+    "direction": "N",
+    "walkRange": 0,
+    "shopOptions": {
+      "rewards": "afd8d69d-37c8-44d9-bfec-680bfaf4dfa4"
+    }
+  },
+  {
+    "name": "Vote Manager",
+    "id": 1815,
+    "x": 3809,
+    "y": 2840,
+    "z": 1,
+    "direction": "N",
+    "walkRange": 0,
+    "shopOptions": {
+      "trade": "aecef817-39c1-4a22-9ee9-2815da9dd3df"
+    }
+  },
+  {
+    "name": "Black chinchompa",
+    "id": 2912,
+    "x": 3795,
+    "y": 2820,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Black chinchompa",
+    "id": 2912,
+    "x": 3798,
+    "y": 2821,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Black chinchompa",
+    "id": 2912,
+    "x": 3800,
+    "y": 2819,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Black chinchompa",
+    "id": 2912,
+    "x": 3802,
+    "y": 2822,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Black chinchompa",
+    "id": 2912,
+    "x": 3805,
+    "y": 2825,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Black chinchompa",
+    "id": 2912,
+    "x": 3805,
+    "y": 2821,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Carnivorous chinchompa",
+    "id": 2911,
+    "x": 3813,
+    "y": 2822,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Carnivorous chinchompa",
+    "id": 2911,
+    "x": 3814,
+    "y": 2825,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Carnivorous chinchompa",
+    "id": 2911,
+    "x": 3817,
+    "y": 2825,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Carnivorous chinchompa",
+    "id": 2911,
+    "x": 3819,
+    "y": 2827,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Hobgoblin",
+    "id": 3049,
+    "x": 3787,
+    "y": 2834,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Hobgoblin",
+    "id": 3049,
+    "x": 3790,
+    "y": 2832,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Hobgoblin",
+    "id": 3049,
+    "x": 3794,
+    "y": 2830,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Hobgoblin",
+    "id": 3049,
+    "x": 3791,
+    "y": 2834,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  }
+]

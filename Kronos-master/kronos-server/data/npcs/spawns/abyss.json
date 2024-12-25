@@ -1,0 +1,785 @@
+[
+  {
+    "name": "Abyssal guardian",
+    "id": 2585,
+    "x": 3037,
+    "y": 4855,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Abyssal leech",
+    "id": 2584,
+    "x": 3040,
+    "y": 4808,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Abyssal leech",
+    "id": 2584,
+    "x": 3044,
+    "y": 4854,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Abyssal walker",
+    "id": 2586,
+    "x": 3046,
+    "y": 4811,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Abyssal walker",
+    "id": 2586,
+    "x": 3049,
+    "y": 4808,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Abyssal leech",
+    "id": 2584,
+    "x": 3047,
+    "y": 4853,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Abyssal walker",
+    "id": 2586,
+    "x": 3050,
+    "y": 4810,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Abyssal guardian",
+    "id": 2585,
+    "x": 3049,
+    "y": 4852,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Abyssal leech",
+    "id": 2584,
+    "x": 3050,
+    "y": 4853,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Abyssal walker",
+    "id": 2586,
+    "x": 3050,
+    "y": 4811,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Abyssal walker",
+    "id": 2586,
+    "x": 3050,
+    "y": 4853,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Abyssal walker",
+    "id": 2586,
+    "x": 3053,
+    "y": 4811,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Abyssal walker",
+    "id": 2586,
+    "x": 3057,
+    "y": 4814,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Abyssal leech",
+    "id": 2584,
+    "x": 3054,
+    "y": 4810,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Abyssal leech",
+    "id": 2584,
+    "x": 3056,
+    "y": 4849,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Abyssal guardian",
+    "id": 2585,
+    "x": 3054,
+    "y": 4851,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Abyssal guardian",
+    "id": 2585,
+    "x": 3057,
+    "y": 4820,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Abyssal guardian",
+    "id": 2585,
+    "x": 3054,
+    "y": 4848,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Abyssal walker",
+    "id": 2586,
+    "x": 3055,
+    "y": 4811,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Abyssal walker",
+    "id": 2586,
+    "x": 3056,
+    "y": 4811,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Abyssal walker",
+    "id": 2586,
+    "x": 3057,
+    "y": 4814,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Abyssal guardian",
+    "id": 2585,
+    "x": 3055,
+    "y": 4847,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Abyssal guardian",
+    "id": 2585,
+    "x": 3057,
+    "y": 4813,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Abyssal leech",
+    "id": 2584,
+    "x": 3060,
+    "y": 4818,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Abyssal walker",
+    "id": 2586,
+    "x": 3058,
+    "y": 4844,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Abyssal guardian",
+    "id": 2585,
+    "x": 3059,
+    "y": 4810,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Abyssal guardian",
+    "id": 2585,
+    "x": 3060,
+    "y": 4820,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Abyssal walker",
+    "id": 2586,
+    "x": 3059,
+    "y": 4819,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Abyssal guardian",
+    "id": 2585,
+    "x": 3061,
+    "y": 4826,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Abyssal guardian",
+    "id": 2585,
+    "x": 3061,
+    "y": 4839,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Abyssal leech",
+    "id": 2584,
+    "x": 3061,
+    "y": 4835,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Abyssal walker",
+    "id": 2586,
+    "x": 3059,
+    "y": 4812,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Abyssal walker",
+    "id": 2586,
+    "x": 3061,
+    "y": 4818,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Abyssal walker",
+    "id": 2586,
+    "x": 3060,
+    "y": 4826,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Abyssal guardian",
+    "id": 2585,
+    "x": 3059,
+    "y": 4842,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Abyssal walker",
+    "id": 2586,
+    "x": 3061,
+    "y": 4823,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Abyssal leech",
+    "id": 2584,
+    "x": 3062,
+    "y": 4837,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Abyssal guardian",
+    "id": 2585,
+    "x": 3064,
+    "y": 4824,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Abyssal guardian",
+    "id": 2585,
+    "x": 3062,
+    "y": 4829,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Abyssal guardian",
+    "id": 2585,
+    "x": 3063,
+    "y": 4838,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Abyssal leech",
+    "id": 2584,
+    "x": 3064,
+    "y": 4824,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Abyssal guardian",
+    "id": 2585,
+    "x": 3016,
+    "y": 4826,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Abyssal leech",
+    "id": 2584,
+    "x": 3016,
+    "y": 4838,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Abyssal leech",
+    "id": 2584,
+    "x": 3015,
+    "y": 4828,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Abyssal leech",
+    "id": 2584,
+    "x": 3015,
+    "y": 4836,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Abyssal leech",
+    "id": 2584,
+    "x": 3015,
+    "y": 4825,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Abyssal leech",
+    "id": 2584,
+    "x": 3015,
+    "y": 4830,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Abyssal walker",
+    "id": 2586,
+    "x": 3015,
+    "y": 4829,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Abyssal leech",
+    "id": 2584,
+    "x": 3015,
+    "y": 4833,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Abyssal leech",
+    "id": 2584,
+    "x": 3016,
+    "y": 4839,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Abyssal leech",
+    "id": 2584,
+    "x": 3018,
+    "y": 4811,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Abyssal leech",
+    "id": 2584,
+    "x": 3019,
+    "y": 4816,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Abyssal walker",
+    "id": 2586,
+    "x": 3016,
+    "y": 4825,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Abyssal leech",
+    "id": 2584,
+    "x": 3016,
+    "y": 4824,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Abyssal guardian",
+    "id": 2585,
+    "x": 3019,
+    "y": 4845,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Abyssal leech",
+    "id": 2584,
+    "x": 3017,
+    "y": 4841,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Abyssal walker",
+    "id": 2586,
+    "x": 3029,
+    "y": 4870,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Abyssal leech",
+    "id": 2584,
+    "x": 3018,
+    "y": 4844,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Abyssal leech",
+    "id": 2584,
+    "x": 3018,
+    "y": 4814,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Abyssal walker",
+    "id": 2586,
+    "x": 3022,
+    "y": 4816,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Abyssal leech",
+    "id": 2584,
+    "x": 3020,
+    "y": 4845,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Abyssal leech",
+    "id": 2584,
+    "x": 3021,
+    "y": 4812,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Abyssal walker",
+    "id": 2586,
+    "x": 3020,
+    "y": 4849,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Abyssal leech",
+    "id": 2584,
+    "x": 3040,
+    "y": 4870,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Abyssal walker",
+    "id": 2586,
+    "x": 3023,
+    "y": 4813,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Abyssal leech",
+    "id": 2584,
+    "x": 3024,
+    "y": 4851,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Abyssal walker",
+    "id": 2586,
+    "x": 3028,
+    "y": 4809,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Abyssal leech",
+    "id": 2584,
+    "x": 3025,
+    "y": 4851,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Abyssal walker",
+    "id": 2586,
+    "x": 3028,
+    "y": 4811,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Abyssal guardian",
+    "id": 2585,
+    "x": 3027,
+    "y": 4811,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Abyssal walker",
+    "id": 2586,
+    "x": 3028,
+    "y": 4807,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Abyssal leech",
+    "id": 2584,
+    "x": 3051,
+    "y": 4871,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Abyssal walker",
+    "id": 2586,
+    "x": 3029,
+    "y": 4810,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Abyssal leech",
+    "id": 2584,
+    "x": 3029,
+    "y": 4853,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Abyssal leech",
+    "id": 2584,
+    "x": 3030,
+    "y": 4810,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Abyssal walker",
+    "id": 2586,
+    "x": 3030,
+    "y": 4809,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Abyssal walker",
+    "id": 2586,
+    "x": 3030,
+    "y": 4853,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Abyssal walker",
+    "id": 2586,
+    "x": 3030,
+    "y": 4809,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Abyssal walker",
+    "id": 2586,
+    "x": 3033,
+    "y": 4810,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Abyssal leech",
+    "id": 2584,
+    "x": 3032,
+    "y": 4854,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Abyssal walker",
+    "id": 2586,
+    "x": 3033,
+    "y": 4809,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Abyssal walker",
+    "id": 2586,
+    "x": 3037,
+    "y": 4809,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Abyssal walker",
+    "id": 2586,
+    "x": 3038,
+    "y": 4810,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Abyssal walker",
+    "id": 2586,
+    "x": 3038,
+    "y": 4809,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Abyssal leech",
+    "id": 2584,
+    "x": 3037,
+    "y": 4854,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Dark mage",
+    "id": 2583,
+    "x": 3039,
+    "y": 4834,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Abyssal walker",
+    "id": 2586,
+    "x": 3043,
+    "y": 4810,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  }
+]

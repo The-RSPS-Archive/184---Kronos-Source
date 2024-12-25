@@ -1,0 +1,17 @@
+[
+  {
+    "ids": [ 3863 ],
+    "guaranteed": [
+      { "id": 526, "min": 1, "max": 1 } //Bones
+    ],
+    "tables": [
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 1025, "min": 1, "max": 1, "weight": 1 } //Right eye patch
+        ]
+      }
+    ]
+  }
+]

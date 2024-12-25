@@ -1,0 +1,92 @@
+[
+  { #Skotizo (321) (WILDERNESS PVP WORLD EVENT VERSION!)
+    "ids": [ 7286 ],
+    "handler": "io.ruin.model.activities.wilderness.bosses.custom.SkotizoPVPEvent",
+    //Combat Info
+    "hitpoints": 1500,
+    "aggressive_level": 642,
+    "max_damage": 38,
+    "attack_style": "SLASH",
+    "pet": "SKOTOS",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 618.0,
+    "slayer_tasks": [ "Black Demons", "Greater Demons" ],
+    //Combat Stats
+    "attack": 240,
+    "strength": 250,
+    "defence": 220,
+    "ranged": 1,
+    "magic": 280,
+    //Aggressive Stats
+    "stab_attack": 160,
+    "slash_attack": 160,
+    "crush_attack": 160,
+    "magic_attack": 160,
+    "ranged_attack": 160,
+    //Defensive Stats
+    "stab_defence": 80,
+    "slash_defence": 80,
+    "crush_defence": 80,
+    "magic_defence": 130,
+    "ranged_defence": 130,
+    //Immunites
+    "poison_immunity": true,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 6,
+    "death_ticks": 8,
+    "respawn_ticks": -1,
+    //Animations
+    "spawn_animation": 4623,
+    "attack_animation": 4680,
+    "defend_animation": 4676,
+    "death_animation": 4624,
+	//Other
+	"local_loot": true
+  },
+  { #Skotizo (321) (Catacombs boss version!)
+    "ids": [ 7297 ],
+    "handler": "io.ruin.model.activities.bosses.Skotizo",
+    //Combat Info
+    "hitpoints": 450,
+    "aggressive_level": 642,
+    "max_damage": 38,
+    "attack_style": "SLASH",
+    "pet": "SKOTOS",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 618.0,
+    "slayer_tasks": [ "Black Demons", "Greater Demons" ],
+    //Combat Stats
+    "attack": 240,
+    "strength": 250,
+    "defence": 200,
+    "ranged": 1,
+    "magic": 280,
+    //Aggressive Stats
+    "stab_attack": 160,
+    "slash_attack": 160,
+    "crush_attack": 160,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 80,
+    "slash_defence": 80,
+    "crush_defence": 80,
+    "magic_defence": 130,
+    "ranged_defence": 130,
+    //Immunites
+    "poison_immunity": true,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 6,
+    "death_ticks": 8,
+    "respawn_ticks": -1,
+    //Animations
+    "spawn_animation": 4623,
+    "attack_animation": 4680,
+    "defend_animation": 4676,
+    "death_animation": 4624
+  }
+]

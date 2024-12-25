@@ -1,0 +1,174 @@
+[
+  { #Vanguard (inactive)
+    "ids": [ 7525, 7526 ],
+    "handler": "io.ruin.model.activities.raids.xeric.chamber.combat.Vanguard",
+    //Combat Info
+    "hitpoints": 150,
+    "aggressive_level": 0,
+    "max_damage": 0,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 0,
+    "slayer_tasks": [ ],
+    //Combat Stats
+    "attack": 100,
+    "strength": 100,
+    "defence": 100,
+    "ranged": 100,
+    "magic": 100,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 0,
+    "crush_defence": 0,
+    "magic_defence": 0,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 5,
+    "death_ticks": 1,
+    "respawn_ticks": -1,
+    //Animations
+    "spawn_animation": 7428,
+    "attack_animation": 7431,
+    "defend_animation": -1,
+    "death_animation": 7432
+  },
+    { #Vanguard (melee)
+    "ids": [ 7527 ],
+    "handler": "io.ruin.model.activities.raids.xeric.chamber.combat.Vanguard",
+    //Combat Info
+    "hitpoints": 150,
+    "aggressive_level": 0,
+    "max_damage": 18,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 0,
+    "slayer_tasks": [ ],
+    //Combat Stats
+    "attack": 150,
+    "strength": 150,
+    "defence": 210,
+    "ranged": 150,
+    "magic": 150,
+    //Aggressive Stats
+    "stab_attack": 20,
+    "slash_attack": 20,
+    "crush_attack": 20,
+    "magic_attack": 20,
+    "ranged_attack": 20,
+    //Defensive Stats
+    "stab_defence": 65,
+    "slash_defence": 80,
+    "crush_defence": 100,
+    "magic_defence": 80,
+    "ranged_defence": 400,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 5,
+    "death_ticks": 1,
+    "respawn_ticks": -1,
+    //Animations
+    "spawn_animation": 7438,
+    "attack_animation": 7441,
+    "defend_animation": -1,
+    "death_animation": 7442
+  },
+      { #Vanguard (ranged)
+    "ids": [ 7528 ],
+    "handler": "io.ruin.model.activities.raids.xeric.chamber.combat.Vanguard",
+    //Combat Info
+    "hitpoints": 150,
+    "aggressive_level": 0,
+    "max_damage": 30,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 0,
+    "slayer_tasks": [ ],
+    //Combat Stats
+    "attack": 100,
+    "strength": 100,
+    "defence": 250,
+    "ranged": 250,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 150,
+    "slash_attack": 150,
+    "crush_attack": 210,
+    "magic_attack": 150,
+    "ranged_attack": 150,
+    //Defensive Stats
+    "stab_defence": 55,
+    "slash_defence": 60,
+    "crush_defence": 100,
+    "magic_defence": 400,
+    "ranged_defence": 300,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 5,
+    "death_ticks": 1,
+    "respawn_ticks": -1,
+    //Animations
+    "spawn_animation": 7443,
+    "attack_animation": 7446,
+    "defend_animation": -1,
+    "death_animation": 7447
+  },
+        { #Vanguard (magic)
+    "ids": [ 7529 ],
+    "handler": "io.ruin.model.activities.raids.xeric.chamber.combat.Vanguard",
+    //Combat Info
+    "hitpoints": 150,
+    "aggressive_level": 0,
+    "max_damage": 30,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 0,
+    "slayer_tasks": [ ],
+    //Combat Stats
+    "attack": 150,
+    "strength": 150,
+    "defence": 210,
+    "ranged": 150,
+    "magic": 150,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 315,
+    "slash_defence": 340,
+    "crush_defence": 400,
+    "magic_defence": 110,
+    "ranged_defence": 50,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 5,
+    "death_ticks": 1,
+    "respawn_ticks": -1,
+    //Animations
+    "spawn_animation": 7433,
+    "attack_animation": 7436,
+    "defend_animation": -1,
+    "death_animation": 7437
+  }
+]

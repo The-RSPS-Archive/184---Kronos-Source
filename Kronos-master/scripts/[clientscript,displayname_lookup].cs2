@@ -1,0 +1,3 @@
+// 635
+[clientscript,displayname_lookup](string $string0)
+%varcstring229 = $string0;

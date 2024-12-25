@@ -1,0 +1,64 @@
+[
+  {
+    "ids": [ 7297 ],
+    "guaranteed": [
+      { "id": 2722, "min": 1, "max": 1 }, //Clue scroll (hard)
+      { "id": 19677, "min": 1, "max": 3 } //Ancient shard
+    ],
+    "tables": [
+      {
+        "name": "Ammunition and Runes",
+        "weight": 3,
+        "items": [
+          { "id": 560, "min": 500, "max": 500, "weight": 1 }, //Death rune
+          { "id": 566, "min": 450, "max": 450, "weight": 1 }, //Soul rune
+          { "id": 565, "min": 450, "max": 450, "weight": 1 } //Blood rune
+        ]
+      },
+      {
+        "name": "Armour",
+        "weight": 3,
+        "items": [
+          { "id": 1128, "min": 3, "max": 3, "weight": 1 }, //Rune platebody (noted)
+          { "id": 1202, "min": 3, "max": 3, "weight": 1 }, //Rune kiteshield (noted)
+          { "id": 1080, "min": 3, "max": 3, "weight": 1 }, //Rune platelegs (noted)
+          { "id": 1094, "min": 3, "max": 3, "weight": 1 } //Rune plateskirt (noted)
+        ]
+      },
+      {
+        "name": "Herbs",
+        "weight": 3,
+        "items": [
+          { "id": 208, "min": 40, "max": 40, "weight": 1 }, //Grimy ranarr weed (noted)
+          { "id": 3052, "min": 20, "max": 20, "weight": 1 }, //Grimy snapdragon (noted)
+          { "id": 220, "min": 20, "max": 20, "weight": 1 } //Grimy torstol (noted)
+        ]
+      },
+      {
+        "name": "Materials",
+        "weight": 3,
+        "items": [
+          { "id": 1632, "min": 10, "max": 10, "weight": 12 }, //Uncut dragonstone (noted)
+          { "id": 1392, "min": 25, "max": 25, "weight": 12 }, //Battlestaff (noted)
+          { "id": 9194, "min": 40, "max": 40, "weight": 12 }, //Onyx bolt tips
+          { "id": 450, "min": 75, "max": 75, "weight": 12 }, //Adamantite ore (noted)
+          { "id": 2364, "min": 20, "max": 20, "weight": 12 }, //Runite bar (noted)
+          { "id": 13440, "min": 60, "max": 60, "weight": 12 }, //Raw anglerfish (noted)
+          { "id": 8783, "min": 150, "max": 150, "weight": 12 }, //Mahogany plank (noted)
+          { "id": 6571, "min": 1, "max": 1, "weight": 1 } //Uncut onyx
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 12073, "min": 1, "max": 1, "weight": 3 }, //Clue scroll (elite)
+          { "id": 19685, "min": 1, "max": 1, "weight": 4 }, //Dark totem
+          { "id": 21275, "min": 1, "max": 1, "weight": 4 }, //Dark claw
+          { "id": 2366, "min": 1, "max": 1, "weight": 2 }, //Shield left half
+          { "id": 19701, "min": 1, "max": 1, "weight": 1 } //Jar of darkness
+        ]
+      }
+    ]
+  }
+]

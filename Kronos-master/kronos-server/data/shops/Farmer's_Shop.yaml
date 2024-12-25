@@ -1,0 +1,45 @@
+---
+identifier: "25a27451-f6f4-4d6d-972c-de717e78df99"
+title: "Farmer's Shop"
+currency: "COINS"
+accessibleByIronMan: true
+canSellToStore: false
+restockRules:
+  restockTicks: 52
+  restockPerTick: 1
+defaultStock:
+- id: 5341
+  amount: 1000
+  placeholderId: 0
+- id: 5343
+  amount: 1000
+  placeholderId: 0
+- id: 5329
+  amount: 1000
+  placeholderId: 0
+- id: 952
+  amount: 1000
+  placeholderId: 0
+- id: 5325
+  amount: 1000
+  placeholderId: 0
+- id: 5340
+  amount: 1000
+  placeholderId: 0
+- id: 5356
+  amount: 1000
+  placeholderId: 0
+- id: 13250
+  amount: 1000
+  placeholderId: 0
+- id: 6032
+  amount: 1000
+  price: 150
+  placeholderId: 0
+- id: 19704
+  amount: 1000
+  price: 15000
+  placeholderId: 0
+- id: 6036
+  amount: 1000
+  placeholderId: 0

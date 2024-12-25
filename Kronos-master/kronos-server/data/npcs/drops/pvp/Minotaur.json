@@ -1,0 +1,44 @@
+[
+  {
+    "ids": [ 2481, 2483 ],
+    "guaranteed": [
+      { "id": 526, "min": 1, "max": 1 } //Bones
+    ],
+    "tables": [
+      {
+        "name": "Runes",
+        "weight": 1,
+        "items": [
+          { "id": 558, "min": 1, "max": 1, "weight": 1 } //Mind rune
+        ]
+      },
+      {
+        "name": "Armour/Weapons",
+        "weight": 1,
+        "items": [
+          { "id": 884, "min": 5, "max": 14, "weight": 6 }, //Iron arrow
+          { "id": 1237, "min": 1, "max": 1, "weight": 6 }, //Bronze spear
+          { "id": 1155, "min": 1, "max": 1, "weight": 3 }, //Bronze full helm
+          { "id": 882, "min": 3, "max": 6, "weight": 3 }, //Bronze arrow
+          { "id": 1205, "min": 1, "max": 1, "weight": 1 } //Bronze dagger
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 995, "min": 2, "max": 84, "weight": 9 }, //Coins
+          { "id": 437, "min": 1, "max": 1, "weight": 9 }, //Copper ore (noted)
+          { "id": 439, "min": 1, "max": 1, "weight": 9 }, //Tin ore (noted)
+          { "id": 7937, "min": 15, "max": 15, "weight": 6 }, //Pure essence (noted)
+          { "id": 7937, "min": 20, "max": 20, "weight": 6 }, //Pure essence (noted)
+          { "id": 1437, "min": 5, "max": 5, "weight": 3 }, //Rune essence (noted)
+          { "id": 2142, "min": 1, "max": 1, "weight": 3 }, //Cooked meat
+          { "id": 9007, "min": 1, "max": 1, "weight": 3 }, //Right skull half
+          { "id": 13457, "min": 1, "max": 1, "weight": 1 }, //Ensouled minotaur head
+          { "id": 2677, "min": 1, "max": 1, "weight": 1 } //Clue scroll (easy)
+        ]
+      }
+    ]
+  }
+]

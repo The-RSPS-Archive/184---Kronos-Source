@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Feral Vampyre",
+    "id": 3237,
+    "x": 3452,
+    "y": 3217,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Feral Vampyre",
+    "id": 3237,
+    "x": 3460,
+    "y": 3240,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Feral Vampyre",
+    "id": 3237,
+    "x": 3451,
+    "y": 3227,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Feral Vampyre",
+    "id": 3237,
+    "x": 3452,
+    "y": 3226,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Feral Vampyre",
+    "id": 3237,
+    "x": 3451,
+    "y": 3228,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Feral Vampyre",
+    "id": 3237,
+    "x": 3457,
+    "y": 3233,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  }
+]

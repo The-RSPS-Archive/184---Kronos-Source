@@ -1,0 +1,11 @@
+[
+  {
+    "name": "Giant Mole",
+    "id": 5779,
+    "x": 1759,
+    "y": 5184,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  }
+]

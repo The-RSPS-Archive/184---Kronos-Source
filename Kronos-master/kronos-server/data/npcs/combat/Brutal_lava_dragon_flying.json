@@ -1,0 +1,45 @@
+[
+  { #Brutal black dragon (15018)
+  "ids": [ 15016 ],
+  "handler": "io.ruin.model.activities.bosses.BrutalLavaDragon",
+  //Combat Info
+  "hitpoints": 5000,
+  "aggressive_level": 636,
+  "max_damage": 29,
+  "attack_style": "CRUSH",
+  //Slayer Info
+  "slayer_level": 1,
+  "slayer_xp": 500,
+  "slayer_tasks": [ "Lava Dragons" ],
+  //Combat Stats
+  "attack": 330,
+  "strength": 210,
+  "defence": 258,
+  "ranged": 0,
+  "magic": 250,
+  //Aggressive Stats
+  "stab_attack": 0,
+  "slash_attack": 0,
+  "crush_attack": 0,
+  "magic_attack": 0,
+  "ranged_attack": 0,
+  //Defensive Stats
+  "stab_defence": 50,
+  "slash_defence": 150,
+  "crush_defence": 150,
+  "magic_defence": 80,
+  "ranged_defence": 80,
+  //Immunites
+  "poison_immunity": true,
+  "venom_immunity": true,
+  //Speeds
+  "attack_ticks": 4,
+  "death_ticks": 2,
+  "respawn_ticks": 50,
+  //Animations
+  "spawn_animation": -1,
+  "attack_animation": -1,
+  "defend_animation": -1,
+  "death_animation": -1
+  }
+]

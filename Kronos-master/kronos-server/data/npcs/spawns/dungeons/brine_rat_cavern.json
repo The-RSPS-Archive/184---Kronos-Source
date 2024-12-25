@@ -1,0 +1,137 @@
+[
+  {
+    "name": "Bat",
+    "id": 2827,
+    "x": 2719,
+    "y": 10122,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Bat",
+    "id": 2827,
+    "x": 2726,
+    "y": 10122,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Bat",
+    "id": 2827,
+    "x": 2735,
+    "y": 10125,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Bat",
+    "id": 2827,
+    "x": 2730,
+    "y": 10131,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Bat",
+    "id": 2827,
+    "x": 2721,
+    "y": 10133,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Bat",
+    "id": 2827,
+    "x": 2729,
+    "y": 10140,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Bat",
+    "id": 2827,
+    "x": 2725,
+    "y": 10144,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Bat",
+    "id": 2827,
+    "x": 2715,
+    "y": 10144,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Brine rat",
+    "id": 4501,
+    "x": 2704,
+    "y": 10135,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Brine rat",
+    "id": 4501,
+    "x": 2703,
+    "y": 10133,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Brine rat",
+    "id": 4501,
+    "x": 2707,
+    "y": 10130,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Brine rat",
+    "id": 4501,
+    "x": 2710,
+    "y": 10131,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Brine rat",
+    "id": 4501,
+    "x": 2713,
+    "y": 10132,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Brine rat",
+    "id": 4501,
+    "x": 2710,
+    "y": 10134,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Brine rat",
+    "id": 4501,
+    "x": 2707,
+    "y": 10134,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  }
+]

@@ -1,0 +1,44 @@
+---
+identifier: "4643a9b8-4ccb-4180-bfbc-ad340319fef2"
+title: "Ranged Armour Shop"
+currency: "COINS"
+accessibleByIronMan: false
+canSellToStore: false
+restockRules:
+  restockTicks: 6
+  restockPerTick: 10
+defaultStock:
+  - id: 1063
+    amount: 100
+  - id: 1095
+    amount: 100
+  - id: 1129
+    amount: 100
+  - id: 1065
+    amount: 100
+  - id: 1099
+    amount: 100
+  - id: 1135
+    amount: 10000
+  - id: 2487
+    amount: 10000
+  - id: 2493
+    amount: 10000
+  - id: 2499
+    amount: 10000
+  - id: 2489
+    amount: 10000
+  - id: 2495
+    amount: 10000
+  - id: 2501
+    amount: 10000
+  - id: 2491
+    amount: 10000
+  - id: 2497
+    amount: 10000
+  - id: 2503
+    amount: 10000
+  - id: 10499
+    amount: 10000
+  - id: 9185
+    amount: 10000

@@ -1,0 +1,76 @@
+[
+  {
+    "ids": [ 796, 795 ],
+    "guaranteed": [
+      { "id": 526, "min": 1, "max": 1 } //Bones
+    ],
+    "tables": [
+      {
+        "name": "Weapons and armour",
+        "weight": 1,
+        "items": [
+          { "id": 890, "min": 36, "max": 36, "weight": 6 }, //Adamant arrow
+          { "id": 1199, "min": 1, "max": 1, "weight": 6 }, //Adamant kiteshield
+          { "id": 892, "min": 18, "max": 18, "weight": 6 }, //Rune arrow
+          { "id": 1392, "min": 3, "max": 3, "weight": 3 }, //Battlestaff (noted)
+          { "id": 1213, "min": 1, "max": 1, "weight": 3 }, //Rune dagger
+          { "id": 1432, "min": 1, "max": 1, "weight": 3 }, //Rune mace
+          { "id": 1333, "min": 1, "max": 1, "weight": 1 }, //Rune scimitar
+          { "id": 1185, "min": 1, "max": 1, "weight": 1 } //Rune sq shield
+        ]
+      },
+      {
+        "name": "Runes",
+        "weight": 1,
+        "items": [
+          { "id": 565, "min": 18, "max": 18, "weight": 9 }, //Blood rune
+          { "id": 554, "min": 250, "max": 250, "weight": 3 }, //Fire rune
+          { "id": 564, "min": 32, "max": 32, "weight": 3 }, //Cosmic rune
+          { "id": 4699, "min": 150, "max": 150, "weight": 1 }, //Lava rune
+          { "id": 560, "min": 45, "max": 45, "weight": 1 } //Death rune
+        ]
+      },
+      {
+        "name": "Herbs",
+        "weight": 1,
+        "items": [
+          { "id": 199, "min": 1, "max": 1, "weight": 9 }, //Grimy guam leaf
+          { "id": 201, "min": 1, "max": 1, "weight": 6 }, //Grimy marrentill
+          { "id": 203, "min": 1, "max": 1, "weight": 6 }, //Grimy tarromin
+          { "id": 205, "min": 1, "max": 1, "weight": 6 }, //Grimy harralander
+          { "id": 207, "min": 1, "max": 1, "weight": 6 }, //Grimy ranarr weed
+          { "id": 209, "min": 1, "max": 1, "weight": 3 }, //Grimy irit leaf
+          { "id": 211, "min": 1, "max": 1, "weight": 3 }, //Grimy avantoe
+          { "id": 213, "min": 1, "max": 1, "weight": 3 }, //Grimy kwuarm
+          { "id": 215, "min": 1, "max": 1, "weight": 1 }, //Grimy cadantine
+          { "id": 2485, "min": 1, "max": 1, "weight": 1 }, //Grimy lantadyme
+          { "id": 217, "min": 1, "max": 1, "weight": 1 } //Grimy dwarf weed
+        ]
+      },
+      {
+        "name": "Seeds ",
+        "weight": 1,
+        "items": [
+          { "id": 5300, "min": 1, "max": 1, "weight": 6 }, //Snapdragon seed
+          { "id": 5299, "min": 1, "max": 1, "weight": 1 } //Kwuarm seed
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 995, "min": 2054, "max": 2994, "weight": 6 }, //Coins
+          { "id": 378, "min": 15, "max": 15, "weight": 6 }, //Raw lobster (noted)
+          { "id": 2360, "min": 22, "max": 22, "weight": 6 }, //Mithril bar (noted)
+          { "id": 9738, "min": 6, "max": 6, "weight": 6 }, //Desert goat horn (noted)
+          { "id": 365, "min": 6, "max": 6, "weight": 3 }, //Bass
+          { "id": 379, "min": 5, "max": 5, "weight": 3 }, //Lobster
+          { "id": 364, "min": 24, "max": 24, "weight": 3 }, //Raw bass (noted)
+          { "id": 450, "min": 14, "max": 14, "weight": 3 }, //Adamantite ore (noted)
+          { "id": 454, "min": 32, "max": 32, "weight": 1 }, //Coal (noted)
+          { "id": 1624, "min": 4, "max": 4, "weight": 1 } //Uncut sapphire (noted)
+        ]
+      }
+    ]
+  }
+]

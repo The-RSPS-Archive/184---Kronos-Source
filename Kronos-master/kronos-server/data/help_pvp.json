@@ -1,0 +1,431 @@
+[
+  {
+    "key": "getting_started",
+    "title": "How do I get started?",
+    "message": [
+      "Getting started here at Kronos is quite easy! You have a",
+      "choice of five different game modes. These include",
+      "Normal (economy)",
+      "PK Mode (Where you are able to set your stats and be given a",
+      "variety of items",
+      "To PK with, to get straight into the action!  <col=999999>Ironman</col> Mode (A mode where",
+      "everything you buy at the start, is limited and you are a self sufficient",
+      "Account. You will be unable to trade other players,",
+      " unable to use the",
+      "Trading Post, unable to participate in World Boss Events",
+      " and certain minigames.",
+      "Everything you do is on your own and at",
+      " your own risk.",
+      "<col=490000>Hardcore</col> Ironman Mode (A mode exactly like Ironman,",
+      "however you <col=490000>CANNOT DIE</col>)",
+      "Ultimate Ironman Mode (Mode just like Ironman, however you only have",
+      "<col=484AD7>ONE INVENTORY</col>! You <col=484AD7>CANNOT</col> use ANY of the banks around Kronos!",
+      "You will only be able to UN-NOTE items, from drops and",
+      "cannot <col=484AD7>note</col>* Items!",
+      "Throughout the F.A.Q, most of this information will be covered and",
+      "can be accessed at any time.",
+      "",
+      "<col=006600>Beginning",
+      "When first getting started, you want to set your stats (PK Mode ONLY).",
+      "To do this, simply type either <col=8e1414>::master</col> or click your stats to set them.",
+      "",
+      "Following that you'll want to make use of the <col=8e1414>presets tab</col>.",
+      "This tab contains a variety of selectable auto presets that will",
+      "fill your inventory and equipment slots with items.",
+      "",
+      "After you've set your stats, you're ready to go and fight!",
+      "Remember, most everything in this world is acquired by killing",
+      "other players, doing bosses, or from the multiple ways of",
+      "collecting tokens or credits. Best of luck out there!"
+    ]
+  },
+  {
+    "key": "setting_stats",
+    "title": "How do I train or set my stats?",
+    "message": [
+      "The Teleportation Portal, just South of the Main Bank at ::home,",
+      "can be used to go to various locations to train your stats/",
+      "Most common area is Sand Crabs.",
+      "Sand Crabs have VERY low attack and strength, and A LOT of HP.",
+      " This is the best place to start levelling your stats,",
+      "when you first start Kronos.",
+      "",
+      "<col=ffff00>This section is for PK MODE ONLY</col>",
+      "",
+      "<col=006600>Automatic Stats (PK Mode Only)",
+      "<col=8e1414>::master</col> - This command will max all of your stats.",
+      "<col=8e1414>::pure</col> - This command will set your stats to those of a pure.",
+      "",
+      "<col=006600>Manual Stats",
+      "Manually clicking each stat from within the <col=8e1414>stats menu</col>",
+      "will prompt you to manually set them. This allows for a ton",
+      "of customization options!",
+      "",
+      "<col=006600>Preset Stats",
+      "Each of our equipment presets come with the respective stats!",
+      "If you <col=8e1414>click on the quest tab and then click on the arrows,</col>",
+      "the Main and Pure presets will modify your stats to match their",
+      "given items. Keep in mind, however, that the only way to reverse",
+      "preset stats from the Main preset is to manually do them."
+    ]
+  },
+  {
+    "key": "staff_applications",
+    "title": "How do I become a member of staff?",
+    "message": [
+      "At Kronos, we're always looking for dedicated members to join",
+      "our staff team. These are the type of members who'd be regarded",
+      "as role models among the community. They're active, helpful,",
+      "friendly, and most importantly, they're professional. These",
+      "members have been hand picked by the current staff team, in belief",
+      "that they meet all of these criteria.",
+      "",
+      "<col=8e1414>At no point will we accept staff applications.</col> We'll always reach out",
+      "to a member we believe will be a suitable candidate for the position",
+      "and gauge their interest in the role. If you're interested in becoming",
+      "a member of the team and you meet the criteria, we'll know and reach",
+      "out, if there's an opening. Pushing to acquire a spot is not a welcomed",
+      "Act, not appreciated and is frowned upon."
+    ]
+  },
+  {
+    "key": "item_purchasing",
+    "title": "Where do I purchase items?",
+    "message": [
+      "There's a variety of stores located around the map, but",
+      "the most common and most popular shops are located right at",
+      "the home! You can many popular stores, located just east of the middle of the",
+      "Home area, where you can purchase all your necessities!",
+      "",
+      "Some items can also be purchased through the <col=8e1414>voting shop</col>",
+      "or <col=8e1414>online store</col>. The commands ::vote  and  ::store",
+      "Will tell you more about these shops!"
+    ]
+  },
+  {
+    "key": "voting_process",
+    "title": "How do I vote for the server and am I rewarded?",
+    "message": [
+      "Voting not only helps to spread the word of Kronos",
+      "but it also rewards <col=8e1414>blood money</col> and <col=8e1414>vote tokens</col>! These",
+      "tokens can be used with the <col=b8b335>Vote Manager</col> to acquire a",
+      "variety of cosmetic items and other goods.",
+      "",
+      "In order to vote, simply enter <col=8e1414>::vote</col> into your chat",
+      "and you'll be directed to a guide on our website on how to vote for us!    .",
+      "",
+      "<col=006600>Remember, voting can be done every 12 hours!"
+    ]
+  },
+  {
+    "key": "donating_process",
+    "title": "How do I donate to the server?",
+    "message": [
+      "<col=006600>Thank you for your interest in donating!",
+      "",
+      "Donating is a major part of what helps us keep Kronos",
+      "going. It's with donations we're able to keep the server up",
+      "constantly, and keep it as fast as it is and bring out",
+      "more content for you to enjoy!",
+      "Donations help us pay the bills. It's the generosity of those",
+      "Who take the time to donate that keep us going.",
+      " All donations are greatly appreciated.",
+      "",
+      "In order to donate, simply enter <col=8e1414>::donate</col> into your chat",
+      "window and you'll be directed to a guide on the website.",
+      "Donations are met with credits which can be used to purchase",
+      "cosmetics, items, and other miscellaneous goods within the server.",
+      "",
+      "Donations are currently accepted using either <col=8e1414>Paypal</col> or <col=FFFF07>RuneScape 07 or RS3 Gold</col>.",
+      "We'll be looking to expand our accepted means of donations in",
+      "the near future, so stay tuned!"
+    ]
+  },
+  {
+    "key": "staff_contact",
+    "title": "How do I contact a member of staff?",
+    "message": [
+      "Our staff are able to be reached through a variety of",
+      "locations! You'll find them within the <col=8e1414>Help CC</col>, actively talking",
+      "within the community <col=6C0099>Discord</col>, browsing the <col=29FF07>Forum</col>, or simply",
+      "roaming around and <col=006FFF>playing the game</col>!",
+      "",
+      "In the near future, we'll be introducing a ticket system",
+      "where members who need assistance will simply have to type",
+      "in a quick command and an online member of staff will message",
+      "them directly. Good things to come!"
+    ]
+  },
+  {
+    "key": "punishment_appeal",
+    "title": "How do I appeal a punishment?",
+    "message": [
+      "If you believe you've been unfairly punished, go to",
+      "the forum and <col=8e1414>create an appeal</col> within the <col=8e1414>Help Desk</col>.",
+      "",
+      "<col=006600>We take our staff and their responsibilities very seriously.",
+      "If you believe a staff member has been in the wrong,",
+      "head to the <col=8e1414>Report a Staff Member</col> section within the forum and",
+      "create a thread there. All threads are viewed by the Administrative",
+      "team and handled as necessary."
+    ]
+  },
+  {
+    "key": "upgrade_imbue_items",
+    "title": "How do I upgrade (or imbue) my gear?",
+    "message": [
+      "Upgrading or imbuing items is super easy!",
+      "Simply find <col=b8b335>Horvik</col> in the general shopping area,",
+      "and use whichever item you're trying to upgrade or imbue",
+      "on him. He'll work his magic and the item will all set.",
+      "",
+      "Remember though, <col=8e1414>this process does cost money</col>!",
+      "Speak with <col=b8b335>Horvik</col> to find out more."
+    ]
+  },
+  {
+    "key": "buying_selling_items",
+    "title": "Where can I sell my items?",
+    "message": [
+      "Your best bet, of course, would be to sell",
+      "them to other players! They'll be your best bet, especially",
+      "if you're trying to fetch a good price.",
+      "",
+      "The alternative would be to find <col=b8b335>Sigmund</col> in the shop",
+      "just a little <col=8e1414>South-East of the home bank</col>. He'll buy anything",
+      "you have to sell... well, with the exception of a few items."
+    ]
+  },
+  {
+    "key": "setting_up_2fa_security",
+    "title": "How do I set up <col=008B12>2FA security?</col>",
+    "message": [
+      "Making sure your account is secure is the biggest priority",
+      "here at Kronos. One of the best security features we offer is the",
+      "ability to secure your account with 2FA.",
+      "",
+      "In order to begin the process of setting up 2FA for your account,",
+      "speak to the <col=008B12>Security Advisor</col> located in the main bank at home.",
+      "",
+      "<col=00FF3E>Keep your account secure! Make sure you set up 2FA!</col>"
+    ]
+  },
+  {
+    "key": "setting_manual_skull",
+    "title": "How do I manually set a <col=ffffff>skull?</col>",
+    "message": [
+      "In order to expedite the process of skulling and allow members",
+      "to set <col=8e1414>regular</col>, <col=8e1414>high risk</col>, or <col=8e1414>remove their skull</col>, we've added",
+      "the option for manual skulling!",
+      "",
+      "Speak with <col=b8b335>Rustin</col> in the shopping area at home for all skulling options."
+    ]
+  },
+  {
+    "key": "switching_spell_book",
+    "title": "How can I change my spell book?",
+    "message": [
+      "Spell books can be modified by <col=8e1414>using the Altar</col>,",
+      "south of the home area."
+    ]
+  },
+  {
+    "key": "loyalty_chest_location",
+    "title": "Where can I find the loyalty chest?",
+    "message": [
+      "The Loyalty Chest can be found in the <col=8e1414>shopping area at home</col>.",
+      "",
+      "Remember, the chest can be claimed every 24 hours and building",
+      "claiming streaks gives an increasingly better chance at rare items."
+    ]
+  },
+  {
+    "key": "refilling_special_attack",
+    "title": "How do I refill my special attack?",
+    "message": [
+      "Special attack can be refilled by touching the <col=b8b335>Rejuvenation Pool</col> found",
+      "<col=8e1414>East of the home bank</col>."
+    ]
+  },
+  {
+    "key": "teleporting_around_portal",
+    "title": "How do I teleport around?",
+    "message": [
+      "Outside of using the teleports found within the Spell Book,",
+      "The <col=b8b335>Teleportation Portal</col>, located just south",
+      "of the home bank, can be used to teleport!",
+      "It will have your most common teleports.",
+
+      "Most teleports around Kronos are free of charge, however there is",
+      "a couple that will cost <col=8e1414>blood money</col> to use.",
+      ""
+    ]
+  },
+  {
+    "key": "repairing_barrows_horvik",
+    "title": "How do I repair barrows?",
+    "message": [
+      "All barrows pieces can be repaired by speaking with <col=b8b335>Horvik</col>,",
+      "located within the shopping area at home."
+    ]
+  },
+  {
+    "key": "where_to_find_bosses",
+    "title": "Where can I find bosses to fight?",
+    "message": [
+      "Scattered throughout the world of Kronos, bosses are everywhere",
+      "to be found! Some of them are difficult to get to, while others",
+      "are quite easy. The fastest track to most bosses is going to be",
+      "the <col=b8b335>Teleportation Portal</col>, located <col=3E7AC5>North East of the home bank</col>."
+    ]
+  },
+  {
+    "key": "where_to_change_appearance",
+    "title": "Where can I change my appearance?",
+    "message": [
+      "Appearance can be changed by speaking with the <col=b8b335>Make-Over Mage</col>",
+      "located at the home bank."
+    ]
+  },
+  {
+    "key": "where_to_reset_kdr",
+    "title": "Where can I reset my K/D/R?",
+    "message": [
+      "Speaking with the <col=b8b335>Emblem Trader</col>, located alongside the home bank",
+      "He will give you the option to reset your K/D/R, Skull mechanics",
+      " or just for a chat."
+    ]
+  },
+  {
+    "key": "where_preset_tab",
+    "title": "Where do I access the preset gear options? <col=ffff00>PK MODE ONLY</col>",
+    "message": [
+      "Accessing the preset gear options can be found within the",
+      "<col=8e1414>Quest Tab</col>! Simply click on the <col=8e1414>blue icon</col>, and then look for",
+      "the <col=8e1414>arrows</col> on the top of that tab. Clicking this will bring",
+      "you to the next interface, where the <col=8e1414>Preset tab</col> is located.",
+      "",
+      "<col=006600>Remember though, equipping a preset will modify your stats!"
+    ]
+  },
+  {
+    "key": "how_to_join_tournament",
+    "title": "How do I participate in the tournament?",
+    "message": [
+      "The tournament can be joined by anyone and everyone, assuming",
+      "they're following the rules and in the right spot! The",
+      "tournament itself can be found <col=8e1414>East of the home bank.",
+      "However, you will need to ::vote for us to get a waiver to enter!",
+      "",
+      "If you're interested in signing up for the tournament,",
+      "<col=8e1414>deposit everything from your equipment slots and inventory",
+      "into your bank</col>; items required for the tournament are",
+      "automatically given, depending on the theme of the tournament.",
+      "Once everything has been deposited, head over, talk to",
+      "and click on the <col=b8b335>Tournament Manager</col>. She'll give you the rest of",
+      "the details you need to participate.",
+      "",
+      "<col=006600>Good luck and happy hunting!"
+    ]
+  },
+  {
+    "key": "money_making",
+    "title": "How do I make money?",
+    "message": [
+      "<col=006600>Killing Players",
+      "Killing players guarantees blood money. If you're on a killing",
+      "spree you'll get additional blood money. Killing somebody who's",
+      "on a spree will give you a shutdown reward. You'll also get extra",
+      "blood money depending on wilderness depth. You can also kill",
+      "targets and exchange Emblems to Rustin for a large amount of",
+      "blood money.",
+      "",
+      "<col=006600>Voting for Kronos",
+      "Voting gives 1 vote ticket and 100 blood money per vote.",
+      "",
+      "<col=006600>Loyalty Chest",
+      "Collecting from the chest gives you up a random amount",
+      "of blood money.",
+      "",
+      "<col=006600>Barrows",
+      "On top of the usual rewards, you also get a decent amount",
+      "of blood money.",
+      "",
+      "<col=006600>Wilderness Boss Events",
+      "Wilderness boss events give blood money per damage done plus",
+      "a bonus item for doing the most damage.",
+      "",
+      "<col=006600>Killing Bosses",
+      "All bosses give a guaranteed amount of blood money when killed.",
+      "Bosses in the wilderness give MORE than those in safe areas."
+    ]
+  },
+  {
+    "key": "yell",
+    "title": "How do I yell a global message?",
+    "message": [
+      "To yell a global message, simply type:",
+      "",
+      "<col=006600>::yell messagehere",
+      "",
+      "Yelling a message to the server is for privileged users. In order",
+      "to use the command you need to be a beta tester, donator, support,",
+      "youtuber, moderator or administrator. Each rank has a different",
+      "cooldown timer to use the command.",
+      "",
+      "<col=006600>Donator</col>: 90 seconds",
+      "<col=006600>Super Donator</col>: 75 seconds",
+      "<col=006600>Extreme Donator</col>: 60 seconds",
+      "<col=006600>Ultimate Donator</col>: 45 seconds",
+      "<col=006600>Master Donator</col>: 30 seconds",
+      "<col=006600>Godlike Donator</col>: 15 seconds",
+      "<col=006600>Youtuber</col>: 30 seconds",
+      "<col=006600>Beta Tester</col>: 30 seconds",
+      "",
+      "If you don't want to see global messages, you can filter them by",
+      "Clicking the toggles <col=006600>game</col> button and selecting <col=006600>Disable Yell Messages</col>."
+    ]
+  },
+  {
+    "key": "hotspots",
+    "title": "What are hotspots?",
+    "message": [
+      "Hotspots are locations inside the wilderness which give <col=006600>double",
+      "<col=006600>blood money</col> when you kill a player. The hotspot location changes",
+      "every 20 minutes. It's suggested that you PK here if you're",
+      "looking to make the most blood money per kill while pking."
+    ]
+  },
+  {
+    "key": "wild_boss_events",
+    "title": "What are wilderness boss events?",
+    "message": [
+      "Wilderness boss events are challenging but rewarding. They",
+      "<col=006600>spawn randomly</col> around the wilderness <col=006600>every 30 minutes</col>. If",
+      "you're looking to make some blood money, or perhaps kill",
+      "some players, then this is the place to go. Make sure",
+      "you watch for the <col=006600>announcements in game</col>, or look at your",
+      "<col=006600>journal</col> to see when they're <col=006600>spawning next</col>!"
+    ]
+  },
+  {
+    "key": "active_volcano",
+    "title": "What is the active volcano?",
+    "message": [
+      "The <col=006600>active volcano</col> spawns <col=006600>every 45 minutes</col>. You can mine it",
+      "for fragments. These <col=006600>fragments</col> can be <col=006600>sold for blood money</col>.",
+      "You do not need a pickaxe in order to mine the boulders. Be",
+      "careful though, as this area is in multi wilderness."
+    ]
+  },
+  {
+    "key": "trading_post",
+    "title": "What is the trading post?",
+    "message": [
+      "The <col=006600>trading post</col> is a way for you to sell your items a lot quicker than the",
+      "usual methods, you are able to sell items for coins and when an item is sold, the money goes",
+      "to your coffers. Which you can right click this object again to go too your coffers",
+      "and withdraw."
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Lokar Searunner",
+    "id": 3855,
+    "x": 2214,
+    "y": 3794,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 0
+  },
+  {
+    "name": "Captain Bentley",
+    "id": 6650,
+    "x": 2223,
+    "y": 3797,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 3
+  }
+]

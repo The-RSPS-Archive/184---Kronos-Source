@@ -1,0 +1,326 @@
+[
+  {
+    "name": "Fortress Guard",
+    "id": 4773,
+    "x": 3010,
+    "y": 3518,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Oracle",
+    "id": 821,
+    "x": 3011,
+    "y": 3503,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Fortress Guard",
+    "id": 4774,
+    "x": 3010,
+    "y": 3513,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Guard",
+    "id": 5185,
+    "x": 3013,
+    "y": 3460,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Fortress Guard",
+    "id": 4775,
+    "x": 3016,
+    "y": 3512,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Fortress Guard",
+    "id": 4776,
+    "x": 3012,
+    "y": 3509,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Black Knight",
+    "id": 4331,
+    "x": 3016,
+    "y": 3515,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Fortress Guard",
+    "id": 4774,
+    "x": 3014,
+    "y": 3512,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Fortress Guard",
+    "id": 4775,
+    "x": 3019,
+    "y": 3513,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Black Knight",
+    "id": 508,
+    "x": 3029,
+    "y": 3512,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Icefiend",
+    "id": 4813,
+    "x": 2999,
+    "y": 3473,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Icefiend",
+    "id": 4813,
+    "x": 2998,
+    "y": 3465,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Black Knight",
+    "id": 508,
+    "x": 3021,
+    "y": 3512,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Icefiend",
+    "id": 4813,
+    "x": 3001,
+    "y": 3471,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Icefiend",
+    "id": 4813,
+    "x": 3001,
+    "y": 3493,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Icefiend",
+    "id": 4813,
+    "x": 3002,
+    "y": 3483,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Guard",
+    "id": 5185,
+    "x": 3027,
+    "y": 3457,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Witch",
+    "id": 4778,
+    "x": 3028,
+    "y": 3505,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Icefiend",
+    "id": 4813,
+    "x": 3005,
+    "y": 3501,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "",
+    "id": 7749,
+    "x": 3027,
+    "y": 3509,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Icefiend",
+    "id": 4813,
+    "x": 3004,
+    "y": 3495,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Black Knight",
+    "id": 508,
+    "x": 3024,
+    "y": 3512,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Icefiend",
+    "id": 4813,
+    "x": 3005,
+    "y": 3469,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Black Cat",
+    "id": 4780,
+    "x": 3028,
+    "y": 3505,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Icefiend",
+    "id": 4813,
+    "x": 3005,
+    "y": 3480,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Black Knight Captain",
+    "id": 4777,
+    "x": 3029,
+    "y": 3509,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Icefiend",
+    "id": 4813,
+    "x": 3006,
+    "y": 3481,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Black Knight",
+    "id": 508,
+    "x": 3026,
+    "y": 3511,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Man",
+    "id": 3078,
+    "x": 3009,
+    "y": 3458,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Black Knight",
+    "id": 508,
+    "x": 3026,
+    "y": 3513,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Icefiend",
+    "id": 4813,
+    "x": 3006,
+    "y": 3466,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Black Knight",
+    "id": 508,
+    "x": 3027,
+    "y": 3501,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Greldo",
+    "id": 4779,
+    "x": 3027,
+    "y": 3506,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Black Knight",
+    "id": 508,
+    "x": 3032,
+    "y": 3504,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Monk",
+    "id": 2579,
+    "x": 3048,
+    "y": 3483,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Raccoon",
+    "id": 1420,
+    "x": 3032,
+    "y": 3457,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  }
+]

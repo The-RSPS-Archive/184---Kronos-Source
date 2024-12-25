@@ -1,0 +1,74 @@
+---
+identifier: "5e31b723-6faf-4f79-bb5d-b8967e35c073"
+title: "TzHaar-Hur-Lek's Ore and Gem Store"
+currency: "TOKKUL"
+accessibleByIronMan: true
+canSellToStore: false
+restockRules:
+  restockTicks: 52
+  restockPerTick: 1
+defaultStock:
+- id: 438
+  amount: 1000
+  price: 4
+  placeholderId: 0
+- id: 436
+  amount: 1000
+  price: 4
+  placeholderId: 0
+- id: 440
+  amount: 1000
+  price: 25
+  placeholderId: 0
+- id: 442
+  amount: 1000
+  price: 112
+  placeholderId: 0
+- id: 453
+  amount: 1000
+  price: 67
+  placeholderId: 0
+- id: 444
+  amount: 1000
+  price: 225
+  placeholderId: 0
+- id: 447
+  amount: 1000
+  price: 243
+  placeholderId: 0
+- id: 449
+  amount: 1000
+  price: 600
+  placeholderId: 0
+- id: 451
+  amount: 1000
+  price: 4800
+  placeholderId: 0
+- id: 1623
+  amount: 1000
+  price: 37
+  placeholderId: 0
+- id: 1621
+  amount: 1000
+  price: 75
+  placeholderId: 0
+- id: 1619
+  amount: 1000
+  price: 150
+  placeholderId: 0
+- id: 1617
+  amount: 1000
+  price: 300
+  placeholderId: 0
+- id: 1631
+  amount: 1000
+  price: 1500
+  placeholderId: 0
+- id: 6571
+  amount: 1000
+  price: 300000
+  placeholderId: 0
+- id: 9194
+  amount: 1000
+  price: 1500
+  placeholderId: 0

@@ -1,0 +1,45 @@
+[
+  { #Scion (100)
+    "ids": [ 5918 ],
+    "handler": "io.ruin.model.activities.bosses.slayer.sire.Scion",
+    //Combat Info
+    "hitpoints": 50,
+    "aggressive_level": 200,
+    "max_damage": 15,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 0.0,
+    "slayer_tasks": [],
+    //Combat Stats
+    "attack": 120,
+    "strength": 90,
+    "defence": 80,
+    "ranged": 100,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 30,
+    "slash_attack": 30,
+    "crush_attack": 30,
+    "magic_attack": 30,
+    "ranged_attack": 30,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 0,
+    "crush_defence": 0,
+    "magic_defence": -10,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": true,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 3,
+    "respawn_ticks": -1,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 7126,
+    "defend_animation": 7128,
+    "death_animation": 7129
+  }
+]

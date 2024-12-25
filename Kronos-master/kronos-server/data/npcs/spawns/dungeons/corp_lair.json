@@ -1,0 +1,11 @@
+[
+  {
+    "name": "Corporeal Beast",
+    "id": 319,
+    "x": 2984,
+    "y": 4381,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  }
+]

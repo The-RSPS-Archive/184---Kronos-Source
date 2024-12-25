@@ -1,0 +1,69 @@
+[
+  {
+    "ids": [ 3162, 6492 ],
+    "guaranteed": [
+      { "id": 532, "min": 1, "max": 1 }, //Big bones
+      { "id": 314, "min": 1, "max": 15 } //Feather
+    ],
+    "tables": [
+      {
+        "name": "Weapons",
+        "weight": 25,
+        "items": [
+          { "id": 9185, "min": 1, "max": 1, "weight": 3 }, //Rune crossbow
+          { "id": 1289, "min": 1, "max": 1, "weight": 1 } //Rune sword
+        ]
+      },
+      {
+        "name": "Ammunition and Runes",
+        "weight": 25,
+        "items": [
+          { "id": 9144, "min": 18, "max": 25, "weight": 3 }, //Runite bolts
+          { "id": 558, "min": 500, "max": 601, "weight": 1 }, //Mind rune
+          { "id": 892, "min": 100, "max": 105, "weight": 1 }, //Rune arrow
+          { "id": 9244, "min": 5, "max": 15, "weight": 1 } //Dragon bolts (e)
+        ]
+      },
+      {
+        "name": "Armour",
+        "weight": 15,
+        "items": [
+          { "id": 2503, "min": 1, "max": 1, "weight": 1 } //Black d'hide body
+        ]
+      },
+	  {
+        "name": "Armadyl Armour",
+        "weight": 2,
+        "items": [
+          { "id": 11826, "min": 1, "max": 1, "weight": 2 }, //Armadyl helmet
+          { "id": 11828, "min": 1, "max": 1, "weight": 1 }, //Armadyl chestplate
+          { "id": 11830, "min": 1, "max": 1, "weight": 1 } //Armadyl chainskirt
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 35,
+        "items": [
+          { "id": 995, "min": 18000, "max": 21000, "weight": 150 }, //Coins
+          { "id": 218, "min": 5, "max": 22, "weight": 150 }, //Grimy dwarf weed (noted)
+          { "id": 5303, "min": 3, "max": 3, "weight": 150 }, //Dwarf weed seed
+          { "id": 169, "min": 3, "max": 3, "weight": 50 }, //Ranging potion(3)
+          { "id": 163, "min": 3, "max": 3, "weight": 50 }, //Super defence(3)
+          { "id": 989, "min": 1, "max": 1, "weight": 25 }, //Crystal key
+          { "id": 5315, "min": 1, "max": 1, "weight": 25 }, //Yew seed
+          { "id": 12073, "min": 1, "max": 1, "weight": 10 } //Clue scroll (elite)
+        ]
+      },
+	  {
+        "name": "Godsword Items",
+        "weight": 1,
+        "items": [
+          { "id": 11818, "min": 1, "max": 1, "weight": 5 }, //Godsword shard 1
+          { "id": 11820, "min": 1, "max": 1, "weight": 5 }, //Godsword shard 2
+          { "id": 11822, "min": 1, "max": 1, "weight": 5 }, //Godsword shard 3
+          { "id": 11810, "min": 1, "max": 1, "weight": 4 } //Armadyl hilt
+        ]
+      }
+    ]
+  }
+]

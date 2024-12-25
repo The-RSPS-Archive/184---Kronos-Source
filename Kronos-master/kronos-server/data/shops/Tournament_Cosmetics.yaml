@@ -1,0 +1,82 @@
+---
+identifier: "347e6721-8007-444b-8249-736036d84ab4"
+title: "Tournament Cosmetics"
+currency: "BLOOD_MONEY"
+accessibleByIronMan: true
+canSellToStore: false
+restockRules:
+  restockTicks: 52
+  restockPerTick: 1
+defaultStock:
+- id: 11898
+  amount: 1000
+  price: 150
+  placeholderId: 0
+- id: 11896
+  amount: 1000
+  price: 150
+  placeholderId: 0
+- id: 11897
+  amount: 1000
+  price: 150
+  placeholderId: 0
+- id: 11899
+  amount: 1000
+  price: 500
+  placeholderId: 0
+- id: 11900
+  amount: 1000
+  price: 500
+  placeholderId: 0
+- id: 12637
+  amount: 1000
+  price: 150
+  placeholderId: 0
+- id: 12638
+  amount: 1000
+  price: 150
+  placeholderId: 0
+- id: 12639
+  amount: 1000
+  price: 150
+  placeholderId: 0
+- id: 10386
+  amount: 1000
+  price: 200
+  placeholderId: 0
+- id: 10388
+  amount: 1000
+  price: 200
+  placeholderId: 0
+- id: 10390
+  amount: 1000
+  price: 200
+  placeholderId: 0
+- id: 10378
+  amount: 1000
+  price: 200
+  placeholderId: 0
+- id: 10380
+  amount: 1000
+  price: 200
+  placeholderId: 0
+- id: 10382
+  amount: 1000
+  price: 200
+  placeholderId: 0
+- id: 10370
+  amount: 1000
+  price: 200
+  placeholderId: 0
+- id: 10372
+  amount: 1000
+  price: 200
+  placeholderId: 0
+- id: 10374
+  amount: 1000
+  price: 200
+  placeholderId: 0
+- id: 20226
+  amount: 1000
+  price: 200
+  placeholderId: 0

@@ -1,0 +1,62 @@
+[
+  {
+    "ids": [ 1539 ],
+    "guaranteed": [
+      { "id": 526, "min": 1, "max": 1 } //Bones
+    ],
+    "tables": [
+      {
+        "name": "Armour & Weapons",
+        "weight": 1,
+        "items": [
+          { "id": 1191, "min": 1, "max": 1, "weight": 12 }, //Iron kiteshield
+          { "id": 1081, "min": 1, "max": 1, "weight": 9 }, //Iron plateskirt
+          { "id": 1295, "min": 1, "max": 1, "weight": 9 }, //Steel longsword
+          { "id": 1371, "min": 1, "max": 1, "weight": 9 }, //Adamant battleaxe
+          { "id": 1181, "min": 1, "max": 1, "weight": 6 }, //Mithril sq shield
+          { "id": 1157, "min": 1, "max": 1, "weight": 6 }, //Steel full helm
+          { "id": 11371, "min": 1, "max": 1, "weight": 6 }, //Steel hasta
+          { "id": 1193, "min": 1, "max": 1, "weight": 3 }, //Steel kiteshield
+          { "id": 1325, "min": 1, "max": 1, "weight": 3 }, //Steel scimitar
+          { "id": 1391, "min": 1, "max": 1, "weight": 3 }, //Battlestaff
+          { "id": 1373, "min": 1, "max": 1, "weight": 1 }, //Rune battleaxe
+          { "id": 1333, "min": 1, "max": 1, "weight": 1 }, //Rune scimitar
+          { "id": 857, "min": 1, "max": 1, "weight": 1 } //Yew shortbow
+        ]
+      },
+      {
+        "name": "Runes/Ammunition",
+        "weight": 1,
+        "items": [
+          { "id": 886, "min": 20, "max": 20, "weight": 6 }, //Steel arrow
+          { "id": 9145, "min": 5, "max": 5, "weight": 3 }, //Silver bolts
+          { "id": 808, "min": 10, "max": 10, "weight": 3 }, //Steel dart
+          { "id": 865, "min": 10, "max": 10, "weight": 3 }, //Steel knife
+          { "id": 560, "min": 5, "max": 5, "weight": 3 }, //Death rune
+          { "id": 565, "min": 3, "max": 3, "weight": 1 }, //Blood rune
+          { "id": 890, "min": 5, "max": 5, "weight": 1 } //Adamant arrow
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 995, "min": 106, "max": 106, "weight": 12 }, //Coins
+          { "id": 995, "min": 142, "max": 142, "weight": 12 }, //Coins
+          { "id": 201, "min": 1, "max": 1, "weight": 12 }, //Grimy marrentill
+          { "id": 1637, "min": 1, "max": 1, "weight": 12 }, //Sapphire ring
+          { "id": 2354, "min": 3, "max": 3, "weight": 12 }, //Steel bar (noted)
+          { "id": 11443, "min": 1, "max": 1, "weight": 12 }, //Strength mix(2)
+          { "id": 1515, "min": 1, "max": 1, "weight": 6 }, //Yew logs
+          { "id": 2361, "min": 1, "max": 1, "weight": 6 }, //Adamantite bar
+          { "id": 2357, "min": 1, "max": 1, "weight": 6 }, //Gold bar
+          { "id": 444, "min": 1, "max": 1, "weight": 3 }, //Gold ore
+          { "id": 2356, "min": 3, "max": 3, "weight": 3 }, //Silver bar (noted)
+          { "id": 11341, "min": 1, "max": 1, "weight": 3 }, //Ancient page
+          { "id": 9419, "min": 2, "max": 2, "weight": 1 }, //Mith grapple
+          { "id": 2801, "min": 1, "max": 1, "weight": 1 } //Clue scroll (medium)
+        ]
+      }
+    ]
+  }
+]

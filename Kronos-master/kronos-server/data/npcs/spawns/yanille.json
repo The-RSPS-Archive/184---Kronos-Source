@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Aleck",
+    "id": 1501,
+    "x": 2567,
+    "y": 3083,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Leon",
+    "id": 1502,
+    "x": 2564,
+    "y": 3082,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Watchman",
+    "id": 3251,
+    "x": 2541,
+    "y": 3091,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Watchman",
+    "id": 3251,
+    "x": 2544,
+    "y": 3092,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Watchman",
+    "id": 3251,
+    "x": 2600,
+    "y": 3097,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Watchman",
+    "id": 3251,
+    "x": 2615,
+    "y": 3103,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Watchman",
+    "id": 3251,
+    "x": 2613,
+    "y": 3104,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  }
+]

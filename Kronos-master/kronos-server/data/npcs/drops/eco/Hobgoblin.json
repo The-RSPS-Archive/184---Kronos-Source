@@ -1,0 +1,94 @@
+[
+  {
+    "ids": [ 3049, 3286, 3287, 3288, 3289, 4805, 3050, 2241 ],
+    "guaranteed": [
+      { "id": 526, "min": 1, "max": 1 } //Bones
+    ],
+    "tables": [
+      {
+        "name": "Armour/Weapons",
+        "weight": 1,
+        "items": [
+          { "id": 1279, "min": 1, "max": 1, "weight": 9 }, //Iron sword
+          { "id": 1239, "min": 1, "max": 1, "weight": 9 }, //Iron spear
+          { "id": 1207, "min": 1, "max": 1, "weight": 6 }, //Steel dagger
+          { "id": 1237, "min": 1, "max": 1, "weight": 6 }, //Bronze spear
+          { "id": 826, "min": 5, "max": 5, "weight": 6 }, //Iron javelin
+          { "id": 1295, "min": 1, "max": 1, "weight": 3 }, //Steel longsword
+          { "id": 1241, "min": 1, "max": 1, "weight": 1 }, //Steel spear
+          { "id": 1009, "min": 1, "max": 1, "weight": 1 } //Brass necklace
+        ]
+      },
+      {
+        "name": "Runes",
+        "weight": 1,
+        "items": [
+          { "id": 559, "min": 6, "max": 6, "weight": 6 }, //Body rune
+          { "id": 563, "min": 2, "max": 2, "weight": 6 }, //Law rune
+          { "id": 554, "min": 7, "max": 7, "weight": 6 }, //Fire rune
+          { "id": 562, "min": 3, "max": 3, "weight": 3 }, //Chaos rune
+          { "id": 555, "min": 2, "max": 2, "weight": 3 }, //Water rune
+          { "id": 561, "min": 4, "max": 4, "weight": 3 }, //Nature rune
+          { "id": 564, "min": 2, "max": 2, "weight": 1 } //Cosmic rune
+        ]
+      },
+      {
+        "name": "Herbs",
+        "weight": 1,
+        "items": [
+          { "id": 199, "min": 1, "max": 1, "weight": 9 }, //Grimy guam leaf
+          { "id": 201, "min": 1, "max": 1, "weight": 9 }, //Grimy marrentill
+          { "id": 203, "min": 1, "max": 1, "weight": 6 }, //Grimy tarromin
+          { "id": 205, "min": 1, "max": 1, "weight": 6 }, //Grimy harralander
+          { "id": 207, "min": 1, "max": 1, "weight": 6 }, //Grimy ranarr weed
+          { "id": 209, "min": 1, "max": 1, "weight": 3 }, //Grimy irit leaf
+          { "id": 211, "min": 1, "max": 1, "weight": 3 }, //Grimy avantoe
+          { "id": 213, "min": 1, "max": 1, "weight": 3 }, //Grimy kwuarm
+          { "id": 215, "min": 1, "max": 1, "weight": 1 }, //Grimy cadantine
+          { "id": 2485, "min": 1, "max": 1, "weight": 1 }, //Grimy lantadyme
+          { "id": 217, "min": 1, "max": 1, "weight": 1 } //Grimy dwarf weed
+        ]
+      },
+      {
+        "name": "Seeds",
+        "weight": 1,
+        "items": [
+          { "id": 5311, "min": 1, "max": 1, "weight": 9 }, //Wildblood seed
+          { "id": 5280, "min": 1, "max": 1, "weight": 9 }, //Cactus seed
+          { "id": 5318, "min": 4, "max": 4, "weight": 9 }, //Potato seed
+          { "id": 5319, "min": 4, "max": 4, "weight": 9 }, //Onion seed
+          { "id": 5324, "min": 4, "max": 4, "weight": 9 }, //Cabbage seed
+          { "id": 5104, "min": 1, "max": 1, "weight": 6 }, //Jangerberry seed
+          { "id": 5292, "min": 1, "max": 1, "weight": 6 }, //Marrentill seed
+          { "id": 5321, "min": 1, "max": 1, "weight": 6 }, //Watermelon seed
+          { "id": 5293, "min": 1, "max": 1, "weight": 6 }, //Tarromin seed
+          { "id": 5300, "min": 1, "max": 1, "weight": 6 }, //Snapdragon seed
+          { "id": 5100, "min": 1, "max": 1, "weight": 6 }, //Limpwurt seed
+          { "id": 5323, "min": 1, "max": 1, "weight": 3 }, //Strawberry seed
+          { "id": 5320, "min": 3, "max": 3, "weight": 3 }, //Sweetcorn seed
+          { "id": 5295, "min": 1, "max": 1, "weight": 3 }, //Ranarr seed
+          { "id": 5302, "min": 1, "max": 1, "weight": 3 }, //Lantadyme seed
+          { "id": 5301, "min": 1, "max": 1, "weight": 3 }, //Cadantine seed
+          { "id": 5303, "min": 1, "max": 1, "weight": 1 }, //Dwarf weed seed
+          { "id": 5105, "min": 1, "max": 1, "weight": 1 }, //Whiteberry seed
+          { "id": 5106, "min": 1, "max": 1, "weight": 1 }, //Poison ivy seed
+          { "id": 5304, "min": 1, "max": 1, "weight": 1 } //Torstol seed
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 995, "min": 1, "max": 1, "weight": 9 }, //Coins
+          { "id": 995, "min": 5, "max": 5, "weight": 9 } , //Coins
+          { "id": 995, "min": 15, "max": 15, "weight": 6 }, //Coins
+          { "id": 995, "min": 28, "max": 28, "weight": 3 }, //Coins
+          { "id": 995, "min": 42, "max": 42, "weight": 3 }, //Coins
+          { "id": 995, "min": 68, "max": 68, "weight": 3 }, //Coins
+          { "id": 225, "min": 1, "max": 1, "weight": 1 }, //Limpwurt root
+          { "id": 288, "min": 1, "max": 1, "weight": 1 } //Goblin mail
+        ]
+      }
+    ]
+  }
+]

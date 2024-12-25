@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Examiner",
+    "id": 3635,
+    "x": 3364,
+    "y": 3343,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Examiner",
+    "id": 3637,
+    "x": 3364,
+    "y": 3338,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Researcher",
+    "id": 3638,
+    "x": 3361,
+    "y": 3335,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Archaeological expert",
+    "id": 3639,
+    "x": 3352,
+    "y": 3334,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  }
+]

@@ -1,0 +1,88 @@
+[
+  { #Slagilith (92)
+    "ids": [ 1362, 6385 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 60,
+    "aggressive_level": 184,
+    "max_damage": 13,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 0.0,
+    "slayer_tasks": [],
+    //Combat Stats
+    "attack": 60,
+    "strength": 120,
+    "defence": 75,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 10,
+    "slash_attack": 10,
+    "crush_attack": 10,
+    "magic_attack": 10,
+    "ranged_attack": 10,
+    //Defensive Stats
+    "stab_defence": 50,
+    "slash_defence": 50,
+    "crush_defence": 5,
+    "magic_defence": 5,
+    "ranged_defence": 50,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 2,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": -1,
+    "defend_animation": -1,
+    "death_animation": -1
+  },
+  { #Slagilith (hard) (202)
+    "ids": [ 6324 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 150,
+    "aggressive_level": 404,
+    "max_damage": 31,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 0.0,
+    "slayer_tasks": [],
+    //Combat Stats
+    "attack": 150,
+    "strength": 300,
+    "defence": 75,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 10,
+    "slash_attack": 10,
+    "crush_attack": 10,
+    "magic_attack": 10,
+    "ranged_attack": 10,
+    //Defensive Stats
+    "stab_defence": 50,
+    "slash_defence": 50,
+    "crush_defence": 5,
+    "magic_defence": 5,
+    "ranged_defence": 50,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 2,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": -1,
+    "defend_animation": -1,
+    "death_animation": -1
+  }
+]

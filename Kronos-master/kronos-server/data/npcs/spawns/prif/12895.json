@@ -1,0 +1,322 @@
+[
+  {
+    "id": 9189,
+    "x": 3213,
+    "y": 6084,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4,
+    "world": "ECO",
+    "npcName": "Guard"
+  },
+  {
+    "id": 9184,
+    "x": 3261,
+    "y": 6133,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Guard"
+  },
+  {
+    "id": 9153,
+    "x": 3255,
+    "y": 6125,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1,
+    "world": "ECO",
+    "npcName": "Iwan"
+  },
+  {
+    "id": 9125,
+    "x": 3247,
+    "y": 6123,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Lady Carys Hefin"
+  },
+  {
+    "id": 9054,
+    "x": 3238,
+    "y": 6123,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1,
+    "world": "ECO",
+    "npcName": "Miriel"
+  },
+  {
+    "id": 9139,
+    "x": 3237,
+    "y": 6127,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1,
+    "world": "ECO",
+    "npcName": "Eira"
+  },
+  {
+    "id": 9053,
+    "x": 3237,
+    "y": 6124,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1,
+    "world": "ECO",
+    "npcName": "Amrod"
+  },
+  {
+    "id": 9055,
+    "x": 3246,
+    "y": 6111,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Curufin"
+  },
+  {
+    "id": 9152,
+    "x": 3249,
+    "y": 6106,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Ystwyth"
+  },
+  {
+    "id": 9128,
+    "x": 3256,
+    "y": 6111,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0,
+    "world": "ECO",
+    "npcName": "Banker"
+  },
+  {
+    "id": 9128,
+    "x": 3258,
+    "y": 6111,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0,
+    "world": "ECO",
+    "npcName": "Banker"
+  },
+  {
+    "id": 9132,
+    "x": 3255,
+    "y": 6103,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 0,
+    "world": "ECO",
+    "npcName": "Banker"
+  },
+  {
+    "id": 9132,
+    "x": 3258,
+    "y": 6103,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 0,
+    "world": "ECO",
+    "npcName": "Banker"
+  },
+  {
+    "id": 9130,
+    "x": 3256,
+    "y": 6103,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 0,
+    "world": "ECO",
+    "npcName": "Banker"
+  },
+  {
+    "id": 9184,
+    "x": 3262,
+    "y": 6099,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Guard"
+  },
+  {
+    "id": 9084,
+    "x": 3258,
+    "y": 6086,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Fingolfin"
+  },
+  {
+    "id": 9085,
+    "x": 3256,
+    "y": 6080,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Mahtan"
+  },
+  {
+    "id": 9183,
+    "x": 3250,
+    "y": 6083,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Guard"
+  },
+  {
+    "id": 9151,
+    "x": 3263,
+    "y": 6089,
+    "z": 2,
+    "direction": "W",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Crefydd"
+  },
+  {
+    "id": 9184,
+    "x": 3254,
+    "y": 6092,
+    "z": 2,
+    "direction": "W",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Guard"
+  },
+  {
+    "id": 9113,
+    "x": 3239,
+    "y": 6119,
+    "z": 2,
+    "direction": "W",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Hendor"
+  },
+  {
+    "id": 9183,
+    "x": 3241,
+    "y": 6105,
+    "z": 2,
+    "direction": "W",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Guard"
+  },
+  {
+    "id": 9183,
+    "x": 3231,
+    "y": 6115,
+    "z": 2,
+    "direction": "W",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Guard"
+  },
+  {
+    "id": 9117,
+    "x": 3233,
+    "y": 6113,
+    "z": 2,
+    "direction": "W",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Aranwe"
+  },
+  {
+    "id": 9109,
+    "x": 3224,
+    "y": 6104,
+    "z": 2,
+    "direction": "W",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Findis"
+  },
+  {
+    "id": 9057,
+    "x": 3232,
+    "y": 6089,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 1,
+    "world": "ECO",
+    "npcName": "Tatie"
+  },
+  {
+    "id": 9155,
+    "x": 3219,
+    "y": 6088,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 1,
+    "world": "ECO",
+    "npcName": "Elgan"
+  },
+  {
+    "id": 9058,
+    "x": 3225,
+    "y": 6087,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Finduilas"
+  },
+  {
+    "id": 9119,
+    "x": 3223,
+    "y": 6100,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Lord Ieuan Amlodd"
+  },
+  {
+    "id": 9056,
+    "x": 3231,
+    "y": 6100,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 2,
+    "world": "ECO",
+    "npcName": "Enerdhil"
+  },
+  {
+    "id": 9192,
+    "x": 3235,
+    "y": 6105,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0,
+    "world": "ECO",
+    "npcName": "Raven"
+  },
+  {
+    "id": 9169,
+    "x": 3222,
+    "y": 6114,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 1,
+    "world": "ECO",
+    "npcName": "Efa"
+  }
+]

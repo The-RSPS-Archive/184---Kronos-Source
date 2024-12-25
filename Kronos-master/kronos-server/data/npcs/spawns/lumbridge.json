@@ -1,0 +1,5042 @@
+[
+  {
+    "name": "Border Guard",
+    "id": 4287,
+    "x": 3267,
+    "y": 3226,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 0
+  },
+  {
+    "name": "Border Guard",
+    "id": 4287,
+    "x": 3267,
+    "y": 3229,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 0
+  },
+  {
+    "name": "Border Guard",
+    "id": 4288,
+    "x": 3268,
+    "y": 3226,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0
+  },
+  {
+    "name": "Border Guard",
+    "id": 4288,
+    "x": 3268,
+    "y": 3229,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0
+  },
+  {
+    "name": "Border Guard",
+    "id": 4287,
+    "x": 3267,
+    "y": 3226,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Border Guard",
+    "id": 4287,
+    "x": 3267,
+    "y": 3229,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Border Guard",
+    "id": 4288,
+    "x": 3268,
+    "y": 3226,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Border Guard",
+    "id": 4288,
+    "x": 3268,
+    "y": 3229,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Goblin",
+    "id": 3030,
+    "x": 3231,
+    "y": 3263,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Woman",
+    "id": 3085,
+    "x": 3232,
+    "y": 3239,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Rat",
+    "id": 2854,
+    "x": 3230,
+    "y": 3222,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Duck",
+    "id": 1838,
+    "x": 3237,
+    "y": 3248,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Duck",
+    "id": 1839,
+    "x": 3240,
+    "y": 3234,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Ducklings",
+    "id": 2002,
+    "x": 3238,
+    "y": 3244,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Duck",
+    "id": 1838,
+    "x": 3237,
+    "y": 3249,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Duck",
+    "id": 1839,
+    "x": 3237,
+    "y": 3244,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Ducklings",
+    "id": 2002,
+    "x": 3241,
+    "y": 3234,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Duck",
+    "id": 1839,
+    "x": 3240,
+    "y": 3239,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Giant spider",
+    "id": 3017,
+    "x": 3241,
+    "y": 3256,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Duck",
+    "id": 1838,
+    "x": 3240,
+    "y": 3234,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Duck",
+    "id": 1838,
+    "x": 3239,
+    "y": 3238,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Giant spider",
+    "id": 3017,
+    "x": 3245,
+    "y": 3246,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Goblin",
+    "id": 3029,
+    "x": 3247,
+    "y": 3245,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Giant spider",
+    "id": 3017,
+    "x": 3245,
+    "y": 3249,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Goblin",
+    "id": 3033,
+    "x": 3246,
+    "y": 3252,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Goblin",
+    "id": 3033,
+    "x": 3248,
+    "y": 3243,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Prayer tutor",
+    "id": 3223,
+    "x": 3243,
+    "y": 3214,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Duck",
+    "id": 1838,
+    "x": 3240,
+    "y": 3234,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Giant spider",
+    "id": 3017,
+    "x": 3247,
+    "y": 3236,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 9
+  },
+  {
+    "name": "Barfy Bill",
+    "id": 1326,
+    "x": 3244,
+    "y": 3237,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Goblin",
+    "id": 3032,
+    "x": 3245,
+    "y": 3246,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Goblin",
+    "id": 3029,
+    "x": 3247,
+    "y": 3247,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Goblin",
+    "id": 3029,
+    "x": 3246,
+    "y": 3250,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Giant spider",
+    "id": 3017,
+    "x": 3247,
+    "y": 3234,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Gee",
+    "id": 3261,
+    "x": 3247,
+    "y": 3259,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Goblin",
+    "id": 3032,
+    "x": 3248,
+    "y": 3235,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Goblin",
+    "id": 3029,
+    "x": 3251,
+    "y": 3239,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Goblin",
+    "id": 3029,
+    "x": 3252,
+    "y": 3239,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Goblin",
+    "id": 3033,
+    "x": 3249,
+    "y": 3243,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Goblin",
+    "id": 3031,
+    "x": 3247,
+    "y": 3243,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Duck",
+    "id": 1838,
+    "x": 3251,
+    "y": 3217,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Giant spider",
+    "id": 3017,
+    "x": 3247,
+    "y": 3237,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Goblin",
+    "id": 3031,
+    "x": 3250,
+    "y": 3241,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Goblin",
+    "id": 3032,
+    "x": 3248,
+    "y": 3242,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Goblin",
+    "id": 3032,
+    "x": 3251,
+    "y": 3245,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Duck",
+    "id": 1838,
+    "x": 3252,
+    "y": 3217,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Goblin",
+    "id": 3031,
+    "x": 3249,
+    "y": 3229,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Goblin",
+    "id": 3033,
+    "x": 3252,
+    "y": 3238,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Goblin",
+    "id": 3029,
+    "x": 3248,
+    "y": 3242,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Goblin",
+    "id": 3032,
+    "x": 3251,
+    "y": 3252,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Goblin",
+    "id": 3029,
+    "x": 3251,
+    "y": 3254,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 9
+  },
+  {
+    "name": "Goblin",
+    "id": 3034,
+    "x": 3253,
+    "y": 3229,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Goblin",
+    "id": 3030,
+    "x": 3252,
+    "y": 3242,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Goblin",
+    "id": 3032,
+    "x": 3253,
+    "y": 3255,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Goblin",
+    "id": 3034,
+    "x": 3251,
+    "y": 3240,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Goblin",
+    "id": 3031,
+    "x": 3254,
+    "y": 3250,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 9
+  },
+  {
+    "name": "Goblin",
+    "id": 3032,
+    "x": 3254,
+    "y": 3230,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Goblin",
+    "id": 3034,
+    "x": 3252,
+    "y": 3245,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Duck",
+    "id": 1838,
+    "x": 3225,
+    "y": 3281,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Goblin",
+    "id": 3031,
+    "x": 3252,
+    "y": 3238,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Duck",
+    "id": 1839,
+    "x": 3225,
+    "y": 3281,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Goblin",
+    "id": 3034,
+    "x": 3251,
+    "y": 3240,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Duck",
+    "id": 1839,
+    "x": 3224,
+    "y": 3280,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Goblin",
+    "id": 3033,
+    "x": 3251,
+    "y": 3250,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Butterfly",
+    "id": 236,
+    "x": 3251,
+    "y": 3232,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Duck",
+    "id": 1838,
+    "x": 3225,
+    "y": 3280,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Cow",
+    "id": 2791,
+    "x": 3255,
+    "y": 3257,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Seth Groats",
+    "id": 1351,
+    "x": 3223,
+    "y": 3293,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Cow",
+    "id": 2791,
+    "x": 3256,
+    "y": 3258,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Cow",
+    "id": 2791,
+    "x": 3250,
+    "y": 3260,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Chicken",
+    "id": 1173,
+    "x": 3227,
+    "y": 3298,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Goblin",
+    "id": 3033,
+    "x": 3255,
+    "y": 3229,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Duck",
+    "id": 2003,
+    "x": 3227,
+    "y": 3283,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Goblin",
+    "id": 3033,
+    "x": 3254,
+    "y": 3245,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Chicken",
+    "id": 1173,
+    "x": 3227,
+    "y": 3297,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Goblin",
+    "id": 3029,
+    "x": 3254,
+    "y": 3247,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Vasquen",
+    "id": 2672,
+    "x": 3226,
+    "y": 3308,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Tool Leprechaun",
+    "id": 0,
+    "x": 3233,
+    "y": 3317,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Goblin",
+    "id": 3031,
+    "x": 3255,
+    "y": 3248,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Farmer",
+    "id": 3086,
+    "x": 3232,
+    "y": 3289,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Goblin",
+    "id": 3032,
+    "x": 3256,
+    "y": 3248,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 9
+  },
+  {
+    "name": "Drake",
+    "id": 2004,
+    "x": 3228,
+    "y": 3282,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Goblin",
+    "id": 3031,
+    "x": 3255,
+    "y": 3229,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Chicken",
+    "id": 1173,
+    "x": 3229,
+    "y": 3297,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Goblin",
+    "id": 3034,
+    "x": 3256,
+    "y": 3223,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Chicken",
+    "id": 1173,
+    "x": 3229,
+    "y": 3298,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Goblin",
+    "id": 3033,
+    "x": 3257,
+    "y": 3230,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Duck",
+    "id": 2003,
+    "x": 3229,
+    "y": 3282,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Goblin",
+    "id": 3031,
+    "x": 3257,
+    "y": 3243,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Chicken",
+    "id": 1174,
+    "x": 3227,
+    "y": 3292,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Goblin",
+    "id": 3030,
+    "x": 3256,
+    "y": 3250,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Cow",
+    "id": 2791,
+    "x": 3257,
+    "y": 3260,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Chicken",
+    "id": 1174,
+    "x": 3230,
+    "y": 3297,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Duck",
+    "id": 1838,
+    "x": 3251,
+    "y": 3217,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Chicken",
+    "id": 1174,
+    "x": 3229,
+    "y": 3298,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Goblin",
+    "id": 3029,
+    "x": 3260,
+    "y": 3229,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Duck",
+    "id": 1838,
+    "x": 3232,
+    "y": 3269,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Goblin",
+    "id": 3033,
+    "x": 3258,
+    "y": 3232,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Chicken",
+    "id": 1173,
+    "x": 3230,
+    "y": 3298,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Goblin",
+    "id": 3032,
+    "x": 3256,
+    "y": 3230,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Chicken",
+    "id": 1174,
+    "x": 3231,
+    "y": 3298,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Goblin",
+    "id": 3034,
+    "x": 3257,
+    "y": 3235,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Chicken",
+    "id": 1173,
+    "x": 3233,
+    "y": 3297,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Goblin",
+    "id": 3035,
+    "x": 3256,
+    "y": 3237,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Duck",
+    "id": 1838,
+    "x": 3232,
+    "y": 3270,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Goblin",
+    "id": 3036,
+    "x": 3258,
+    "y": 3237,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 9
+  },
+  {
+    "name": "Duck",
+    "id": 1838,
+    "x": 3232,
+    "y": 3269,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Cow",
+    "id": 2791,
+    "x": 3260,
+    "y": 3259,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Chicken",
+    "id": 1173,
+    "x": 3233,
+    "y": 3293,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Goblin",
+    "id": 3032,
+    "x": 3260,
+    "y": 3219,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Farmer",
+    "id": 3087,
+    "x": 3231,
+    "y": 3302,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Goblin",
+    "id": 3029,
+    "x": 3260,
+    "y": 3224,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Duck",
+    "id": 1839,
+    "x": 3232,
+    "y": 3270,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Goblin",
+    "id": 3033,
+    "x": 3259,
+    "y": 3227,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Duck",
+    "id": 1839,
+    "x": 3232,
+    "y": 3270,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Goblin",
+    "id": 3029,
+    "x": 3258,
+    "y": 3242,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Chicken",
+    "id": 1174,
+    "x": 3234,
+    "y": 3296,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Duck",
+    "id": 1838,
+    "x": 3232,
+    "y": 3270,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Chicken",
+    "id": 1174,
+    "x": 3233,
+    "y": 3298,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Cow",
+    "id": 2791,
+    "x": 3244,
+    "y": 3293,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Cow",
+    "id": 2791,
+    "x": 3245,
+    "y": 3283,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Cow",
+    "id": 2791,
+    "x": 3245,
+    "y": 3289,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Cow",
+    "id": 2791,
+    "x": 3246,
+    "y": 3293,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Cow calf",
+    "id": 2792,
+    "x": 3247,
+    "y": 3280,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Cow",
+    "id": 2791,
+    "x": 3246,
+    "y": 3284,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Cow calf",
+    "id": 2792,
+    "x": 3247,
+    "y": 3287,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Cow",
+    "id": 2791,
+    "x": 3250,
+    "y": 3292,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Farmer",
+    "id": 3089,
+    "x": 3253,
+    "y": 3307,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Cow",
+    "id": 2791,
+    "x": 3252,
+    "y": 3282,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Cow",
+    "id": 2791,
+    "x": 3251,
+    "y": 3288,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Cow",
+    "id": 2791,
+    "x": 3254,
+    "y": 3266,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Gillie Groats",
+    "id": 4628,
+    "x": 3254,
+    "y": 3274,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Cow calf",
+    "id": 2792,
+    "x": 3254,
+    "y": 3290,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Cow",
+    "id": 2791,
+    "x": 3255,
+    "y": 3278,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Cow calf",
+    "id": 2792,
+    "x": 3256,
+    "y": 3273,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Cow",
+    "id": 2791,
+    "x": 3256,
+    "y": 3291,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Cow calf",
+    "id": 2792,
+    "x": 3257,
+    "y": 3280,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Cow",
+    "id": 2791,
+    "x": 3256,
+    "y": 3286,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Cow",
+    "id": 2791,
+    "x": 3258,
+    "y": 3265,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Crow",
+    "id": 2071,
+    "x": 3252,
+    "y": 3306,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Crow",
+    "id": 2069,
+    "x": 3249,
+    "y": 3307,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Cow",
+    "id": 2791,
+    "x": 3257,
+    "y": 3293,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Crow",
+    "id": 2070,
+    "x": 3250,
+    "y": 3307,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Cow",
+    "id": 2791,
+    "x": 3260,
+    "y": 3270,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Cow calf",
+    "id": 2792,
+    "x": 3260,
+    "y": 3273,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Cow",
+    "id": 2791,
+    "x": 3260,
+    "y": 3281,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Cow calf",
+    "id": 2792,
+    "x": 3259,
+    "y": 3288,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Cow",
+    "id": 2791,
+    "x": 3259,
+    "y": 3291,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Cow",
+    "id": 2791,
+    "x": 3260,
+    "y": 3276,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Cow calf",
+    "id": 2792,
+    "x": 3260,
+    "y": 3286,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Giant spider",
+    "id": 3017,
+    "x": 3199,
+    "y": 3238,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Goblin",
+    "id": 3032,
+    "x": 3211,
+    "y": 3246,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Cow",
+    "id": 2795,
+    "x": 3202,
+    "y": 3262,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Giant spider",
+    "id": 3017,
+    "x": 3200,
+    "y": 3238,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 9
+  },
+  {
+    "name": "Cow calf",
+    "id": 2794,
+    "x": 3203,
+    "y": 3260,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Piglet",
+    "id": 2800,
+    "x": 3204,
+    "y": 3261,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Rat",
+    "id": 2854,
+    "x": 3210,
+    "y": 3208,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Rat",
+    "id": 2854,
+    "x": 3207,
+    "y": 3206,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Rat",
+    "id": 2854,
+    "x": 3205,
+    "y": 3210,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Rat",
+    "id": 2854,
+    "x": 3207,
+    "y": 3206,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Rat",
+    "id": 2854,
+    "x": 3212,
+    "y": 3205,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Rat",
+    "id": 2854,
+    "x": 3204,
+    "y": 3207,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Goblin",
+    "id": 3031,
+    "x": 3202,
+    "y": 3262,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Sheep",
+    "id": 2695,
+    "x": 3206,
+    "y": 3261,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Rat",
+    "id": 2854,
+    "x": 3209,
+    "y": 3204,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Rat",
+    "id": 2854,
+    "x": 3211,
+    "y": 3207,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Man",
+    "id": 3078,
+    "x": 3207,
+    "y": 3228,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Hans",
+    "id": 3077,
+    "x": 3219,
+    "y": 3218,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Cow calf",
+    "id": 2794,
+    "x": 3206,
+    "y": 3261,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Sheep",
+    "id": 2696,
+    "x": 3208,
+    "y": 3261,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Cook",
+    "id": 4626,
+    "x": 3208,
+    "y": 3214,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Shop keeper",
+    "id": 2813,
+    "x": 3211,
+    "y": 3246,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Ram",
+    "id": 1263,
+    "x": 3209,
+    "y": 3258,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Piglet",
+    "id": 2800,
+    "x": 3208,
+    "y": 3262,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Shop assistant",
+    "id": 2814,
+    "x": 3211,
+    "y": 3247,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Man",
+    "id": 3078,
+    "x": 3214,
+    "y": 3219,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Donie",
+    "id": 3262,
+    "x": 3205,
+    "y": 3262,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Woman",
+    "id": 3083,
+    "x": 3217,
+    "y": 3206,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Man",
+    "id": 3080,
+    "x": 3218,
+    "y": 3237,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Magic combat tutor",
+    "id": 3218,
+    "x": 3217,
+    "y": 3238,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Ranged combat tutor",
+    "id": 3217,
+    "x": 3218,
+    "y": 3239,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Gee",
+    "id": 3261,
+    "x": 3220,
+    "y": 3226,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 9
+  },
+  {
+    "name": "Melee combat tutor",
+    "id": 3216,
+    "x": 3219,
+    "y": 3238,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Man",
+    "id": 3080,
+    "x": 3220,
+    "y": 3218,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Rat",
+    "id": 2854,
+    "x": 3212,
+    "y": 3217,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Man",
+    "id": 3078,
+    "x": 3222,
+    "y": 3240,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Goblin",
+    "id": 3030,
+    "x": 3217,
+    "y": 3261,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Ironman",
+    "id": 311,
+    "x": 3227,
+    "y": 3227,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Smithing apprentice",
+    "id": 3224,
+    "x": 3227,
+    "y": 3253,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Paul",
+    "id": 317,
+    "x": 3228,
+    "y": 3227,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Angel",
+    "id": 3369,
+    "x": 3228,
+    "y": 3227,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Woodsman tutor",
+    "id": 3226,
+    "x": 3227,
+    "y": 3245,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Rat",
+    "id": 2854,
+    "x": 3228,
+    "y": 3223,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Man",
+    "id": 3079,
+    "x": 3226,
+    "y": 3238,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Angel",
+    "id": 3369,
+    "x": 3230,
+    "y": 3215,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Doomsayer",
+    "id": 119,
+    "x": 3231,
+    "y": 3227,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Man",
+    "id": 3078,
+    "x": 3231,
+    "y": 3207,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Woman",
+    "id": 3085,
+    "x": 3230,
+    "y": 3238,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Bob",
+    "id": 2812,
+    "x": 3230,
+    "y": 3203,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Rat",
+    "id": 2854,
+    "x": 3228,
+    "y": 3223,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Woman",
+    "id": 3083,
+    "x": 3235,
+    "y": 3203,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Man",
+    "id": 3079,
+    "x": 3235,
+    "y": 3218,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Donie",
+    "id": 3262,
+    "x": 3238,
+    "y": 3226,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Duck",
+    "id": 1838,
+    "x": 3235,
+    "y": 3251,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Man",
+    "id": 3080,
+    "x": 3234,
+    "y": 3201,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Woman",
+    "id": 3084,
+    "x": 3234,
+    "y": 3203,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Rat",
+    "id": 2854,
+    "x": 3236,
+    "y": 3222,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 9
+  },
+  {
+    "name": "Duck",
+    "id": 1839,
+    "x": 3241,
+    "y": 3229,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Ducklings",
+    "id": 2002,
+    "x": 3235,
+    "y": 3248,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Duck",
+    "id": 1839,
+    "x": 3235,
+    "y": 3249,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Ducklings",
+    "id": 2002,
+    "x": 3241,
+    "y": 3230,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Duck",
+    "id": 1839,
+    "x": 3236,
+    "y": 3252,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Duck",
+    "id": 1838,
+    "x": 3237,
+    "y": 3238,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "null",
+    "id": 6093,
+    "x": 3244,
+    "y": 3203,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Duck",
+    "id": 1838,
+    "x": 3240,
+    "y": 3234,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Father Aereck",
+    "id": 921,
+    "x": 3245,
+    "y": 3207,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Woman",
+    "id": 3085,
+    "x": 3246,
+    "y": 3216,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Goblin",
+    "id": 3032,
+    "x": 3243,
+    "y": 3240,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Goblin",
+    "id": 3033,
+    "x": 3240,
+    "y": 3241,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Duck",
+    "id": 1838,
+    "x": 3251,
+    "y": 3222,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Duck",
+    "id": 1838,
+    "x": 3244,
+    "y": 3223,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Goblin",
+    "id": 3034,
+    "x": 3246,
+    "y": 3234,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Man",
+    "id": 3078,
+    "x": 3209,
+    "y": 3215,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Man",
+    "id": 3080,
+    "x": 3211,
+    "y": 3215,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Crafting tutor",
+    "id": 3220,
+    "x": 3210,
+    "y": 3212,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 0
+  },
+  {
+    "name": "Woman",
+    "id": 3083,
+    "x": 3212,
+    "y": 3213,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Duke Horacio",
+    "id": 815,
+    "x": 3210,
+    "y": 3221,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Banker tutor",
+    "id": 3227,
+    "x": 3208,
+    "y": 3222,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "null",
+    "id": 6520,
+    "x": 3209,
+    "y": 3222,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Goblin",
+    "id": 3033,
+    "x": 3139,
+    "y": 3287,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Goblin",
+    "id": 3033,
+    "x": 3143,
+    "y": 3302,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Goblin",
+    "id": 3033,
+    "x": 3143,
+    "y": 3301,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Goblin",
+    "id": 3029,
+    "x": 3140,
+    "y": 3297,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Goblin",
+    "id": 3031,
+    "x": 3144,
+    "y": 3286,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Goblin",
+    "id": 3033,
+    "x": 3147,
+    "y": 3297,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Goblin",
+    "id": 3036,
+    "x": 3146,
+    "y": 3300,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Goblin",
+    "id": 3029,
+    "x": 3146,
+    "y": 3305,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Goblin",
+    "id": 3036,
+    "x": 3141,
+    "y": 3306,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Goblin",
+    "id": 3036,
+    "x": 3141,
+    "y": 3299,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Goblin",
+    "id": 3029,
+    "x": 3147,
+    "y": 3305,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Goblin",
+    "id": 3030,
+    "x": 3139,
+    "y": 3304,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Goblin",
+    "id": 3033,
+    "x": 3141,
+    "y": 3303,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Goblin",
+    "id": 3035,
+    "x": 3148,
+    "y": 3300,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Goblin",
+    "id": 3031,
+    "x": 3148,
+    "y": 3287,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Goblin",
+    "id": 3033,
+    "x": 3144,
+    "y": 3305,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Farmer",
+    "id": 3090,
+    "x": 3147,
+    "y": 3281,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Goblin",
+    "id": 3029,
+    "x": 3149,
+    "y": 3304,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Goblin",
+    "id": 3030,
+    "x": 3141,
+    "y": 3309,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Goblin",
+    "id": 3029,
+    "x": 3145,
+    "y": 3300,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Goblin",
+    "id": 3035,
+    "x": 3149,
+    "y": 3299,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Goblin",
+    "id": 3036,
+    "x": 3139,
+    "y": 3305,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Goblin",
+    "id": 3029,
+    "x": 3149,
+    "y": 3306,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Goblin",
+    "id": 3035,
+    "x": 3153,
+    "y": 3300,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Farmer",
+    "id": 3086,
+    "x": 3156,
+    "y": 3292,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Goblin",
+    "id": 3031,
+    "x": 3149,
+    "y": 3302,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Goblin",
+    "id": 3031,
+    "x": 3160,
+    "y": 3299,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Goblin",
+    "id": 3029,
+    "x": 3149,
+    "y": 3301,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Goblin",
+    "id": 3033,
+    "x": 3157,
+    "y": 3305,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Goblin",
+    "id": 3034,
+    "x": 3167,
+    "y": 3276,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Jail guard",
+    "id": 4278,
+    "x": 3129,
+    "y": 3235,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Goblin",
+    "id": 3035,
+    "x": 3162,
+    "y": 3287,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Goblin",
+    "id": 3034,
+    "x": 3165,
+    "y": 3284,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 10
+  },
+  {
+    "name": "Goblin",
+    "id": 3030,
+    "x": 3167,
+    "y": 3285,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Goblin",
+    "id": 3031,
+    "x": 3163,
+    "y": 3292,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Goblin",
+    "id": 3034,
+    "x": 3162,
+    "y": 3293,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 9
+  },
+  {
+    "name": "Drake",
+    "id": 2004,
+    "x": 3165,
+    "y": 3273,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Goblin",
+    "id": 3036,
+    "x": 3169,
+    "y": 3284,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 9
+  },
+  {
+    "name": "Goblin",
+    "id": 3034,
+    "x": 3170,
+    "y": 3285,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Goblin",
+    "id": 3035,
+    "x": 3170,
+    "y": 3292,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Millie Miller",
+    "id": 4627,
+    "x": 3168,
+    "y": 3307,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Duck",
+    "id": 1838,
+    "x": 3171,
+    "y": 3270,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Duck",
+    "id": 2003,
+    "x": 3169,
+    "y": 3275,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Goblin",
+    "id": 3033,
+    "x": 3166,
+    "y": 3289,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Duck",
+    "id": 1839,
+    "x": 3171,
+    "y": 3270,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Drake",
+    "id": 2004,
+    "x": 3170,
+    "y": 3276,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Goblin",
+    "id": 3033,
+    "x": 3169,
+    "y": 3285,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 9
+  },
+  {
+    "name": "Chicken",
+    "id": 1174,
+    "x": 3172,
+    "y": 3293,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Chicken",
+    "id": 1174,
+    "x": 3172,
+    "y": 3297,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Duckling",
+    "id": 2001,
+    "x": 3170,
+    "y": 3270,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Chicken",
+    "id": 1174,
+    "x": 3173,
+    "y": 3291,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Chicken",
+    "id": 1173,
+    "x": 3173,
+    "y": 3293,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Goblin",
+    "id": 3029,
+    "x": 3166,
+    "y": 3305,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Duckling",
+    "id": 2001,
+    "x": 3170,
+    "y": 3270,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Chicken",
+    "id": 1173,
+    "x": 3174,
+    "y": 3296,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Chicken",
+    "id": 1174,
+    "x": 3174,
+    "y": 3301,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Chicken",
+    "id": 1174,
+    "x": 3174,
+    "y": 3292,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Chicken",
+    "id": 1173,
+    "x": 3174,
+    "y": 3297,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Chicken",
+    "id": 1173,
+    "x": 3174,
+    "y": 3299,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Chicken",
+    "id": 1174,
+    "x": 3176,
+    "y": 3303,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Goblin",
+    "id": 3031,
+    "x": 3177,
+    "y": 3294,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Chicken",
+    "id": 1174,
+    "x": 3175,
+    "y": 3293,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Chicken",
+    "id": 1174,
+    "x": 3175,
+    "y": 3298,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Chicken",
+    "id": 1173,
+    "x": 3176,
+    "y": 3291,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Chicken",
+    "id": 1173,
+    "x": 3176,
+    "y": 3299,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Chicken",
+    "id": 1173,
+    "x": 3177,
+    "y": 3295,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Chicken",
+    "id": 1174,
+    "x": 3177,
+    "y": 3303,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Chicken",
+    "id": 1173,
+    "x": 3176,
+    "y": 3304,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Chicken",
+    "id": 1174,
+    "x": 3178,
+    "y": 3292,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Chicken",
+    "id": 1173,
+    "x": 3178,
+    "y": 3295,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Chicken",
+    "id": 1174,
+    "x": 3178,
+    "y": 3297,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Chicken",
+    "id": 1174,
+    "x": 3179,
+    "y": 3299,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Goblin",
+    "id": 3033,
+    "x": 3182,
+    "y": 3283,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Unicorn",
+    "id": 2837,
+    "x": 3143,
+    "y": 3203,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Chicken",
+    "id": 1174,
+    "x": 3180,
+    "y": 3298,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Chicken",
+    "id": 1174,
+    "x": 3180,
+    "y": 3291,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Goblin",
+    "id": 3029,
+    "x": 3151,
+    "y": 3248,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Farmer",
+    "id": 3086,
+    "x": 3184,
+    "y": 3289,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Butterfly",
+    "id": 238,
+    "x": 3144,
+    "y": 3207,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Chicken",
+    "id": 1173,
+    "x": 3181,
+    "y": 3296,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Goblin",
+    "id": 3030,
+    "x": 3145,
+    "y": 3227,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Goblin",
+    "id": 3030,
+    "x": 3149,
+    "y": 3258,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Chicken",
+    "id": 1173,
+    "x": 3181,
+    "y": 3299,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Butterfly",
+    "id": 238,
+    "x": 3141,
+    "y": 3212,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Goblin",
+    "id": 3031,
+    "x": 3146,
+    "y": 3225,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 9
+  },
+  {
+    "name": "Goblin",
+    "id": 3030,
+    "x": 3180,
+    "y": 3284,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Goblin",
+    "id": 3033,
+    "x": 3139,
+    "y": 3232,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Chicken",
+    "id": 1173,
+    "x": 3181,
+    "y": 3292,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Goblin",
+    "id": 3034,
+    "x": 3150,
+    "y": 3235,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Chicken",
+    "id": 1174,
+    "x": 3182,
+    "y": 3296,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Chicken",
+    "id": 1174,
+    "x": 3182,
+    "y": 3298,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Goblin",
+    "id": 3032,
+    "x": 3148,
+    "y": 3231,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Chicken",
+    "id": 1173,
+    "x": 3186,
+    "y": 3277,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Goblin",
+    "id": 3035,
+    "x": 3145,
+    "y": 3237,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Goblin",
+    "id": 3033,
+    "x": 3183,
+    "y": 3283,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Goblin",
+    "id": 3034,
+    "x": 3149,
+    "y": 3260,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Goblin",
+    "id": 3031,
+    "x": 3182,
+    "y": 3285,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Archer",
+    "id": 1157,
+    "x": 3147,
+    "y": 3204,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Goblin",
+    "id": 3035,
+    "x": 3189,
+    "y": 3306,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Warrior",
+    "id": 1158,
+    "x": 3150,
+    "y": 3207,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Chicken",
+    "id": 1174,
+    "x": 3187,
+    "y": 3277,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Monk",
+    "id": 1159,
+    "x": 3151,
+    "y": 3206,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Wizard",
+    "id": 1160,
+    "x": 3150,
+    "y": 3205,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Chicken",
+    "id": 1173,
+    "x": 3187,
+    "y": 3277,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Butterfly",
+    "id": 238,
+    "x": 3154,
+    "y": 3253,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Spider",
+    "id": 3019,
+    "x": 3157,
+    "y": 3223,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Goblin",
+    "id": 3031,
+    "x": 3191,
+    "y": 3303,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Spider",
+    "id": 3019,
+    "x": 3156,
+    "y": 3226,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Giant spider",
+    "id": 3017,
+    "x": 3156,
+    "y": 3223,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Giant spider",
+    "id": 3017,
+    "x": 3159,
+    "y": 3225,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Fred the Farmer",
+    "id": 732,
+    "x": 3188,
+    "y": 3277,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Giant spider",
+    "id": 3017,
+    "x": 3161,
+    "y": 3223,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Chicken",
+    "id": 1174,
+    "x": 3188,
+    "y": 3277,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Spider",
+    "id": 3019,
+    "x": 3162,
+    "y": 3223,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Goblin",
+    "id": 3035,
+    "x": 3187,
+    "y": 3284,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Butterfly",
+    "id": 238,
+    "x": 3164,
+    "y": 3263,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Goblin",
+    "id": 3031,
+    "x": 3193,
+    "y": 3299,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Spider",
+    "id": 3019,
+    "x": 3165,
+    "y": 3245,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Goblin",
+    "id": 3029,
+    "x": 3190,
+    "y": 3287,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Giant spider",
+    "id": 3017,
+    "x": 3166,
+    "y": 3251,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Goblin",
+    "id": 3029,
+    "x": 3184,
+    "y": 3291,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Giant spider",
+    "id": 3017,
+    "x": 3165,
+    "y": 3244,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Chicken",
+    "id": 1173,
+    "x": 3188,
+    "y": 3277,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Cow",
+    "id": 2791,
+    "x": 3192,
+    "y": 3310,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Spider",
+    "id": 3019,
+    "x": 3168,
+    "y": 3247,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Goblin",
+    "id": 3045,
+    "x": 3164,
+    "y": 3200,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Sheepdog",
+    "id": 2802,
+    "x": 3196,
+    "y": 3267,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Giant spider",
+    "id": 3017,
+    "x": 3168,
+    "y": 3244,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Cow calf",
+    "id": 2792,
+    "x": 3196,
+    "y": 3289,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Spider",
+    "id": 3019,
+    "x": 3168,
+    "y": 3244,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Cow",
+    "id": 2791,
+    "x": 3196,
+    "y": 3293,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Butterfly",
+    "id": 238,
+    "x": 3170,
+    "y": 3260,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Cow calf",
+    "id": 2792,
+    "x": 3195,
+    "y": 3298,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Spider",
+    "id": 3019,
+    "x": 3169,
+    "y": 3244,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Ram",
+    "id": 1262,
+    "x": 3196,
+    "y": 3265,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Giant spider",
+    "id": 3017,
+    "x": 3171,
+    "y": 3244,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Cow calf",
+    "id": 2801,
+    "x": 3196,
+    "y": 3271,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Giant spider",
+    "id": 3017,
+    "x": 3172,
+    "y": 3244,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Cow",
+    "id": 2791,
+    "x": 3196,
+    "y": 3287,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Butterfly",
+    "id": 234,
+    "x": 3177,
+    "y": 3225,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Ram",
+    "id": 1264,
+    "x": 3197,
+    "y": 3273,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Butterfly",
+    "id": 234,
+    "x": 3178,
+    "y": 3227,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Cow",
+    "id": 2791,
+    "x": 3196,
+    "y": 3283,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Butterfly",
+    "id": 234,
+    "x": 3180,
+    "y": 3227,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Cow",
+    "id": 2791,
+    "x": 3198,
+    "y": 3311,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Scavvo",
+    "id": 2871,
+    "x": 3183,
+    "y": 3215,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Piglet",
+    "id": 2800,
+    "x": 3197,
+    "y": 3269,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Butterfly",
+    "id": 234,
+    "x": 3181,
+    "y": 3253,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Goblin",
+    "id": 3031,
+    "x": 3196,
+    "y": 3285,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Goblin",
+    "id": 3033,
+    "x": 3180,
+    "y": 3245,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Cow",
+    "id": 2791,
+    "x": 3197,
+    "y": 3291,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Goblin",
+    "id": 3034,
+    "x": 3183,
+    "y": 3244,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Cow",
+    "id": 2791,
+    "x": 3197,
+    "y": 3297,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Butterfly",
+    "id": 234,
+    "x": 3185,
+    "y": 3253,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 9
+  },
+  {
+    "name": "Cow",
+    "id": 2791,
+    "x": 3197,
+    "y": 3298,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Sheep",
+    "id": 2788,
+    "x": 3185,
+    "y": 3219,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Goblin",
+    "id": 3036,
+    "x": 3186,
+    "y": 3241,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 9
+  },
+  {
+    "name": "Goblin",
+    "id": 3033,
+    "x": 3185,
+    "y": 3244,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Cow calf",
+    "id": 2794,
+    "x": 3198,
+    "y": 3265,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Cow",
+    "id": 2790,
+    "x": 3186,
+    "y": 3217,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Cow calf",
+    "id": 2794,
+    "x": 3198,
+    "y": 3271,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Goblin",
+    "id": 3034,
+    "x": 3189,
+    "y": 3242,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Sheep",
+    "id": 731,
+    "x": 3199,
+    "y": 3267,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Goblin",
+    "id": 3036,
+    "x": 3186,
+    "y": 3246,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Ram",
+    "id": 1263,
+    "x": 3199,
+    "y": 3270,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Rat",
+    "id": 2854,
+    "x": 3196,
+    "y": 3207,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Farmer",
+    "id": 3087,
+    "x": 3193,
+    "y": 3289,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 12
+  },
+  {
+    "name": "Giant rat",
+    "id": 2859,
+    "x": 3191,
+    "y": 3207,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Goblin",
+    "id": 3033,
+    "x": 3190,
+    "y": 3243,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Rat",
+    "id": 2854,
+    "x": 3189,
+    "y": 3206,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Fayeth",
+    "id": 2681,
+    "x": 3192,
+    "y": 3233,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Piglet",
+    "id": 2800,
+    "x": 3195,
+    "y": 3262,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Giant rat",
+    "id": 2861,
+    "x": 3195,
+    "y": 3202,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Goblin",
+    "id": 3031,
+    "x": 3190,
+    "y": 3244,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 9
+  },
+  {
+    "name": "Giant rat",
+    "id": 2860,
+    "x": 3194,
+    "y": 3208,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Rat",
+    "id": 2854,
+    "x": 3193,
+    "y": 3207,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 9
+  },
+  {
+    "name": "Tool Leprechaun",
+    "id": 0,
+    "x": 3189,
+    "y": 3234,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Cow calf",
+    "id": 2801,
+    "x": 3196,
+    "y": 3260,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Giant rat",
+    "id": 2859,
+    "x": 3196,
+    "y": 3202,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Rat",
+    "id": 2854,
+    "x": 3197,
+    "y": 3205,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Goblin",
+    "id": 3030,
+    "x": 3200,
+    "y": 3247,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Goblin",
+    "id": 3029,
+    "x": 3200,
+    "y": 3251,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 9
+  },
+  {
+    "name": "Cow calf",
+    "id": 2794,
+    "x": 3198,
+    "y": 3261,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Giant rat",
+    "id": 2863,
+    "x": 3200,
+    "y": 3174,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Sraracha",
+    "id": 2143,
+    "x": 3199,
+    "y": 3177,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Sraracha",
+    "id": 2143,
+    "x": 3201,
+    "y": 3186,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Giant rat",
+    "id": 2864,
+    "x": 3201,
+    "y": 3189,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Giant rat",
+    "id": 2864,
+    "x": 3204,
+    "y": 3160,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Sraracha",
+    "id": 2143,
+    "x": 3203,
+    "y": 3174,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Sraracha",
+    "id": 2144,
+    "x": 3203,
+    "y": 3176,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Sraracha",
+    "id": 2144,
+    "x": 3204,
+    "y": 3188,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Sraracha",
+    "id": 2144,
+    "x": 3204,
+    "y": 3193,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Giant rat",
+    "id": 2864,
+    "x": 3204,
+    "y": 3193,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Undead Druid",
+    "id": 2145,
+    "x": 3205,
+    "y": 3195,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Sraracha",
+    "id": 2144,
+    "x": 3206,
+    "y": 3190,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Sraracha",
+    "id": 2144,
+    "x": 3206,
+    "y": 3173,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Sraracha",
+    "id": 2144,
+    "x": 3206,
+    "y": 3175,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Giant rat",
+    "id": 2856,
+    "x": 3208,
+    "y": 3187,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Sraracha",
+    "id": 2144,
+    "x": 3209,
+    "y": 3165,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Giant rat",
+    "id": 2863,
+    "x": 3209,
+    "y": 3150,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Undead Druid",
+    "id": 2145,
+    "x": 3210,
+    "y": 3162,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Sraracha",
+    "id": 2144,
+    "x": 3211,
+    "y": 3185,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Giant rat",
+    "id": 2863,
+    "x": 3211,
+    "y": 3186,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Giant rat",
+    "id": 2863,
+    "x": 3210,
+    "y": 3193,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Undead Druid",
+    "id": 2145,
+    "x": 3213,
+    "y": 3191,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Sraracha",
+    "id": 2144,
+    "x": 3212,
+    "y": 3168,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Sraracha",
+    "id": 2144,
+    "x": 3213,
+    "y": 3190,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Giant rat",
+    "id": 2864,
+    "x": 3214,
+    "y": 3179,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Undead Druid",
+    "id": 2145,
+    "x": 3213,
+    "y": 3186,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Undead Druid",
+    "id": 2145,
+    "x": 3214,
+    "y": 3195,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Undead Druid",
+    "id": 2145,
+    "x": 3215,
+    "y": 3164,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Giant rat",
+    "id": 2864,
+    "x": 3216,
+    "y": 3174,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Giant rat",
+    "id": 2863,
+    "x": 3215,
+    "y": 3176,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Undead Druid",
+    "id": 2145,
+    "x": 3216,
+    "y": 3160,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Sraracha",
+    "id": 2144,
+    "x": 3217,
+    "y": 3181,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Sraracha",
+    "id": 2144,
+    "x": 3217,
+    "y": 3183,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Undead Druid",
+    "id": 2145,
+    "x": 3219,
+    "y": 3178,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Sraracha",
+    "id": 2144,
+    "x": 3221,
+    "y": 3163,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Undead Druid",
+    "id": 2145,
+    "x": 3221,
+    "y": 3183,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Undead Druid",
+    "id": 2145,
+    "x": 3222,
+    "y": 3157,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Undead Druid",
+    "id": 2145,
+    "x": 3222,
+    "y": 3174,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Giant rat",
+    "id": 2863,
+    "x": 3223,
+    "y": 3160,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Undead Druid",
+    "id": 2145,
+    "x": 3225,
+    "y": 3195,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Undead Druid",
+    "id": 2145,
+    "x": 3226,
+    "y": 3187,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Mining tutor",
+    "id": 3222,
+    "x": 3227,
+    "y": 3146,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Undead Druid",
+    "id": 2145,
+    "x": 3227,
+    "y": 3161,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Sraracha",
+    "id": 2144,
+    "x": 3227,
+    "y": 3173,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Sraracha",
+    "id": 2144,
+    "x": 3228,
+    "y": 3164,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Giant rat",
+    "id": 2864,
+    "x": 3228,
+    "y": 3190,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Undead Druid",
+    "id": 2145,
+    "x": 3230,
+    "y": 3169,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Giant rat",
+    "id": 2864,
+    "x": 3234,
+    "y": 3161,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Undead Druid",
+    "id": 2145,
+    "x": 3232,
+    "y": 3178,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Undead Druid",
+    "id": 2145,
+    "x": 3232,
+    "y": 3190,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Cooking tutor",
+    "id": 3219,
+    "x": 3234,
+    "y": 3196,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Fishing tutor",
+    "id": 3221,
+    "x": 3245,
+    "y": 3157,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Fishing spot",
+    "id": 1530,
+    "x": 3246,
+    "y": 3157,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Father Urhney",
+    "id": 923,
+    "x": 3147,
+    "y": 3175,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Giant rat",
+    "id": 2856,
+    "x": 3153,
+    "y": 3186,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Undead Druid",
+    "id": 2145,
+    "x": 3157,
+    "y": 3191,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Giant rat",
+    "id": 2856,
+    "x": 3157,
+    "y": 3199,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Undead Druid",
+    "id": 2145,
+    "x": 3158,
+    "y": 3172,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Undead Druid",
+    "id": 2145,
+    "x": 3158,
+    "y": 3186,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Undead Druid",
+    "id": 2145,
+    "x": 3159,
+    "y": 3176,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Giant rat",
+    "id": 2856,
+    "x": 3160,
+    "y": 3187,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Undead Druid",
+    "id": 2145,
+    "x": 3163,
+    "y": 3167,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Giant rat",
+    "id": 2856,
+    "x": 3163,
+    "y": 3172,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Undead Druid",
+    "id": 2145,
+    "x": 3163,
+    "y": 3197,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Undead Druid",
+    "id": 2145,
+    "x": 3166,
+    "y": 3177,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Undead Druid",
+    "id": 2145,
+    "x": 3167,
+    "y": 3163,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Cow",
+    "id": 2791,
+    "x": 3200,
+    "y": 3285,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Giant rat",
+    "id": 2856,
+    "x": 3169,
+    "y": 3165,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Cow calf",
+    "id": 2792,
+    "x": 3200,
+    "y": 3298,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Cow",
+    "id": 2791,
+    "x": 3201,
+    "y": 3295,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Candle seller",
+    "id": 1896,
+    "x": 3170,
+    "y": 3176,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Cow calf",
+    "id": 2801,
+    "x": 3201,
+    "y": 3271,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Undead Druid",
+    "id": 2145,
+    "x": 3170,
+    "y": 3197,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Cow",
+    "id": 2791,
+    "x": 3202,
+    "y": 3289,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Cow",
+    "id": 2791,
+    "x": 3203,
+    "y": 3286,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Undead Druid",
+    "id": 2145,
+    "x": 3172,
+    "y": 3167,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Cow",
+    "id": 2791,
+    "x": 3204,
+    "y": 3292,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Undead Druid",
+    "id": 2145,
+    "x": 3173,
+    "y": 3177,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Cow",
+    "id": 2791,
+    "x": 3204,
+    "y": 3296,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Undead Druid",
+    "id": 2145,
+    "x": 3174,
+    "y": 3188,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Pig",
+    "id": 2796,
+    "x": 3205,
+    "y": 3266,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Undead Druid",
+    "id": 2145,
+    "x": 3175,
+    "y": 3157,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Cow calf",
+    "id": 2792,
+    "x": 3204,
+    "y": 3286,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Undead Druid",
+    "id": 2145,
+    "x": 3175,
+    "y": 3171,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Cow",
+    "id": 2791,
+    "x": 3206,
+    "y": 3289,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Sraracha",
+    "id": 2144,
+    "x": 3175,
+    "y": 3198,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Cow calf",
+    "id": 2792,
+    "x": 3205,
+    "y": 3297,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Giant rat",
+    "id": 2856,
+    "x": 3174,
+    "y": 3161,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Cow",
+    "id": 2791,
+    "x": 3206,
+    "y": 3294,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Sraracha",
+    "id": 2144,
+    "x": 3176,
+    "y": 3165,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Cow",
+    "id": 2791,
+    "x": 3208,
+    "y": 3288,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Sraracha",
+    "id": 2144,
+    "x": 3176,
+    "y": 3158,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Cow",
+    "id": 2791,
+    "x": 3207,
+    "y": 3297,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Undead Druid",
+    "id": 2145,
+    "x": 3177,
+    "y": 3166,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Sheepdog",
+    "id": 2802,
+    "x": 3208,
+    "y": 3272,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Sraracha",
+    "id": 2144,
+    "x": 3178,
+    "y": 3190,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Cow",
+    "id": 2791,
+    "x": 3209,
+    "y": 3291,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Sraracha",
+    "id": 2144,
+    "x": 3179,
+    "y": 3194,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Sraracha",
+    "id": 2144,
+    "x": 3180,
+    "y": 3173,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Sraracha",
+    "id": 2144,
+    "x": 3181,
+    "y": 3186,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Undead Druid",
+    "id": 2145,
+    "x": 3181,
+    "y": 3195,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Undead Druid",
+    "id": 2145,
+    "x": 3182,
+    "y": 3156,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Sraracha",
+    "id": 2144,
+    "x": 3181,
+    "y": 3175,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Undead Druid",
+    "id": 2145,
+    "x": 3184,
+    "y": 3183,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Goblin",
+    "id": 3030,
+    "x": 3213,
+    "y": 3273,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 9
+  },
+  {
+    "name": "Undead Druid",
+    "id": 2145,
+    "x": 3185,
+    "y": 3178,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Sraracha",
+    "id": 2144,
+    "x": 3185,
+    "y": 3179,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Sraracha",
+    "id": 2144,
+    "x": 3185,
+    "y": 3182,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Goblin",
+    "id": 3029,
+    "x": 3216,
+    "y": 3274,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Sraracha",
+    "id": 2144,
+    "x": 3184,
+    "y": 3199,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Duck",
+    "id": 1838,
+    "x": 3219,
+    "y": 3283,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Sraracha",
+    "id": 2144,
+    "x": 3186,
+    "y": 3161,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Duck",
+    "id": 1839,
+    "x": 3222,
+    "y": 3282,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Undead Druid",
+    "id": 2145,
+    "x": 3187,
+    "y": 3161,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Duck",
+    "id": 1839,
+    "x": 3222,
+    "y": 3282,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Sraracha",
+    "id": 2144,
+    "x": 3188,
+    "y": 3166,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Giant rat",
+    "id": 2856,
+    "x": 3191,
+    "y": 3159,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Duck",
+    "id": 1838,
+    "x": 3221,
+    "y": 3282,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Sraracha",
+    "id": 2143,
+    "x": 3190,
+    "y": 3179,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Undead Druid",
+    "id": 2145,
+    "x": 3191,
+    "y": 3195,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Undead Druid",
+    "id": 2145,
+    "x": 3192,
+    "y": 3179,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Sraracha",
+    "id": 2144,
+    "x": 3193,
+    "y": 3156,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Duck",
+    "id": 2003,
+    "x": 3225,
+    "y": 3283,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Undead Druid",
+    "id": 2145,
+    "x": 3193,
+    "y": 3161,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Undead Druid",
+    "id": 2145,
+    "x": 3193,
+    "y": 3166,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Undead Druid",
+    "id": 2145,
+    "x": 3195,
+    "y": 3190,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Sraracha",
+    "id": 2143,
+    "x": 3194,
+    "y": 3194,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Drake",
+    "id": 2004,
+    "x": 3229,
+    "y": 3283,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Undead Druid",
+    "id": 2145,
+    "x": 3195,
+    "y": 3175,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Giant rat",
+    "id": 2856,
+    "x": 3196,
+    "y": 3166,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Sraracha",
+    "id": 2143,
+    "x": 3197,
+    "y": 3170,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Duck",
+    "id": 2003,
+    "x": 3229,
+    "y": 3281,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Sraracha",
+    "id": 2143,
+    "x": 3196,
+    "y": 3176,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Chicken",
+    "id": 1174,
+    "x": 3225,
+    "y": 3293,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Giant rat",
+    "id": 2856,
+    "x": 3195,
+    "y": 3162,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Undead Druid",
+    "id": 2145,
+    "x": 3197,
+    "y": 3187,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Sraracha",
+    "id": 2143,
+    "x": 3197,
+    "y": 3189,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Undead Druid",
+    "id": 2145,
+    "x": 3198,
+    "y": 3181,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Duck",
+    "id": 1838,
+    "x": 3231,
+    "y": 3269,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Duck",
+    "id": 1838,
+    "x": 3228,
+    "y": 3274,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Duck",
+    "id": 1838,
+    "x": 3230,
+    "y": 3270,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Duck",
+    "id": 1839,
+    "x": 3230,
+    "y": 3271,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Duck",
+    "id": 1839,
+    "x": 3231,
+    "y": 3271,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Duck",
+    "id": 1838,
+    "x": 3233,
+    "y": 3266,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Spider",
+    "id": 3019,
+    "x": 3215,
+    "y": 9615,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Spider",
+    "id": 3019,
+    "x": 3212,
+    "y": 9620,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Spider",
+    "id": 3019,
+    "x": 3219,
+    "y": 9621,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Spider",
+    "id": 3019,
+    "x": 3208,
+    "y": 9617,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  }
+]

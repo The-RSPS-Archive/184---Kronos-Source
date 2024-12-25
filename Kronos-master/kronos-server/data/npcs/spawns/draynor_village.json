@@ -1,0 +1,344 @@
+[
+  {
+    "name": "Banker",
+    "id": 1032,
+    "x": 3090,
+    "y": 3245,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0
+  },
+  {
+    "name": "Banker",
+    "id": 1033,
+    "x": 3090,
+    "y": 3243,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0
+  },
+  {
+    "name": "Banker",
+    "id": 1033,
+    "x": 3090,
+    "y": 3242,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0
+  },
+  {
+    "name": "Banker",
+    "id": 1032,
+    "x": 3088,
+    "y": 3242,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Farmer",
+    "id": 3091,
+    "x": 3119,
+    "y": 3280,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Goblin",
+    "id": 3034,
+    "x": 3105,
+    "y": 3281,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Rat",
+    "id": 2854,
+    "x": 3103,
+    "y": 3283,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 10
+  },
+  {
+    "name": "Man",
+    "id": 3078,
+    "x": 3099,
+    "y": 3280,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Morgan",
+    "id": 3479,
+    "x": 3098,
+    "y": 3268,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Ned",
+    "id": 4280,
+    "x": 3098,
+    "y": 3258,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Rat",
+    "id": 2854,
+    "x": 3097,
+    "y": 3258,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 10
+  },
+  {
+    "name": "Aggie",
+    "id": 4284,
+    "x": 3086,
+    "y": 3258,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Miss Schism",
+    "id": 2116,
+    "x": 3095,
+    "y": 3252,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "null",
+    "id": 2109,
+    "x": 3088,
+    "y": 3255,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Bank guard",
+    "id": 2123,
+    "x": 3087,
+    "y": 3248,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Fortunato",
+    "id": 1260,
+    "x": 3085,
+    "y": 3250,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Diango",
+    "id": 8693,
+    "x": 3081,
+    "y": 3246,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Master Farmer",
+    "id": 3257,
+    "x": 3079,
+    "y": 3251,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Martin the Master Gardener",
+    "id": 5832,
+    "x": 3080,
+    "y": 3258,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Pig",
+    "id": 2796,
+    "x": 3078,
+    "y": 3258,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Pig",
+    "id": 2797,
+    "x": 3076,
+    "y": 3260,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Pig",
+    "id": 2797,
+    "x": 3076,
+    "y": 3260,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Piglet",
+    "id": 2799,
+    "x": 3078,
+    "y": 3261,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Piglet",
+    "id": 2800,
+    "x": 3079,
+    "y": 3260,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Pig",
+    "id": 2796,
+    "x": 3076,
+    "y": 3261,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Piglet",
+    "id": 2798,
+    "x": 3076,
+    "y": 3261,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Dark wizard",
+    "id": 474,
+    "x": 3085,
+    "y": 3234,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Dark wizard",
+    "id": 474,
+    "x": 3088,
+    "y": 3237,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Gull",
+    "id": 4289,
+    "x": 3079,
+    "y": 3230,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Gull",
+    "id": 4290,
+    "x": 3081,
+    "y": 3224,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Black Knight",
+    "id": 508,
+    "x": 3097,
+    "y": 3219,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Squirrel",
+    "id": 5528,
+    "x": 3096,
+    "y": 3225,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Leela",
+    "id": 4274,
+    "x": 3113,
+    "y": 3262,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Joe",
+    "id": 4275,
+    "x": 3123,
+    "y": 3245,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Prince Ali",
+    "id": 4282,
+    "x": 3123,
+    "y": 3241,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Lady Keli",
+    "id": 4281,
+    "x": 3129,
+    "y": 3245,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Jail guard",
+    "id": 4279,
+    "x": 3128,
+    "y": 3249,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Jail guard",
+    "id": 4276,
+    "x": 3126,
+    "y": 3251,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  }
+]

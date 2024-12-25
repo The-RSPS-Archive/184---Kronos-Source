@@ -1,0 +1,209 @@
+[
+  {
+    "name": "Vyre Orator",
+    "id": 8324,
+    "x": 3662,
+    "y": 3213,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 0
+  },
+  {
+    "name": "Vyre Orator",
+    "id": 8323,
+    "x": 3662,
+    "y": 3224,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Garth",
+    "id": 8206,
+    "x": 3669,
+    "y": 3215,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 0
+  },
+  {
+    "name": "Vyrelord",
+    "id": 8332,
+    "x": 3672,
+    "y": 3220,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Mercenary",
+    "id": 8213,
+    "x": 3673,
+    "y": 3209,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Vyrelady",
+    "id": 8335,
+    "x": 3670,
+    "y": 3214,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Mercenary",
+    "id": 8214,
+    "x": 3674,
+    "y": 3206,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Mysterious Stranger",
+    "id": 8325,
+    "x": 3673,
+    "y": 3223,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 0
+  },
+  {
+    "name": "Mercenary",
+    "id": 8215,
+    "x": 3674,
+    "y": 3208,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Meiyerditch citizen",
+    "id": 8328,
+    "x": 3677,
+    "y": 3230,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Vampyre Juvenile",
+    "id": 3692,
+    "x": 3634,
+    "y": 3230,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Meiyerditch citizen",
+    "id": 3808,
+    "x": 3637,
+    "y": 3232,
+    "z": 0,
+    "direction": "NW",
+    "walkRange": 0
+  },
+  {
+    "name": "Harpert",
+    "id": 8212,
+    "x": 3644,
+    "y": 3211,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0
+  },
+  {
+    "name": "Vyrewatch",
+    "id": 8251,
+    "x": 3647,
+    "y": 3208,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Banker",
+    "id": 8322,
+    "x": 3649,
+    "y": 3206,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 0
+  },
+  {
+    "name": "Meiyerditch citizen",
+    "id": 8331,
+    "x": 3649,
+    "y": 3213,
+    "z": 0,
+    "direction": "NW",
+    "walkRange": 3
+  },
+  {
+    "name": "Vampyre Juvenile",
+    "id": 8327,
+    "x": 3649,
+    "y": 3220,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Banker",
+    "id": 8321,
+    "x": 3651,
+    "y": 3206,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 0
+  },
+  {
+    "name": "Banker",
+    "id": 8322,
+    "x": 3652,
+    "y": 3206,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 0
+  },
+  {
+    "name": "Vyrelady",
+    "id": 8333,
+    "x": 3655,
+    "y": 3217,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 4
+  },
+  {
+    "name": "Meiyerditch citizen",
+    "id": 8329,
+    "x": 3653,
+    "y": 3229,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Vyrelord",
+    "id": 8334,
+    "x": 3655,
+    "y": 3211,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 3
+  },
+  {
+    "name": "Meiyerditch citizen",
+    "id": 8330,
+    "x": 3662,
+    "y": 3221,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 3
+  }
+]

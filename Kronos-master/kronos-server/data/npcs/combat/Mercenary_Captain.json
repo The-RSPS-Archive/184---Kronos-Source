@@ -1,0 +1,45 @@
+[
+  { #Mercenary Captain (47)
+    "ids": [ 4635 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 80,
+    "aggressive_level": 94,
+    "max_damage": 5,
+    "attack_style": "SLASH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 0.0,
+    "slayer_tasks": [],
+    //Combat Stats
+    "attack": 32,
+    "strength": 29,
+    "defence": 32,
+    "ranged": 0,
+    "magic": 0,
+    //Aggressive Stats
+    "stab_attack": 9,
+    "slash_attack": 9,
+    "crush_attack": 9,
+    "magic_attack": 9,
+    "ranged_attack": 9,
+    //Defensive Stats
+    "stab_defence": 17,
+    "slash_defence": 15,
+    "crush_defence": 19,
+    "magic_defence": -3,
+    "ranged_defence": 19,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 2,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 422,
+    "defend_animation": 424,
+    "death_animation": 836
+  }
+]

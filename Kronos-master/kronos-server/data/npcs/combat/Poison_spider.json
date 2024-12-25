@@ -1,0 +1,88 @@
+[
+  { #Poison spider (31)
+    "ids": [ 5373 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 1,
+    "aggressive_level": 62,
+    "max_damage": 1,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 1.0,
+    "slayer_tasks": [ "Spiders" ],
+    //Combat Stats
+    "attack": 1,
+    "strength": 1,
+    "defence": 1,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 0,
+    "crush_defence": 0,
+    "magic_defence": 0,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 6,
+    "death_ticks": 2,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": -1,
+    "defend_animation": -1,
+    "death_animation": -1
+  },
+  { #Poison spider (64)
+    "ids": [ 3023 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 64,
+    "aggressive_level": 128,
+    "max_damage": 7,
+    "attack_style": "STAB",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 64.0,
+    "slayer_tasks": [ "Spiders" ],
+    //Combat Stats
+    "attack": 50,
+    "strength": 52,
+    "defence": 58,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 20,
+    "slash_defence": 17,
+    "crush_defence": 10,
+    "magic_defence": 14,
+    "ranged_defence": 14,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 6,
+    "death_ticks": 5,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 5327,
+    "defend_animation": 5328,
+    "death_animation": 5329
+  }
+]

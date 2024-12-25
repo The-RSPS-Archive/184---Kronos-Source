@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Otherworldly being",
+    "id": 2843,
+    "x": 2386,
+    "y": 4420,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Otherworldly being",
+    "id": 2843,
+    "x": 2382,
+    "y": 4420,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Otherworldly being",
+    "id": 2843,
+    "x": 2380,
+    "y": 4423,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Otherworldly being",
+    "id": 2843,
+    "x": 2382,
+    "y": 4427,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Otherworldly being",
+    "id": 2843,
+    "x": 2382,
+    "y": 4431,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Otherworldly being",
+    "id": 2843,
+    "x": 2387,
+    "y": 4429,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  }
+]

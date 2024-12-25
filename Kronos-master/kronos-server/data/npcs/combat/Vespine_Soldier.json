@@ -1,0 +1,88 @@
+[
+  { #Vespine soldier (raids) (flying)
+    "ids": [ 7538, 7539 ],
+    "handler": "io.ruin.model.activities.raids.xeric.chamber.combat.VespineSoldier",
+    //Combat Info
+    "hitpoints": 120,
+    "aggressive_level": 126,
+    "max_damage": 20,
+    "attack_style": "STAB",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 0.0,
+    "slayer_tasks": [],
+    //Combat Stats
+    "attack": 180,
+    "strength": 180,
+    "defence": 250,
+    "ranged": 180,
+    "magic": 180,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 0,
+    "crush_defence": 0,
+    "magic_defence": 0,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": true,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 5,
+    "death_ticks": 2,
+    "respawn_ticks": -1,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 7455,
+    "defend_animation": 7456,
+    "death_animation": 7459
+  },
+    { #Vespine Soldier (raids) (grounded)
+    "ids": [ 7539 ],
+    "handler": "io.ruin.model.activities.raids.xeric.chamber.combat.VespineSoldier",
+    //Combat Info
+    "hitpoints": 700,
+    "aggressive_level": 126,
+    "max_damage": 20,
+    "attack_style": "STAB",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 0.0,
+    "slayer_tasks": [],
+    //Combat Stats
+    "attack": 180,
+    "strength": 180,
+    "defence": 250,
+    "ranged": 180,
+    "magic": 180,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 0,
+    "crush_defence": 0,
+    "magic_defence": 0,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": true,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 5,
+    "death_ticks": 2,
+    "respawn_ticks": -1,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 7450,
+    "defend_animation": 7451,
+    "death_animation": 7458
+  }
+]

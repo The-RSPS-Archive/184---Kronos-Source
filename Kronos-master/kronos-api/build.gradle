@@ -1,0 +1,43 @@
+plugins {
+//    id 'org.springframework.boot' version '2.2.2.RELEASE'
+//    id 'io.spring.dependency-management' version '1.0.8.RELEASE'
+    id 'java'
+    id 'kotlin'
+}
+
+version = '1.0'
+ext.group = "server"
+description = ""
+
+compileKotlin {
+    sourceCompatibility = JavaVersion.VERSION_1_8
+    targetCompatibility = JavaVersion.VERSION_1_8
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+
+    compile group: 'com.zaxxer', name: 'HikariCP', version:'2.7.3'
+    compile group: 'mysql', name: 'mysql-connector-java', version: '8.0.19'
+    compile group: 'org.apache.commons', name: 'commons-lang3', version:'3.9'
+    compile group: 'org.apache.httpcomponents', name: 'httpclient', version:'4.5.4'
+    compile group: 'com.google.http-client', name: 'google-http-client-jackson2', version:'1.32.1'
+    compile group: 'org.db4j', name: 'kilim', version: '2.0.2'
+    compile group: 'com.squareup.okhttp3', name: 'okhttp', version: '4.8.1'
+
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk8"
+
+//    compile ('org.springframework.boot:spring-boot-starter-web:2.2.2.RELEASE') {
+//        exclude module: "spring-boot-starter-logging"
+//    }
+
+//    // https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-web
+//    implementation (group: 'org.springframework.boot', name: 'spring-boot-starter-web', version: '2.3.3.RELEASE')
+//    {
+//        exclude module: "spring-boot-starter-logging"
+//    }
+
+}

@@ -1,0 +1,389 @@
+[
+  {
+    "name": "Black demon",
+    "id": 5876,
+    "x": 1430,
+    "y": 10071,
+    "z": 1,
+    "direction": "E",
+    "walkRange": 3
+  },
+  {
+    "name": "Black demon",
+    "id": 5877,
+    "x": 1438,
+    "y": 10068,
+    "z": 1,
+    "direction": "E",
+    "walkRange": 3
+  },
+  {
+    "name": "Voice of Yama",
+    "id": 7668,
+    "x": 1439,
+    "y": 10079,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Black demon",
+    "id": 5874,
+    "x": 1441,
+    "y": 10092,
+    "z": 1,
+    "direction": "W",
+    "walkRange": 3
+  },
+  {
+    "name": "Black demon",
+    "id": 5874,
+    "x": 1441,
+    "y": 10062,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Black demon",
+    "id": 5877,
+    "x": 1441,
+    "y": 10086,
+    "z": 1,
+    "direction": "N",
+    "walkRange": 3
+  },
+  {
+    "name": "Black demon",
+    "id": 5876,
+    "x": 1449,
+    "y": 10060,
+    "z": 1,
+    "direction": "E",
+    "walkRange": 3
+  },
+  {
+    "name": "Black demon",
+    "id": 240,
+    "x": 1450,
+    "y": 10072,
+    "z": 1,
+    "direction": "N",
+    "walkRange": 2
+  },
+  {
+    "name": "Black demon",
+    "id": 240,
+    "x": 1446,
+    "y": 10074,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Black demon",
+    "id": 240,
+    "x": 1444,
+    "y": 10085,
+    "z": 1,
+    "direction": "W",
+    "walkRange": 4
+  },
+  {
+    "name": "Black demon",
+    "id": 5877,
+    "x": 1453,
+    "y": 10074,
+    "z": 1,
+    "direction": "N",
+    "walkRange": 2
+  },
+  {
+    "name": "Black demon",
+    "id": 5875,
+    "x": 1447,
+    "y": 10077,
+    "z": 1,
+    "direction": "E",
+    "walkRange": 3
+  },
+  {
+    "name": "Greater demon",
+    "id": 2031,
+    "x": 1419,
+    "y": 10088,
+    "z": 2,
+    "direction": "W",
+    "walkRange": 3
+  },
+  {
+    "name": "Greater demon",
+    "id": 2030,
+    "x": 1428,
+    "y": 10082,
+    "z": 2,
+    "direction": "E",
+    "walkRange": 3
+  },
+  {
+    "name": "Greater demon",
+    "id": 2032,
+    "x": 1427,
+    "y": 10075,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Greater demon",
+    "id": 2031,
+    "x": 1428,
+    "y": 10078,
+    "z": 2,
+    "direction": "N",
+    "walkRange": 3
+  },
+  {
+    "name": "Greater demon",
+    "id": 2032,
+    "x": 1432,
+    "y": 10079,
+    "z": 2,
+    "direction": "N",
+    "walkRange": 3
+  },
+  {
+    "name": "Greater demon",
+    "id": 2030,
+    "x": 1434,
+    "y": 10090,
+    "z": 2,
+    "direction": "W",
+    "walkRange": 3
+  },
+  {
+    "name": "Greater demon",
+    "id": 2032,
+    "x": 1439,
+    "y": 10089,
+    "z": 2,
+    "direction": "N",
+    "walkRange": 3
+  },
+  {
+    "name": "Greater demon",
+    "id": 2031,
+    "x": 1444,
+    "y": 10076,
+    "z": 2,
+    "direction": "N",
+    "walkRange": 3
+  },
+  {
+    "name": "Greater demon",
+    "id": 2031,
+    "x": 1442,
+    "y": 10091,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Greater demon",
+    "id": 2030,
+    "x": 1444,
+    "y": 10077,
+    "z": 2,
+    "direction": "N",
+    "walkRange": 3
+  },
+  {
+    "name": "Greater demon",
+    "id": 2032,
+    "x": 1447,
+    "y": 10073,
+    "z": 2,
+    "direction": "E",
+    "walkRange": 3
+  },
+  {
+    "name": "Greater demon",
+    "id": 2032,
+    "x": 1446,
+    "y": 10086,
+    "z": 2,
+    "direction": "N",
+    "walkRange": 3
+  },
+  {
+    "name": "Greater demon",
+    "id": 2031,
+    "x": 1448,
+    "y": 10082,
+    "z": 2,
+    "direction": "E",
+    "walkRange": 3
+  },
+  {
+    "name": "Greater demon",
+    "id": 2030,
+    "x": 1452,
+    "y": 10090,
+    "z": 2,
+    "direction": "N",
+    "walkRange": 3
+  },
+  {
+    "name": "Greater demon",
+    "id": 2032,
+    "x": 1451,
+    "y": 10084,
+    "z": 2,
+    "direction": "N",
+    "walkRange": 3
+  },
+  {
+    "name": "Greater demon",
+    "id": 2031,
+    "x": 1455,
+    "y": 10091,
+    "z": 2,
+    "direction": "W",
+    "walkRange": 3
+  },
+  {
+    "name": "Greater demon",
+    "id": 2032,
+    "x": 1455,
+    "y": 10094,
+    "z": 2,
+    "direction": "W",
+    "walkRange": 3
+  },
+  {
+    "name": "Disciple of Yama",
+    "id": 7670,
+    "x": 1456,
+    "y": 10077,
+    "z": 2,
+    "direction": "N",
+    "walkRange": 3
+  },
+  {
+    "name": "Lesser demon",
+    "id": 7664,
+    "x": 1434,
+    "y": 10079,
+    "z": 3,
+    "direction": "N",
+    "walkRange": 4
+  },
+  {
+    "name": "Lesser demon",
+    "id": 7657,
+    "x": 1437,
+    "y": 10081,
+    "z": 3,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Lesser demon",
+    "id": 7656,
+    "x": 1439,
+    "y": 10084,
+    "z": 3,
+    "direction": "E",
+    "walkRange": 3
+  },
+  {
+    "name": "Lesser demon",
+    "id": 7664,
+    "x": 1436,
+    "y": 10082,
+    "z": 3,
+    "direction": "W",
+    "walkRange": 3
+  },
+  {
+    "name": "Lesser demon",
+    "id": 7657,
+    "x": 1439,
+    "y": 10074,
+    "z": 3,
+    "direction": "E",
+    "walkRange": 3
+  },
+  {
+    "name": "Lesser demon",
+    "id": 7656,
+    "x": 1443,
+    "y": 10076,
+    "z": 3,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Lesser demon",
+    "id": 7657,
+    "x": 1444,
+    "y": 10082,
+    "z": 3,
+    "direction": "N",
+    "walkRange": 3
+  },
+  {
+    "name": "Lesser demon",
+    "id": 7664,
+    "x": 1446,
+    "y": 10077,
+    "z": 3,
+    "direction": "W",
+    "walkRange": 4
+  },
+  {
+    "name": "Lesser demon",
+    "id": 7656,
+    "x": 1446,
+    "y": 10081,
+    "z": 3,
+    "direction": "N",
+    "walkRange": 2
+  },
+  {
+    "name": "Black demon",
+    "id": 5874,
+    "x": 1419,
+    "y": 10071,
+    "z": 1,
+    "direction": "N",
+    "walkRange": 2
+  },
+  {
+    "name": "Black demon",
+    "id": 5876,
+    "x": 1420,
+    "y": 10076,
+    "z": 1,
+    "direction": "E",
+    "walkRange": 2
+  },
+  {
+    "name": "Black demon",
+    "id": 240,
+    "x": 1429,
+    "y": 10087,
+    "z": 1,
+    "direction": "N",
+    "walkRange": 5
+  },
+  {
+    "name": "Black demon",
+    "id": 5874,
+    "x": 1432,
+    "y": 10066,
+    "z": 1,
+    "direction": "N",
+    "walkRange": 3
+  }
+]

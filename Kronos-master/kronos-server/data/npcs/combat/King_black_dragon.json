@@ -1,0 +1,46 @@
+[
+  { #King Black Dragon (276)
+    "ids": [ 239, 6502 ],
+    "handler": "io.ruin.model.activities.miscpvm.dragons.KingBlackDragon",
+    //Combat Info
+    "hitpoints": 240,
+    "aggressive_level": 552,
+    "max_damage": 25,
+    "attack_style": "SLASH",
+    "pet": "PRINCE_BLACK_DRAGON",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 258.0,
+    "slayer_tasks": [ "Black Dragons", "The King Black Dragon" ],
+    //Combat Stats
+    "attack": 240,
+    "strength": 240,
+    "defence": 240,
+    "ranged": 1,
+    "magic": 240,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 70,
+    "slash_defence": 90,
+    "crush_defence": 90,
+    "magic_defence": 80,
+    "ranged_defence": 70,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 7,
+    "death_ticks": 5,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 80,
+    "defend_animation": 89,
+    "death_animation": 92
+  }
+]

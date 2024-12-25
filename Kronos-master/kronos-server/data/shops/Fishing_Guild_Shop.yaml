@@ -1,0 +1,38 @@
+---
+identifier: "4ea4cb73-305a-445c-a7ab-131a90a1d8b5"
+title: "Fishing Guild Shop"
+currency: "COINS"
+accessibleByIronMan: true
+canSellToStore: false
+restockRules:
+  restockTicks: 6
+  restockPerTick: 10
+defaultStock:
+  - id: 313
+    amount: 100000
+  - id: 314
+    amount: 100000
+  - id: 11881
+    amount: 100000
+  - id: 11940
+    amount: 100000
+  - id: 13431
+    amount: 100000
+  - id: 3150
+    amount: 100000
+  - id: 303
+    amount: 100
+  - id: 305
+    amount: 100
+  - id: 307
+    amount: 100
+  - id: 309
+    amount: 100
+  - id: 301
+    amount: 100
+  - id: 311
+    amount: 100
+  - id: 3157
+    amount: 100
+  - id: 11323
+    amount: 100

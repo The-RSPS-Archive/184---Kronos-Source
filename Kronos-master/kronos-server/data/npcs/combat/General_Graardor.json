@@ -1,0 +1,48 @@
+[
+  { #General Graardor (624)
+    "ids": [ 2215, 6494 ],
+    "handler": "io.ruin.model.activities.godwars.combat.impl.bandos.GeneralGraardor",
+    //Combat Info
+    "hitpoints": 255,
+    "aggressive_level": 1248,
+    "max_damage": 60,
+    "attack_style": "CRUSH",
+    "pet": "GENERAL_GRAARDOR",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 338.0,
+    "slayer_tasks": [ "General Graardor" ],
+    //Combat Stats
+    "attack": 280,
+    "strength": 350,
+    "defence": 250,
+    "ranged": 350,
+    "magic": 80,
+    //Aggressive Stats
+    "stab_attack": 120,
+    "slash_attack": 120,
+    "crush_attack": 120,
+    "magic_attack": 120,
+    "ranged_attack": 100,
+    //Defensive Stats
+    "stab_defence": 90,
+    "slash_defence": 90,
+    "crush_defence": 90,
+    "magic_defence": 298,
+    "ranged_defence": 90,
+    //Immunites
+    "poison_immunity": true,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 6,
+    "death_ticks": 5,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 7018,
+    "defend_animation": 7019,
+    "death_animation": 7020,
+	//Other
+	"local_loot": true
+  }
+]

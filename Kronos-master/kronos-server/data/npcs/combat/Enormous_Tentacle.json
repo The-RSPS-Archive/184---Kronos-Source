@@ -1,0 +1,45 @@
+[
+  { #Enormous Tentacle (112)
+    "ids": [ 5535, 5534 ],
+    "handler": "io.ruin.model.activities.bosses.slayer.KrakenTentacle",
+    //Combat Info
+    "hitpoints": 120,
+    "aggressive_level": 224,
+    "max_damage": 2,
+    "attack_style": "MAGICAL_RANGED",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 0.0,
+    "slayer_tasks": [],
+    //Combat Stats
+    "attack": 1,
+    "strength": 1,
+    "defence": 1,
+    "ranged": 150,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 0,
+    "crush_defence": 0,
+    "magic_defence": -15,
+    "ranged_defence": 270,
+    //Immunites
+    "poison_immunity": true,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 5,
+    "respawn_ticks": 10,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 3618,
+    "defend_animation": 3617,
+    "death_animation": 3620
+  }
+]

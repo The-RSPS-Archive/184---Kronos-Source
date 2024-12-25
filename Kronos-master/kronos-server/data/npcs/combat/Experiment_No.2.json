@@ -1,0 +1,45 @@
+[
+  { #Experiment No.2 (109)
+    "ids": [ 5126 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 95,
+    "aggressive_level": 218,
+    "max_damage": 11,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 0.0,
+    "slayer_tasks": [],
+    //Combat Stats
+    "attack": 104,
+    "strength": 92,
+    "defence": 90,
+    "ranged": 100,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 45,
+    "slash_defence": 70,
+    "crush_defence": 60,
+    "magic_defence": 60,
+    "ranged_defence": 55,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 2,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": -1,
+    "defend_animation": -1,
+    "death_animation": -1
+  }
+]

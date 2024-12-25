@@ -1,0 +1,45 @@
+[
+  { #Soldier (tier 1) (39)
+    "ids": [ 6904, 6905 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 50,
+    "aggressive_level": 78,
+    "max_damage": 5,
+    "attack_style": "SLASH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 0.0,
+    "slayer_tasks": [],
+    //Combat Stats
+    "attack": 30,
+    "strength": 30,
+    "defence": 30,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 12,
+    "slash_attack": 12,
+    "crush_attack": 12,
+    "magic_attack": 12,
+    "ranged_attack": 12,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 0,
+    "crush_defence": 0,
+    "magic_defence": 0,
+    "ranged_defence": -1,
+    //Immunites
+    "poison_immunity": true,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 6,
+    "death_ticks": 2,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 422,
+    "defend_animation": 424,
+    "death_animation": 836
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "ids": [ 319 ],
+    "tables": [
+      {
+        "name": "Equipment",
+        "weight": 35,
+        "items": [
+          { "id": 890, "min": 750, "max": 750, "weight": 12 }, //Adamant arrow
+          { "id": 9144, "min": 250, "max": 250, "weight": 12 }, //Runite bolts
+          { "id": 1405, "min": 1, "max": 1, "weight": 6 }, //Mystic air staff
+          { "id": 1403, "min": 1, "max": 1, "weight": 6 }, //Mystic water staff
+          { "id": 1407, "min": 1, "max": 1, "weight": 6 }, //Mystic earth staff
+          { "id": 1401, "min": 1, "max": 1, "weight": 6 }, //Mystic fire staff
+          { "id": 4091, "min": 1, "max": 1, "weight": 3 }, //Mystic robe top (blue)
+          { "id": 4093, "min": 1, "max": 1, "weight": 3 }, //Mystic robe bottom (blue)
+          { "id": 9245, "min": 175, "max": 175, "weight": 1 }, //Onyx bolts (e)
+          { "id": 2, "min": 2000, "max": 2000, "weight": 1 }, //Cannonball
+          { "id": 12829, "min": 1, "max": 1, "weight": 1 } //Spirit shield
+        ]
+      },
+      {
+        "name": "Unique",
+        "weight": 1,
+        "items": [
+          { "id": 12827, "min": 1, "max": 1, "weight": 3 }, //Spectral
+          { "id": 12823, "min": 1, "max": 1, "weight": 3 }, //Arcane
+          { "id": 12819, "min": 1, "max": 1, "weight": 1 }  //Ely
+        ]
+      },
+      {
+        "name": "Essence and runes",
+        "weight": 45,
+        "items": [
+          { "id": 7937, "min": 2500, "max": 2500, "weight": 3 }, //Pure essence (noted)
+          { "id": 563, "min": 250, "max": 250, "weight": 3 }, //Law rune
+          { "id": 564, "min": 500, "max": 500, "weight": 1 }, //Cosmic rune
+          { "id": 560, "min": 300, "max": 300, "weight": 1 }, //Death rune
+          { "id": 566, "min": 250, "max": 250, "weight": 1 } //Soul rune
+        ]
+      },
+      {
+        "name": "Materials",
+        "weight": 45,
+        "items": [
+          { "id": 450, "min": 125, "max": 125, "weight": 12 }, //Adamantite ore (noted)
+          { "id": 452, "min": 20, "max": 20, "weight": 6 }, //Runite ore (noted)
+          { "id": 2362, "min": 35, "max": 35, "weight": 6 }, //Adamantite bar (noted)
+          { "id": 8781, "min": 100, "max": 100, "weight": 3 }, //Teak plank (noted)
+          { "id": 8836, "min": 150, "max": 150, "weight": 3 }, //Mahogany logs (noted)
+          { "id": 1514, "min": 75, "max": 75, "weight": 1 }, //Magic logs (noted)
+          { "id": 1754, "min": 100, "max": 100, "weight": 1 } //Green dragonhide (noted)
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 45,
+        "items": [
+          { "id": 5321, "min": 24, "max": 24, "weight": 6 }, //Watermelon seed
+          { "id": 384, "min": 70, "max": 70, "weight": 6 }, //Raw shark (noted)
+          { "id": 240, "min": 120, "max": 120, "weight": 6 }, //White berries (noted)
+          { "id": 9738, "min": 120, "max": 120, "weight": 6 }, //Desert goat horn (noted)
+          { "id": 7060, "min": 30, "max": 30, "weight": 3 }, //Tuna potato
+          { "id": 5953, "min": 40, "max": 40, "weight": 3 }, //Antidote++(4) (noted)
+          { "id": 5295, "min": 10, "max": 10, "weight": 3 }, //Ranarr seed
+          { "id": 12833, "min": 1, "max": 1, "weight": 1 }, //Holy elixir
+          { "id": 12073, "min": 1, "max": 1, "weight": 1 } //Clue scroll (elite)
+        ]
+      }
+    ]
+  }
+]

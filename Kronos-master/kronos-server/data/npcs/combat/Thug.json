@@ -1,0 +1,45 @@
+[
+  { #Thug (10)
+    "ids": [ 517 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 18,
+    "aggressive_level": 20,
+    "max_damage": 2,
+    "attack_style": "STAB",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 0.0,
+    "slayer_tasks": [],
+    //Combat Stats
+    "attack": 7,
+    "strength": 5,
+    "defence": 9,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 5,
+    "slash_attack": 5,
+    "crush_attack": 5,
+    "magic_attack": 5,
+    "ranged_attack": 5,
+    //Defensive Stats
+    "stab_defence": 2,
+    "slash_defence": 3,
+    "crush_defence": 3,
+    "magic_defence": 0,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 6,
+    "death_ticks": 5,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 386,
+    "defend_animation": 388,
+    "death_animation": 836
+  }
+]

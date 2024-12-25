@@ -1,0 +1,30 @@
+---
+identifier: "8f2f56fa-6a9d-402f-bd4e-af6bdca6b709"
+title: "Ironman Melee Shop"
+currency: "COINS"
+accessibleByIronMan: true
+canSellToStore: false
+restockRules:
+  restockTicks: 2
+  restockPerTick: 1000
+defaultStock:
+  - id: 1540
+    amount: 10000
+  - id: 5574
+    amount: 100
+  - id: 5575
+    amount: 100
+  - id: 5576
+    amount: 100
+  - id: 9672
+    amount: 100
+  - id: 9674
+    amount: 100
+  - id: 9676
+    amount: 100
+  - id: 3105
+    amount: 100
+    price: 20000
+  - id: 10828
+    amount: 100
+    price: 250000

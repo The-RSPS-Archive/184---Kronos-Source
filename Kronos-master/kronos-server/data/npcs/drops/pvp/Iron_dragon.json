@@ -1,0 +1,53 @@
+[
+  {
+    "ids": [ 272, 273, 7254 ],
+    "guaranteed": [
+      { "id": 536, "min": 1, "max": 1 }, //Dragon bones
+      { "id": 2351, "min": 5, "max": 5 } //Iron bar
+    ],
+    "tables": [
+      {
+        "name": "Armour/Weapons",
+        "weight": 1,
+        "items": [
+          { "id": 1357, "min": 1, "max": 1, "weight": 9 }, //Adamant axe
+          { "id": 1371, "min": 1, "max": 1, "weight": 9 }, //Adamant battleaxe
+          { "id": 1317, "min": 1, "max": 1, "weight": 6 }, //Adamant 2h sword
+          { "id": 1183, "min": 1, "max": 1, "weight": 6 }, //Adamant sq shield
+          { "id": 1373, "min": 1, "max": 1, "weight": 6 }, //Rune battleaxe
+          { "id": 868, "min": 5, "max": 5, "weight": 3 }, //Rune knife
+          { "id": 1147, "min": 1, "max": 1, "weight": 3 }, //Rune med helm
+          { "id": 4585, "min": 1, "max": 1, "weight": 1 }, //Dragon plateskirt
+          { "id": 4087, "min": 1, "max": 1, "weight": 1 } //Dragon platelegs
+        ]
+      },
+      {
+        "name": "Ammunition/Runes ",
+        "weight": 1,
+        "items": [
+          { "id": 565, "min": 15, "max": 15, "weight": 6 }, //Blood rune
+          { "id": 830, "min": 4, "max": 4, "weight": 6 }, //Rune javelin
+          { "id": 9143, "min": 2, "max": 12, "weight": 3 }, //Adamant bolts
+          { "id": 817, "min": 9, "max": 9, "weight": 3 }, //Rune dart(p)
+          { "id": 566, "min": 3, "max": 3, "weight": 1 }, //Soul rune
+          { "id": 9144, "min": 3, "max": 12, "weight": 1 } //Runite bolts
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 995, "min": 270, "max": 270, "weight": 150 }, //Coins
+          { "id": 995, "min": 550, "max": 550, "weight": 150 }, //Coins
+          { "id": 995, "min": 990, "max": 990, "weight": 150 }, //Coins
+          { "id": 2361, "min": 2, "max": 2, "weight": 50 }, //Adamantite bar
+          { "id": 2011, "min": 1, "max": 1, "weight": 25 }, //Curry
+          { "id": 9431, "min": 1, "max": 1, "weight": 25 }, //Runite limbs
+          { "id": 161, "min": 1, "max": 1, "weight": 25 }, //Super strength(1)
+          { "id": 2722, "min": 1, "max": 1, "weight": 1 }, //Clue scroll (hard)
+          { "id": 11286, "min": 1, "max": 1, "weight": 1 } //Draconic visage
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "ids": [ 3615 ],
+    "guaranteed": [
+      { "id": 526, "min": 1, "max": 1 } //Bones
+    ],
+    "tables": [
+      {
+        "name": "Weapons/Armour",
+        "weight": 1,
+        "items": [
+          { "id": 1349, "min": 1, "max": 1, "weight": 6 }, //Iron axe
+          { "id": 1137, "min": 1, "max": 1, "weight": 3 }, //Iron med helm
+          { "id": 1279, "min": 1, "max": 1, "weight": 1 } //Iron sword
+        ]
+      },
+      {
+        "name": "Runes",
+        "weight": 1,
+        "items": [
+          { "id": 562, "min": 5, "max": 5, "weight": 3 }, //Chaos rune
+          { "id": 555, "min": 9, "max": 9, "weight": 3 }, //Water rune
+          { "id": 556, "min": 15, "max": 15, "weight": 1 } //Air rune
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 995, "min": 5, "max": 5, "weight": 9} , //Coins
+          { "id": 995, "min": 10, "max": 10, "weight": 6 }, //Coins
+          { "id": 995, "min": 25, "max": 25, "weight": 6 }, //Coins
+          { "id": 995, "min": 45, "max": 45, "weight": 6 }, //Coins
+          { "id": 995, "min": 200, "max": 200, "weight": 3 }, //Coins
+          { "id": 2349, "min": 1, "max": 1, "weight": 3 }, //Bronze bar
+          { "id": 713, "min": 1, "max": 1, "weight": 1 } //Clue scroll
+        ]
+      }
+    ]
+  }
+]

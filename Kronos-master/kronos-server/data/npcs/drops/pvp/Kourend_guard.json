@@ -1,0 +1,63 @@
+[
+  {
+    "ids": [ 7016 ],
+    "guaranteed": [
+      { "id": 526, "min": 1, "max": 1 } //Bones
+    ],
+    "tables": [
+      {
+        "name": "Armour/Weapons ",
+        "weight": 1,
+        "items": [
+          { "id": 1203, "min": 1, "max": 1, "weight": 6 }, //Iron dagger
+          { "id": 9140, "min": 1, "max": 12, "weight": 6 }, //Iron bolts
+          { "id": 882, "min": 1, "max": 2, "weight": 3 }, //Bronze arrow
+          { "id": 886, "min": 1, "max": 5, "weight": 3 }, //Steel arrow
+          { "id": 884, "min": 1, "max": 2, "weight": 1 } //Iron arrow
+        ]
+      },
+      {
+        "name": "Ores/Bars",
+        "weight": 1,
+        "items": [
+          { "id": 440, "min": 1, "max": 1, "weight": 1 } //Iron ore
+        ]
+      },
+      {
+        "name": "Runes/Talismans",
+        "weight": 1,
+        "items": [
+          { "id": 556, "min": 6, "max": 6, "weight": 6 }, //Air rune
+          { "id": 557, "min": 3, "max": 3, "weight": 6 }, //Earth rune
+          { "id": 554, "min": 2, "max": 2, "weight": 6 }, //Fire rune
+          { "id": 562, "min": 1, "max": 2, "weight": 3 }, //Chaos rune
+          { "id": 561, "min": 1, "max": 1, "weight": 3 }, //Nature rune
+          { "id": 565, "min": 1, "max": 1, "weight": 3 }, //Blood rune
+          { "id": 1446, "min": 1, "max": 1, "weight": 1 } //Body talisman
+        ]
+      },
+      {
+        "name": "Seeds",
+        "weight": 1,
+        "items": [
+          { "id": 5318, "min": 4, "max": 4, "weight": 9 }, //Potato seed
+          { "id": 5319, "min": 4, "max": 4, "weight": 6 }, //Onion seed
+          { "id": 5324, "min": 4, "max": 4, "weight": 6 }, //Cabbage seed
+          { "id": 5322, "min": 3, "max": 3, "weight": 3 }, //Tomato seed
+          { "id": 5320, "min": 3, "max": 3, "weight": 3 }, //Sweetcorn seed
+          { "id": 5323, "min": 1, "max": 2, "weight": 3 }, //Strawberry seed
+          { "id": 5321, "min": 2, "max": 2, "weight": 1 } //Watermelon seed
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 995, "min": 1, "max": 30, "weight": 10 }, //Coins
+          { "id": 1947, "min": 1, "max": 1, "weight": 10 }, //Grain
+          { "id": 2801, "min": 1, "max": 1, "weight": 1 } //Clue scroll (medium)
+        ]
+      }
+    ]
+  }
+]

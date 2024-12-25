@@ -1,0 +1,758 @@
+[
+  {
+    "name": "Wyrm",
+    "id": 8610,
+    "x": 1263,
+    "y": 10194,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Wyrm",
+    "id": 8610,
+    "x": 1263,
+    "y": 10190,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Wyrm",
+    "id": 8610,
+    "x": 1266,
+    "y": 10184,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Wyrm",
+    "id": 8610,
+    "x": 1269,
+    "y": 10190,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Wyrm",
+    "id": 8610,
+    "x": 1273,
+    "y": 10188,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Wyrm",
+    "id": 8610,
+    "x": 1271,
+    "y": 10179,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Wyrm",
+    "id": 8610,
+    "x": 1280,
+    "y": 10185,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Wyrm",
+    "id": 8610,
+    "x": 1277,
+    "y": 10191,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Wyrm",
+    "id": 8610,
+    "x": 1275,
+    "y": 10182,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Wyrm",
+    "id": 8610,
+    "x": 1255,
+    "y": 10159,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Wyrm",
+    "id": 8610,
+    "x": 1255,
+    "y": 10155,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Wyrm",
+    "id": 8610,
+    "x": 1260,
+    "y": 10153,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Wyrm",
+    "id": 8610,
+    "x": 1261,
+    "y": 10158,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Wyrm",
+    "id": 8610,
+    "x": 1266,
+    "y": 10155,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Wyrm",
+    "id": 8610,
+    "x": 1270,
+    "y": 10160,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Wyrm",
+    "id": 8610,
+    "x": 1255,
+    "y": 10151,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Hydra",
+    "id": 8609,
+    "x": 1307,
+    "y": 10234,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Hydra",
+    "id": 8609,
+    "x": 1313,
+    "y": 10234,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Hydra",
+    "id": 8609,
+    "x": 1309,
+    "y": 10231,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Hydra",
+    "id": 8609,
+    "x": 1301,
+    "y": 10239,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Hydra",
+    "id": 8609,
+    "x": 1306,
+    "y": 10247,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Hydra",
+    "id": 8609,
+    "x": 1314,
+    "y": 10245,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Hydra",
+    "id": 8609,
+    "x": 1321,
+    "y": 10238,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Hydra",
+    "id": 8609,
+    "x": 1315,
+    "y": 10240,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Hydra",
+    "id": 8609,
+    "x": 1308,
+    "y": 10263,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Hydra",
+    "id": 8609,
+    "x": 1305,
+    "y": 10260,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Hydra",
+    "id": 8609,
+    "x": 1311,
+    "y": 10269,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Hydra",
+    "id": 8609,
+    "x": 1317,
+    "y": 10266,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Hydra",
+    "id": 8609,
+    "x": 1323,
+    "y": 10266,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Hydra",
+    "id": 8609,
+    "x": 1330,
+    "y": 10268,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Hydra",
+    "id": 8609,
+    "x": 1327,
+    "y": 10265,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Hydra",
+    "id": 8609,
+    "x": 1304,
+    "y": 10268,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Greater demon",
+    "id": 2025,
+    "x": 1280,
+    "y": 10212,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Greater demon",
+    "id": 2026,
+    "x": 1276,
+    "y": 10206,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Greater demon",
+    "id": 2027,
+    "x": 1272,
+    "y": 10204,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Greater demon",
+    "id": 2028,
+    "x": 1276,
+    "y": 10198,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Greater demon",
+    "id": 2029,
+    "x": 1282,
+    "y": 10198,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Greater demon",
+    "id": 2030,
+    "x": 1283,
+    "y": 10205,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Greater demon",
+    "id": 2031,
+    "x": 1283,
+    "y": 10210,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Greater demon",
+    "id": 2032,
+    "x": 1280,
+    "y": 10202,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Sulphur Lizard",
+    "id": 8614,
+    "x": 1334,
+    "y": 10189,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Sulphur Lizard",
+    "id": 8614,
+    "x": 1332,
+    "y": 10187,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Sulphur Lizard",
+    "id": 8614,
+    "x": 1327,
+    "y": 10183,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Sulphur Lizard",
+    "id": 8614,
+    "x": 1327,
+    "y": 10179,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Sulphur Lizard",
+    "id": 8614,
+    "x": 1329,
+    "y": 10173,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Sulphur Lizard",
+    "id": 8614,
+    "x": 1332,
+    "y": 10177,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Sulphur Lizard",
+    "id": 8614,
+    "x": 1333,
+    "y": 10182,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Sulphur Lizard",
+    "id": 8614,
+    "x": 1337,
+    "y": 10182,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Sulphur Lizard",
+    "id": 8614,
+    "x": 1338,
+    "y": 10186,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Sulphur Lizard",
+    "id": 8614,
+    "x": 1338,
+    "y": 10178,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Drake",
+    "id": 8612,
+    "x": 1310,
+    "y": 10241,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Drake",
+    "id": 8612,
+    "x": 1307,
+    "y": 10237,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Drake",
+    "id": 8612,
+    "x": 1309,
+    "y": 10231,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Drake",
+    "id": 8612,
+    "x": 1320,
+    "y": 10237,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Drake",
+    "id": 8612,
+    "x": 1311,
+    "y": 10249,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Drake",
+    "id": 8612,
+    "x": 1342,
+    "y": 10235,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Drake",
+    "id": 8612,
+    "x": 1345,
+    "y": 10227,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Drake",
+    "id": 8612,
+    "x": 1350,
+    "y": 10237,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Drake",
+    "id": 8612,
+    "x": 1345,
+    "y": 10244,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Drake",
+    "id": 8612,
+    "x": 1357,
+    "y": 10238,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Fire giant",
+    "id": 2075,
+    "x": 1278,
+    "y": 10200,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Fire giant",
+    "id": 2076,
+    "x": 1282,
+    "y": 10205,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Fire giant",
+    "id": 2077,
+    "x": 1276,
+    "y": 10206,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Fire giant",
+    "id": 2078,
+    "x": 1272,
+    "y": 10208,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Fire giant",
+    "id": 2079,
+    "x": 1278,
+    "y": 10212,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Fire giant",
+    "id": 2080,
+    "x": 1284,
+    "y": 10211,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Fire giant",
+    "id": 2075,
+    "x": 1280,
+    "y": 10208,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Fire giant",
+    "id": 2076,
+    "x": 1281,
+    "y": 10200,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Fire giant",
+    "id": 2077,
+    "x": 1289,
+    "y": 10203,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Fire giant",
+    "id": 2078,
+    "x": 1287,
+    "y": 10208,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Hellhound",
+    "id": 104,
+    "x": 1339,
+    "y": 10203,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Hellhound",
+    "id": 104,
+    "x": 1336,
+    "y": 10199,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Hellhound",
+    "id": 104,
+    "x": 1333,
+    "y": 10193,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Hellhound",
+    "id": 104,
+    "x": 1342,
+    "y": 10197,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Hellhound",
+    "id": 104,
+    "x": 1348,
+    "y": 10197,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Hellhound",
+    "id": 104,
+    "x": 1354,
+    "y": 10193,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Hellhound",
+    "id": 104,
+    "x": 1348,
+    "y": 10193,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Hellhound",
+    "id": 104,
+    "x": 1345,
+    "y": 10200,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Hellhound",
+    "id": 104,
+    "x": 1340,
+    "y": 10200,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Hellhound",
+    "id": 104,
+    "x": 1336,
+    "y": 10203,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Hellhound",
+    "id": 104,
+    "x": 1335,
+    "y": 10208,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Hellhound",
+    "id": 104,
+    "x": 1338,
+    "y": 10211,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Hellhound",
+    "id": 104,
+    "x": 1339,
+    "y": 10206,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Kaal-Ket-Jor",
+    "id": 15021,
+    "x": 1367,
+    "y": 10206,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 16
+  }
+]

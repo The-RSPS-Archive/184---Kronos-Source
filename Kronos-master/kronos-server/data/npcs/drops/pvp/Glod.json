@@ -1,0 +1,22 @@
+[
+  {
+    "ids": [ 5129, 6358, 6297 ],
+    "guaranteed": [
+      { "id": 532, "min": 2, "max": 2 }, //Big bones
+      { "id": 11210, "min": 1, "max": 1 } //Golden goblin
+    ],
+    "tables": [
+      {
+        "name": "Other drops",
+        "weight": 1,
+        "items": [
+          { "id": 5331, "min": 1, "max": 4, "weight": 12 }, //Watering can
+          { "id": 1623, "min": 1, "max": 1, "weight": 9 }, //Uncut sapphire
+          { "id": 1619, "min": 1, "max": 1, "weight": 6 }, //Uncut ruby
+          { "id": 1603, "min": 2, "max": 2, "weight": 3 }, //Ruby
+          { "id": 532, "min": 2, "max": 2, "weight": 1 } //Big bones
+        ]
+      }
+    ]
+  }
+]

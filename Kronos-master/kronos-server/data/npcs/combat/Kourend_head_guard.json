@@ -1,0 +1,45 @@
+[
+  { #Kourend head guard (84)
+    "ids": [ 7017 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 86,
+    "aggressive_level": 168,
+    "max_damage": 10,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 0.0,
+    "slayer_tasks": [],
+    //Combat Stats
+    "attack": 75,
+    "strength": 73,
+    "defence": 61,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 17,
+    "slash_attack": 17,
+    "crush_attack": 17,
+    "magic_attack": 17,
+    "ranged_attack": 17,
+    //Defensive Stats
+    "stab_defence": 16,
+    "slash_defence": 16,
+    "crush_defence": 18,
+    "magic_defence": -12,
+    "ranged_defence": 27,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 2,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 422,
+    "defend_animation": 424,
+    "death_animation": 836
+  }
+]

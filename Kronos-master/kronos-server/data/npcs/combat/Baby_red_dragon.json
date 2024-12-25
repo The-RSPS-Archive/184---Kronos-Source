@@ -1,0 +1,176 @@
+[
+  { #Baby dragon (48) (red)
+    "ids": [ 244, 245, 246  ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 50,
+    "aggressive_level": 96,
+    "max_damage": 5,
+    "attack_style": "SLASH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 50.0,
+    "slayer_tasks": [ "Red Dragons" ],
+    //Combat Stats
+    "attack": 40,
+    "strength": 40,
+    "defence": 40,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 30,
+    "slash_defence": 50,
+    "crush_defence": 50,
+    "magic_defence": 40,
+    "ranged_defence": 30,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 5,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 25,
+    "defend_animation": 26,
+    "death_animation": 28
+  },
+    { #Baby dragon (65) (red, POH)
+    "ids": [ 137 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 50,
+    "aggressive_level": 138,
+    "max_damage": 5,
+    "attack_style": "SLASH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 50.0,
+    "slayer_tasks": [  ],
+    //Combat Stats
+    "attack": 40,
+    "strength": 40,
+    "defence": 40,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 30,
+    "slash_defence": 50,
+    "crush_defence": 50,
+    "magic_defence": 40,
+    "ranged_defence": 30,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 5,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 25,
+    "defend_animation": 26,
+    "death_animation": 28,
+	//Misc
+	"combat_xp_modifier": 0
+  },
+    { #Baby dragon (48) (blue)
+    "ids": [ 241, 242, 243 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 50,
+    "aggressive_level": 96,
+    "max_damage": 5,
+    "attack_style": "SLASH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 50.0,
+    "slayer_tasks": [ "Blue Dragons" ],
+    //Combat Stats
+    "attack": 40,
+    "strength": 40,
+    "defence": 40,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 30,
+    "slash_defence": 50,
+    "crush_defence": 50,
+    "magic_defence": 40,
+    "ranged_defence": 30,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 5,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 25,
+    "defend_animation": 26,
+    "death_animation": 28
+  },
+    { #Baby dragon (48) (green)
+    "ids": [ 5194, 5872, 5873],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 50,
+    "aggressive_level": 96,
+    "max_damage": 5,
+    "attack_style": "SLASH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 50.0,
+    "slayer_tasks": [ "Green Dragons" ],
+    //Combat Stats
+    "attack": 40,
+    "strength": 40,
+    "defence": 40,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 30,
+    "slash_defence": 50,
+    "crush_defence": 50,
+    "magic_defence": 40,
+    "ranged_defence": 30,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 5,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 25,
+    "defend_animation": 26,
+    "death_animation": 28
+  }
+]

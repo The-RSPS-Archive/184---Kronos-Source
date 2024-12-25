@@ -1,0 +1,64 @@
+[
+  {
+    "ids": [ 247, 248, 249, 250, 251 ],
+    "guaranteed": [
+      { "id": 536, "min": 1, "max": 1 }, //Dragon bones
+      { "id": 1749, "min": 1, "max": 1 } //Red dragonhide
+    ],
+    "tables": [
+      {
+        "name": "Armour/Weapons",
+        "weight": 1,
+        "items": [
+          { "id": 1315, "min": 1, "max": 1, "weight": 12 }, //Mithril 2h sword
+          { "id": 828, "min": 20, "max": 20, "weight": 9 }, //Mithril javelin
+          { "id": 1355, "min": 1, "max": 1, "weight": 6 }, //Mithril axe
+          { "id": 1197, "min": 1, "max": 1, "weight": 6 }, //Mithril kiteshield
+          { "id": 1123, "min": 1, "max": 1, "weight": 6 }, //Adamant platebody
+          { "id": 1369, "min": 1, "max": 1, "weight": 6 }, //Mithril battleaxe
+          { "id": 892, "min": 4, "max": 4, "weight": 3 }, //Rune arrow
+          { "id": 811, "min": 8, "max": 8, "weight": 3 }, //Rune dart
+          { "id": 1303, "min": 1, "max": 1, "weight": 1 } //Rune longsword
+        ]
+      },
+      {
+        "name": "Runes/Talismans",
+        "weight": 1,
+        "items": [
+          { "id": 563, "min": 4, "max": 4, "weight": 6 }, //Law rune
+          { "id": 560, "min": 5, "max": 5, "weight": 3 }, //Death rune
+          { "id": 565, "min": 2, "max": 2, "weight": 1 } //Blood rune
+        ]
+      },
+      {
+        "name": "Herbs",
+        "weight": 1,
+        "items": [
+          { "id": 199, "min": 1, "max": 1, "weight": 12 }, //Grimy guam leaf
+          { "id": 201, "min": 1, "max": 1, "weight": 12 }, //Grimy marrentill
+          { "id": 203, "min": 1, "max": 1, "weight": 9 }, //Grimy tarromin
+          { "id": 205, "min": 1, "max": 1, "weight": 9 }, //Grimy harralander
+          { "id": 207, "min": 1, "max": 1, "weight": 9 }, //Grimy ranarr weed
+          { "id": 209, "min": 1, "max": 1, "weight": 6 }, //Grimy irit leaf
+          { "id": 211, "min": 1, "max": 1, "weight": 6 }, //Grimy avantoe
+          { "id": 213, "min": 1, "max": 1, "weight": 6 }, //Grimy kwuarm
+          { "id": 215, "min": 1, "max": 1, "weight": 3 }, //Grimy cadantine
+          { "id": 2485, "min": 1, "max": 1, "weight": 3 }, //Grimy lantadyme
+          { "id": 217, "min": 1, "max": 1, "weight": 1 } //Grimy dwarf weed
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 995, "min": 30, "max": 690, "weight": 12 }, //Coins
+          { "id": 1897, "min": 3, "max": 3, "weight": 12 }, //Chocolate cake
+          { "id": 2361, "min": 1, "max": 1, "weight": 9 }, //Adamantite bar
+          { "id": 19582, "min": 10, "max": 10, "weight": 6 }, //Dragon javelin heads
+          { "id": 13511, "min": 1, "max": 1, "weight": 3 }, //Ensouled dragon head
+          { "id": 2722, "min": 1, "max": 1, "weight": 1 } //Clue scroll (hard)
+        ]
+      }
+    ]
+  }
+]

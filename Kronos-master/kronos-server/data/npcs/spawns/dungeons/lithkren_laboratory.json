@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Adamant dragon",
+    "id": 8030,
+    "x": 1546,
+    "y": 5081,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Adamant dragon",
+    "id": 8030,
+    "x": 1545,
+    "y": 5068,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Adamant dragon",
+    "id": 8030,
+    "x": 1552,
+    "y": 5070,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Rune dragon",
+    "id": 8031,
+    "x": 1584,
+    "y": 5066,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Rune dragon",
+    "id": 8031,
+    "x": 1582,
+    "y": 5072,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Rune dragon",
+    "id": 8031,
+    "x": 1589,
+    "y": 5081,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  }
+]

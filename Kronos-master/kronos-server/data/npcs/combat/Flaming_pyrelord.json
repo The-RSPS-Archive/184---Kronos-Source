@@ -1,0 +1,45 @@
+[
+  { #Flaming pyrelord (97)
+    "ids": [ 7394 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 126,
+    "aggressive_level": 194,
+    "max_damage": 7,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 30,
+    "slayer_xp": 1250.0,
+    "slayer_tasks": [ "Pyrefiends" ],
+    //Combat Stats
+    "attack": 98,
+    "strength": 65,
+    "defence": 52,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 18,
+    "slash_defence": 18,
+    "crush_defence": 18,
+    "magic_defence": 0,
+    "ranged_defence": 18,
+    //Immunites
+    "poison_immunity": true,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 5,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 1582,
+    "defend_animation": 1581,
+    "death_animation": 1580
+  }
+]

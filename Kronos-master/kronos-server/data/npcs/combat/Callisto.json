@@ -1,0 +1,48 @@
+[
+  { #Callisto (470)
+    "ids": [ 6503, 6609 ],
+    "handler": "io.ruin.model.activities.wilderness.bosses.Callisto",
+    //Combat Info
+    "hitpoints": 255,
+    "aggressive_level": 940,
+    "max_damage": 60,
+    "attack_style": "CRUSH",
+    "pet": "CALLISTO_CUB",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 312.0,
+    "slayer_tasks": [ "Callisto", "Bears" ],
+    //Combat Stats
+    "attack": 350,
+    "strength": 370,
+    "defence": 440,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 135,
+    "slash_defence": 104,
+    "crush_defence": 175,
+    "magic_defence": 900,
+    "ranged_defence": 230,
+    //Immunites
+    "poison_immunity": true,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 5,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 4925,
+    "defend_animation": 4927,
+    "death_animation": 4929,
+	//Other
+	"local_loot": true
+  }
+]

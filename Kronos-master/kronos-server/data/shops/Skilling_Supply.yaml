@@ -1,0 +1,58 @@
+---
+identifier: "9c9c490e-61b9-4aec-b4be-0321105e2d5b"
+title: "Skilling Store"
+currency: "COINS"
+accessibleByIronMan: true
+canSellToStore: true
+generalStore: true
+restockRules:
+  restockTicks: 52
+  restockPerTick: 1
+defaultStock:
+- id: 228
+  amount: 100000000
+- id: 10006
+  amount: 100000000
+- id: 10008
+  amount: 100000000
+- id: 10012
+  amount: 100000000
+- id: 11260
+  amount: 100000000
+- id: 10010
+  amount: 100000000
+- id: 1759
+  amount: 100000000
+- id: 9434
+  amount: 100000000
+- id: 1592
+  amount: 100000000
+- id: 1595
+  amount: 100000000
+- id: 1597
+  amount: 100000000
+- id: 11065
+  amount: 100000000
+- id: 5523
+  amount: 100000000
+- id: 4
+  amount: 100000000
+- id: 2347
+  amount: 100000000
+- id: 1267
+  amount: 100000000
+- id: 1275
+  amount: 100000000
+- id: 1349
+  amount: 100000000
+- id: 1359
+  amount: 100000000
+- id: 946
+  amount: 100000000
+- id: 1733
+  amount: 100000000
+  price: 2
+- id: 1734
+  amount: 100000000
+  price: 2
+

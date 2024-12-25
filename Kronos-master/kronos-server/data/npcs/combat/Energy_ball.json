@@ -1,0 +1,45 @@
+[
+  {
+  "ids": [ 7514 ],
+  "handler": "io.ruin.model.activities.miscpvm.PassiveCombat",
+  //Combat Info
+  "hitpoints": 20,
+  "aggressive_level": 0,
+  "max_damage": 0,
+  "attack_style": "CRUSH",
+  //Slayer Info
+  "slayer_level": 1,
+  "slayer_xp": 0.0,
+  "slayer_tasks": [ ],
+  //Combat Stats
+  "attack": 1,
+  "strength": 1,
+  "defence": 80,
+  "ranged": 1,
+  "magic": 1,
+  //Aggressive Stats
+  "stab_attack": 0,
+  "slash_attack": 0,
+  "crush_attack": 0,
+  "magic_attack": 0,
+  "ranged_attack": 0,
+  //Defensive Stats
+  "stab_defence": 0,
+  "slash_defence": 0,
+  "crush_defence": 0,
+  "magic_defence": 0,
+  "ranged_defence": 0,
+  //Immunites
+  "poison_immunity": true,
+  "venom_immunity": true,
+  //Speeds
+  "attack_ticks": 10,
+  "death_ticks": 1,
+  "respawn_ticks": -1,
+  //Animations
+  "spawn_animation": -1,
+  "attack_animation": -1,
+  "defend_animation": -1,
+  "death_animation": -1
+  }
+]

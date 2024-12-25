@@ -1,0 +1,470 @@
+[
+  {
+    "name": "Kalphite Soldier",
+    "id": 957,
+    "x": 3466,
+    "y": 9486,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Kalphite Worker",
+    "id": 955,
+    "x": 3469,
+    "y": 9516,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 11
+  },
+  {
+    "name": "Kalphite Soldier",
+    "id": 957,
+    "x": 3471,
+    "y": 9483,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Kalphite Larva",
+    "id": 966,
+    "x": 3477,
+    "y": 9480,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Kalphite Soldier",
+    "id": 957,
+    "x": 3468,
+    "y": 9485,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Kalphite Larva",
+    "id": 966,
+    "x": 3471,
+    "y": 9486,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Kalphite Soldier",
+    "id": 957,
+    "x": 3465,
+    "y": 9489,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Kalphite Worker",
+    "id": 955,
+    "x": 3464,
+    "y": 9512,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Kalphite Soldier",
+    "id": 957,
+    "x": 3481,
+    "y": 9500,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Kalphite Worker",
+    "id": 955,
+    "x": 3469,
+    "y": 9482,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Kalphite Worker",
+    "id": 955,
+    "x": 3485,
+    "y": 9525,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Kalphite Larva",
+    "id": 966,
+    "x": 3507,
+    "y": 9490,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Kalphite Worker",
+    "id": 955,
+    "x": 3488,
+    "y": 9502,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Kalphite Worker",
+    "id": 955,
+    "x": 3491,
+    "y": 9526,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Kalphite Soldier",
+    "id": 957,
+    "x": 3487,
+    "y": 9490,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Kalphite Worker",
+    "id": 955,
+    "x": 3504,
+    "y": 9483,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Kalphite Worker",
+    "id": 955,
+    "x": 3494,
+    "y": 9509,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Kalphite Worker",
+    "id": 955,
+    "x": 3497,
+    "y": 9514,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Kalphite Worker",
+    "id": 955,
+    "x": 3501,
+    "y": 9518,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 10
+  },
+  {
+    "name": "Kalphite Guardian",
+    "id": 959,
+    "x": 3506,
+    "y": 9494,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Kalphite Worker",
+    "id": 955,
+    "x": 3505,
+    "y": 9520,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Kalphite Larva",
+    "id": 966,
+    "x": 3489,
+    "y": 9524,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Kalphite Worker",
+    "id": 955,
+    "x": 3501,
+    "y": 9517,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Kalphite Guardian",
+    "id": 959,
+    "x": 3509,
+    "y": 9498,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Kalphite Larva",
+    "id": 966,
+    "x": 3469,
+    "y": 9504,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Kalphite Queen",
+    "id": 963,
+    "x": 3475,
+    "y": 9491,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Kalphite Larva",
+    "id": 966,
+    "x": 3471,
+    "y": 9498,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Kalphite Larva",
+    "id": 966,
+    "x": 3491,
+    "y": 9499,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Kalphite Larva",
+    "id": 966,
+    "x": 3493,
+    "y": 9505,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Kalphite Larva",
+    "id": 966,
+    "x": 3491,
+    "y": 9498,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Kalphite Guardian",
+    "id": 962,
+    "x": 3494,
+    "y": 9487,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Kalphite Larva",
+    "id": 966,
+    "x": 3502,
+    "y": 9490,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Kalphite Guardian",
+    "id": 962,
+    "x": 3493,
+    "y": 9501,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Kalphite Soldier",
+    "id": 957,
+    "x": 3466,
+    "y": 9482,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Kalphite Worker",
+    "id": 955,
+    "x": 3474,
+    "y": 9498,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Kalphite Worker",
+    "id": 955,
+    "x": 3471,
+    "y": 9493,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Kalphite Worker",
+    "id": 955,
+    "x": 3477,
+    "y": 9492,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Kalphite Worker",
+    "id": 955,
+    "x": 3482,
+    "y": 9486,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Kalphite Worker",
+    "id": 955,
+    "x": 3485,
+    "y": 9492,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Kalphite Worker",
+    "id": 955,
+    "x": 3489,
+    "y": 9488,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Kalphite Worker",
+    "id": 955,
+    "x": 3491,
+    "y": 9498,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Kalphite Worker",
+    "id": 955,
+    "x": 3496,
+    "y": 9495,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Kalphite Worker",
+    "id": 955,
+    "x": 3505,
+    "y": 9494,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Kalphite Worker",
+    "id": 955,
+    "x": 3497,
+    "y": 9505,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Kalphite Worker",
+    "id": 955,
+    "x": 3489,
+    "y": 9511,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Kalphite Worker",
+    "id": 955,
+    "x": 3491,
+    "y": 9507,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Kalphite Worker",
+    "id": 955,
+    "x": 3481,
+    "y": 9511,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Kalphite Worker",
+    "id": 955,
+    "x": 3475,
+    "y": 9505,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Kalphite Worker",
+    "id": 955,
+    "x": 3480,
+    "y": 9504,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Kalphite Worker",
+    "id": 955,
+    "x": 3486,
+    "y": 9507,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Kalphite Worker",
+    "id": 955,
+    "x": 3491,
+    "y": 9494,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Kalphite Worker",
+    "id": 955,
+    "x": 3477,
+    "y": 9487,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  }
+]

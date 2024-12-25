@@ -1,0 +1,45 @@
+[
+  { #Jail guard (26)
+    "ids": [ 4276, 4277, 4278, 4279 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 32,
+    "aggressive_level": 52,
+    "max_damage": 3,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 0.0,
+    "slayer_tasks": [],
+    //Combat Stats
+    "attack": 19,
+    "strength": 23,
+    "defence": 21,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 9,
+    "slash_attack": 9,
+    "crush_attack": 9,
+    "magic_attack": 9,
+    "ranged_attack": 9,
+    //Defensive Stats
+    "stab_defence": 8,
+    "slash_defence": 9,
+    "crush_defence": 10,
+    "magic_defence": 4,
+    "ranged_defence": 9,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 5,
+    "death_ticks": 5,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 401,
+    "defend_animation": 403,
+    "death_animation": 836
+  }
+]

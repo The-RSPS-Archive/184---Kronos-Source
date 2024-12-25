@@ -1,0 +1,164 @@
+[
+  {
+    "name": "Sabeil",
+    "id": 3347,
+    "x": 3358,
+    "y": 3242,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Jeed",
+    "id": 3351,
+    "x": 3361,
+    "y": 3239,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Captain Daerkin",
+    "id": 2570,
+    "x": 3363,
+    "y": 3222,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Afrah",
+    "id": 3350,
+    "x": 3392,
+    "y": 3210,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Jaraah",
+    "id": 3344,
+    "x": 3358,
+    "y": 3276,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "A\u0027abla",
+    "id": 3341,
+    "x": 3362,
+    "y": 3275,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Sabreen",
+    "id": 3342,
+    "x": 3368,
+    "y": 3276,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Zahwa",
+    "id": 3345,
+    "x": 3373,
+    "y": 3277,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Kronos Nurse",
+    "id": 3343,
+    "x": 3372,
+    "y": 3272,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Mubariz",
+    "id": 3331,
+    "x": 3314,
+    "y": 3240,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Hamid",
+    "id": 3352,
+    "x": 3375,
+    "y": 3284,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Fadli",
+    "id": 3340,
+    "x": 3383,
+    "y": 3269,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Rat",
+    "id": 2854,
+    "x": 3317,
+    "y": 3251,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Camel",
+    "id": 2835,
+    "x": 3314,
+    "y": 3268,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Dalal",
+    "id": 3349,
+    "x": 3330,
+    "y": 3235,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Ima",
+    "id": 3346,
+    "x": 3330,
+    "y": 3234,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Jadid",
+    "id": 3348,
+    "x": 3359,
+    "y": 3220,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Ranis Drakan",
+    "id": 3745,
+    "x": 3367,
+    "y": 3266,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  }
+]

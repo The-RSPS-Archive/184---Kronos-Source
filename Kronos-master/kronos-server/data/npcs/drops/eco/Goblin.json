@@ -1,0 +1,57 @@
+[
+  {
+    "ids": [ 3028, 3029, 3030, 3031, 3032, 3033, 3034, 3035, 3036, 3037, 3038, 3039, 3040, 3041, 3042, 3043, 3044, 3051, 3052, 3053, 3054, 5192, 5193, 5195, 5196, 5197, 5198, 5199, 5200, 5201, 5202, 5203, 5204, 5205, 5206, 5207, 5208, 655, 656, 657, 658, 659, 660, 661, 662, 663, 664, 665, 666, 667, 668, 674, 677, 678, 2484, 3045, 3047, 3048, 3073, 3074, 3075, 3076, 2486, 2246, 2247, 2249, 2485, 3046, 2487, 2489, 2488 ],
+    "guaranteed": [
+      { "id": 526, "min": 1, "max": 1 } //Bones
+    ],
+    "tables": [
+      {
+        "name": "Armour/Weapons",
+        "weight": 1,
+        "items": [
+          { "id": 1173, "min": 1, "max": 1, "weight": 9 }, //Bronze sq shield
+          { "id": 877, "min": 2, "max": 2, "weight": 6 }, //Bronze bolts
+          { "id": 877, "min": 4, "max": 4, "weight": 6 }, //Bronze bolts
+          { "id": 877, "min": 8, "max": 8, "weight": 6 }, //Bronze bolts
+          { "id": 1321, "min": 1, "max": 1, "weight": 3 }, //Bronze scimitar
+          { "id": 1237, "min": 1, "max": 1, "weight": 3 }, //Bronze spear
+          { "id": 825, "min": 1, "max": 1, "weight": 1 }, //Bronze javelin
+          { "id": 1009, "min": 1, "max": 1, "weight": 1 }, //Brass necklace
+          { "id": 1189, "min": 1, "max": 1, "weight": 1 } //Bronze kiteshield
+        ]
+      },
+      {
+        "name": "Runes",
+        "weight": 1,
+        "items": [
+          { "id": 555, "min": 6, "max": 6, "weight": 3 }, //Water rune
+          { "id": 558, "min": 1, "max": 2, "weight": 3 }, //Mind rune
+          { "id": 559, "min": 2, "max": 2, "weight": 3 }, //Body rune
+          { "id": 559, "min": 7, "max": 7, "weight": 3 }, //Body rune
+          { "id": 557, "min": 4, "max": 4, "weight": 3 }, //Earth rune
+          { "id": 562, "min": 1, "max": 1, "weight": 1 }, //Chaos rune
+          { "id": 561, "min": 1, "max": 1, "weight": 1 } //Nature rune
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 995, "min": 1, "max": 24, "weight": 9 }, //Coins
+          { "id": 2347, "min": 1, "max": 1, "weight": 9 }, //Hammer
+          { "id": 1351, "min": 1, "max": 1, "weight": 9 }, //Bronze axe
+          { "id": 1438, "min": 1, "max": 1, "weight": 6 }, //Air talisman
+          { "id": 1925, "min": 1, "max": 1, "weight": 6 }, //Bucket
+          { "id": 1007, "min": 1, "max": 1, "weight": 6 }, //Red cape
+          { "id": 1949, "min": 1, "max": 1, "weight": 3 }, //Chef's hat
+          { "id": 1987, "min": 1, "max": 1, "weight": 3 }, //Grapes
+          { "id": 1917, "min": 1, "max": 1, "weight": 3 }, //Beer
+          { "id": 288, "min": 1, "max": 1, "weight": 3 }, //Goblin mail
+          { "id": 10999, "min": 1, "max": 1, "weight": 1 }, //Goblin book
+          { "id": 13448, "min": 1, "max": 1, "weight": 1 }, //Ensouled goblin head
+          { "id": 2677, "min": 1, "max": 1, "weight": 1 } //Clue scroll (easy)
+        ]
+      }
+    ]
+  }
+]

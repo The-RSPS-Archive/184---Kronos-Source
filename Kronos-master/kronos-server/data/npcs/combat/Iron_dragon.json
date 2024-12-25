@@ -1,0 +1,88 @@
+[
+  { #Iron dragon (189)
+    "ids": [ 272, 273 ],
+    "handler": "io.ruin.model.activities.miscpvm.dragons.MetalDragon",
+    //Combat Info
+    "hitpoints": 165,
+    "aggressive_level": 378,
+    "max_damage": 18,
+    "attack_style": "SLASH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 173.2,
+    "slayer_tasks": [ "Iron Dragons" ],
+    //Combat Stats
+    "attack": 165,
+    "strength": 165,
+    "defence": 165,
+    "ranged": 1,
+    "magic": 100,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 50,
+    "slash_defence": 70,
+    "crush_defence": 70,
+    "magic_defence": 30,
+    "ranged_defence": 90,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 5,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 80,
+    "defend_animation": 89,
+    "death_animation": 92
+  },
+  { #Iron dragon (215)
+    "ids": [ 7254 ],
+    "handler": "io.ruin.model.activities.miscpvm.dragons.MetalDragon",
+    //Combat Info
+    "hitpoints": 195,
+    "aggressive_level": 430,
+    "max_damage": 19,
+    "attack_style": "SLASH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 205.0,
+    "slayer_tasks": [ "Iron Dragons" ],
+    //Combat Stats
+    "attack": 185,
+    "strength": 185,
+    "defence": 185,
+    "ranged": 1,
+    "magic": 120,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 50,
+    "slash_defence": 70,
+    "crush_defence": 70,
+    "magic_defence": 30,
+    "ranged_defence": 90,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 2,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 80,
+    "defend_animation": 89,
+    "death_animation": 92
+  }
+]

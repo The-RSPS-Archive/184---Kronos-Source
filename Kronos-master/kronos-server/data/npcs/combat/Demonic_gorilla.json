@@ -1,0 +1,45 @@
+[
+  { #Demonic gorilla (275)
+    "ids": [ 7144, 7145, 7146, 7147, 7148, 7149, 7152 ],
+    "handler": "io.ruin.model.activities.bosses.DemonicGorilla",
+    //Combat Info
+    "hitpoints": 380,
+    "aggressive_level": 100,
+    "max_damage": 31,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 408.5,
+    "slayer_tasks": [ "Monkeys", "Black Demons" ],
+    //Combat Stats
+    "attack": 205,
+    "strength": 195,
+    "defence": 200,
+    "ranged": 195,
+    "magic": 195,
+    //Aggressive Stats
+    "stab_attack": 43,
+    "slash_attack": 43,
+    "crush_attack": 43,
+    "magic_attack": 40,
+    "ranged_attack": 43,
+    //Defensive Stats
+    "stab_defence": 50,
+    "slash_defence": 50,
+    "crush_defence": 50,
+    "magic_defence": 50,
+    "ranged_defence": 50,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 5,
+    "death_ticks": 5,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 7226,
+    "defend_animation": 7224,
+    "death_animation": 7229
+  }
+]

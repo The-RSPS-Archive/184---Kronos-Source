@@ -1,0 +1,67 @@
+[
+  {
+    "ids": [ 2075, 2076, 2077, 2078, 2079, 2080, 2081, 2082, 2083, 2084, 7252, 7251 ],
+    "guaranteed": [
+      { "id": 532, "min": 1, "max": 1 } //Big bones
+    ],
+    "tables": [
+      {
+        "name": "Weapons/Armour",
+        "weight": 1,
+        "items": [
+          { "id": 1353, "min": 1, "max": 1, "weight": 6 }, //Steel axe
+          { "id": 1181, "min": 1, "max": 1, "weight": 3 }, //Mithril sq shield
+          { "id": 1393, "min": 1, "max": 1, "weight": 3 }, //Fire battlestaff
+          { "id": 1333, "min": 1, "max": 1, "weight": 1 } //Rune scimitar
+        ]
+      },
+      {
+        "name": "Ammunition/Runes",
+        "weight": 1,
+        "items": [
+          { "id": 554, "min": 37, "max": 37, "weight": 6 }, //Fire rune
+          { "id": 554, "min": 50, "max": 50, "weight": 6 }, //Fire rune
+          { "id": 554, "min": 150, "max": 150, "weight": 6 }, //Fire rune
+          { "id": 554, "min": 300, "max": 300, "weight": 6 }, //Fire rune
+          { "id": 562, "min": 5, "max": 5, "weight": 3 }, //Chaos rune
+          { "id": 562, "min": 15, "max": 15, "weight": 3 }, //Chaos rune
+          { "id": 565, "min": 5, "max": 5, "weight": 3 }, //Blood rune
+          { "id": 563, "min": 2, "max": 2, "weight": 1 }, //Law rune
+          { "id": 563, "min": 4, "max": 4, "weight": 1 }, //Law rune
+          { "id": 892, "min": 12, "max": 12, "weight": 1 } //Rune arrow
+        ]
+      },
+      {
+        "name": "Herbs",
+        "weight": 1,
+        "items": [
+          { "id": 199, "min": 1, "max": 1, "weight": 6 }, //Grimy guam leaf
+          { "id": 201, "min": 1, "max": 1, "weight": 6 }, //Grimy marrentill
+          { "id": 203, "min": 1, "max": 1, "weight": 6 }, //Grimy tarromin
+          { "id": 211, "min": 1, "max": 1, "weight": 6 }, //Grimy avantoe
+          { "id": 205, "min": 1, "max": 1, "weight": 6 }, //Grimy harralander
+          { "id": 207, "min": 1, "max": 1, "weight": 3 }, //Grimy ranarr weed
+          { "id": 209, "min": 1, "max": 1, "weight": 3 }, //Grimy irit leaf
+          { "id": 215, "min": 1, "max": 1, "weight": 3 }, //Grimy cadantine
+          { "id": 2485, "min": 1, "max": 1, "weight": 1 }, //Grimy lantadyme
+          { "id": 213, "min": 1, "max": 1, "weight": 1 }, //Grimy kwuarm
+          { "id": 217, "min": 1, "max": 1, "weight": 1 } //Grimy dwarf weed
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 995, "min": 15, "max": 15, "weight": 12 }, //Coins
+          { "id": 995, "min": 25, "max": 25, "weight": 12 }, //Coins
+          { "id": 995, "min": 60, "max": 60, "weight": 12 }, //Coins
+          { "id": 995, "min": 300, "max": 300, "weight": 6 }, //Coins
+          { "id": 2353, "min": 1, "max": 1, "weight": 6 }, //Steel bar
+          { "id": 379, "min": 1, "max": 1, "weight": 3 }, //Lobster
+          { "id": 117, "min": 1, "max": 1, "weight": 1 }, //Strength potion(2)
+          { "id": 13475, "min": 1, "max": 1, "weight": 1 } //Ensouled giant head
+        ]
+      }
+    ]
+  }
+]

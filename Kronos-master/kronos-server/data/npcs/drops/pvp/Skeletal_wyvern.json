@@ -1,0 +1,99 @@
+[
+  {
+    "ids": [ 465, 466, 467, 468 ],
+    "guaranteed": [
+      { "id": 6812, "min": 1, "max": 1 } //Wyvern bones
+    ],
+    "tables": [
+      {
+        "name": "Weapons and armour",
+        "weight": 1,
+        "items": [
+          { "id": 1399, "min": 1, "max": 1, "weight": 50 }, //Earth battlestaff
+          { "id": 1359, "min": 1, "max": 1, "weight": 40 }, //Rune axe
+          { "id": 1373, "min": 1, "max": 1, "weight": 40 }, //Rune battleaxe
+          { "id": 1347, "min": 1, "max": 1, "weight": 30 }, //Rune warhammer
+          { "id": 1201, "min": 1, "max": 1, "weight": 30 }, //Rune kiteshield
+          { "id": 1163, "min": 1, "max": 1, "weight": 25 }, //Rune full helm
+          { "id": 4585, "min": 1, "max": 1, "weight": 1 }, //Dragon plateskirt
+          { "id": 4087, "min": 1, "max": 1, "weight": 1 }, //Dragon platelegs
+          { "id": 6809, "min": 1, "max": 1, "weight": 1 } //Granite legs
+        ]
+      },
+      {
+        "name": "Runes and talismans",
+        "weight": 1,
+        "items": [
+          { "id": 556, "min": 225, "max": 225, "weight": 6 }, //Air rune
+          { "id": 555, "min": 150, "max": 150, "weight": 3 }, //Water rune
+          { "id": 7937, "min": 250, "max": 250, "weight": 3 }, //Pure essence (noted)
+          { "id": 562, "min": 20, "max": 20, "weight": 3 }, //Chaos rune
+          { "id": 562, "min": 80, "max": 80, "weight": 3 }, //Chaos rune
+          { "id": 563, "min": 45, "max": 45, "weight": 3 }, //Law rune
+          { "id": 560, "min": 40, "max": 40, "weight": 3 }, //Death rune
+          { "id": 565, "min": 25, "max": 25, "weight": 3 }, //Blood rune
+          { "id": 566, "min": 20, "max": 20, "weight": 1 } //Soul rune
+        ]
+      },
+      {
+        "name": "Ammunition",
+        "weight": 1,
+        "items": [
+          { "id": 9143, "min": 7, "max": 99, "weight": 6 }, //Adamant bolts
+          { "id": 9144, "min": 5, "max": 44, "weight": 6 }, //Runite bolts
+          { "id": 892, "min": 36, "max": 36, "weight": 1 } //Rune arrow
+        ]
+      },
+      {
+        "name": "Seeds",
+        "weight": 1,
+        "items": [
+          { "id": 5295, "min": 3, "max": 3, "weight": 3 }, //Ranarr seed
+          { "id": 5300, "min": 1, "max": 1, "weight": 1 } //Snapdragon seed
+        ]
+      },
+      {
+        "name": "Herbs",
+        "weight": 1,
+        "items": [
+          { "id": 199, "min": 1, "max": 3, "weight": 9 }, //Grimy guam leaf
+          { "id": 201, "min": 1, "max": 3, "weight": 9 }, //Grimy marrentill
+          { "id": 203, "min": 1, "max": 3, "weight": 6 }, //Grimy tarromin
+          { "id": 205, "min": 1, "max": 3, "weight": 6 }, //Grimy harralander
+          { "id": 207, "min": 1, "max": 3, "weight": 6 }, //Grimy ranarr weed
+          { "id": 209, "min": 1, "max": 3, "weight": 3 }, //Grimy irit leaf
+          { "id": 211, "min": 1, "max": 3, "weight": 3 }, //Grimy avantoe
+          { "id": 213, "min": 1, "max": 3, "weight": 3 }, //Grimy kwuarm
+          { "id": 215, "min": 1, "max": 3, "weight": 3 }, //Grimy cadantine
+          { "id": 2485, "min": 1, "max": 3, "weight": 1 }, //Grimy lantadyme
+          { "id": 217, "min": 1, "max": 3, "weight": 1 } //Grimy dwarf weed
+        ]
+      },
+      {
+        "name": "Materials",
+        "weight": 1,
+        "items": [
+          { "id": 1514, "min": 35, "max": 35, "weight": 6 }, //Magic logs (noted)
+          { "id": 2362, "min": 10, "max": 10, "weight": 6 }, //Adamantite bar (noted)
+          { "id": 568, "min": 75, "max": 75, "weight": 6 }, //Unpowered orb (noted)
+          { "id": 441, "min": 200, "max": 200, "weight": 6 }, //Iron ore (noted)
+          { "id": 1620, "min": 10, "max": 10, "weight": 3 }, //Uncut ruby (noted)
+          { "id": 1618, "min": 5, "max": 5, "weight": 3 }, //Uncut diamond (noted)
+          { "id": 1392, "min": 10, "max": 10, "weight": 3 } //Battlestaff (noted)
+        ]
+      },
+      {
+        "name": "Others",
+        "weight": 1,
+        "items": [
+          { "id": 995, "min": 300, "max": 300, "weight": 250 }, //Coins
+          { "id": 2434, "min": 2, "max": 2, "weight": 250 }, //Prayer potion(4)
+          { "id": 379, "min": 6, "max": 6, "weight": 250 }, //Lobster
+          { "id": 9465, "min": 1, "max": 1, "weight": 150 }, //Runite crossbow (u)
+          { "id": 12073, "min": 1, "max": 1, "weight": 3 }, //Clue scroll (elite)
+          { "id": 11286, "min": 1, "max": 1, "weight": 1 } //Draconic visage
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,125 @@
+---
+identifier: "5464df07-5091-4ddc-8c5a-426db5ae2193"
+title: "PvM Points Shop"
+currency: "PVM_POINTS"
+accessibleByIronMan: true
+canSellToStore: false
+restockRules:
+  restockTicks: 52
+  restockPerTick: 1
+defaultStock:
+  - id: 10548
+    amount: 10
+    price: 275
+  - id: 10547
+    amount: 10
+    price: 275
+  - id: 10549
+    amount: 10
+    price: 275
+  - id: 10550
+    amount: 10
+    price: 275
+  - id: 10551
+    amount: 10
+    price: 375
+  - id: 10555
+    amount: 10
+    price: 375
+    placeholderId: 0
+  - id: 10552
+    amount: 10
+    price: 100
+    placeholderId: 0
+  - id: 10553
+    amount: 10
+    price: 150
+    placeholderId: 0
+  - id: 7453
+    amount: 10
+    price: 25
+    placeholderId: 0
+  - id: 7454
+    amount: 10
+    price: 50
+    placeholderId: 0
+  - id: 7455
+    amount: 10
+    price: 75
+    placeholderId: 0
+  - id: 7456
+    amount: 10
+    price: 100
+    placeholderId: 0
+  - id: 7457
+    amount: 10
+    price: 125
+    placeholderId: 0
+  - id: 7458
+    amount: 10
+    price: 150
+    placeholderId: 0
+  - id: 7459
+    amount: 10
+    price: 175
+    placeholderId: 0
+  - id: 7460
+    amount: 10
+    price: 200
+    placeholderId: 0
+  - id: 7461
+    amount: 10
+    price: 225
+    placeholderId: 0
+  - id: 7462
+    amount: 10
+    price: 250
+    placeholderId: 0
+  - id: 30040
+    amount: 10
+    price: 12500
+    placeholderId: 0
+  - id: 30039
+    amount: 10
+    price: 12500
+    placeholderId: 0
+  - id: 30046
+    amount: 10
+    price: 5000
+    placeholderId: 0
+  - id: 30041
+    amount: 10
+    price: 25000
+    placeholderId: 0
+  - id: 30043
+    amount: 10
+    price: 25000
+    placeholderId: 0
+  - id: 30042
+    amount: 10
+    price: 25000
+    placeholderId: 0
+  - id: 3840
+    amount: 100
+    price: 250
+  - id: 3842
+    amount: 100
+    price: 250
+  - id: 3844
+    amount: 100
+    price: 250
+  - id: 12608
+    amount: 100
+    price: 500
+  - id: 12610
+    amount: 100
+    price: 500
+  - id: 12612
+    amount: 100
+    price: 500
+  - id: 12863
+    amount: 100
+    price: 650
+  - id: 4081
+    amount: 1000
+    price: 20

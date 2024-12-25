@@ -1,0 +1,85 @@
+[
+  {
+    "ids": [ 537, 1024 ],
+    "guaranteed": [
+      { "id": 592, "min": 1, "max": 1 } //Ashes
+    ],
+    "tables": [
+      {
+        "name": "Runes",
+        "weight": 1,
+        "items": [
+          { "id": 561, "min": 2, "max": 2, "weight": 1 }, //Nature rune
+          { "id": 563, "min": 10, "max": 50, "weight": 1 }, //Law rune
+          { "id": 557, "min": 15, "max": 15, "weight": 1 } //Earth rune
+        ]
+      },
+      {
+        "name": "Seeds",
+        "weight": 3,
+        "items": [
+          { "id": 5323, "min": 1, "max": 6, "weight": 20 }, //Strawberry seed
+          { "id": 5305, "min": 1, "max": 1, "weight": 10 }, //Barley seed
+          { "id": 5308, "min": 3, "max": 3, "weight": 10 }, //Asgarnian seed
+          { "id": 5318, "min": 4, "max": 4, "weight": 10 }, //Potato seed
+          { "id": 5311, "min": 1, "max": 1, "weight": 10 }, //Wildblood seed
+          { "id": 5098, "min": 1, "max": 1, "weight": 10 }, //Nasturtium seed
+          { "id": 5282, "min": 1, "max": 1, "weight": 10 }, //Mushroom spore
+          { "id": 5100, "min": 1, "max": 1, "weight": 10 }, //Limpwurt seed
+          { "id": 5322, "min": 3, "max": 3, "weight": 10 }, //Tomato seed
+          { "id": 5105, "min": 1, "max": 1, "weight": 10 }, //Whiteberry seed
+          { "id": 5104, "min": 1, "max": 1, "weight": 10 }, //Jangerberry seed
+          { "id": 5106, "min": 1, "max": 1, "weight": 10 }, //Poison ivy seed
+          { "id": 5296, "min": 1, "max": 1, "weight": 10 }, //Toadflax seed
+          { "id": 5299, "min": 1, "max": 1, "weight": 10 }, //Kwuarm seed
+          { "id": 5307, "min": 3, "max": 3, "weight": 10 }, //Hammerstone seed
+          { "id": 5319, "min": 4, "max": 4, "weight": 10 }, //Onion seed
+          { "id": 5309, "min": 1, "max": 1, "weight": 1 }, //Yanillian seed
+          { "id": 5306, "min": 1, "max": 1, "weight": 1 }, //Jute seed
+          { "id": 5295, "min": 1, "max": 1, "weight": 1 }, //Ranarr seed
+          { "id": 5321, "min": 1, "max": 3, "weight": 1 }, //Watermelon seed
+          { "id": 5096, "min": 1, "max": 1, "weight": 1 }, //Marigold seed
+          { "id": 5099, "min": 1, "max": 1, "weight": 1 } //Woad seed
+        ]
+      },
+      {
+        "name": "Herbs",
+        "weight": 3,
+        "items": [
+          { "id": 199, "min": 1, "max": 1, "weight": 30 }, //Grimy guam leaf
+          { "id": 201, "min": 1, "max": 1, "weight": 30 }, //Grimy marrentill
+          { "id": 203, "min": 1, "max": 1, "weight": 30 }, //Grimy tarromin
+          { "id": 205, "min": 1, "max": 1, "weight": 20 }, //Grimy harralander
+          { "id": 207, "min": 1, "max": 1, "weight": 20 }, //Grimy ranarr weed
+          { "id": 209, "min": 1, "max": 1, "weight": 20 }, //Grimy irit leaf
+          { "id": 211, "min": 1, "max": 1, "weight": 20 }, //Grimy avantoe
+          { "id": 213, "min": 1, "max": 1, "weight": 10 }, //Grimy kwuarm
+          { "id": 215, "min": 1, "max": 1, "weight": 10 }, //Grimy cadantine
+          { "id": 2485, "min": 1, "max": 1, "weight": 10 }, //Grimy lantadyme
+          { "id": 217, "min": 1, "max": 1, "weight": 1 } //Grimy dwarf weed
+        ]
+      },
+      {
+        "name": "Weapons/Armour",
+        "weight": 3,
+        "items": [
+          { "id": 1353, "min": 1, "max": 1, "weight": 20 }, //Steel axe
+          { "id": 1311, "min": 1, "max": 1, "weight": 20 }, //Steel 2h sword
+          { "id": 1159, "min": 1, "max": 1, "weight": 1 }, //Mithril full helm
+          { "id": 1163, "min": 1, "max": 1, "weight": 1 } //Rune full helm
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 995, "min": 44, "max": 400, "weight": 1 }, //Coins
+          { "id": 6035, "min": 1, "max": 3, "weight": 1 }, //Supercompost (noted)
+          { "id": 2970, "min": 1, "max": 3, "weight": 1 }, //Mort myre fungus
+          { "id": 434, "min": 1, "max": 1, "weight": 1 }, //Clay
+          { "id": 7432, "min": 1, "max": 1, "weight": 1 } //Fungicide
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,90 @@
+---
+identifier: "994d3225-768e-4ea9-8aa4-d351910b26bb"
+title: "Blood Money Ranged Shop"
+currency: "BLOOD_MONEY"
+canSellToStore: false
+accessibleByIronMan: true
+restockRules:
+  restockTicks: 52
+  restockPerTick: 1
+defaultStock:
+- id: 19478
+  amount: 1000
+  price: 15000
+  placeholderId: 0
+- id: 4732
+  amount: 1000
+  price: 3500
+  placeholderId: 0
+- id: 4736
+  amount: 1000
+  price: 3500
+  placeholderId: 0
+- id: 4738
+  amount: 1000
+  price: 3500
+  placeholderId: 0
+- id: 4734
+  amount: 1000
+  price: 3500
+  placeholderId: 0
+- id: 19481
+  amount: 1000
+  price: 30000
+  placeholderId: 0
+- id: 21902
+  amount: 1000
+  price: 15000
+  placeholderId: 0
+- id: 11235
+  amount: 8500
+  price: 1500
+  placeholderId: 0
+- id: 11230
+  amount: 1000
+  price: 8
+  placeholderId: 0
+- id: 2581
+  amount: 1000
+  price: 5000
+  placeholderId: 0
+- id: 2577
+  amount: 1000
+  price: 10000
+  placeholderId: 0
+- id: 12596
+  amount: 1000
+  price: 5000
+  placeholderId: 0
+- id: 19994
+  amount: 1000
+  price: 2500
+  placeholderId: 0
+- id: 11926
+  amount: 1000
+  price: 13000
+  placeholderId: 0
+- id: 6522
+  amount: 1000
+  price: 30
+  placeholderId: 0
+- id: 21326
+  amount: 1000
+  price: 10
+  placeholderId: 0
+- id: 11212
+  amount: 1000
+  price: 15
+  placeholderId: 0
+- id: 19484
+  amount: 1000
+  price: 30
+  placeholderId: 0
+- id: 20849
+  amount: 1000
+  price: 30
+  placeholderId: 0
+- id: 22804
+  amount: 1000
+  price: 30
+  placeholderId: 0

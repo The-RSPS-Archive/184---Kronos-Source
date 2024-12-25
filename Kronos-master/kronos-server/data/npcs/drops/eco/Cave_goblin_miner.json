@@ -1,0 +1,28 @@
+[
+  {
+    "ids": [ 5330, 5331, 5332, 5333, 5336, 5337, 5338, 5339 ],
+    "guaranteed": [
+      { "id": 526, "min": 1, "max": 1 } //Bones
+    ],
+    "tables": [
+      {
+        "name": "Armour",
+        "weight": 1,
+        "items": [
+          { "id": 5013, "min": 1, "max": 1, "weight": 1 } //Mining helmet
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 995, "min": 6, "max": 6, "weight": 12 }, //Coins
+          { "id": 590, "min": 1, "max": 1, "weight": 9 }, //Tinderbox
+          { "id": 440, "min": 2, "max": 2, "weight": 6 }, //Iron ore
+          { "id": 440, "min": 7, "max": 7, "weight": 3 }, //Iron ore
+          { "id": 442, "min": 1, "max": 1, "weight": 1 } //Silver ore
+        ]
+      }
+    ]
+  }
+]

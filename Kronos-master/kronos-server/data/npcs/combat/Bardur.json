@@ -1,0 +1,45 @@
+[
+  { #Bardur (94)
+    "ids": [ 2263 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 99,
+    "aggressive_level": 188,
+    "max_damage": 13,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 0.0,
+    "slayer_tasks": [],
+    //Combat Stats
+    "attack": 99,
+    "strength": 40,
+    "defence": 99,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 100,
+    "slash_attack": 100,
+    "crush_attack": 100,
+    "magic_attack": 100,
+    "ranged_attack": 100,
+    //Defensive Stats
+    "stab_defence": 150,
+    "slash_defence": 150,
+    "crush_defence": 150,
+    "magic_defence": 150,
+    "ranged_defence": 150,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 2,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 422,
+    "defend_animation": 424,
+    "death_animation": 836
+  }
+]

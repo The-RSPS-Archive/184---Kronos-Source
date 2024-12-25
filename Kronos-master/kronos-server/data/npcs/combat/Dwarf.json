@@ -1,0 +1,45 @@
+[
+  { #Dwarf (10)
+    "ids": [ 290, 296, 1403, 1405, 1406, 5185  ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 16,
+    "aggressive_level": 0,
+    "max_damage": 2,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 16.0,
+    "slayer_tasks": [ "Dwarves" ],
+    //Combat Stats
+    "attack": 8,
+    "strength": 8,
+    "defence": 6,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 5,
+    "slash_attack": 5,
+    "crush_attack": 5,
+    "magic_attack": 5,
+    "ranged_attack": 5,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 0,
+    "crush_defence": 0,
+    "magic_defence": 5,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 5,
+    "death_ticks": 5,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 99,
+    "defend_animation": 100,
+    "death_animation": 102
+  }
+]

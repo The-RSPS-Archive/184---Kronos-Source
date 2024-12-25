@@ -1,0 +1,31 @@
+[
+  {
+    "ids": [ 2144, 478 ],
+    "guaranteed": [
+      { "id": 526, "min": 1, "max": 1 }, //Bones
+      { "id": 526, "min": 2, "max": 2 } //Bones
+    ],
+    "tables": [
+      {
+        "name": "Runes and talismans",
+        "weight": 1,
+        "items": [
+          { "id": 555, "min": 12, "max": 12, "weight": 6 }, //Water rune
+          { "id": 557, "min": 12, "max": 12, "weight": 6 }, //Earth rune
+          { "id": 564, "min": 2, "max": 2, "weight": 3 }, //Cosmic rune
+          { "id": 561, "min": 4, "max": 4, "weight": 3 }, //Nature rune
+          { "id": 1440, "min": 1, "max": 1, "weight": 3 }, //Earth talisman
+          { "id": 1444, "min": 1, "max": 1, "weight": 1 } //Water talisman
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 995, "min": 5, "max": 5, "weight": 1 }, //Coins
+          { "id": 995, "min": 15, "max": 15, "weight": 1 } //Coins
+        ]
+      }
+    ]
+  }
+]

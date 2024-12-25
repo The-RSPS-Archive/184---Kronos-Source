@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Gielinor Guide",
+    "id": 3308,
+    "x": 3094,
+    "y": 3107,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Magic Instructor",
+    "id": 3309,
+    "x": 3142,
+    "y": 3088,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 0
+  },
+  {
+    "name": "Ironman",
+    "id": 311,
+    "x": 3136,
+    "y": 3087,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Paul",
+    "id": 317,
+    "x": 3137,
+    "y": 3087,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Angel",
+    "id": 3369,
+    "x": 3138,
+    "y": 3087,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  }
+]

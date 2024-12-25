@@ -1,0 +1,22 @@
+[
+  {
+    "ids": [ 3605 ],
+    "guaranteed": [
+      { "id": 526, "min": 1, "max": 1 }, //Bones
+      { "id": 221, "min": 4, "max": 4 }, //Eye of newt
+      { "id": 221, "min": 6, "max": 6 }, //Eye of newt
+      { "id": 221, "min": 8, "max": 8 }, //Eye of newt
+      { "id": 221, "min": 12, "max": 12 } //Eye of newt
+    ],
+    "tables": [
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 10859, "min": 1, "max": 1, "weight": 1 }, //Tea flask
+          { "id": 10882, "min": 1, "max": 1, "weight": 1 } //Rune satchel
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "ids": [ 2042, 2043, 2044 ],
+    "guaranteed": [
+      { "id": 12934, "min": 100, "max": 300 } //Zulrah's scales
+    ],
+    "tables": [
+      {
+        "name": "Armour & Weapons",
+        "weight": 6,
+        "items": [
+          { "id": 1149, "min": 1, "max": 1, "weight": 1 }, //Dragon med helm
+          { "id": 3204, "min": 1, "max": 1, "weight": 1 } //Dragon halberd
+        ]
+      },
+      {
+        "name": "Runes",
+        "weight": 7,
+        "items": [
+          { "id": 563, "min": 200, "max": 200, "weight": 1 }, //Law rune
+          { "id": 560, "min": 300, "max": 300, "weight": 1 }, //Death rune
+          { "id": 562, "min": 500, "max": 500, "weight": 1 }, //Chaos rune
+          { "id": 7937, "min": 1500, "max": 1500, "weight": 1 } //Pure essence (noted)
+        ]
+      },
+      {
+        "name": "Herbs",
+        "weight": 7,
+        "items": [
+          { "id": 3050, "min": 25, "max": 25, "weight": 10 }, //Grimy toadflax (noted)
+          { "id": 3052, "min": 10, "max": 10, "weight": 1 }, //Grimy snapdragon (noted)
+          { "id": 218, "min": 30, "max": 30, "weight": 1 }, //Grimy dwarf weed (noted)
+          { "id": 220, "min": 10, "max": 10, "weight": 1 } //Grimy torstol (noted)
+        ]
+      },
+      {
+        "name": "Materials",
+        "weight": 7,
+        "items": [
+          { "id": 1780, "min": 1000, "max": 1000, "weight": 10 }, //Flax (noted)
+          { "id": 6290, "min": 35, "max": 35, "weight": 10 }, //Snakeskin (noted)
+          { "id": 9193, "min": 12, "max": 12, "weight": 10 }, //Dragon bolt tips
+          { "id": 1516, "min": 35, "max": 35, "weight": 10 }, //Yew logs (noted)
+          { "id": 8836, "min": 50, "max": 50, "weight": 1 }, //Mahogany logs (noted)
+          { "id": 454, "min": 200, "max": 200, "weight": 1 }, //Coal (noted)
+          { "id": 452, "min": 2, "max": 2, "weight": 1 } //Runite ore (noted)
+        ]
+      },
+      {
+        "name": "Seeds",
+        "weight": 5,
+        "items": [
+          { "id": 5290, "min": 2, "max": 2, "weight": 5 }, //Calquat tree seed
+          { "id": 5289, "min": 1, "max": 1, "weight": 5 }, //Palm tree seed
+          { "id": 5288, "min": 3, "max": 3, "weight": 5 }, //Papaya tree seed
+          { "id": 5316, "min": 1, "max": 1, "weight": 5 }, //Magic seed
+          { "id": 5296, "min": 2, "max": 2, "weight": 5 }, //Toadflax seed
+          { "id": 5300, "min": 1, "max": 1, "weight": 1 }, //Snapdragon seed
+          { "id": 5303, "min": 2, "max": 2, "weight": 1 }, //Dwarf weed seed
+          { "id": 5304, "min": 1, "max": 1, "weight": 1 }, //Torstol seed
+          { "id": 5317, "min": 1, "max": 1, "weight": 1 }, //Spirit seed
+          { "id": 4207, "min": 1, "max": 1, "weight": 1 } //Crystal seed
+        ]
+      },
+      {
+        "name": "Unique",
+        "weight": 2,
+        "items": [
+          { "id": 12922, "min": 1, "max": 1, "weight": 1 }, //Tanzanite fang
+          { "id": 12932, "min": 1, "max": 1, "weight": 1 }, //Magic fang
+          { "id": 12927, "min": 1, "max": 1, "weight": 1 }, //Serpentine visage
+          { "id": 6571, "min": 1, "max": 1, "weight": 1 } //Uncut onyx
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 5,
+        "items": [
+          { "id": 12938, "min": 4, "max": 4, "weight": 25 }, //Zul-andra teleport
+          { "id": 537, "min": 12, "max": 12, "weight": 25 }, //Dragon bones (noted)
+          { "id": 5975, "min": 20, "max": 20, "weight": 25 }, //Coconut (noted)
+          { "id": 1988, "min": 250, "max": 250, "weight": 25 }, //Grapes (noted)
+          { "id": 12934, "min": 500, "max": 500, "weight": 25 }, //Zulrah's scales
+          { "id": 1392, "min": 10, "max": 10, "weight": 15 }, //Battlestaff (noted)
+          { "id": 5953, "min": 10, "max": 10, "weight": 15 }, //Antidote++(4) (noted)
+          { "id": 392, "min": 35, "max": 35, "weight": 15 }, //Manta ray (noted)
+          { "id": 1939, "min": 1000, "max": 1000, "weight": 15 }, //Swamp tar
+          { "id": 6694, "min": 10, "max": 10, "weight": 15 }, //Crushed nest (noted)
+          { "id": 2362, "min": 20, "max": 20, "weight": 15 }, //Adamantite bar (noted)
+          { "id": 12073, "min": 1, "max": 1, "weight": 1 }, //Clue scroll (elite)
+          { "id": 12936, "min": 1, "max": 1, "weight": 1 }, //Jar of swamp
+          { "id": 13200, "min": 1, "max": 1, "weight": 1 }, //Tanzanite mutagen
+          { "id": 13201, "min": 1, "max": 1, "weight": 1 } //Magma mutagen
+        ]
+      }
+    ]
+  }
+]

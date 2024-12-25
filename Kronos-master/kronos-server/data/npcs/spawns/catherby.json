@@ -1,0 +1,806 @@
+[
+  {
+    "name": "Fox",
+    "id": 3901,
+    "x": 2736,
+    "y": 3593,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Rat",
+    "id": 2854,
+    "x": 2725,
+    "y": 3580,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Rat",
+    "id": 2854,
+    "x": 2732,
+    "y": 3574,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Rat",
+    "id": 2854,
+    "x": 2731,
+    "y": 3576,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Rat",
+    "id": 2854,
+    "x": 2733,
+    "y": 3571,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Rat",
+    "id": 2854,
+    "x": 2732,
+    "y": 3569,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 10
+  },
+  {
+    "name": "Stanford",
+    "id": 4217,
+    "x": 2729,
+    "y": 3577,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Chicken",
+    "id": 2805,
+    "x": 2733,
+    "y": 3561,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "null",
+    "id": 6195,
+    "x": 2734,
+    "y": 3575,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Louisa",
+    "id": 4215,
+    "x": 2736,
+    "y": 3578,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Highwayman",
+    "id": 510,
+    "x": 2737,
+    "y": 3520,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 11
+  },
+  {
+    "name": "Sheep",
+    "id": 2692,
+    "x": 2734,
+    "y": 3559,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Sheep",
+    "id": 2692,
+    "x": 2735,
+    "y": 3562,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Hobbes",
+    "id": 4214,
+    "x": 2738,
+    "y": 3576,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Sheep",
+    "id": 2693,
+    "x": 2736,
+    "y": 3560,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "null",
+    "id": 6194,
+    "x": 2739,
+    "y": 3577,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "null",
+    "id": 6198,
+    "x": 2739,
+    "y": 3581,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Guard",
+    "id": 4218,
+    "x": 2741,
+    "y": 3562,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Gossip",
+    "id": 4219,
+    "x": 2741,
+    "y": 3556,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "null",
+    "id": 6200,
+    "x": 2742,
+    "y": 3577,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "null",
+    "id": 6196,
+    "x": 2748,
+    "y": 3559,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Highwayman",
+    "id": 510,
+    "x": 2749,
+    "y": 3525,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Pierre",
+    "id": 4213,
+    "x": 2749,
+    "y": 3576,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Sinclair Guard dog",
+    "id": 4228,
+    "x": 2749,
+    "y": 3580,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Woman",
+    "id": 3084,
+    "x": 2690,
+    "y": 3489,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Bartender",
+    "id": 1318,
+    "x": 2690,
+    "y": 3493,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Woman",
+    "id": 3083,
+    "x": 2692,
+    "y": 3494,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Man",
+    "id": 3079,
+    "x": 2692,
+    "y": 3488,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Man",
+    "id": 3078,
+    "x": 2694,
+    "y": 3495,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Giant bat",
+    "id": 2834,
+    "x": 2752,
+    "y": 3408,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Poison Salesman",
+    "id": 4227,
+    "x": 2696,
+    "y": 3494,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Giant bat",
+    "id": 2834,
+    "x": 2752,
+    "y": 3395,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Woman",
+    "id": 3083,
+    "x": 2695,
+    "y": 3495,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Giant bat",
+    "id": 2834,
+    "x": 2757,
+    "y": 3402,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Woman",
+    "id": 3083,
+    "x": 2696,
+    "y": 3496,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Renegade Knight",
+    "id": 3517,
+    "x": 2766,
+    "y": 3398,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Man",
+    "id": 3080,
+    "x": 2698,
+    "y": 3491,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Renegade Knight",
+    "id": 3517,
+    "x": 2767,
+    "y": 3399,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Woman",
+    "id": 3084,
+    "x": 2698,
+    "y": 3496,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Renegade Knight",
+    "id": 3517,
+    "x": 2771,
+    "y": 3400,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Seer",
+    "id": 5231,
+    "x": 2702,
+    "y": 3474,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Candle maker",
+    "id": 3199,
+    "x": 2799,
+    "y": 3439,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Seer",
+    "id": 5231,
+    "x": 2705,
+    "y": 3473,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Man",
+    "id": 3078,
+    "x": 2802,
+    "y": 3433,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Phantuwti Fanstuwi Farsight",
+    "id": 1357,
+    "x": 2702,
+    "y": 3473,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Man",
+    "id": 3078,
+    "x": 2713,
+    "y": 3480,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Banker",
+    "id": 1027,
+    "x": 2807,
+    "y": 3443,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Seer",
+    "id": 5231,
+    "x": 2715,
+    "y": 3471,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Seer",
+    "id": 5231,
+    "x": 2715,
+    "y": 3486,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Banker",
+    "id": 1028,
+    "x": 2809,
+    "y": 3443,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Banker",
+    "id": 1027,
+    "x": 2721,
+    "y": 3495,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "null",
+    "id": 6560,
+    "x": 2810,
+    "y": 3443,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Banker",
+    "id": 1028,
+    "x": 2722,
+    "y": 3495,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Banker",
+    "id": 1028,
+    "x": 2811,
+    "y": 3443,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Banker",
+    "id": 1027,
+    "x": 2724,
+    "y": 3495,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Banker",
+    "id": 1028,
+    "x": 2726,
+    "y": 3496,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Banker",
+    "id": 1028,
+    "x": 2727,
+    "y": 3495,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "null",
+    "id": 6560,
+    "x": 2728,
+    "y": 3495,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Trader Crewmember",
+    "id": 1331,
+    "x": 2797,
+    "y": 3414,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Banker",
+    "id": 1027,
+    "x": 2729,
+    "y": 3495,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Trader Crewmember",
+    "id": 1334,
+    "x": 2799,
+    "y": 3414,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Banker",
+    "id": 1028,
+    "x": 2729,
+    "y": 3496,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Arhein",
+    "id": 3200,
+    "x": 2803,
+    "y": 3430,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Estate agent",
+    "id": 5419,
+    "x": 2737,
+    "y": 3501,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Man",
+    "id": 3078,
+    "x": 2805,
+    "y": 3429,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Town crier",
+    "id": 280,
+    "x": 2739,
+    "y": 3480,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Guard",
+    "id": 4335,
+    "x": 2735,
+    "y": 3469,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Guard",
+    "id": 4336,
+    "x": 2735,
+    "y": 3469,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Unicorn",
+    "id": 2837,
+    "x": 2709,
+    "y": 3450,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Flax keeper",
+    "id": 5522,
+    "x": 2743,
+    "y": 3445,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Man",
+    "id": 3080,
+    "x": 2817,
+    "y": 3442,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Woman",
+    "id": 3084,
+    "x": 2820,
+    "y": 3443,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "null",
+    "id": 4986,
+    "x": 2817,
+    "y": 3452,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Hickton",
+    "id": 3212,
+    "x": 2823,
+    "y": 3443,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Harry",
+    "id": 3213,
+    "x": 2834,
+    "y": 3443,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Ellena",
+    "id": 2670,
+    "x": 2859,
+    "y": 3430,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Tool Leprechaun",
+    "id": 0,
+    "x": 2856,
+    "y": 3435,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Vanessa",
+    "id": 502,
+    "x": 2820,
+    "y": 3461,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0,
+    "shopOptions": {
+      "trade": "25a27451-f6f4-4d6d-972c-de717e78df99"
+    }
+  },
+  {
+    "name": "Vestri",
+    "id": 4078,
+    "x": 2820,
+    "y": 3486,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Wolf",
+    "id": 106,
+    "x": 2653,
+    "y": 3586,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Council workman",
+    "id": 3921,
+    "x": 2655,
+    "y": 3591,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Sir Palomedes",
+    "id": 3526,
+    "x": 2752,
+    "y": 3509,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Sir Lucan",
+    "id": 3525,
+    "x": 2754,
+    "y": 3515,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "The \u0027Wedge\u0027",
+    "id": 5517,
+    "x": 2760,
+    "y": 3476,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Unicorn",
+    "id": 2837,
+    "x": 2778,
+    "y": 3470,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Unicorn",
+    "id": 2837,
+    "x": 2793,
+    "y": 3463,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Dantaera",
+    "id": 2664,
+    "x": 2809,
+    "y": 3465,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Tool Leprechaun",
+    "id": 0,
+    "x": 2815,
+    "y": 3466,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Tramp",
+    "id": 382,
+    "x": 2683,
+    "y": 3484,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  }
+]

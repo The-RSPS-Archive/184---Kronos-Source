@@ -1,0 +1,617 @@
+[
+  {
+    "name": "Dwarf",
+    "id": 290,
+    "x": 3009,
+    "y": 9811,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Dwarf",
+    "id": 290,
+    "x": 3013,
+    "y": 9810,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 9
+  },
+  {
+    "name": "Dwarf",
+    "id": 290,
+    "x": 3015,
+    "y": 9816,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Dwarf",
+    "id": 290,
+    "x": 3018,
+    "y": 9820,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Dwarf",
+    "id": 290,
+    "x": 3019,
+    "y": 9847,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Dwarf",
+    "id": 290,
+    "x": 3019,
+    "y": 9812,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Dwarf",
+    "id": 290,
+    "x": 3016,
+    "y": 9812,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Dwarf",
+    "id": 290,
+    "x": 3021,
+    "y": 9833,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Dwarf",
+    "id": 290,
+    "x": 3023,
+    "y": 9845,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Dwarf",
+    "id": 290,
+    "x": 3020,
+    "y": 9845,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Dwarf",
+    "id": 290,
+    "x": 3026,
+    "y": 9846,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Dwarf",
+    "id": 290,
+    "x": 3025,
+    "y": 9822,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Dwarf",
+    "id": 290,
+    "x": 3024,
+    "y": 9828,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Dwarf",
+    "id": 290,
+    "x": 3026,
+    "y": 9834,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Rat",
+    "id": 2854,
+    "x": 3026,
+    "y": 9834,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Dwarf",
+    "id": 290,
+    "x": 3026,
+    "y": 9820,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Rat",
+    "id": 2854,
+    "x": 3030,
+    "y": 9829,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Dwarf",
+    "id": 290,
+    "x": 3031,
+    "y": 9845,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Cave horror",
+    "id": 1048,
+    "x": 3033,
+    "y": 9845,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Dwarf",
+    "id": 290,
+    "x": 3033,
+    "y": 9845,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Scorpion",
+    "id": 3024,
+    "x": 3043,
+    "y": 9804,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Scorpion",
+    "id": 3024,
+    "x": 3041,
+    "y": 9794,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Scorpion",
+    "id": 3024,
+    "x": 3037,
+    "y": 9811,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Rat",
+    "id": 2854,
+    "x": 3041,
+    "y": 9817,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Rat",
+    "id": 2854,
+    "x": 3042,
+    "y": 9812,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Dwarf",
+    "id": 290,
+    "x": 3039,
+    "y": 9832,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Dwarf",
+    "id": 290,
+    "x": 3045,
+    "y": 9823,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Dwarf",
+    "id": 290,
+    "x": 3046,
+    "y": 9809,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Dwarf",
+    "id": 290,
+    "x": 3045,
+    "y": 9831,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Dwarf",
+    "id": 290,
+    "x": 3049,
+    "y": 9820,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Dwarf",
+    "id": 290,
+    "x": 3048,
+    "y": 9821,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Dwarf",
+    "id": 290,
+    "x": 3052,
+    "y": 9823,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Dwarf",
+    "id": 290,
+    "x": 2986,
+    "y": 9810,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Scorpion",
+    "id": 3024,
+    "x": 3042,
+    "y": 9776,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Boot",
+    "id": 4985,
+    "x": 2985,
+    "y": 9811,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Scorpion",
+    "id": 3024,
+    "x": 3046,
+    "y": 9789,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Dwarf",
+    "id": 290,
+    "x": 2994,
+    "y": 9845,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "King Scorpion",
+    "id": 3027,
+    "x": 3046,
+    "y": 9769,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Cave horror",
+    "id": 1051,
+    "x": 2995,
+    "y": 9829,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Scorpion",
+    "id": 3024,
+    "x": 3042,
+    "y": 9783,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Dwarf",
+    "id": 290,
+    "x": 2997,
+    "y": 9835,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Scorpion",
+    "id": 3024,
+    "x": 3043,
+    "y": 9781,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Dwarf",
+    "id": 290,
+    "x": 2992,
+    "y": 9810,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Dwarf",
+    "id": 7712,
+    "x": 3045,
+    "y": 9758,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dwarf",
+    "id": 7715,
+    "x": 3043,
+    "y": 9731,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Cart conductor",
+    "id": 2391,
+    "x": 2996,
+    "y": 9836,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Scorpion",
+    "id": 3024,
+    "x": 3049,
+    "y": 9771,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Dwarf",
+    "id": 290,
+    "x": 2998,
+    "y": 9842,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Scorpion",
+    "id": 3024,
+    "x": 3051,
+    "y": 9771,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Sheep",
+    "id": 1301,
+    "x": 2998,
+    "y": 9840,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Scorpion",
+    "id": 3024,
+    "x": 3043,
+    "y": 9780,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Dwarf",
+    "id": 290,
+    "x": 3002,
+    "y": 9816,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "King Scorpion",
+    "id": 3027,
+    "x": 3047,
+    "y": 9767,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Dwarf",
+    "id": 290,
+    "x": 2999,
+    "y": 9809,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Scorpion",
+    "id": 3024,
+    "x": 3052,
+    "y": 9772,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Dwarf",
+    "id": 290,
+    "x": 2998,
+    "y": 9823,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Scorpion",
+    "id": 3024,
+    "x": 3052,
+    "y": 9774,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Dwarf",
+    "id": 290,
+    "x": 2997,
+    "y": 9803,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Scorpion",
+    "id": 3024,
+    "x": 3051,
+    "y": 9779,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Dwarf",
+    "id": 290,
+    "x": 2997,
+    "y": 9844,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Dwarf",
+    "id": 290,
+    "x": 2997,
+    "y": 9828,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Hura",
+    "id": 2785,
+    "x": 3003,
+    "y": 9799,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Dwarf",
+    "id": 290,
+    "x": 2999,
+    "y": 9803,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Utrec",
+    "id": 7720,
+    "x": 3023,
+    "y": 9708,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Belona",
+    "id": 7719,
+    "x": 3017,
+    "y": 9720,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2,
+    "shopOptions": {
+      "trade": "6ff99a2d-5a00-411c-8c04-664b14fe545f"
+    }
+  },
+  {
+    "name": "Dwarf",
+    "id": 7714,
+    "x": 3019,
+    "y": 9735,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Yarsul",
+    "id": 7718,
+    "x": 3030,
+    "y": 9746,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Hendor",
+    "id": 7717,
+    "x": 3032,
+    "y": 9747,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  }
+]

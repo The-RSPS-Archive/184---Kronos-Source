@@ -1,0 +1,45 @@
+[
+  { #Jal-MejJak (250)
+    "ids": [ 7708 ],
+    "handler": "io.ruin.model.activities.inferno.monsters.JalMejJak",
+    //Combat Info
+    "hitpoints": 80,
+    "aggressive_level": 0,
+    "max_damage": 10,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 80.0,
+    "slayer_tasks": [ "TzHaar" ],
+    //Combat Stats
+    "attack": 1,
+    "strength": 1,
+    "defence": 100,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 0,
+    "crush_defence": 0,
+    "magic_defence": 0,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": true,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 3,
+    "death_ticks": 2,
+    "respawn_ticks": -1,
+    //Animations
+    "spawn_animation": 2864,
+    "attack_animation": 2868,
+    "defend_animation": 2863,
+    "death_animation": 2865
+  }
+]

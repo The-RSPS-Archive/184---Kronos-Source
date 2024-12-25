@@ -1,0 +1,48 @@
+[
+  {
+    "ids": [ 4067, 6360, 6299 ],
+    "guaranteed": [
+      { "id": 526, "min": 1, "max": 1 } //Bones
+    ],
+    "tables": [
+      {
+        "name": "Weapons/Armour",
+        "weight": 1,
+        "items": [
+          { "id": 1295, "min": 1, "max": 1, "weight": 1 }, //Steel longsword
+          { "id": 1191, "min": 1, "max": 1, "weight": 1 }, //Iron kiteshield
+          { "id": 1153, "min": 1, "max": 1, "weight": 1 } //Iron full helm
+        ]
+      },
+      {
+        "name": "Runes/Ammunition",
+        "weight": 1,
+        "items": [
+          { "id": 562, "min": 2, "max": 2, "weight": 3 }, //Chaos rune
+          { "id": 563, "min": 2, "max": 2, "weight": 3 }, //Law rune
+          { "id": 561, "min": 6, "max": 6, "weight": 3 }, //Nature rune
+          { "id": 554, "min": 15, "max": 15, "weight": 1 }, //Fire rune
+          { "id": 884, "min": 3, "max": 3, "weight": 1 } //Iron arrow
+        ]
+      },
+      {
+        "name": "Seeds",
+        "weight": 1,
+        "items": [
+          { "id": 5324, "min": 2, "max": 2, "weight": 1 }, //Cabbage seed
+          { "id": 5319, "min": 4, "max": 4, "weight": 1 } //Onion seed
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 13475, "min": 1, "max": 1, "weight": 3 }, //Ensouled giant head
+          { "id": 225, "min": 1, "max": 1, "weight": 3 }, //Limpwurt root
+          { "id": 1917, "min": 1, "max": 1, "weight": 1 }, //Beer
+          { "id": 20754, "min": 1, "max": 1, "weight": 1 } //Giant key
+        ]
+      }
+    ]
+  }
+]

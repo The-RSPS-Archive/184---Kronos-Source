@@ -1,0 +1,46 @@
+[
+  { #Chaos Fanatic (202)
+    "ids": [ 6619 ],
+    "handler": "io.ruin.model.activities.wilderness.bosses.ChaosFanatic",
+    //Combat Info
+    "hitpoints": 225,
+    "aggressive_level": 404,
+    "max_damage": 31,
+    "attack_style": "CRUSH",
+    "pet": "CHAOS_ELEMENTAL",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 253.0,
+    "slayer_tasks": [ "The Chaos Fanatic" ],
+    //Combat Stats
+    "attack": 1,
+    "strength": 1,
+    "defence": 220,
+    "ranged": 1,
+    "magic": 200,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 75,
+    //Defensive Stats
+    "stab_defence": 260,
+    "slash_defence": 260,
+    "crush_defence": 250,
+    "magic_defence": 280,
+    "ranged_defence": 80,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 2,
+    "death_ticks": 5,
+    "respawn_ticks": 16,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 1979,
+    "defend_animation": 425,
+    "death_animation": 2304
+  }
+]

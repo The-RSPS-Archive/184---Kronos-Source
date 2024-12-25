@@ -1,0 +1,45 @@
+[
+  { #Ahrim the Blighted (98)
+    "ids": [ 1672 ],
+    "handler": "io.ruin.model.activities.barrows.brothers.Ahrim",
+    //Combat Info
+    "hitpoints": 100,
+    "aggressive_level": 196,
+    "max_damage": 25,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 103.0,
+    "slayer_tasks": [ "Barrows Brothers" ],
+    //Combat Stats
+    "attack": 1,
+    "strength": 1,
+    "defence": 100,
+    "ranged": 1,
+    "magic": 100,
+    //Aggressive Stats
+    "stab_attack": 12,
+    "slash_attack": 0,
+    "crush_attack": 65,
+    "magic_attack": 73,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 103,
+    "slash_defence": 85,
+    "crush_defence": 117,
+    "magic_defence": 73,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 5,
+    "death_ticks": 3,
+    "respawn_ticks": -1,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 727,
+    "defend_animation": -1,
+    "death_animation": 4167
+  }
+]

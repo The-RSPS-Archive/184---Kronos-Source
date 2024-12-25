@@ -1,0 +1,650 @@
+[
+  {
+    "name": "Cave crawler",
+    "id": 406,
+    "x": 2797,
+    "y": 9996,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Cave crawler",
+    "id": 406,
+    "x": 2793,
+    "y": 9998,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Cave crawler",
+    "id": 407,
+    "x": 2792,
+    "y": 9993,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Cave crawler",
+    "id": 407,
+    "x": 2790,
+    "y": 9997,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Cave crawler",
+    "id": 408,
+    "x": 2787,
+    "y": 9994,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Cave crawler",
+    "id": 408,
+    "x": 2784,
+    "y": 9995,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Cave crawler",
+    "id": 409,
+    "x": 2782,
+    "y": 10000,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Cave crawler",
+    "id": 409,
+    "x": 2785,
+    "y": 9999,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Rockslug",
+    "id": 421,
+    "x": 2794,
+    "y": 10016,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Rockslug",
+    "id": 421,
+    "x": 2792,
+    "y": 10019,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Rockslug",
+    "id": 421,
+    "x": 2800,
+    "y": 10013,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Rockslug",
+    "id": 421,
+    "x": 2798,
+    "y": 10018,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Rockslug",
+    "id": 421,
+    "x": 2802,
+    "y": 10021,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Rockslug",
+    "id": 421,
+    "x": 2804,
+    "y": 10017,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Rockslug",
+    "id": 421,
+    "x": 2806,
+    "y": 10021,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Cockatrice",
+    "id": 419,
+    "x": 2802,
+    "y": 10032,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Cockatrice",
+    "id": 419,
+    "x": 2797,
+    "y": 10031,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Cockatrice",
+    "id": 419,
+    "x": 2800,
+    "y": 10036,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Cockatrice",
+    "id": 419,
+    "x": 2796,
+    "y": 10034,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Cockatrice",
+    "id": 419,
+    "x": 2792,
+    "y": 10037,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Cockatrice",
+    "id": 419,
+    "x": 2788,
+    "y": 10034,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Cockatrice",
+    "id": 419,
+    "x": 2785,
+    "y": 10038,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Pyrefiend",
+    "id": 433,
+    "x": 2757,
+    "y": 10011,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Pyrefiend",
+    "id": 433,
+    "x": 2761,
+    "y": 10012,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Pyrefiend",
+    "id": 434,
+    "x": 2760,
+    "y": 10008,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Pyrefiend",
+    "id": 434,
+    "x": 2757,
+    "y": 10006,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Pyrefiend",
+    "id": 435,
+    "x": 2759,
+    "y": 10003,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Pyrefiend",
+    "id": 435,
+    "x": 2762,
+    "y": 10005,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Pyrefiend",
+    "id": 436,
+    "x": 2766,
+    "y": 10002,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Pyrefiend",
+    "id": 436,
+    "x": 2760,
+    "y": 10000,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Pyrefiend",
+    "id": 433,
+    "x": 2766,
+    "y": 10004,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Pyrefiend",
+    "id": 435,
+    "x": 2761,
+    "y": 9997,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Basilisk",
+    "id": 417,
+    "x": 2745,
+    "y": 10004,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Basilisk",
+    "id": 417,
+    "x": 2740,
+    "y": 10005,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Basilisk",
+    "id": 417,
+    "x": 2740,
+    "y": 10010,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Basilisk",
+    "id": 417,
+    "x": 2746,
+    "y": 10008,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Basilisk",
+    "id": 417,
+    "x": 2743,
+    "y": 10012,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Basilisk",
+    "id": 417,
+    "x": 2746,
+    "y": 10014,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Basilisk",
+    "id": 417,
+    "x": 2741,
+    "y": 10016,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Jelly",
+    "id": 437,
+    "x": 2711,
+    "y": 10031,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Jelly",
+    "id": 438,
+    "x": 2712,
+    "y": 10026,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Jelly",
+    "id": 439,
+    "x": 2709,
+    "y": 10023,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Jelly",
+    "id": 439,
+    "x": 2707,
+    "y": 10028,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Jelly",
+    "id": 440,
+    "x": 2705,
+    "y": 10025,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Jelly",
+    "id": 440,
+    "x": 2703,
+    "y": 10022,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Jelly",
+    "id": 441,
+    "x": 2699,
+    "y": 10023,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Jelly",
+    "id": 441,
+    "x": 2697,
+    "y": 10027,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Jelly",
+    "id": 442,
+    "x": 2700,
+    "y": 10030,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Jelly",
+    "id": 442,
+    "x": 2703,
+    "y": 10032,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Turoth",
+    "id": 427,
+    "x": 2716,
+    "y": 10010,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Turoth",
+    "id": 427,
+    "x": 2720,
+    "y": 10012,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Turoth",
+    "id": 427,
+    "x": 2720,
+    "y": 10008,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Turoth",
+    "id": 428,
+    "x": 2719,
+    "y": 10004,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Turoth",
+    "id": 428,
+    "x": 2723,
+    "y": 10006,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Turoth",
+    "id": 428,
+    "x": 2724,
+    "y": 10011,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Turoth",
+    "id": 429,
+    "x": 2726,
+    "y": 10007,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Turoth",
+    "id": 429,
+    "x": 2722,
+    "y": 10001,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Turoth",
+    "id": 430,
+    "x": 2722,
+    "y": 9996,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Turoth",
+    "id": 430,
+    "x": 2729,
+    "y": 9998,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Kurask",
+    "id": 410,
+    "x": 2703,
+    "y": 10001,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Kurask",
+    "id": 411,
+    "x": 2704,
+    "y": 9995,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Kurask",
+    "id": 410,
+    "x": 2696,
+    "y": 9994,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Kurask",
+    "id": 411,
+    "x": 2695,
+    "y": 10002,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Kurask",
+    "id": 410,
+    "x": 2699,
+    "y": 9998,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Kurask",
+    "id": 411,
+    "x": 2698,
+    "y": 9974,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Kurask",
+    "id": 410,
+    "x": 2702,
+    "y": 9968,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Kurask",
+    "id": 411,
+    "x": 2707,
+    "y": 9974,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Kurask",
+    "id": 410,
+    "x": 2713,
+    "y": 9966,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Kurask",
+    "id": 411,
+    "x": 2708,
+    "y": 9959,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Kurask",
+    "id": 410,
+    "x": 2702,
+    "y": 9961,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Kurask",
+    "id": 411,
+    "x": 2709,
+    "y": 9969,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Kurask",
+    "id": 410,
+    "x": 2715,
+    "y": 9975,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  }
+]

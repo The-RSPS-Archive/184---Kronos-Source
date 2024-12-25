@@ -1,0 +1,45 @@
+[
+  { #Muttadile (small) (raids)
+    "ids": [ 7562 ],
+    "handler": "io.ruin.model.activities.raids.xeric.chamber.combat.SmallMuttadile",
+    //Combat Info
+    "hitpoints": 250,
+    "aggressive_level": 126,
+    "max_damage": 25,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 0.0,
+    "slayer_tasks": [],
+    //Combat Stats
+    "attack": 150,
+    "strength": 150,
+    "defence": 150,
+    "ranged": 150,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 71,
+    "slash_attack": 71,
+    "crush_attack": 71,
+    "magic_attack": 71,
+    "ranged_attack": 154,
+    //Defensive Stats
+    "stab_defence": -5,
+    "slash_defence": 72,
+    "crush_defence": 50,
+    "magic_defence": 60,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": true,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 5,
+    "death_ticks": 2,
+    "respawn_ticks": -1,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 7420,
+    "defend_animation": 7418,
+    "death_animation": 7426
+  }
+]

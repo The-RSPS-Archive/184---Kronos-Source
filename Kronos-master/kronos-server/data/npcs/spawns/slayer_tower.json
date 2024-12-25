@@ -1,0 +1,1478 @@
+[
+  {
+    "name": "Crawling Hand",
+    "id": 453,
+    "x": 3412,
+    "y": 3563,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Bat",
+    "id": 2827,
+    "x": 3414,
+    "y": 3539,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Crawling Hand",
+    "id": 453,
+    "x": 3414,
+    "y": 3545,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Crawling Hand",
+    "id": 453,
+    "x": 3416,
+    "y": 3556,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Crawling Hand",
+    "id": 448,
+    "x": 3410,
+    "y": 3546,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Crawling Hand",
+    "id": 448,
+    "x": 3413,
+    "y": 3562,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Crawling Hand",
+    "id": 448,
+    "x": 3405,
+    "y": 3573,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Crawling Hand",
+    "id": 448,
+    "x": 3414,
+    "y": 3561,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Crawling Hand",
+    "id": 448,
+    "x": 3414,
+    "y": 3566,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Crawling Hand",
+    "id": 453,
+    "x": 3422,
+    "y": 3570,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Bat",
+    "id": 2827,
+    "x": 3412,
+    "y": 3522,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Crawling Hand",
+    "id": 454,
+    "x": 3421,
+    "y": 3570,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Crawling Hand",
+    "id": 448,
+    "x": 3419,
+    "y": 3553,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Crawling Hand",
+    "id": 453,
+    "x": 3424,
+    "y": 3537,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Crawling Hand",
+    "id": 448,
+    "x": 3423,
+    "y": 3574,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Crawling Hand",
+    "id": 453,
+    "x": 3423,
+    "y": 3553,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Crawling Hand",
+    "id": 448,
+    "x": 3421,
+    "y": 3559,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Crawling Hand",
+    "id": 448,
+    "x": 3421,
+    "y": 3567,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Bat",
+    "id": 2827,
+    "x": 3436,
+    "y": 3523,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Crawling Hand",
+    "id": 454,
+    "x": 3431,
+    "y": 3543,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Crawling Hand",
+    "id": 448,
+    "x": 3427,
+    "y": 3544,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Crawling Hand",
+    "id": 448,
+    "x": 3424,
+    "y": 3553,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Crawling Hand",
+    "id": 454,
+    "x": 3430,
+    "y": 3571,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Bat",
+    "id": 2827,
+    "x": 3432,
+    "y": 3543,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Banshee",
+    "id": 414,
+    "x": 3430,
+    "y": 3564,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Crawling Hand",
+    "id": 453,
+    "x": 3428,
+    "y": 3572,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Crawling Hand",
+    "id": 448,
+    "x": 3428,
+    "y": 3571,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Bat",
+    "id": 2827,
+    "x": 3429,
+    "y": 3521,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Banshee",
+    "id": 414,
+    "x": 3435,
+    "y": 3549,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Banshee",
+    "id": 414,
+    "x": 3434,
+    "y": 3560,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Banshee",
+    "id": 414,
+    "x": 3438,
+    "y": 3537,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Banshee",
+    "id": 414,
+    "x": 3439,
+    "y": 3541,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Crawling Hand",
+    "id": 448,
+    "x": 3439,
+    "y": 3576,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Banshee",
+    "id": 414,
+    "x": 3438,
+    "y": 3561,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Crawling Hand",
+    "id": 453,
+    "x": 3438,
+    "y": 3572,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Banshee",
+    "id": 414,
+    "x": 3446,
+    "y": 3541,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Banshee",
+    "id": 414,
+    "x": 3446,
+    "y": 3534,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Bloodveld",
+    "id": 485,
+    "x": 3413,
+    "y": 3575,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Aberrant spectre",
+    "id": 4,
+    "x": 3410,
+    "y": 3534,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Bloodveld",
+    "id": 485,
+    "x": 3415,
+    "y": 3565,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Bloodveld",
+    "id": 485,
+    "x": 3411,
+    "y": 3574,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Bloodveld",
+    "id": 485,
+    "x": 3414,
+    "y": 3560,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Aberrant spectre",
+    "id": 5,
+    "x": 3410,
+    "y": 3547,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Aberrant spectre",
+    "id": 2,
+    "x": 3415,
+    "y": 3550,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Bloodveld",
+    "id": 485,
+    "x": 3413,
+    "y": 3558,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Bloodveld",
+    "id": 484,
+    "x": 3412,
+    "y": 3561,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Bloodveld",
+    "id": 485,
+    "x": 3418,
+    "y": 3573,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Bloodveld",
+    "id": 484,
+    "x": 3418,
+    "y": 3560,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Bloodveld",
+    "id": 484,
+    "x": 3415,
+    "y": 3558,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Aberrant spectre",
+    "id": 5,
+    "x": 3416,
+    "y": 3538,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Bloodveld",
+    "id": 487,
+    "x": 3401,
+    "y": 9932,
+    "z": 3,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Bloodveld",
+    "id": 485,
+    "x": 3419,
+    "y": 3573,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Nechryael",
+    "id": 11,
+    "x": 3403,
+    "y": 9970,
+    "z": 3,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Bloodveld",
+    "id": 484,
+    "x": 3422,
+    "y": 3564,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Bloodveld",
+    "id": 487,
+    "x": 3405,
+    "y": 9942,
+    "z": 3,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Aberrant spectre",
+    "id": 4,
+    "x": 3423,
+    "y": 3547,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Bloodveld",
+    "id": 487,
+    "x": 3407,
+    "y": 9931,
+    "z": 3,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Aberrant spectre",
+    "id": 2,
+    "x": 3424,
+    "y": 3551,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Bloodveld",
+    "id": 487,
+    "x": 3406,
+    "y": 9950,
+    "z": 3,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Bloodveld",
+    "id": 484,
+    "x": 3422,
+    "y": 3560,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Nechryael",
+    "id": 11,
+    "x": 3409,
+    "y": 9963,
+    "z": 3,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Bloodveld",
+    "id": 484,
+    "x": 3426,
+    "y": 3565,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Nechryael",
+    "id": 11,
+    "x": 3405,
+    "y": 9972,
+    "z": 3,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Bloodveld",
+    "id": 484,
+    "x": 3425,
+    "y": 3558,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Nechryael",
+    "id": 11,
+    "x": 3408,
+    "y": 9960,
+    "z": 3,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Bloodveld",
+    "id": 485,
+    "x": 3425,
+    "y": 3573,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Bloodveld",
+    "id": 486,
+    "x": 3409,
+    "y": 9937,
+    "z": 3,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Aberrant spectre",
+    "id": 5,
+    "x": 3427,
+    "y": 3540,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Bloodveld",
+    "id": 487,
+    "x": 3409,
+    "y": 9946,
+    "z": 3,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Aberrant spectre",
+    "id": 2,
+    "x": 3430,
+    "y": 3547,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Nechryael",
+    "id": 11,
+    "x": 3414,
+    "y": 9961,
+    "z": 3,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Aberrant spectre",
+    "id": 3,
+    "x": 3427,
+    "y": 3550,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Bloodveld",
+    "id": 487,
+    "x": 3414,
+    "y": 9936,
+    "z": 3,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Aberrant spectre",
+    "id": 5,
+    "x": 3428,
+    "y": 3547,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Nechryael",
+    "id": 11,
+    "x": 3408,
+    "y": 9968,
+    "z": 3,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Infernal Mage",
+    "id": 443,
+    "x": 3433,
+    "y": 3556,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Nechryael",
+    "id": 11,
+    "x": 3413,
+    "y": 9965,
+    "z": 3,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Infernal Mage",
+    "id": 443,
+    "x": 3434,
+    "y": 3562,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Nechryael",
+    "id": 11,
+    "x": 3413,
+    "y": 9953,
+    "z": 3,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Infernal Mage",
+    "id": 446,
+    "x": 3434,
+    "y": 3568,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Bloodveld",
+    "id": 486,
+    "x": 3414,
+    "y": 9942,
+    "z": 3,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Infernal Mage",
+    "id": 447,
+    "x": 3434,
+    "y": 3573,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Bloodveld",
+    "id": 486,
+    "x": 3419,
+    "y": 9934,
+    "z": 3,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Aberrant spectre",
+    "id": 4,
+    "x": 3432,
+    "y": 3546,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Bloodveld",
+    "id": 486,
+    "x": 3418,
+    "y": 9937,
+    "z": 3,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Infernal Mage",
+    "id": 446,
+    "x": 3435,
+    "y": 3558,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Nechryael",
+    "id": 11,
+    "x": 3419,
+    "y": 9961,
+    "z": 3,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Aberrant spectre",
+    "id": 3,
+    "x": 3439,
+    "y": 3549,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Nechryael",
+    "id": 11,
+    "x": 3419,
+    "y": 9966,
+    "z": 3,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Infernal Mage",
+    "id": 445,
+    "x": 3437,
+    "y": 3557,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Bloodveld",
+    "id": 487,
+    "x": 3417,
+    "y": 9943,
+    "z": 3,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Infernal Mage",
+    "id": 446,
+    "x": 3437,
+    "y": 3565,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Bloodveld",
+    "id": 486,
+    "x": 3420,
+    "y": 9935,
+    "z": 3,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Infernal Mage",
+    "id": 444,
+    "x": 3436,
+    "y": 3574,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Raulyn",
+    "id": 5790,
+    "x": 3424,
+    "y": 9952,
+    "z": 3,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Infernal Mage",
+    "id": 444,
+    "x": 3440,
+    "y": 3568,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Nechryael",
+    "id": 11,
+    "x": 3421,
+    "y": 9961,
+    "z": 3,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Aberrant spectre",
+    "id": 5,
+    "x": 3441,
+    "y": 3545,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Nechryael",
+    "id": 11,
+    "x": 3423,
+    "y": 9971,
+    "z": 3,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Aberrant spectre",
+    "id": 4,
+    "x": 3442,
+    "y": 3545,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Gargoyle",
+    "id": 1543,
+    "x": 3427,
+    "y": 9944,
+    "z": 3,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Infernal Mage",
+    "id": 447,
+    "x": 3442,
+    "y": 3555,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Abyssal demon",
+    "id": 416,
+    "x": 3426,
+    "y": 9966,
+    "z": 3,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Infernal Mage",
+    "id": 445,
+    "x": 3442,
+    "y": 3559,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Gargoyle",
+    "id": 1543,
+    "x": 3432,
+    "y": 9930,
+    "z": 3,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Infernal Mage",
+    "id": 445,
+    "x": 3444,
+    "y": 3572,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Gargoyle",
+    "id": 1543,
+    "x": 3435,
+    "y": 9945,
+    "z": 3,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Infernal Mage",
+    "id": 444,
+    "x": 3447,
+    "y": 3568,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Gargoyle",
+    "id": 1543,
+    "x": 3430,
+    "y": 9952,
+    "z": 3,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Infernal Mage",
+    "id": 443,
+    "x": 3445,
+    "y": 3577,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Abyssal demon",
+    "id": 416,
+    "x": 3430,
+    "y": 9964,
+    "z": 3,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "null",
+    "id": 6122,
+    "x": 3448,
+    "y": 3549,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Gargoyle",
+    "id": 1543,
+    "x": 3432,
+    "y": 9946,
+    "z": 3,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Infernal Mage",
+    "id": 444,
+    "x": 3448,
+    "y": 3572,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Abyssal demon",
+    "id": 416,
+    "x": 3432,
+    "y": 9955,
+    "z": 3,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Abyssal demon",
+    "id": 415,
+    "x": 3409,
+    "y": 3575,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Abyssal demon",
+    "id": 416,
+    "x": 3433,
+    "y": 9963,
+    "z": 3,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Abyssal demon",
+    "id": 415,
+    "x": 3412,
+    "y": 3562,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Gargoyle",
+    "id": 1543,
+    "x": 3435,
+    "y": 9931,
+    "z": 3,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Abyssal demon",
+    "id": 415,
+    "x": 3412,
+    "y": 3571,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Abyssal demon",
+    "id": 416,
+    "x": 3436,
+    "y": 9965,
+    "z": 3,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Abyssal demon",
+    "id": 415,
+    "x": 3406,
+    "y": 3576,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Abyssal demon",
+    "id": 416,
+    "x": 3435,
+    "y": 9970,
+    "z": 3,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Abyssal demon",
+    "id": 415,
+    "x": 3415,
+    "y": 3573,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Gargoyle",
+    "id": 1543,
+    "x": 3431,
+    "y": 9947,
+    "z": 3,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Abyssal demon",
+    "id": 415,
+    "x": 3414,
+    "y": 3563,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Abyssal demon",
+    "id": 416,
+    "x": 3436,
+    "y": 9967,
+    "z": 3,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Abyssal demon",
+    "id": 415,
+    "x": 3415,
+    "y": 3569,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Abyssal demon",
+    "id": 416,
+    "x": 3438,
+    "y": 9954,
+    "z": 3,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Abyssal demon",
+    "id": 415,
+    "x": 3417,
+    "y": 3566,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Gargoyle",
+    "id": 1543,
+    "x": 3441,
+    "y": 9936,
+    "z": 3,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Abyssal demon",
+    "id": 415,
+    "x": 3419,
+    "y": 3560,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Gargoyle",
+    "id": 1543,
+    "x": 3432,
+    "y": 9937,
+    "z": 3,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Abyssal demon",
+    "id": 415,
+    "x": 3424,
+    "y": 3573,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Gargoyle",
+    "id": 1543,
+    "x": 3430,
+    "y": 9934,
+    "z": 3,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Abyssal demon",
+    "id": 415,
+    "x": 3421,
+    "y": 3571,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Gargoyle",
+    "id": 1543,
+    "x": 3439,
+    "y": 9930,
+    "z": 3,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Abyssal demon",
+    "id": 415,
+    "x": 3422,
+    "y": 3567,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Abyssal demon",
+    "id": 416,
+    "x": 3439,
+    "y": 9961,
+    "z": 3,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Abyssal demon",
+    "id": 415,
+    "x": 3424,
+    "y": 3570,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Abyssal demon",
+    "id": 416,
+    "x": 3443,
+    "y": 9970,
+    "z": 3,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Abyssal demon",
+    "id": 415,
+    "x": 3428,
+    "y": 3571,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Abyssal demon",
+    "id": 416,
+    "x": 3442,
+    "y": 9973,
+    "z": 3,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Gargoyle",
+    "id": 412,
+    "x": 3439,
+    "y": 3548,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Abyssal demon",
+    "id": 416,
+    "x": 3443,
+    "y": 9953,
+    "z": 3,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Nechryael",
+    "id": 8,
+    "x": 3435,
+    "y": 3572,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Abyssal demon",
+    "id": 416,
+    "x": 3443,
+    "y": 9963,
+    "z": 3,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Gargoyle",
+    "id": 412,
+    "x": 3434,
+    "y": 3546,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Gargoyle",
+    "id": 1543,
+    "x": 3445,
+    "y": 9931,
+    "z": 3,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Nechryael",
+    "id": 8,
+    "x": 3438,
+    "y": 3572,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Gargoyle",
+    "id": 412,
+    "x": 3434,
+    "y": 3538,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Nechryael",
+    "id": 8,
+    "x": 3439,
+    "y": 3561,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Gargoyle",
+    "id": 412,
+    "x": 3433,
+    "y": 3545,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Gargoyle",
+    "id": 412,
+    "x": 3436,
+    "y": 3547,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Nechryael",
+    "id": 8,
+    "x": 3440,
+    "y": 3572,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Nechryael",
+    "id": 8,
+    "x": 3441,
+    "y": 3566,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Gargoyle",
+    "id": 412,
+    "x": 3443,
+    "y": 3548,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Nechryael",
+    "id": 8,
+    "x": 3443,
+    "y": 3569,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Nechryael",
+    "id": 8,
+    "x": 3441,
+    "y": 3563,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Gargoyle",
+    "id": 412,
+    "x": 3445,
+    "y": 3537,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Nechryael",
+    "id": 8,
+    "x": 3442,
+    "y": 3554,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Gargoyle",
+    "id": 412,
+    "x": 3441,
+    "y": 3535,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Nechryael",
+    "id": 8,
+    "x": 3445,
+    "y": 3562,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Nechryael",
+    "id": 8,
+    "x": 3451,
+    "y": 3572,
+    "z": 2,
+    "direction": "S",
+    "walkRange": 0
+  }
+]

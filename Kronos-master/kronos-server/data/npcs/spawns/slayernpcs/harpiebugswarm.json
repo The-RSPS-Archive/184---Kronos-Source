@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Harpie Bug Swarm",
+    "id": 464,
+    "x": 2861,
+    "y": 3106,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Harpie Bug Swarm",
+    "id": 464,
+    "x": 2853,
+    "y": 3104,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Harpie Bug Swarm",
+    "id": 464,
+    "x": 2859,
+    "y": 3098,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Harpie Bug Swarm",
+    "id": 464,
+    "x": 2869,
+    "y": 3105,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Harpie Bug Swarm",
+    "id": 464,
+    "x": 2876,
+    "y": 3100,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Harpie Bug Swarm",
+    "id": 464,
+    "x": 2877,
+    "y": 3108,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  }
+]

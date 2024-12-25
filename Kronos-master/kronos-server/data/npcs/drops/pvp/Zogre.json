@@ -1,0 +1,22 @@
+[
+  {
+    "ids": [ 866, 867, 868, 869, 870, 871, 873, 874, 875, 876, 877 ],
+    "tables": [
+      {
+        "name": "Always ",
+        "weight": 250,
+        "items": [
+          { "id": 4850, "min": 1, "max": 1, "weight": 1 }, //Ogre coffin key
+          { "id": 4812, "min": 1, "max": 1, "weight": 1 } //Zogre bones
+        ]
+      },
+      {
+        "name": "Other ",
+        "weight": 1,
+        "items": [
+          { "id": 2677, "min": 1, "max": 1, "weight": 1 } //Clue scroll (easy)
+        ]
+      }
+    ]
+  }
+]

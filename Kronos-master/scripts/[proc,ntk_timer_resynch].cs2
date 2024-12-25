@@ -1,0 +1,4 @@
+// 480
+[proc,ntk_timer_resynch](component $component0, component $component1)
+~ntk_timer_update($component1, %varbit2375);
+if_setontimer("ntk_timer_autonomous($component1, %varbit2375, clientclock)", $component0);

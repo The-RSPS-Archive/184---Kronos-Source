@@ -1,0 +1,88 @@
+[
+  { #Dessourt (121)
+    "ids": [ 4883, 6372 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 130,
+    "aggressive_level": 242,
+    "max_damage": 19,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 0.0,
+    "slayer_tasks": [],
+    //Combat Stats
+    "attack": 99,
+    "strength": 99,
+    "defence": 99,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 50,
+    "slash_attack": 50,
+    "crush_attack": 50,
+    "magic_attack": 50,
+    "ranged_attack": 50,
+    //Defensive Stats
+    "stab_defence": 10,
+    "slash_defence": 150,
+    "crush_defence": 150,
+    "magic_defence": 0,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 3,
+    "death_ticks": 2,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": -1,
+    "defend_animation": -1,
+    "death_animation": -1
+  },
+  { #Dessourt (hard) (217)
+    "ids": [ 6311 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 255,
+    "aggressive_level": 434,
+    "max_damage": 37,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 0.0,
+    "slayer_tasks": [],
+    //Combat Stats
+    "attack": 198,
+    "strength": 198,
+    "defence": 198,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 50,
+    "slash_attack": 50,
+    "crush_attack": 50,
+    "magic_attack": 50,
+    "ranged_attack": 50,
+    //Defensive Stats
+    "stab_defence": 10,
+    "slash_defence": 150,
+    "crush_defence": 150,
+    "magic_defence": 0,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 3,
+    "death_ticks": 2,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": -1,
+    "defend_animation": -1,
+    "death_animation": -1
+  }
+]

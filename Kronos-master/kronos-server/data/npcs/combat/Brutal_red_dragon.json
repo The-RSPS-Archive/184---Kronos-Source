@@ -1,0 +1,45 @@
+[
+  { #Brutal red dragon (289)
+    "ids": [ 7274 ],
+    "handler": "io.ruin.model.activities.miscpvm.dragons.BrutalDragon",
+    //Combat Info
+    "hitpoints": 285,
+    "aggressive_level": 578,
+    "max_damage": 26,
+    "attack_style": "SLASH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 306.2,
+    "slayer_tasks": [ "Red Dragons" ],
+    //Combat Stats
+    "attack": 310,
+    "strength": 210,
+    "defence": 198,
+    "ranged": 0,
+    "magic": 250,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 50,
+    "slash_defence": 70,
+    "crush_defence": 70,
+    "magic_defence": 60,
+    "ranged_defence": 50,
+    //Immunites
+    "poison_immunity": true,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 5,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 80,
+    "defend_animation": 89,
+    "death_animation": 92
+  }
+]

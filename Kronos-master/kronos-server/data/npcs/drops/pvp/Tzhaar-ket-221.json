@@ -1,0 +1,38 @@
+[
+  {
+    "ids": [ 7679 ],
+    "tables": [
+      {
+        "name": "Advanced",
+        "weight": 1,
+        "items": [
+          { "id": 21298, "min": 1, "max": 1, "weight": 1 }, //Obsidian helmet
+          { "id": 21301, "min": 1, "max": 1, "weight": 1 }, //Obsidian platebody
+          { "id": 21304, "min": 1, "max": 1, "weight": 1 } //Obsidian platelegs
+        ]
+      },
+          {
+        "name": "Basic",
+        "weight": 10,
+        "items": [
+          { "id": 6528, "min": 1, "max": 1, "weight": 1 }, //Tzhaar-ket-om
+          { "id": 6524, "min": 1, "max": 1, "weight": 1 }, //Toktz-ket-xil
+          { "id": 6568, "min": 1, "max": 1, "weight": 1 } //Obsidian cape
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 250,
+        "items": [
+          { "id": 6529, "min": 1, "max": 83, "weight": 6 }, //Tokkul
+          { "id": 13499, "min": 1, "max": 1, "weight": 6 }, //Ensouled tzhaar head
+          { "id": 1623, "min": 1, "max": 1, "weight": 3 }, //Uncut sapphire
+          { "id": 1621, "min": 1, "max": 1, "weight": 3 }, //Uncut emerald
+          { "id": 1619, "min": 1, "max": 1, "weight": 3 }, //Uncut ruby
+          { "id": 1617, "min": 1, "max": 1, "weight": 1 }, //Uncut diamond
+          { "id": 9194, "min": 1, "max": 4, "weight": 1 } //Onyx bolt tips
+        ]
+      }
+    ]
+  }
+]

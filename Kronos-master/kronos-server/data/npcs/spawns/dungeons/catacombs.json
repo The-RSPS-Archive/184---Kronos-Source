@@ -1,0 +1,2396 @@
+[
+  {
+    "name": "Hill Giant",
+    "id": 7261,
+    "x": 1669,
+    "y": 10052,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Hill Giant",
+    "id": 7261,
+    "x": 1675,
+    "y": 10059,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Hill Giant",
+    "id": 7261,
+    "x": 1677,
+    "y": 10059,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Hill Giant",
+    "id": 7261,
+    "x": 1678,
+    "y": 10056,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Hill Giant",
+    "id": 7261,
+    "x": 1652,
+    "y": 10037,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Hill Giant",
+    "id": 7261,
+    "x": 1650,
+    "y": 10037,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Hill Giant",
+    "id": 7261,
+    "x": 1655,
+    "y": 10039,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Hellhound",
+    "id": 7256,
+    "x": 1652,
+    "y": 10062,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Hill Giant",
+    "id": 7261,
+    "x": 1663,
+    "y": 10063,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Hill Giant",
+    "id": 7261,
+    "x": 1663,
+    "y": 10065,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Ghost",
+    "id": 7263,
+    "x": 1681,
+    "y": 10063,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Moss giant",
+    "id": 7262,
+    "x": 1686,
+    "y": 10051,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Moss giant",
+    "id": 7262,
+    "x": 1686,
+    "y": 10046,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Ghost",
+    "id": 7263,
+    "x": 1687,
+    "y": 10055,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Ghost",
+    "id": 7263,
+    "x": 1687,
+    "y": 10060,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Moss giant",
+    "id": 7262,
+    "x": 1687,
+    "y": 10037,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Moss giant",
+    "id": 7262,
+    "x": 1688,
+    "y": 10049,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Moss giant",
+    "id": 7262,
+    "x": 1689,
+    "y": 10046,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Ghost",
+    "id": 7263,
+    "x": 1691,
+    "y": 10061,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Moss giant",
+    "id": 7262,
+    "x": 1691,
+    "y": 10035,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Moss giant",
+    "id": 7262,
+    "x": 1686,
+    "y": 10033,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Moss giant",
+    "id": 7262,
+    "x": 1693,
+    "y": 10033,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Moss giant",
+    "id": 7262,
+    "x": 1695,
+    "y": 10033,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Ghost",
+    "id": 7263,
+    "x": 1691,
+    "y": 10063,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Ghost",
+    "id": 7263,
+    "x": 1696,
+    "y": 10065,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Ghost",
+    "id": 7263,
+    "x": 1700,
+    "y": 10065,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Ghost",
+    "id": 7263,
+    "x": 1695,
+    "y": 10066,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Ghost",
+    "id": 7263,
+    "x": 1696,
+    "y": 10066,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Ghost",
+    "id": 7263,
+    "x": 1694,
+    "y": 10065,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Lesser demon",
+    "id": 7247,
+    "x": 1703,
+    "y": 10063,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Mutated Bloodveld",
+    "id": 7276,
+    "x": 1683,
+    "y": 10075,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Mutated Bloodveld",
+    "id": 7276,
+    "x": 1689,
+    "y": 10075,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Warped Jelly",
+    "id": 7277,
+    "x": 1710,
+    "y": 10048,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Warped Jelly",
+    "id": 7277,
+    "x": 1711,
+    "y": 10050,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Greater Nechryael",
+    "id": 7278,
+    "x": 1692,
+    "y": 10076,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Lesser demon",
+    "id": 7247,
+    "x": 1713,
+    "y": 10068,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Greater Nechryael",
+    "id": 7278,
+    "x": 1692,
+    "y": 10078,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Warped Jelly",
+    "id": 7277,
+    "x": 1714,
+    "y": 10049,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Lesser demon",
+    "id": 7248,
+    "x": 1715,
+    "y": 10068,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Lesser demon",
+    "id": 7248,
+    "x": 1716,
+    "y": 10061,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Lesser demon",
+    "id": 7247,
+    "x": 1717,
+    "y": 10063,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Warped Jelly",
+    "id": 7277,
+    "x": 1718,
+    "y": 10061,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Warped Jelly",
+    "id": 7277,
+    "x": 1718,
+    "y": 10052,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Warped Jelly",
+    "id": 7277,
+    "x": 1718,
+    "y": 10048,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Greater Nechryael",
+    "id": 7278,
+    "x": 1705,
+    "y": 10079,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Black demon",
+    "id": 7242,
+    "x": 1719,
+    "y": 10079,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Lesser demon",
+    "id": 7248,
+    "x": 1720,
+    "y": 10074,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Lesser demon",
+    "id": 7247,
+    "x": 1720,
+    "y": 10072,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Lesser demon",
+    "id": 7247,
+    "x": 1721,
+    "y": 10063,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Greater Nechryael",
+    "id": 7278,
+    "x": 1706,
+    "y": 10079,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Greater Nechryael",
+    "id": 7278,
+    "x": 1701,
+    "y": 10080,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Greater Nechryael",
+    "id": 7278,
+    "x": 1702,
+    "y": 10081,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Warped Jelly",
+    "id": 7277,
+    "x": 1716,
+    "y": 10050,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Warped Jelly",
+    "id": 7277,
+    "x": 1725,
+    "y": 10048,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Warped Jelly",
+    "id": 7277,
+    "x": 1721,
+    "y": 10047,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Dust devil",
+    "id": 7249,
+    "x": 1711,
+    "y": 10034,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Dust devil",
+    "id": 7249,
+    "x": 1713,
+    "y": 10030,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Dust devil",
+    "id": 7249,
+    "x": 1718,
+    "y": 10029,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Dust devil",
+    "id": 7249,
+    "x": 1717,
+    "y": 10029,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Dust devil",
+    "id": 7249,
+    "x": 1713,
+    "y": 10029,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Cyclops",
+    "id": 7270,
+    "x": 1694,
+    "y": 10019,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Cyclops",
+    "id": 7271,
+    "x": 1692,
+    "y": 10019,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Dust devil",
+    "id": 7249,
+    "x": 1708,
+    "y": 10018,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Dust devil",
+    "id": 7249,
+    "x": 1708,
+    "y": 10018,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Dust devil",
+    "id": 7249,
+    "x": 1708,
+    "y": 10018,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Dust devil",
+    "id": 7249,
+    "x": 1708,
+    "y": 10018,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Dust devil",
+    "id": 7249,
+    "x": 1708,
+    "y": 10018,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Dust devil",
+    "id": 7249,
+    "x": 1708,
+    "y": 10018,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Dust devil",
+    "id": 7249,
+    "x": 1708,
+    "y": 10018,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Dust devil",
+    "id": 7249,
+    "x": 1708,
+    "y": 10018,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Cyclops",
+    "id": 7270,
+    "x": 1690,
+    "y": 10015,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Cyclops",
+    "id": 7271,
+    "x": 1687,
+    "y": 10014,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Cyclops",
+    "id": 7271,
+    "x": 1692,
+    "y": 10012,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Warped Jelly",
+    "id": 7277,
+    "x": 1689,
+    "y": 10010,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Warped Jelly",
+    "id": 7277,
+    "x": 1690,
+    "y": 10005,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Warped Jelly",
+    "id": 7277,
+    "x": 1687,
+    "y": 10003,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Warped Jelly",
+    "id": 7277,
+    "x": 1690,
+    "y": 10002,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "King Sand Crab",
+    "id": 7266,
+    "x": 1706,
+    "y": 10001,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Warped Jelly",
+    "id": 7277,
+    "x": 1684,
+    "y": 10000,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Warped Jelly",
+    "id": 7277,
+    "x": 1684,
+    "y": 9999,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Warped Jelly",
+    "id": 7277,
+    "x": 1688,
+    "y": 9997,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "King Sand Crab",
+    "id": 7266,
+    "x": 1705,
+    "y": 9997,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Dagannoth",
+    "id": 7259,
+    "x": 1676,
+    "y": 9997,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Warped Jelly",
+    "id": 7277,
+    "x": 1677,
+    "y": 9996,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Dagannoth",
+    "id": 7259,
+    "x": 1676,
+    "y": 9995,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "King Sand Crab",
+    "id": 7266,
+    "x": 1701,
+    "y": 9995,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Warped Jelly",
+    "id": 7277,
+    "x": 1685,
+    "y": 9994,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Dagannoth",
+    "id": 7260,
+    "x": 1673,
+    "y": 10001,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Dagannoth",
+    "id": 7260,
+    "x": 1669,
+    "y": 9997,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Dagannoth",
+    "id": 7259,
+    "x": 1668,
+    "y": 9993,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Dagannoth",
+    "id": 7260,
+    "x": 1667,
+    "y": 9998,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Dagannoth",
+    "id": 7260,
+    "x": 1667,
+    "y": 10002,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Dagannoth",
+    "id": 7260,
+    "x": 1663,
+    "y": 10001,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Dagannoth",
+    "id": 7259,
+    "x": 1662,
+    "y": 9996,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Dagannoth",
+    "id": 7259,
+    "x": 1662,
+    "y": 9995,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Dagannoth",
+    "id": 7260,
+    "x": 1660,
+    "y": 9994,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Dagannoth",
+    "id": 7260,
+    "x": 1661,
+    "y": 9998,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Dagannoth",
+    "id": 7259,
+    "x": 1659,
+    "y": 9994,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Dagannoth",
+    "id": 7259,
+    "x": 1659,
+    "y": 9992,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Deviant spectre",
+    "id": 7279,
+    "x": 1659,
+    "y": 9987,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Deviant spectre",
+    "id": 7279,
+    "x": 1658,
+    "y": 9989,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Deviant spectre",
+    "id": 7279,
+    "x": 1657,
+    "y": 9990,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Moss giant",
+    "id": 7262,
+    "x": 1655,
+    "y": 10012,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Cyclops",
+    "id": 7270,
+    "x": 1651,
+    "y": 10011,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Ankou",
+    "id": 7257,
+    "x": 1650,
+    "y": 9998,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Moss giant",
+    "id": 7262,
+    "x": 1659,
+    "y": 10014,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Ankou",
+    "id": 7257,
+    "x": 1648,
+    "y": 9995,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Ankou",
+    "id": 7257,
+    "x": 1648,
+    "y": 9999,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Deviant spectre",
+    "id": 7279,
+    "x": 1648,
+    "y": 9992,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Moss giant",
+    "id": 7262,
+    "x": 1658,
+    "y": 10015,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Ankou",
+    "id": 7257,
+    "x": 1647,
+    "y": 9995,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Cyclops",
+    "id": 7271,
+    "x": 1646,
+    "y": 10010,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Cyclops",
+    "id": 7271,
+    "x": 1647,
+    "y": 10012,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Ankou",
+    "id": 7257,
+    "x": 1646,
+    "y": 9995,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Ankou",
+    "id": 7257,
+    "x": 1645,
+    "y": 9992,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Magic axe",
+    "id": 7269,
+    "x": 1644,
+    "y": 10012,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Ankou",
+    "id": 7257,
+    "x": 1639,
+    "y": 9989,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Ankou",
+    "id": 7257,
+    "x": 1638,
+    "y": 9994,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Ankou",
+    "id": 7257,
+    "x": 1638,
+    "y": 9990,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Ankou",
+    "id": 7257,
+    "x": 1637,
+    "y": 9997,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Hill Giant",
+    "id": 7261,
+    "x": 1634,
+    "y": 10008,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Shade",
+    "id": 7258,
+    "x": 1627,
+    "y": 10004,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Deviant spectre",
+    "id": 7279,
+    "x": 1625,
+    "y": 10004,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Twisted Banshee",
+    "id": 7272,
+    "x": 1626,
+    "y": 9994,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Twisted Banshee",
+    "id": 7272,
+    "x": 1625,
+    "y": 9991,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Twisted Banshee",
+    "id": 7272,
+    "x": 1622,
+    "y": 9992,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Twisted Banshee",
+    "id": 7272,
+    "x": 1612,
+    "y": 9995,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Twisted Banshee",
+    "id": 7272,
+    "x": 1609,
+    "y": 9999,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Twisted Banshee",
+    "id": 7272,
+    "x": 1608,
+    "y": 9993,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Hill Giant",
+    "id": 7261,
+    "x": 1635,
+    "y": 10009,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Deviant spectre",
+    "id": 7279,
+    "x": 1608,
+    "y": 10010,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Shade",
+    "id": 7258,
+    "x": 1610,
+    "y": 10011,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Deviant spectre",
+    "id": 7279,
+    "x": 1608,
+    "y": 10011,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Deviant spectre",
+    "id": 7279,
+    "x": 1620,
+    "y": 10011,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Shade",
+    "id": 7258,
+    "x": 1610,
+    "y": 10012,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Deviant spectre",
+    "id": 7279,
+    "x": 1602,
+    "y": 10012,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Deviant spectre",
+    "id": 7279,
+    "x": 1619,
+    "y": 10012,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Deviant spectre",
+    "id": 7279,
+    "x": 1603,
+    "y": 10012,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Deviant spectre",
+    "id": 7279,
+    "x": 1607,
+    "y": 10013,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Shade",
+    "id": 7258,
+    "x": 1608,
+    "y": 10015,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Pirate",
+    "id": 7282,
+    "x": 1619,
+    "y": 10015,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Shade",
+    "id": 7258,
+    "x": 1617,
+    "y": 10019,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Shade",
+    "id": 7258,
+    "x": 1606,
+    "y": 10024,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Hill Giant",
+    "id": 7261,
+    "x": 1638,
+    "y": 10009,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Mutated Bloodveld",
+    "id": 7276,
+    "x": 1676,
+    "y": 10071,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Mutated Bloodveld",
+    "id": 7276,
+    "x": 1678,
+    "y": 10072,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Ghost",
+    "id": 7264,
+    "x": 1663,
+    "y": 10032,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Hellhound",
+    "id": 7256,
+    "x": 1649,
+    "y": 10058,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Hill Giant",
+    "id": 7261,
+    "x": 1648,
+    "y": 10035,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Skeleton",
+    "id": 7265,
+    "x": 1648,
+    "y": 10057,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Hellhound",
+    "id": 7256,
+    "x": 1648,
+    "y": 10061,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Skeleton",
+    "id": 7265,
+    "x": 1646,
+    "y": 10048,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Hellhound",
+    "id": 7256,
+    "x": 1646,
+    "y": 10063,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Skeleton",
+    "id": 7265,
+    "x": 1646,
+    "y": 10048,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Ghost",
+    "id": 7263,
+    "x": 1663,
+    "y": 10031,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Ghost",
+    "id": 7264,
+    "x": 1664,
+    "y": 10026,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Ghost",
+    "id": 7263,
+    "x": 1666,
+    "y": 10026,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Ghost",
+    "id": 7263,
+    "x": 1664,
+    "y": 10025,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Ghost",
+    "id": 7263,
+    "x": 1654,
+    "y": 10025,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Cyclops",
+    "id": 7271,
+    "x": 1652,
+    "y": 10024,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Ghost",
+    "id": 7263,
+    "x": 1668,
+    "y": 10023,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Cyclops",
+    "id": 7271,
+    "x": 1653,
+    "y": 10022,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Cyclops",
+    "id": 7270,
+    "x": 1649,
+    "y": 10021,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Magic axe",
+    "id": 7269,
+    "x": 1647,
+    "y": 10018,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Possessed pickaxe",
+    "id": 7268,
+    "x": 1640,
+    "y": 10030,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Possessed pickaxe",
+    "id": 7268,
+    "x": 1640,
+    "y": 10031,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Magic axe",
+    "id": 7269,
+    "x": 1641,
+    "y": 10036,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Possessed pickaxe",
+    "id": 7268,
+    "x": 1640,
+    "y": 10033,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Moss giant",
+    "id": 7262,
+    "x": 1640,
+    "y": 10019,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Possessed pickaxe",
+    "id": 7268,
+    "x": 1638,
+    "y": 10037,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Magic axe",
+    "id": 7269,
+    "x": 1636,
+    "y": 10030,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Cyclops",
+    "id": 7270,
+    "x": 1635,
+    "y": 10031,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Hill Giant",
+    "id": 7261,
+    "x": 1632,
+    "y": 10016,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Cyclops",
+    "id": 7271,
+    "x": 1635,
+    "y": 10031,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Cyclops",
+    "id": 7270,
+    "x": 1628,
+    "y": 10031,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Cyclops",
+    "id": 7271,
+    "x": 1630,
+    "y": 10031,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Cyclops",
+    "id": 7271,
+    "x": 1626,
+    "y": 10033,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Shade",
+    "id": 7258,
+    "x": 1608,
+    "y": 10026,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Cyclops",
+    "id": 7270,
+    "x": 1629,
+    "y": 10032,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Shade",
+    "id": 7258,
+    "x": 1603,
+    "y": 10039,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Shade",
+    "id": 7258,
+    "x": 1605,
+    "y": 10042,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Shade",
+    "id": 7258,
+    "x": 1604,
+    "y": 10044,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Shade",
+    "id": 7258,
+    "x": 1604,
+    "y": 10045,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Steel dragon",
+    "id": 7255,
+    "x": 1609,
+    "y": 10050,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Dark beast",
+    "id": 7250,
+    "x": 1620,
+    "y": 10053,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Steel dragon",
+    "id": 7255,
+    "x": 1608,
+    "y": 10055,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Dark beast",
+    "id": 7250,
+    "x": 1622,
+    "y": 10056,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Brutal red dragon",
+    "id": 7274,
+    "x": 1617,
+    "y": 10073,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Brutal red dragon",
+    "id": 7274,
+    "x": 1612,
+    "y": 10075,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Brutal red dragon",
+    "id": 7274,
+    "x": 1616,
+    "y": 10077,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Brutal blue dragon",
+    "id": 7273,
+    "x": 1628,
+    "y": 10071,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Brutal black dragon",
+    "id": 7275,
+    "x": 1611,
+    "y": 10090,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Brutal black dragon",
+    "id": 7275,
+    "x": 1617,
+    "y": 10091,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Brutal black dragon",
+    "id": 7275,
+    "x": 1618,
+    "y": 10096,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Brutal black dragon",
+    "id": 7275,
+    "x": 1612,
+    "y": 10097,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Brutal blue dragon",
+    "id": 7273,
+    "x": 1630,
+    "y": 10078,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Fire giant",
+    "id": 7252,
+    "x": 1631,
+    "y": 10067,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Bat",
+    "id": 2827,
+    "x": 1548,
+    "y": 3777,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Spider",
+    "id": 3019,
+    "x": 1551,
+    "y": 3778,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Rat",
+    "id": 2854,
+    "x": 1555,
+    "y": 3792,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Dwarf",
+    "id": 1405,
+    "x": 1547,
+    "y": 3806,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Spider",
+    "id": 3019,
+    "x": 1555,
+    "y": 3806,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Dwarf",
+    "id": 1401,
+    "x": 1552,
+    "y": 3795,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Dwarf",
+    "id": 1402,
+    "x": 1552,
+    "y": 3782,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Rat",
+    "id": 2854,
+    "x": 1552,
+    "y": 3797,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Spider",
+    "id": 3019,
+    "x": 1576,
+    "y": 3801,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Bat",
+    "id": 2827,
+    "x": 1549,
+    "y": 3776,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Fire giant",
+    "id": 7252,
+    "x": 1630,
+    "y": 10061,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Fire giant",
+    "id": 7251,
+    "x": 1633,
+    "y": 10059,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Hellhound",
+    "id": 7256,
+    "x": 1637,
+    "y": 10061,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Fire giant",
+    "id": 7251,
+    "x": 1637,
+    "y": 10068,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Hellhound",
+    "id": 7256,
+    "x": 1642,
+    "y": 10063,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Kineer",
+    "id": 7280,
+    "x": 1643,
+    "y": 10075,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Hellhound",
+    "id": 7256,
+    "x": 1644,
+    "y": 10068,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Hellhound",
+    "id": 7256,
+    "x": 1645,
+    "y": 10070,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Fire giant",
+    "id": 7251,
+    "x": 1629,
+    "y": 10054,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Fire giant",
+    "id": 7252,
+    "x": 1628,
+    "y": 10052,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Fire giant",
+    "id": 7251,
+    "x": 1631,
+    "y": 10053,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Skeleton",
+    "id": 7265,
+    "x": 1642,
+    "y": 10051,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Skeleton",
+    "id": 7265,
+    "x": 1635,
+    "y": 10046,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Fire giant",
+    "id": 7251,
+    "x": 1628,
+    "y": 10046,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Skeleton",
+    "id": 7265,
+    "x": 1639,
+    "y": 10043,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Possessed pickaxe",
+    "id": 7268,
+    "x": 1649,
+    "y": 10040,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Possessed pickaxe",
+    "id": 7268,
+    "x": 1633,
+    "y": 10034,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Hill Giant",
+    "id": 7261,
+    "x": 1663,
+    "y": 10069,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Mutated Bloodveld",
+    "id": 7276,
+    "x": 1673,
+    "y": 10070,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Hill Giant",
+    "id": 7261,
+    "x": 1661,
+    "y": 10070,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Hill Giant",
+    "id": 7261,
+    "x": 1665,
+    "y": 10074,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Mutated Bloodveld",
+    "id": 7276,
+    "x": 1675,
+    "y": 10075,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Mutated Bloodveld",
+    "id": 7276,
+    "x": 1678,
+    "y": 10077,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Iron dragon",
+    "id": 7254,
+    "x": 1658,
+    "y": 10084,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Iron dragon",
+    "id": 7254,
+    "x": 1662,
+    "y": 10084,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Abyssal demon",
+    "id": 7241,
+    "x": 1677,
+    "y": 10085,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Abyssal demon",
+    "id": 7241,
+    "x": 1676,
+    "y": 10085,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Greater demon",
+    "id": 7244,
+    "x": 1679,
+    "y": 10085,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Abyssal demon",
+    "id": 7241,
+    "x": 1674,
+    "y": 10086,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Greater demon",
+    "id": 7245,
+    "x": 1682,
+    "y": 10082,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Abyssal demon",
+    "id": 7241,
+    "x": 1669,
+    "y": 10086,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Abyssal demon",
+    "id": 7241,
+    "x": 1676,
+    "y": 10088,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Greater demon",
+    "id": 7245,
+    "x": 1682,
+    "y": 10088,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Greater demon",
+    "id": 7246,
+    "x": 1692,
+    "y": 10088,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Greater Nechryael",
+    "id": 7278,
+    "x": 1696,
+    "y": 10078,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Greater Nechryael",
+    "id": 7278,
+    "x": 1696,
+    "y": 10078,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Greater Nechryael",
+    "id": 7278,
+    "x": 1697,
+    "y": 10079,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Greater Nechryael",
+    "id": 7278,
+    "x": 1691,
+    "y": 10081,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Greater Nechryael",
+    "id": 7278,
+    "x": 1692,
+    "y": 10083,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Greater demon",
+    "id": 7245,
+    "x": 1691,
+    "y": 10094,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Abyssal demon",
+    "id": 7241,
+    "x": 1676,
+    "y": 10094,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Greater Nechryael",
+    "id": 7278,
+    "x": 1706,
+    "y": 10082,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Greater Nechryael",
+    "id": 7278,
+    "x": 1709,
+    "y": 10084,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Greater Nechryael",
+    "id": 7278,
+    "x": 1710,
+    "y": 10079,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Greater demon",
+    "id": 7244,
+    "x": 1686,
+    "y": 10095,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Greater demon",
+    "id": 7244,
+    "x": 1690,
+    "y": 10095,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Greater demon",
+    "id": 7245,
+    "x": 1705,
+    "y": 10098,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Man",
+    "id": 7281,
+    "x": 1678,
+    "y": 10099,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Greater demon",
+    "id": 7246,
+    "x": 1712,
+    "y": 10099,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Greater demon",
+    "id": 7244,
+    "x": 1716,
+    "y": 10099,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Black demon",
+    "id": 7242,
+    "x": 1720,
+    "y": 10090,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Black demon",
+    "id": 7243,
+    "x": 1720,
+    "y": 10087,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Black demon",
+    "id": 7243,
+    "x": 1720,
+    "y": 10082,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Abyssal demon",
+    "id": 7241,
+    "x": 1675,
+    "y": 10098,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Abyssal demon",
+    "id": 7241,
+    "x": 1674,
+    "y": 10098,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Abyssal demon",
+    "id": 7241,
+    "x": 1674,
+    "y": 10093,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Bronze dragon",
+    "id": 7253,
+    "x": 1651,
+    "y": 10098,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Bronze dragon",
+    "id": 7253,
+    "x": 1650,
+    "y": 10091,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Bronze dragon",
+    "id": 7253,
+    "x": 1647,
+    "y": 10096,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  }
+]

@@ -1,0 +1,164 @@
+buildscript {
+
+    repositories {
+        mavenCentral()
+    }
+
+    dependencies {
+        classpath group: 'org.db4j', name: 'kilim', version: '2.0.2'
+    }
+
+}
+
+plugins {
+    id 'application'
+    id 'org.jetbrains.kotlin.jvm' version '1.3.61' apply false
+    id 'io.franzbecker.gradle-lombok' version '3.3.0' apply false
+}
+
+mainClassName = ""
+
+allprojects {
+
+    apply plugin: 'io.franzbecker.gradle-lombok'
+
+    repositories {
+        mavenCentral()
+        mavenLocal()
+        jcenter()
+        maven { url "https://repo.maven.apache.org/maven2" }
+        maven { url "https://repo.adobe.com/nexus/content/repositories/public/"}
+        maven { url "https://dl.bintray.com/dv8fromtheworld/maven" }
+        maven { url "https://projectlombok.org/edge-releases" }
+        maven { url "https://dl.cloudsmith.io/public/arcane/archive/maven/" }
+
+    }
+
+    lombok {
+        version = "1.18.12"
+    }
+
+}
+
+
+subprojects {
+
+    apply plugin: 'java'
+
+    sourceCompatibility = 1.8
+    targetCompatibility = 1.8
+
+    repositories {
+        mavenCentral()
+        mavenLocal()
+        jcenter()
+        maven { url "https://repo.maven.apache.org/maven2" }
+        maven { url "https://repo.adobe.com/nexus/content/repositories/public/"}
+        maven { url "https://dl.bintray.com/dv8fromtheworld/maven" }
+        maven { url "https://projectlombok.org/edge-releases" }
+    }
+
+    dependencies {
+
+        compile group: 'org.slf4j', name: 'slf4j-api', version:'1.7.25'
+        compile group: 'org.slf4j', name: 'slf4j-simple', version:'1.7.25'
+        compile group: 'com.google.guava', name: 'guava', version:'28.1-jre'
+        compile group: 'com.google.code.gson', name: 'gson', version:'2.8.2'
+        compile group: 'io.netty', name: 'netty-all', version:'4.1.17.Final'
+        compile group: 'com.googlecode.json-simple', name: 'json-simple', version:'1.1.1'
+
+        testCompile 'junit:junit:4.12'
+        compile group: 'org.json', name: 'json', version: '20190722'
+
+        compileOnly group: 'org.projectlombok', name: 'lombok', version: 'edge-SNAPSHOT'
+        annotationProcessor group: 'org.projectlombok', name: 'lombok', version: 'edge-SNAPSHOT'
+
+        // https://mvnrepository.com/artifact/com.j256.two-factor-auth/two-factor-auth
+        compile group: 'com.j256.two-factor-auth', name: 'two-factor-auth', version: '1.0'//
+        // https://mvnrepository.com/artifact/net.sf.jopt-simple/jopt-simple
+        compile group: 'net.sf.jopt-simple', name: 'jopt-simple', version: '5.0.4'
+
+    }
+    tasks.withType(org.jetbrains.kotlin.gradle.tasks.KotlinCompile).all {
+        kotlinOptions {
+            jvmTarget = '1.8'
+            freeCompilerArgs += '-include-runtime'
+        }
+    }
+
+
+
+    task collectJars(type: Copy) {
+        into "$rootDir/build/libs/"
+        from "$buildDir/libs/"
+    }
+
+    task collectDist {
+        doLast {
+            copy {
+                from fileTree(dir: "$buildDir/distributions/")
+                into "$rootDir/build/collected/"
+            }
+        }
+    }
+
+
+    collectDist.dependsOn(assembleDist)
+    collectJars.dependsOn( jar )
+    collectJars.group = "deployment"
+
+    collectDist.group = "deployment";
+
+
+
+}
+
+
+task cleanDist(type: Delete) {
+    delete "$rootDir/build/collected/"
+}
+task jarAll {
+    def serverProjects = ["kronos-central-server", "kronos-server", "kronos-update-server", "kronos-server-live" ]
+    serverProjects.each { dependsOn("$it:jar") }
+    doLast {
+
+    }
+}
+
+task mergeDist {
+    def serverProjects = ["kronos-central-server", "kronos-server", "kronos-update-server", "kronos-server-live" ]
+
+    serverProjects.each { dependsOn("$it:distZip", "$it:collectDist") }
+    doLast {
+        fileTree("$rootDir/build/collected/").each { file ->
+            if (file.name.endsWith(".zip"))
+                copy {
+                    from zipTree(file).matching { include "*/lib/**" include "*/bin/**"}
+                    into "$rootDir/build/collected/unpacked"
+                    includeEmptyDirs = false
+                    eachFile { fcd ->
+                        fcd.relativePath = new RelativePath(true, fcd.relativePath.segments.drop(1))
+                    }
+                }
+        }
+    }
+}
+
+
+task zipDeploy(type: Zip) {
+    dependsOn(mergeDist)
+    from fileTree("$rootDir/build/collected/unpacked/")
+    include "/bin/**"
+    include "/lib/**"
+    include "/**"
+    archiveFileName = "deploy.zip"
+    destinationDirectory = file("$rootDir/build/deploy/")
+
+}
+
+
+mergeDist.dependsOn(cleanDist)
+
+mergeDist.group = "deployment"
+jarAll.group = "deployment"
+zipDeploy.group = "deployment"

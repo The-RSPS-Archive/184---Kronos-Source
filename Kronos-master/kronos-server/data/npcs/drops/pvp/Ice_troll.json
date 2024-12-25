@@ -1,0 +1,63 @@
+[
+  {
+    "ids": [ 650, 652, 653, 701, 703, 704, 651, 654, 702, 705, 649, 700, 648, 699 ],
+    "guaranteed": [
+      { "id": 532, "min": 1, "max": 1 } //Big bones
+    ],
+    "tables": [
+      {
+        "name": "Herbs",
+        "weight": 1,
+        "items": [
+          { "id": 199, "min": 1, "max": 1, "weight": 6 }, //Grimy guam leaf
+          { "id": 201, "min": 1, "max": 1, "weight": 6 }, //Grimy marrentill
+          { "id": 203, "min": 1, "max": 1, "weight": 6 }, //Grimy tarromin
+          { "id": 205, "min": 1, "max": 1, "weight": 6 }, //Grimy harralander
+          { "id": 207, "min": 1, "max": 1, "weight": 3 }, //Grimy ranarr weed
+          { "id": 213, "min": 1, "max": 1, "weight": 3 }, //Grimy kwuarm
+          { "id": 209, "min": 1, "max": 1, "weight": 3 }, //Grimy irit leaf
+          { "id": 211, "min": 1, "max": 1, "weight": 3 }, //Grimy avantoe
+          { "id": 215, "min": 1, "max": 1, "weight": 1 }, //Grimy cadantine
+          { "id": 217, "min": 1, "max": 1, "weight": 1 }, //Grimy dwarf weed
+          { "id": 2485, "min": 1, "max": 1, "weight": 1 } //Grimy lantadyme
+        ]
+      },
+      {
+        "name": "Weapon/Armour",
+        "weight": 1,
+        "items": [
+          { "id": 1119, "min": 1, "max": 1, "weight": 6 }, //Steel platebody
+          { "id": 1373, "min": 1, "max": 1, "weight": 6 }, //Rune battleaxe
+          { "id": 1145, "min": 1, "max": 1, "weight": 6 }, //Adamant med helm
+          { "id": 1199, "min": 1, "max": 1, "weight": 3 }, //Adamant kiteshield
+          { "id": 1161, "min": 1, "max": 1, "weight": 3 }, //Adamant full helm
+          { "id": 1121, "min": 1, "max": 1, "weight": 3 }, //Mithril platebody
+          { "id": 1201, "min": 1, "max": 1, "weight": 3 }, //Rune kiteshield
+          { "id": 3122, "min": 1, "max": 1, "weight": 1 }, //Granite shield
+          { "id": 1347, "min": 1, "max": 1, "weight": 1 } //Rune warhammer
+        ]
+      },
+      {
+        "name": "Runes",
+        "weight": 1,
+        "items": [
+          { "id": 565, "min": 2, "max": 5, "weight": 6 }, //Blood rune
+          { "id": 560, "min": 15, "max": 15, "weight": 6 }, //Death rune
+          { "id": 563, "min": 1, "max": 3, "weight": 1 } //Law rune
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 995, "min": 30, "max": 30, "weight": 3 }, //Coins
+          { "id": 995, "min": 136, "max": 136, "weight": 3 }, //Coins
+          { "id": 995, "min": 200, "max": 200, "weight": 3 }, //Coins
+          { "id": 380, "min": 6, "max": 6, "weight": 3 }, //Lobster (noted)
+          { "id": 13484, "min": 1, "max": 1, "weight": 1 }, //Ensouled troll head
+          { "id": 453, "min": 3, "max": 3, "weight": 1 } //Coal
+        ]
+      }
+    ]
+  }
+]

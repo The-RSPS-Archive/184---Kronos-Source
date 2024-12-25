@@ -1,0 +1,479 @@
+[
+  {
+    "name": "Soldier",
+    "id": 4088,
+    "x": 2885,
+    "y": 3528,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Soldier",
+    "id": 4088,
+    "x": 2885,
+    "y": 3535,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Soldier",
+    "id": 4086,
+    "x": 2891,
+    "y": 3537,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 0
+  },
+  {
+    "name": "Soldier",
+    "id": 4086,
+    "x": 2891,
+    "y": 3539,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 0
+  },
+  {
+    "name": "Soldier",
+    "id": 4089,
+    "x": 2892,
+    "y": 3532,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0
+  },
+  {
+    "name": "Soldier",
+    "id": 4086,
+    "x": 2892,
+    "y": 3537,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 0
+  },
+  {
+    "name": "Soldier",
+    "id": 4086,
+    "x": 2892,
+    "y": 3539,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 0
+  },
+  {
+    "name": "Soldier",
+    "id": 4086,
+    "x": 2894,
+    "y": 3537,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 0
+  },
+  {
+    "name": "Soldier",
+    "id": 4086,
+    "x": 2894,
+    "y": 3539,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 0
+  },
+  {
+    "name": "Soldier",
+    "id": 4086,
+    "x": 2895,
+    "y": 3537,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 0
+  },
+  {
+    "name": "Soldier",
+    "id": 4086,
+    "x": 2895,
+    "y": 3539,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 0
+  },
+  {
+    "name": "Soldier",
+    "id": 4091,
+    "x": 2894,
+    "y": 3532,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 0
+  },
+  {
+    "name": "Soldier",
+    "id": 4090,
+    "x": 2893,
+    "y": 3533,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Soldier",
+    "id": 4086,
+    "x": 2893,
+    "y": 3537,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 0
+  },
+  {
+    "name": "Soldier",
+    "id": 4086,
+    "x": 2893,
+    "y": 3539,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 0
+  },
+  {
+    "name": "Sergeant",
+    "id": 4084,
+    "x": 2893,
+    "y": 3541,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Eadburg",
+    "id": 4095,
+    "x": 2892,
+    "y": 3558,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Denulth",
+    "id": 4083,
+    "x": 2896,
+    "y": 3528,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Guard",
+    "id": 4099,
+    "x": 2896,
+    "y": 3566,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Guard",
+    "id": 4099,
+    "x": 2897,
+    "y": 3556,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Soldier",
+    "id": 4087,
+    "x": 2900,
+    "y": 3531,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0
+  },
+  {
+    "name": "Sergeant",
+    "id": 4085,
+    "x": 2900,
+    "y": 3532,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Soldier",
+    "id": 4087,
+    "x": 2900,
+    "y": 3533,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0
+  },
+  {
+    "name": "Soldier",
+    "id": 4088,
+    "x": 2899,
+    "y": 3538,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Guard",
+    "id": 4100,
+    "x": 2900,
+    "y": 3556,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Servant",
+    "id": 4104,
+    "x": 2900,
+    "y": 3564,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Tostig",
+    "id": 4102,
+    "x": 2906,
+    "y": 3537,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Soldier",
+    "id": 4088,
+    "x": 2907,
+    "y": 3540,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Penda",
+    "id": 4109,
+    "x": 2909,
+    "y": 3539,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Soldier",
+    "id": 4088,
+    "x": 2911,
+    "y": 3543,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Ceolburg",
+    "id": 4111,
+    "x": 2916,
+    "y": 3522,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Bernald",
+    "id": 1389,
+    "x": 2917,
+    "y": 3534,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "null",
+    "id": 6202,
+    "x": 2919,
+    "y": 3559,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Breoca",
+    "id": 4107,
+    "x": 2919,
+    "y": 3550,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Dunstan",
+    "id": 4105,
+    "x": 2920,
+    "y": 3574,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Hygd",
+    "id": 4110,
+    "x": 2927,
+    "y": 3536,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Ocga",
+    "id": 4108,
+    "x": 2927,
+    "y": 3559,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Wistan",
+    "id": 4106,
+    "x": 2927,
+    "y": 3546,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Hild",
+    "id": 4112,
+    "x": 2931,
+    "y": 3567,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Turael",
+    "id": 401,
+    "x": 2931,
+    "y": 3536,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Archer",
+    "id": 4096,
+    "x": 2896,
+    "y": 3549,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Archer",
+    "id": 4097,
+    "x": 2901,
+    "y": 3549,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Sam",
+    "id": 5613,
+    "x": 2201,
+    "y": 4943,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Achietties",
+    "id": 4923,
+    "x": 2902,
+    "y": 3508,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "White Knight",
+    "id": 4114,
+    "x": 2919,
+    "y": 3516,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Monk of Zamorak",
+    "id": 520,
+    "x": 2935,
+    "y": 3515,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Monk of Zamorak",
+    "id": 520,
+    "x": 2933,
+    "y": 3515,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Monk of Zamorak",
+    "id": 519,
+    "x": 2935,
+    "y": 3515,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Monk of Zamorak",
+    "id": 519,
+    "x": 2933,
+    "y": 3515,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Monk of Zamorak",
+    "id": 520,
+    "x": 2935,
+    "y": 3515,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Monk of Zamorak",
+    "id": 520,
+    "x": 2939,
+    "y": 3516,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Helemos",
+    "id": 4924,
+    "x": 2894,
+    "y": 3510,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Mac",
+    "id": 6481,
+    "x": 2791,
+    "y": 3540,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  }
+]

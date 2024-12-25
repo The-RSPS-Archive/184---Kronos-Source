@@ -1,0 +1,2108 @@
+[
+  {
+    "name": "Gnome baller",
+    "id": 3147,
+    "x": 2395,
+    "y": 3487,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Gnome baller",
+    "id": 3147,
+    "x": 2396,
+    "y": 3489,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Gnome baller",
+    "id": 3147,
+    "x": 2396,
+    "y": 3490,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Cheerleader",
+    "id": 3158,
+    "x": 2397,
+    "y": 3495,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Gnome baller",
+    "id": 3143,
+    "x": 2399,
+    "y": 3484,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Gnome baller",
+    "id": 3143,
+    "x": 2399,
+    "y": 3485,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Gnome baller",
+    "id": 3143,
+    "x": 2400,
+    "y": 3487,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Gnome baller",
+    "id": 3143,
+    "x": 2400,
+    "y": 3488,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Gnome baller",
+    "id": 3143,
+    "x": 2400,
+    "y": 3491,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Gnome baller",
+    "id": 3143,
+    "x": 2400,
+    "y": 3492,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Gnome woman",
+    "id": 6087,
+    "x": 2402,
+    "y": 3506,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Gnome child",
+    "id": 6077,
+    "x": 2405,
+    "y": 3500,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Gnome woman",
+    "id": 6087,
+    "x": 2403,
+    "y": 3474,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Gnome Coach",
+    "id": 3142,
+    "x": 2381,
+    "y": 2489,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Gnome troop",
+    "id": 4974,
+    "x": 2409,
+    "y": 3506,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Gnome woman",
+    "id": 6086,
+    "x": 2412,
+    "y": 3495,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Gnome child",
+    "id": 6077,
+    "x": 2413,
+    "y": 3484,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Sarble",
+    "id": 2573,
+    "x": 2416,
+    "y": 3516,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Gnome woman",
+    "id": 6086,
+    "x": 2419,
+    "y": 3478,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Butterfly",
+    "id": 237,
+    "x": 2420,
+    "y": 3464,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Butterfly",
+    "id": 235,
+    "x": 2421,
+    "y": 3496,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "null",
+    "id": 490,
+    "x": 2432,
+    "y": 3423,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Gnome woman",
+    "id": 6086,
+    "x": 2433,
+    "y": 3435,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Terrorbird",
+    "id": 2064,
+    "x": 2434,
+    "y": 3440,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Butterfly",
+    "id": 234,
+    "x": 2434,
+    "y": 3425,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Mounted terrorbird gnome",
+    "id": 2067,
+    "x": 2442,
+    "y": 3434,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Prissy Scilla",
+    "id": 2687,
+    "x": 2437,
+    "y": 3418,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Butterfly",
+    "id": 234,
+    "x": 2436,
+    "y": 3424,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Gnome woman",
+    "id": 6086,
+    "x": 2437,
+    "y": 3426,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Tool Leprechaun",
+    "id": 0,
+    "x": 2438,
+    "y": 3419,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Gnome woman",
+    "id": 6087,
+    "x": 2438,
+    "y": 3432,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Gnome woman",
+    "id": 6086,
+    "x": 2440,
+    "y": 3411,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Gnome woman",
+    "id": 6087,
+    "x": 2442,
+    "y": 3428,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Butterfly",
+    "id": 235,
+    "x": 2449,
+    "y": 3401,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Gnome woman",
+    "id": 6087,
+    "x": 2445,
+    "y": 3404,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Mounted terrorbird gnome",
+    "id": 2067,
+    "x": 2446,
+    "y": 3422,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Gnome woman",
+    "id": 6087,
+    "x": 2451,
+    "y": 3416,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Butterfly",
+    "id": 234,
+    "x": 2451,
+    "y": 3420,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 9
+  },
+  {
+    "name": "Gnome guard",
+    "id": 6081,
+    "x": 2450,
+    "y": 3414,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Gnome",
+    "id": 6095,
+    "x": 2456,
+    "y": 3426,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Mounted terrorbird gnome",
+    "id": 2067,
+    "x": 2459,
+    "y": 3396,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Gnome guard",
+    "id": 6082,
+    "x": 2459,
+    "y": 3394,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Gnome guard",
+    "id": 6081,
+    "x": 2458,
+    "y": 3393,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Gnome",
+    "id": 6095,
+    "x": 2458,
+    "y": 3422,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Gnome guard",
+    "id": 6081,
+    "x": 2459,
+    "y": 3438,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Gnome guard",
+    "id": 6082,
+    "x": 2461,
+    "y": 3422,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Gnome guard",
+    "id": 6082,
+    "x": 2461,
+    "y": 3392,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Gnome guard",
+    "id": 6081,
+    "x": 2462,
+    "y": 3394,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Mounted terrorbird gnome",
+    "id": 2067,
+    "x": 2438,
+    "y": 3386,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Gnome",
+    "id": 6095,
+    "x": 2462,
+    "y": 3430,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Mounted terrorbird gnome",
+    "id": 2067,
+    "x": 2462,
+    "y": 3394,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Gnome woman",
+    "id": 6086,
+    "x": 2467,
+    "y": 3450,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Gnome woman",
+    "id": 6087,
+    "x": 2467,
+    "y": 3442,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Mounted terrorbird gnome",
+    "id": 2067,
+    "x": 2436,
+    "y": 3385,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Gnome trainer",
+    "id": 6080,
+    "x": 2469,
+    "y": 3422,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Gnome trainer",
+    "id": 6080,
+    "x": 2470,
+    "y": 3432,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Butterfly",
+    "id": 235,
+    "x": 2468,
+    "y": 3399,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Gnome woman",
+    "id": 6086,
+    "x": 2469,
+    "y": 3397,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Gnome trainer",
+    "id": 6080,
+    "x": 2471,
+    "y": 3427,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Gnome woman",
+    "id": 6086,
+    "x": 2473,
+    "y": 3399,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Gnome woman",
+    "id": 6086,
+    "x": 2473,
+    "y": 3411,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Bolongo",
+    "id": 2682,
+    "x": 2474,
+    "y": 3445,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Gnome woman",
+    "id": 6086,
+    "x": 2475,
+    "y": 3453,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Gnome trainer",
+    "id": 6080,
+    "x": 2477,
+    "y": 3426,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Tool Leprechaun",
+    "id": 0,
+    "x": 2475,
+    "y": 3449,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Butterfly",
+    "id": 238,
+    "x": 2476,
+    "y": 3395,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Gnome trainer",
+    "id": 6080,
+    "x": 2478,
+    "y": 3427,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Gnome guard",
+    "id": 6081,
+    "x": 2459,
+    "y": 3390,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Gnome guard",
+    "id": 6082,
+    "x": 2457,
+    "y": 3384,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Mounted terrorbird gnome",
+    "id": 2067,
+    "x": 2476,
+    "y": 3410,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Tortoise",
+    "id": 6076,
+    "x": 2412,
+    "y": 3526,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Gnome woman",
+    "id": 6087,
+    "x": 2478,
+    "y": 3412,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Tortoise",
+    "id": 6075,
+    "x": 2417,
+    "y": 3525,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Gnome woman",
+    "id": 6086,
+    "x": 2483,
+    "y": 3398,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Gnome guard",
+    "id": 6081,
+    "x": 2462,
+    "y": 3388,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Trainer Nacklepen",
+    "id": 6101,
+    "x": 2421,
+    "y": 3526,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Gnome trainer",
+    "id": 6080,
+    "x": 2479,
+    "y": 3420,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Gnome woman",
+    "id": 6086,
+    "x": 2490,
+    "y": 3400,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Tortoise",
+    "id": 6075,
+    "x": 2424,
+    "y": 3526,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Gnome trainer",
+    "id": 6080,
+    "x": 2486,
+    "y": 3422,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Butterfly",
+    "id": 234,
+    "x": 2477,
+    "y": 3386,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Gnome trainer",
+    "id": 6080,
+    "x": 2486,
+    "y": 3423,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Gnome trainer",
+    "id": 6080,
+    "x": 2489,
+    "y": 3432,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Terrorbird",
+    "id": 2064,
+    "x": 2382,
+    "y": 3436,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Gnome",
+    "id": 6095,
+    "x": 2378,
+    "y": 3441,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Terrorbird",
+    "id": 2065,
+    "x": 2383,
+    "y": 3427,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Terrorbird",
+    "id": 2065,
+    "x": 2379,
+    "y": 3439,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Butterfly",
+    "id": 235,
+    "x": 2384,
+    "y": 3426,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Terrorbird",
+    "id": 2064,
+    "x": 2381,
+    "y": 3435,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Mounted terrorbird gnome",
+    "id": 2067,
+    "x": 2387,
+    "y": 3427,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Terrorbird",
+    "id": 2066,
+    "x": 2383,
+    "y": 3423,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Terrorbird",
+    "id": 2065,
+    "x": 2389,
+    "y": 3427,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Gnome",
+    "id": 6095,
+    "x": 2385,
+    "y": 3436,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Gnome",
+    "id": 6094,
+    "x": 2384,
+    "y": 3449,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Duck",
+    "id": 1838,
+    "x": 2392,
+    "y": 3415,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Mounted terrorbird gnome",
+    "id": 2067,
+    "x": 2398,
+    "y": 3404,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Gnome guard",
+    "id": 6081,
+    "x": 2394,
+    "y": 3455,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Duck",
+    "id": 1839,
+    "x": 2393,
+    "y": 3412,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Ducklings",
+    "id": 2002,
+    "x": 2393,
+    "y": 3412,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Gnome",
+    "id": 6096,
+    "x": 2394,
+    "y": 3435,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Butterfly",
+    "id": 235,
+    "x": 2391,
+    "y": 3440,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Gnome",
+    "id": 6096,
+    "x": 2394,
+    "y": 3423,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Gnome guard",
+    "id": 6081,
+    "x": 2395,
+    "y": 3436,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Duck",
+    "id": 1838,
+    "x": 2395,
+    "y": 3413,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Gnome",
+    "id": 6096,
+    "x": 2394,
+    "y": 3451,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Butterfly",
+    "id": 235,
+    "x": 2397,
+    "y": 3434,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Duck",
+    "id": 1838,
+    "x": 2401,
+    "y": 3408,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Gnome",
+    "id": 6094,
+    "x": 2402,
+    "y": 3416,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Duck",
+    "id": 1838,
+    "x": 2402,
+    "y": 3409,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Gnome",
+    "id": 6094,
+    "x": 2402,
+    "y": 3424,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Gnome",
+    "id": 6094,
+    "x": 2403,
+    "y": 3441,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Gnome",
+    "id": 6094,
+    "x": 2401,
+    "y": 3430,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Gnome",
+    "id": 6096,
+    "x": 2404,
+    "y": 3432,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Duck",
+    "id": 1838,
+    "x": 2403,
+    "y": 3406,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Gnome",
+    "id": 6095,
+    "x": 2405,
+    "y": 3448,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Gnome",
+    "id": 6095,
+    "x": 2406,
+    "y": 3439,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Gnome",
+    "id": 6094,
+    "x": 2408,
+    "y": 3442,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Gnome guard",
+    "id": 6081,
+    "x": 2409,
+    "y": 3451,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Gnome",
+    "id": 6094,
+    "x": 2408,
+    "y": 3428,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Gnome guard",
+    "id": 6082,
+    "x": 2409,
+    "y": 3418,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Mounted terrorbird gnome",
+    "id": 2067,
+    "x": 2416,
+    "y": 3392,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Mounted terrorbird gnome",
+    "id": 2067,
+    "x": 2419,
+    "y": 3412,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Butterfly",
+    "id": 234,
+    "x": 2419,
+    "y": 3405,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Gnome",
+    "id": 6096,
+    "x": 2421,
+    "y": 3430,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Gnome guard",
+    "id": 6082,
+    "x": 2420,
+    "y": 3435,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Gnome",
+    "id": 6096,
+    "x": 2421,
+    "y": 3438,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Gnome guard",
+    "id": 6082,
+    "x": 2421,
+    "y": 3445,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Gnome guard",
+    "id": 6081,
+    "x": 2421,
+    "y": 3411,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Butterfly",
+    "id": 235,
+    "x": 2418,
+    "y": 3399,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Gnome",
+    "id": 6094,
+    "x": 2423,
+    "y": 3426,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Butterfly",
+    "id": 234,
+    "x": 2422,
+    "y": 3413,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Butterfly",
+    "id": 235,
+    "x": 2428,
+    "y": 3407,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Butterfly",
+    "id": 235,
+    "x": 2430,
+    "y": 3403,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Gnome guard",
+    "id": 6082,
+    "x": 2427,
+    "y": 3410,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Gnome",
+    "id": 6094,
+    "x": 2426,
+    "y": 3428,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Gnome",
+    "id": 6094,
+    "x": 2428,
+    "y": 3439,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Butterfly",
+    "id": 234,
+    "x": 2432,
+    "y": 3406,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 9
+  },
+  {
+    "name": "Gnome",
+    "id": 6096,
+    "x": 2435,
+    "y": 3494,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Butterfly",
+    "id": 236,
+    "x": 2435,
+    "y": 3514,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Terrorchick gnome",
+    "id": 2546,
+    "x": 2439,
+    "y": 3502,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Terrorchick gnome",
+    "id": 2546,
+    "x": 2439,
+    "y": 3501,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Gnome guard",
+    "id": 6082,
+    "x": 2441,
+    "y": 3497,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Gnome guard",
+    "id": 6081,
+    "x": 2442,
+    "y": 3489,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Spang",
+    "id": 2550,
+    "x": 2443,
+    "y": 3501,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Tamble",
+    "id": 2549,
+    "x": 2443,
+    "y": 3502,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Gnome woman",
+    "id": 6086,
+    "x": 2443,
+    "y": 3507,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Butterfly",
+    "id": 237,
+    "x": 2446,
+    "y": 3490,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Gnome",
+    "id": 6094,
+    "x": 2447,
+    "y": 3502,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Gnome guard",
+    "id": 6082,
+    "x": 2446,
+    "y": 3509,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Butterfly",
+    "id": 238,
+    "x": 2452,
+    "y": 3476,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Gnome woman",
+    "id": 6086,
+    "x": 2448,
+    "y": 3487,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Gnome woman",
+    "id": 6087,
+    "x": 2448,
+    "y": 3488,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Gnome woman",
+    "id": 6086,
+    "x": 2449,
+    "y": 3487,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Gnome guard",
+    "id": 6081,
+    "x": 2450,
+    "y": 3485,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Gnome woman",
+    "id": 6087,
+    "x": 2450,
+    "y": 3488,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Gnome woman",
+    "id": 6086,
+    "x": 2450,
+    "y": 3489,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Gnome woman",
+    "id": 6086,
+    "x": 2450,
+    "y": 3505,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Gnome guard",
+    "id": 6081,
+    "x": 2452,
+    "y": 3507,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Gnome guard",
+    "id": 6081,
+    "x": 2453,
+    "y": 3489,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Gnome woman",
+    "id": 6086,
+    "x": 2455,
+    "y": 3464,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Gnome",
+    "id": 6095,
+    "x": 2455,
+    "y": 3467,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Gnome",
+    "id": 6094,
+    "x": 2458,
+    "y": 3458,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Gnome",
+    "id": 6096,
+    "x": 2458,
+    "y": 3496,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Gnome guard",
+    "id": 6081,
+    "x": 2459,
+    "y": 3502,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Gnome guard",
+    "id": 6082,
+    "x": 2462,
+    "y": 3486,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Gnome guard",
+    "id": 6081,
+    "x": 2460,
+    "y": 3509,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Mounted terrorbird gnome",
+    "id": 2067,
+    "x": 2460,
+    "y": 3457,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Gnome woman",
+    "id": 6087,
+    "x": 2462,
+    "y": 3507,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Gnome guard",
+    "id": 6081,
+    "x": 2462,
+    "y": 3464,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Gnome guard",
+    "id": 6081,
+    "x": 2461,
+    "y": 3469,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Gnome guard",
+    "id": 6082,
+    "x": 2465,
+    "y": 3472,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Gnome guard",
+    "id": 6082,
+    "x": 2463,
+    "y": 3488,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Gnome",
+    "id": 6096,
+    "x": 2462,
+    "y": 3505,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Elder Gnome child",
+    "id": 5518,
+    "x": 2466,
+    "y": 3457,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "null",
+    "id": 1423,
+    "x": 2465,
+    "y": 3496,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Gnome guard",
+    "id": 6082,
+    "x": 2466,
+    "y": 3487,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Mounted terrorbird gnome",
+    "id": 2067,
+    "x": 2467,
+    "y": 3459,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Gnome guard",
+    "id": 6081,
+    "x": 2468,
+    "y": 3463,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Gnome guard",
+    "id": 6081,
+    "x": 2467,
+    "y": 3468,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Gnome guard",
+    "id": 6082,
+    "x": 2467,
+    "y": 3470,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Gnome guard",
+    "id": 6081,
+    "x": 2466,
+    "y": 3504,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Gnome",
+    "id": 6095,
+    "x": 2468,
+    "y": 3498,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Gnome guard",
+    "id": 6081,
+    "x": 2471,
+    "y": 3482,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Gnome woman",
+    "id": 6087,
+    "x": 2471,
+    "y": 3488,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Gnome guard",
+    "id": 6082,
+    "x": 2471,
+    "y": 3504,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Gnome woman",
+    "id": 6087,
+    "x": 2473,
+    "y": 3455,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Gnome",
+    "id": 6095,
+    "x": 2474,
+    "y": 3508,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Gnome",
+    "id": 6095,
+    "x": 2474,
+    "y": 3470,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Gnome guard",
+    "id": 6081,
+    "x": 2474,
+    "y": 3489,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Gnome guard",
+    "id": 6081,
+    "x": 2475,
+    "y": 3502,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Gnome",
+    "id": 6096,
+    "x": 2478,
+    "y": 3459,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Gnome guard",
+    "id": 6081,
+    "x": 2476,
+    "y": 3510,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Gnome guard",
+    "id": 6082,
+    "x": 2475,
+    "y": 3495,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Gnome",
+    "id": 6094,
+    "x": 2480,
+    "y": 3499,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Gnome",
+    "id": 6095,
+    "x": 2475,
+    "y": 3469,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Butterfly",
+    "id": 236,
+    "x": 2476,
+    "y": 3500,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Gnome woman",
+    "id": 6087,
+    "x": 2475,
+    "y": 3499,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Gnome guard",
+    "id": 6081,
+    "x": 2477,
+    "y": 3484,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Gnome guard",
+    "id": 6081,
+    "x": 2481,
+    "y": 3498,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Gnome woman",
+    "id": 6087,
+    "x": 2485,
+    "y": 3466,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Gnome",
+    "id": 6095,
+    "x": 2483,
+    "y": 3469,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Gnome",
+    "id": 6095,
+    "x": 2492,
+    "y": 3472,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "null",
+    "id": 6207,
+    "x": 2368,
+    "y": 3485,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "null",
+    "id": 4297,
+    "x": 2370,
+    "y": 3483,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Butterfly",
+    "id": 237,
+    "x": 2378,
+    "y": 3462,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Butterfly",
+    "id": 236,
+    "x": 2376,
+    "y": 3468,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Butterfly",
+    "id": 236,
+    "x": 2376,
+    "y": 3468,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Gnome woman",
+    "id": 6087,
+    "x": 2378,
+    "y": 3482,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Gnome woman",
+    "id": 6086,
+    "x": 2380,
+    "y": 3480,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Gnome woman",
+    "id": 6086,
+    "x": 2381,
+    "y": 3497,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Gnome woman",
+    "id": 6087,
+    "x": 2381,
+    "y": 3496,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Gnome troop",
+    "id": 4973,
+    "x": 2383,
+    "y": 3482,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Gnome ball referee",
+    "id": 3157,
+    "x": 2384,
+    "y": 3488,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Gnome woman",
+    "id": 6086,
+    "x": 2384,
+    "y": 3498,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Gnome troop",
+    "id": 4973,
+    "x": 2389,
+    "y": 3472,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Gnome woman",
+    "id": 6086,
+    "x": 2392,
+    "y": 3475,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Gnome baller",
+    "id": 3151,
+    "x": 2391,
+    "y": 3484,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Gnome baller",
+    "id": 3151,
+    "x": 2391,
+    "y": 3487,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Gnome baller",
+    "id": 3151,
+    "x": 2391,
+    "y": 3489,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Gnome baller",
+    "id": 3151,
+    "x": 2391,
+    "y": 3491,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Gnome child",
+    "id": 6077,
+    "x": 2391,
+    "y": 3476,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Gnome winger",
+    "id": 3155,
+    "x": 2392,
+    "y": 3484,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Gnome winger",
+    "id": 3155,
+    "x": 2392,
+    "y": 3492,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Gnome child",
+    "id": 6077,
+    "x": 2394,
+    "y": 3506,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Cheerleader",
+    "id": 3158,
+    "x": 2395,
+    "y": 3495,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Gnome child",
+    "id": 6077,
+    "x": 2395,
+    "y": 3470,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Gnome baller",
+    "id": 3147,
+    "x": 2396,
+    "y": 3485,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "null",
+    "id": 6563,
+    "x": 2443,
+    "y": 3424,
+    "z": 1,
+    "direction": "E",
+    "walkRange": 0
+  },
+  {
+    "name": "Gnome banker",
+    "id": 6084,
+    "x": 2443,
+    "y": 3425,
+    "z": 1,
+    "direction": "E",
+    "walkRange": 0
+  },
+  {
+    "name": "Gnome banker",
+    "id": 6084,
+    "x": 2448,
+    "y": 3427,
+    "z": 1,
+    "direction": "W",
+    "walkRange": 0
+  },
+  {
+    "name": "Gnome banker",
+    "id": 6084,
+    "x": 2448,
+    "y": 3424,
+    "z": 1,
+    "direction": "W",
+    "walkRange": 0
+  },
+  {
+    "name": "Gnome guard",
+    "id": 6081,
+    "x": 2445,
+    "y": 3425,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Guard Vemmeldo",
+    "id": 2574,
+    "x": 2446,
+    "y": 3419,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Captain Errdo",
+    "id": 6091,
+    "x": 2464,
+    "y": 3501,
+    "z": 3,
+    "direction": "S",
+    "walkRange": 1
+  }
+]

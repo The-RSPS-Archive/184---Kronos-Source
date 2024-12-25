@@ -1,0 +1,55 @@
+[
+  {
+    "ids": [ 7276 ],
+    "guaranteed": [
+      { "id": 526, "min": 1, "max": 1 } //Bones
+    ],
+    "tables": [
+      {
+        "name": "Weapons/Armour",
+        "weight": 1,
+        "items": [
+          { "id": 1151, "min": 1, "max": 1, "weight": 12 }, //Black med helm
+          { "id": 1355, "min": 1, "max": 1, "weight": 9 }, //Mithril axe
+          { "id": 1369, "min": 1, "max": 1, "weight": 9 }, //Mithril battleaxe
+          { "id": 1121, "min": 1, "max": 1, "weight": 9 }, //Mithril platebody
+          { "id": 867, "min": 2, "max": 2, "weight": 6 }, //Adamant knife
+          { "id": 1111, "min": 1, "max": 1, "weight": 6 }, //Adamant chainbody
+          { "id": 1159, "min": 1, "max": 1, "weight": 6 }, //Mithril full helm
+          { "id": 1301, "min": 1, "max": 1, "weight": 6 }, //Adamant longsword
+          { "id": 1331, "min": 1, "max": 1, "weight": 3 }, //Adamant scimitar
+          { "id": 4125, "min": 1, "max": 1, "weight": 3 }, //Black boots
+          { "id": 1147, "min": 1, "max": 1, "weight": 3 }, //Rune med helm
+          { "id": 1213, "min": 1, "max": 1, "weight": 1 }, //Rune dagger
+          { "id": 1373, "min": 1, "max": 1, "weight": 1 } //Rune battleaxe
+        ]
+      },
+      {
+        "name": "Runes",
+        "weight": 1,
+        "items": [
+          { "id": 556, "min": 105, "max": 105, "weight": 6 }, //Air rune
+          { "id": 554, "min": 75, "max": 75, "weight": 3 }, //Fire rune
+          { "id": 565, "min": 7, "max": 7, "weight": 3 }, //Blood rune
+          { "id": 565, "min": 30, "max": 30, "weight": 3 }, //Blood rune
+          { "id": 566, "min": 4, "max": 4, "weight": 1 } //Soul rune
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 995, "min": 11, "max": 11, "weight": 9 }, //Coins
+          { "id": 995, "min": 350, "max": 350, "weight": 9 }, //Coins
+          { "id": 1777, "min": 1, "max": 1, "weight": 9 }, //Bow string
+          { "id": 444, "min": 1, "max": 1, "weight": 6 }, //Gold ore
+          { "id": 2327, "min": 1, "max": 1, "weight": 6 }, //Meat pie
+          { "id": 2359, "min": 1, "max": 1, "weight": 6 }, //Mithril bar
+          { "id": 1689, "min": 1, "max": 1, "weight": 6 }, //Ruby amulet
+          { "id": 13496, "min": 1, "max": 1, "weight": 3 }, //Ensouled bloodveld head
+          { "id": 2722, "min": 1, "max": 1, "weight": 1 } //Clue scroll (hard)
+        ]
+      }
+    ]
+  }
+]

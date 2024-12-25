@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Iorwerth Warrior",
+    "id": 3429,
+    "x": 2192,
+    "y": 3249,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Iorwerth Warrior",
+    "id": 3429,
+    "x": 2199,
+    "y": 3255,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Iorwerth Warrior",
+    "id": 3429,
+    "x": 2206,
+    "y": 3258,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Iorwerth Warrior",
+    "id": 3429,
+    "x": 2202,
+    "y": 3251,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Iorwerth Warrior",
+    "id": 3429,
+    "x": 2205,
+    "y": 3253,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Iorwerth Warrior",
+    "id": 3429,
+    "x": 2207,
+    "y": 3251,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Iorwerth Warrior",
+    "id": 3429,
+    "x": 2202,
+    "y": 3259,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Iorwerth Warrior",
+    "id": 3429,
+    "x": 2193,
+    "y": 3254,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Iorwerth Archer",
+    "id": 3428,
+    "x": 2194,
+    "y": 3252,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Iorwerth Archer",
+    "id": 3428,
+    "x": 2204,
+    "y": 3253,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Iorwerth Archer",
+    "id": 3428,
+    "x": 2210,
+    "y": 3262,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Iorwerth Archer",
+    "id": 3428,
+    "x": 2197,
+    "y": 3259,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  }
+]

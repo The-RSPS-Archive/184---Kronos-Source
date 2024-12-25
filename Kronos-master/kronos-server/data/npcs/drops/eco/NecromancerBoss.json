@@ -1,0 +1,55 @@
+[
+  {
+    "ids": [ 15003 ],
+    "guaranteed": [
+      { "id": 526, "min": 1, "max": 1 }, //Bones
+      { "id": 30013, "min": 15, "max": 30 } //Corrupted Essence
+    ],
+    "tables": [
+      {
+        "name": "Runes",
+        "weight": 1250,
+        "items": [
+          { "id": 554, "min": 50, "max": 100, "weight": 6 }, //Fire rune
+          { "id": 558, "min": 50, "max": 100, "weight": 6 }, //Mind rune
+          { "id": 558, "min": 20, "max": 50, "weight": 6 }, //Mind rune
+          { "id": 563, "min": 10, "max": 30, "weight": 3 }, //Law rune
+          { "id": 556, "min": 50, "max": 100, "weight": 3 }, //Air rune
+          { "id": 557, "min": 50, "max": 100, "weight": 3 }, //Earth rune
+          { "id": 562, "min": 10, "max": 30, "weight": 3 }, //Chaos rune
+          { "id": 561, "min": 5, "max": 25, "weight": 1 }, //Nature rune
+          { "id": 565, "min": 5, "max": 15, "weight": 1 } //Blood rune
+        ]
+      },
+      {
+        "name": "Weapons/Armour",
+        "weight": 1250,
+        "items": [
+          { "id": 1387, "min": 1, "max": 1, "weight": 25 }, //Staff of fire
+          { "id": 1379, "min": 1, "max": 1, "weight": 25 }, //Staff
+          { "id": 1033, "min": 1, "max": 1, "weight": 10 }, //Zamorak robe (bottom)
+          { "id": 1035, "min": 1, "max": 1, "weight": 1 } //Zamorak robe (top)
+        ]
+      },
+      {
+        "name": "Rare",
+        "weight": 50,
+        "items": [
+          { "id": 995, "min": 3000000, "max": 6000000, "weight": 10 }, //robe bottom
+          { "id": 30022, "min": 1, "max": 1, "weight": 10 }, //robe bottom
+          { "id": 30021, "min": 1, "max": 1, "weight": 10 }, //robe top
+          { "id": 30020, "min": 1, "max": 1, "weight": 10 }, //robe hood
+          { "id": 30023, "min": 1, "max": 1, "weight": 10 } //necromancer staff
+        ]
+      },
+      {
+        "name": "ultra rare",
+        "weight": 10,
+        "items": [
+          { "id": 12785, "min": 1, "max": 1, "weight": 10 }, //ROW i
+          { "id": 30033, "min": 1, "max": 1, "weight": 10 } // Mini Mancer
+        ]
+      }
+    ]
+  }
+]

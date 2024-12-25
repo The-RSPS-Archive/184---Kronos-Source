@@ -1,0 +1,88 @@
+[
+  { #Tz-Kek (45)
+    "ids": [ 2191, 2192, 3118, 3119 ],
+    "handler": "io.ruin.model.activities.fightcaves.monsters.TzKek",
+    //Combat Info
+    "hitpoints": 20,
+    "aggressive_level": 90,
+    "max_damage": 7,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 20.0,
+    "slayer_tasks": [ "TzHaar" ],
+    //Combat Stats
+    "attack": 40,
+    "strength": 60,
+    "defence": 30,
+    "ranged": 30,
+    "magic": 60,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 0,
+    "crush_defence": 0,
+    "magic_defence": 0,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 2,
+    "respawn_ticks": -1,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 2625,
+    "defend_animation": 2626,
+    "death_animation": 2627
+  },
+  { #Tz-Kek (22)
+    "ids": [ 3120 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 10,
+    "aggressive_level": 44,
+    "max_damage": 4,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 10.0,
+    "slayer_tasks": [ "TzHaar" ],
+    //Combat Stats
+    "attack": 20,
+    "strength": 30,
+    "defence": 15,
+    "ranged": 15,
+    "magic": 30,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 0,
+    "crush_defence": 0,
+    "magic_defence": 0,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 2,
+    "respawn_ticks": -1,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 2625,
+    "defend_animation": 2626,
+    "death_animation": 2627
+  }
+]

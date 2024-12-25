@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Emerald Benedict",
+    "id": 3194,
+    "x": 3042,
+    "y": 4972,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Martin Thwait",
+    "id": 3193,
+    "x": 3047,
+    "y": 4975,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Brian O\u0027Richard",
+    "id": 3189,
+    "x": 3049,
+    "y": 4977,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Grace",
+    "id": 5919,
+    "x": 3050,
+    "y": 4962,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 1,
+    "shopOptions": {
+      "trade": "130e716b-eb95-479b-ab1e-2a3dbdc52c6f"
+    }
+  },
+  {
+    "name": "Mark",
+    "id": 5920,
+    "x": 3051,
+    "y": 4963,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 0
+  }
+]

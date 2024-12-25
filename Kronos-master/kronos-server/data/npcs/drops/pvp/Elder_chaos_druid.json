@@ -1,0 +1,68 @@
+[
+  {
+    "ids": [ 6607 ],
+    "guaranteed": [
+      { "id": 526, "min": 1, "max": 1 } //Bones
+    ],
+    "tables": [
+      {
+        "name": "Runes",
+        "weight": 1,
+        "items": [
+          { "id": 556, "min": 9, "max": 36, "weight": 12 }, //Air rune
+          { "id": 556, "min": 56, "max": 56, "weight": 6 }, //Air rune
+          { "id": 559, "min": 9, "max": 9, "weight": 6 }, //Body rune
+          { "id": 559, "min": 19, "max": 19, "weight": 6 }, //Body rune
+          { "id": 558, "min": 22, "max": 22, "weight": 3 }, //Mind rune
+          { "id": 563, "min": 6, "max": 6, "weight": 3 }, //Law rune
+          { "id": 557, "min": 19, "max": 19, "weight": 3 }, //Earth rune
+          { "id": 562, "min": 7, "max": 7, "weight": 1 }, //Chaos rune
+          { "id": 561, "min": 3, "max": 3, "weight": 1 }, //Nature rune
+          { "id": 561, "min": 12, "max": 12, "weight": 1 } //Nature rune
+        ]
+      },
+      {
+        "name": "Weapons/Armour",
+        "weight": 1,
+        "items": [
+          { "id": 9142, "min": 2, "max": 28, "weight": 15 }, //Mithril bolts
+          { "id": 1295, "min": 1, "max": 1, "weight": 15 }, //Steel longsword
+          { "id": 1035, "min": 1, "max": 1, "weight": 15 }, //Zamorak robe (top)
+          { "id": 1033, "min": 1, "max": 1, "weight": 15 }, //Zamorak robe (bottom)
+          { "id": 20595, "min": 1, "max": 1, "weight": 1 }, //Elder chaos hood
+          { "id": 20517, "min": 1, "max": 1, "weight": 1 }, //Elder chaos top
+          { "id": 20520, "min": 1, "max": 1, "weight": 1 } //Elder chaos robe
+        ]
+      },
+      {
+        "name": "Herbs",
+        "weight": 1,
+        "items": [
+          { "id": 199, "min": 1, "max": 4, "weight": 6 }, //Grimy guam leaf
+          { "id": 201, "min": 1, "max": 4, "weight": 6 }, //Grimy marrentill
+          { "id": 203, "min": 1, "max": 4, "weight": 6 }, //Grimy tarromin
+          { "id": 205, "min": 1, "max": 4, "weight": 6 }, //Grimy harralander
+          { "id": 209, "min": 1, "max": 4, "weight": 6 }, //Grimy irit leaf
+          { "id": 213, "min": 1, "max": 4, "weight": 3 }, //Grimy kwuarm
+          { "id": 211, "min": 1, "max": 4, "weight": 3 }, //Grimy avantoe
+          { "id": 207, "min": 1, "max": 4, "weight": 3 }, //Grimy ranarr weed
+          { "id": 215, "min": 1, "max": 4, "weight": 3 }, //Grimy cadantine
+          { "id": 2485, "min": 1, "max": 4, "weight": 1 }, //Grimy lantadyme
+          { "id": 217, "min": 1, "max": 4, "weight": 1 } //Grimy dwarf weed
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 995, "min": 80, "max": 250, "weight": 10 }, //Coins
+          { "id": 13472, "min": 1, "max": 1, "weight": 10 }, //Ensouled chaos druid head
+          { "id": 227, "min": 4, "max": 4, "weight": 10 }, //Vial of water
+          { "id": 231, "min": 4, "max": 4, "weight": 10 }, //Snape grass
+          { "id": 1594, "min": 1, "max": 1, "weight": 1 }, //Unholy mould
+          { "id": 2722, "min": 1, "max": 1, "weight": 1 } //Clue scroll (hard)
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,109 @@
+ [
+ {
+    "ids": [ 8059, 8061 ],
+    "guaranteed": [
+      { "id": 22124, "min": 2, "max": 2},   //Superior dragon bones
+      { "id": 1751, "min": 2, "max": 2 }   //Blue dragonhide
+    ],
+    "tables": [
+      {
+        "name": "Weapons/Armour",
+        "weight": 1,
+        "items": [
+          { "id": 1303, "min": 2, "max": 3, "weight": 40 },   //Rune longsword
+          { "id": 1201, "min": 2, "max": 3, "weight": 40 },   //Rune kiteshield
+          { "id": 1377, "min": 1, "max": 1, "weight": 4 },   //Dragon battleaxe
+          { "id": 1305, "min": 1, "max": 1, "weight": 4 },   //Dragon longsword
+          { "id": 4087, "min": 1, "max": 1, "weight": 4 },   //Dragon platelegs
+          { "id": 4585, "min": 1, "max": 1, "weight": 4 },   //Dragon plateskirt
+          { "id": 1392, "min": 15, "max": 25, "weight": 15 },   //Battlestaff (noted)
+          { "id": 22111, "min": 1, "max": 1, "weight": 1 }   //Dragonbone necklace
+        ]
+      },
+      {
+        "name": "Runes",
+        "weight": 1,
+        "items": [
+          { "id": 562, "min": 650, "max": 1000, "weight": 3 },   //Chaos rune
+          { "id": 560, "min": 300, "max": 500, "weight": 2 },   //Death rune
+          { "id": 21880, "min": 30, "max": 100, "weight": 1 }   //Wrath rune
+        ]
+      },
+      {
+        "name": "Dragonhide",
+        "weight": 1,
+        "items": [
+          { "id": 1754, "min": 25, "max": 32, "weight": 1 },   //Green dragonhide (noted)
+          { "id": 1752, "min": 20, "max": 30, "weight": 1 },   //Blue dragonhide (noted)
+          { "id": 1750, "min": 15, "max": 25, "weight": 1 },   //Red dragonhide (noted)
+          { "id": 1748, "min": 15, "max": 25, "weight": 1 }   //Black dragonhide (noted)
+        ]
+      },
+      {
+        "name": "Tips",
+        "weight": 1,
+        "items": [
+          { "id": 9189, "min": 25, "max": 35, "weight": 3 },   //Sapphire bolt tips
+          { "id": 9190, "min": 25, "max": 35, "weight": 3 },   //Emerald bolt tips
+          { "id": 9191, "min": 31, "max": 31, "weight": 3 },   //Ruby bolt tips
+          { "id": 9192, "min": 30, "max": 30, "weight": 3 },   //Diamond bolt tips
+          { "id": 21338, "min": 27, "max": 30, "weight": 3 },   //Amethyst bolt tips
+          { "id": 9193, "min": 7, "max": 28, "weight": 2 },   //Dragonstone bolt tips
+          { "id": 824, "min": 86, "max": 100, "weight": 2 },   //Rune dart tip
+          { "id": 11232, "min": 10, "max": 50, "weight": 2 },   //Dragon dart tip
+          { "id": 11237, "min": 27, "max": 50, "weight": 2 },   //Dragon arrowtips
+          { "id": 9194, "min": 5, "max": 10, "weight": 1 },   //Onyx bolt tips
+          { "id": 9194, "min": 26, "max": 30, "weight": 1 }   //Onyx bolt tips
+        ]
+      },
+      {
+        "name": "Materials",
+        "weight": 1,
+        "items": [
+          { "id": 450, "min": 10, "max": 30, "weight": 2 },   //Adamantite ore (noted)
+          { "id": 1602, "min": 10, "max": 30, "weight": 2 },   //Diamond (noted)
+          { "id": 6694, "min": 10, "max": 30, "weight": 2 },   //Crushed nest (noted)
+          { "id": 1988, "min": 250, "max": 301, "weight": 2 },   //Grapes (noted)
+          { "id": 1514, "min": 50, "max": 50, "weight": 2 },   //Magic logs (noted)
+          { "id": 1616, "min": 1, "max": 3, "weight": 2 },   //Dragonstone (noted)
+          { "id": 21930, "min": 55, "max": 100, "weight": 1 }   //Dragon bolts (unf)
+        ]
+      },
+      {
+        "name": "Seeds",
+        "weight": 1,
+        "items": [
+          { "id": 5288, "min": 1, "max": 1, "weight": 1 },   //Papaya tree seed
+          { "id": 5321, "min": 15, "max": 15, "weight": 1 },   //Watermelon seed
+          { "id": 5295, "min": 1, "max": 1, "weight": 1 },   //Ranarr seed
+          { "id": 5300, "min": 1, "max": 1, "weight": 1 },   //Snapdragon seed
+          { "id": 5304, "min": 1, "max": 1, "weight": 1 },   //Torstol seed
+          { "id": 5313, "min": 1, "max": 1, "weight": 1 },   //Willow seed
+          { "id": 21486, "min": 1, "max": 1, "weight": 1 },   //Teak seed
+          { "id": 5314, "min": 1, "max": 1, "weight": 1 },   //Maple seed
+          { "id": 5290, "min": 1, "max": 1, "weight": 1 },   //Calquat tree seed
+          { "id": 5316, "min": 1, "max": 1, "weight": 1 },   //Magic seed
+          { "id": 5317, "min": 1, "max": 1, "weight": 1 },   //Spirit seed
+          { "id": 21488, "min": 1, "max": 1, "weight": 1 },   //Mahogany seed
+          { "id": 5289, "min": 1, "max": 1, "weight": 1 },   //Palm tree seed
+          { "id": 5315, "min": 1, "max": 1, "weight": 1 }   //Yew seed
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 995, "min": 37000, "max": 81000, "weight": 40 },   //Coins
+          { "id": 392, "min": 25, "max": 55, "weight": 40 },   //Manta ray (noted)
+          { "id": 22118, "min": 1, "max": 1, "weight": 24 },   //Wrath talisman
+          { "id": 537, "min": 7, "max": 28, "weight": 30 },   //Dragon bones (noted)
+          { "id": 2425, "min": 1, "max": 1, "weight": 20 },   //Vorkath's head
+          { "id": 12073, "min": 1, "max": 1, "weight": 8 },   //Clue scroll (elite)
+          { "id": 22106, "min": 1, "max": 1, "weight": 1 },   //Jar of decay
+          { "id": 11286, "min": 1, "max": 1, "weight": 1 },   //Draconic visage
+          { "id": 22006, "min": 1, "max": 1, "weight": 1 }   //Skeletal visage
+        ]
+      }
+    ]
+  }
+ ]

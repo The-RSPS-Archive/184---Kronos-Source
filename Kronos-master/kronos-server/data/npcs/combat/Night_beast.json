@@ -1,0 +1,45 @@
+[
+  { #Night beast (374)
+    "ids": [ 7409 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 550,
+    "aggressive_level": 748,
+    "max_damage": 31,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 90,
+    "slayer_xp": 6462.0,
+    "slayer_tasks": [ "Dark Beasts" ],
+    //Combat Stats
+    "attack": 270,
+    "strength": 290,
+    "defence": 220,
+    "ranged": 1,
+    "magic": 300,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 75,
+    "slash_defence": 80,
+    "crush_defence": 200,
+    "magic_defence": 190,
+    "ranged_defence": 200,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 5,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 2731,
+    "defend_animation": 2732,
+    "death_animation": 2733
+  }
+]

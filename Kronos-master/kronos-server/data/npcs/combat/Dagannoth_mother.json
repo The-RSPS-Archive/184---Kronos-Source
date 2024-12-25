@@ -1,0 +1,88 @@
+[
+  { #Dagannoth mother (100)
+    "ids": [ 980, 981, 982, 983, 984, 985, 986, 987, 988, 6361, 6362, 6363, 6364, 6365, 6366 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 120,
+    "aggressive_level": 200,
+    "max_damage": 9,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 0.0,
+    "slayer_tasks": [],
+    //Combat Stats
+    "attack": 78,
+    "strength": 78,
+    "defence": 81,
+    "ranged": 50,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 150,
+    "slash_defence": 150,
+    "crush_defence": 150,
+    "magic_defence": 50,
+    "ranged_defence": 50,
+    //Immunites
+    "poison_immunity": true,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 2,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": -1,
+    "defend_animation": -1,
+    "death_animation": -1
+  },
+  { #Dagannoth mother (hard) (201)
+    "ids": [ 6300, 6301, 6302, 6303, 6304, 6305 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 240,
+    "aggressive_level": 402,
+    "max_damage": 20,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 0.0,
+    "slayer_tasks": [],
+    //Combat Stats
+    "attack": 186,
+    "strength": 186,
+    "defence": 81,
+    "ranged": 120,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 150,
+    "slash_defence": 150,
+    "crush_defence": 150,
+    "magic_defence": 50,
+    "ranged_defence": 50,
+    //Immunites
+    "poison_immunity": true,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 2,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": -1,
+    "defend_animation": -1,
+    "death_animation": -1
+  }
+]

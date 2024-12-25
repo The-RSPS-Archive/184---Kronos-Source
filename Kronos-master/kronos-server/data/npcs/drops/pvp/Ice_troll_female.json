@@ -1,0 +1,88 @@
+[
+  {
+    "ids": [ 1876, 5825, 5830 ],
+    "guaranteed": [
+      { "id": 532, "min": 1, "max": 1 } //Big bones
+    ],
+    "tables": [
+      {
+        "name": "Herbs",
+        "weight": 1,
+        "items": [
+          { "id": 199, "min": 1, "max": 1, "weight": 9 }, //Grimy guam leaf
+          { "id": 201, "min": 1, "max": 1, "weight": 9 }, //Grimy marrentill
+          { "id": 203, "min": 1, "max": 1, "weight": 9 }, //Grimy tarromin
+          { "id": 205, "min": 1, "max": 1, "weight": 6 }, //Grimy harralander
+          { "id": 207, "min": 1, "max": 1, "weight": 6 }, //Grimy ranarr weed
+          { "id": 209, "min": 1, "max": 1, "weight": 6 }, //Grimy irit leaf
+          { "id": 211, "min": 1, "max": 1, "weight": 3 }, //Grimy avantoe
+          { "id": 213, "min": 1, "max": 1, "weight": 3 }, //Grimy kwuarm
+          { "id": 215, "min": 1, "max": 1, "weight": 3 }, //Grimy cadantine
+          { "id": 2485, "min": 1, "max": 1, "weight": 1 }, //Grimy lantadyme
+          { "id": 217, "min": 1, "max": 1, "weight": 1 } //Grimy dwarf weed
+        ]
+      },
+      {
+        "name": "Seeds",
+        "weight": 1,
+        "items": [
+          { "id": 5104, "min": 1, "max": 1, "weight": 6 }, //Jangerberry seed
+          { "id": 5311, "min": 1, "max": 1, "weight": 6 }, //Wildblood seed
+          { "id": 5321, "min": 1, "max": 1, "weight": 6 }, //Watermelon seed
+          { "id": 5323, "min": 1, "max": 1, "weight": 6 }, //Strawberry seed
+          { "id": 5100, "min": 1, "max": 2, "weight": 6 }, //Limpwurt seed
+          { "id": 5105, "min": 1, "max": 1, "weight": 6 }, //Whiteberry seed
+          { "id": 5280, "min": 1, "max": 1, "weight": 6 }, //Cactus seed
+          { "id": 5281, "min": 1, "max": 1, "weight": 3 }, //Belladonna seed
+          { "id": 5106, "min": 1, "max": 1, "weight": 3 }, //Poison ivy seed
+          { "id": 5293, "min": 1, "max": 1, "weight": 3 }, //Tarromin seed
+          { "id": 5294, "min": 1, "max": 1, "weight": 3 }, //Harralander seed
+          { "id": 5298, "min": 1, "max": 1, "weight": 1 }, //Avantoe seed
+          { "id": 5295, "min": 1, "max": 1, "weight": 1 }, //Ranarr seed
+          { "id": 5303, "min": 1, "max": 1, "weight": 1 } //Dwarf weed seed
+        ]
+      },
+      {
+        "name": "Weapons and armour",
+        "weight": 1,
+        "items": [
+          { "id": 1141, "min": 1, "max": 1, "weight": 9 }, //Steel med helm
+          { "id": 1119, "min": 1, "max": 1, "weight": 9 }, //Steel platebody
+          { "id": 1339, "min": 1, "max": 1, "weight": 9 }, //Steel warhammer
+          { "id": 1341, "min": 1, "max": 1, "weight": 9 }, //Black warhammer
+          { "id": 1343, "min": 1, "max": 1, "weight": 6 }, //Mithril warhammer
+          { "id": 1121, "min": 1, "max": 1, "weight": 6 }, //Mithril platebody
+          { "id": 1181, "min": 1, "max": 1, "weight": 6 }, //Mithril sq shield
+          { "id": 1345, "min": 1, "max": 1, "weight": 6 }, //Adamant warhammer
+          { "id": 1357, "min": 1, "max": 1, "weight": 3 }, //Adamant axe
+          { "id": 1161, "min": 1, "max": 1, "weight": 3 }, //Adamant full helm
+          { "id": 1201, "min": 1, "max": 1, "weight": 1 }, //Rune kiteshield
+          { "id": 3122, "min": 1, "max": 1, "weight": 1 }, //Granite shield
+          { "id": 1347, "min": 1, "max": 1, "weight": 1 } //Rune warhammer
+        ]
+      },
+      {
+        "name": "Runes and talismans",
+        "weight": 1,
+        "items": [
+          { "id": 557, "min": 10, "max": 60, "weight": 6 }, //Earth rune
+          { "id": 561, "min": 1, "max": 12, "weight": 6 }, //Nature rune
+          { "id": 563, "min": 2, "max": 8, "weight": 1 } //Law rune
+        ]
+      },
+      {
+        "name": "Miscellaneous",
+        "weight": 1,
+        "items": [
+          { "id": 995, "min": 35, "max": 352, "weight": 6 }, //Coins
+          { "id": 384, "min": 1, "max": 8, "weight": 6 }, //Raw shark (noted)
+          { "id": 354, "min": 3, "max": 3, "weight": 3 }, //Raw mackerel (noted)
+          { "id": 454, "min": 3, "max": 3, "weight": 3 }, //Coal (noted)
+          { "id": 402, "min": 3, "max": 10, "weight": 1 }, //Seaweed (noted)
+          { "id": 1760, "min": 1, "max": 42, "weight": 1 }, //Ball of wool (noted)
+          { "id": 13484, "min": 1, "max": 1, "weight": 1 } //Ensouled troll head
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,14 @@
+---
+identifier: "bb1bac92-f812-4118-b462-8e020212934e"
+title: "Ironman Ranged Shop"
+currency: "COINS"
+accessibleByIronMan: true
+canSellToStore: false
+restockRules:
+  restockTicks: 6
+  restockPerTick: 10
+defaultStock:
+  - id: 10499
+    amount: 10000
+  - id: 2444
+    amount: 10000

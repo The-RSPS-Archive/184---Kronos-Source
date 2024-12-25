@@ -1,0 +1,45 @@
+[
+  { #Magic axe (42)
+    "ids": [ 2844, 7269 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 45,
+    "aggressive_level": 84,
+    "max_damage": 5,
+    "attack_style": "SLASH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 45.0,
+    "slayer_tasks": [ "Magic Axes" ],
+    //Combat Stats
+    "attack": 38,
+    "strength": 38,
+    "defence": 29,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 10,
+    "slash_defence": 5,
+    "crush_defence": 15,
+    "magic_defence": 5,
+    "ranged_defence": 10,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 6,
+    "death_ticks": 5,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 185,
+    "defend_animation": 186,
+    "death_animation": 188
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {"id": 946, "x": 3106, "y": 3956}, // Knife
+  {"id": 2333, "x": 3042, "y": 3952}, // Half a redberry pie
+  {"id": 526, "x": 3004, "y": 3923}, // Bones
+  {"id": 526, "x": 3002, "y": 3922}, // Bones
+  {"id": 526, "x": 2995, "y": 3922}, // Bones
+  {"id": 526, "x": 2992, "y": 3920}, // Bones
+  {"id": 526, "x": 2994, "y": 3924}, // Bones
+  {"id": 564, "x": 2947, "y": 3899}, // Cosmic rune
+  {"id": 555, "x": 2960, "y": 3899}, // Water rune
+  {"id": 125, "x": 3026, "y": 10325}, // Attack potion (1)
+  {"id": 199, "x": 3044, "y": 10314}, // Grimy gwuam
+
+  // 2/28/2018 
+  {"id": 882, "x": 3098, "y": 3596, "amount": 2}, // Bronze arrow
+  {"id": 882, "x": 3101, "y": 3592, "amount": 2}, // Bronze arrow
+  {"id": 882, "x": 3109, "y": 3604, "amount": 2}, // Bronze arrow
+  {"id": 882, "x": 3101, "y": 3606, "amount": 2}, // Bronze arrow
+  {"id": 882, "x": 3105, "y": 3607, "amount": 2}, // Bronze arrow
+  {"id": 882, "x": 3098, "y": 3600, "amount": 2}, // Bronze arrow
+  {"id": 882, "x": 3103, "y": 3596, "amount": 2}, // Bronze arrow
+  {"id": 882, "x": 3103, "y": 3600}, // Bronze arrow
+  {"id": 882, "x": 3110, "y": 3611}, // Bronze arrow
+  {"id": 995, "x": 3097, "y": 3578, "amount": 4}, // Coins
+  {"id": 995, "x": 3099, "y": 3572, "amount": 3}, // Coins
+  {"id": 995, "x": 3098, "y": 3564, "amount": 2}, // Coins
+  {"id": 303, "x": 2615, "y": 3446}, // Small fishing net
+  {"id": 995, "x": 3103, "y": 3548, "amount": 2}, // Coins
+  {"id": 995, "x": 3108, "y": 3534, "amount": 2} // Coins
+
+]

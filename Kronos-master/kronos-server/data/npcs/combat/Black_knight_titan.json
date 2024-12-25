@@ -1,0 +1,88 @@
+[
+  { #Black Knight Titan (120)
+    "ids": [ 4067, 6360 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 142,
+    "aggressive_level": 240,
+    "max_damage": 15,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 0.0,
+    "slayer_tasks": [],
+    //Combat Stats
+    "attack": 91,
+    "strength": 100,
+    "defence": 91,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 27,
+    "slash_attack": 27,
+    "crush_attack": 27,
+    "magic_attack": 27,
+    "ranged_attack": 27,
+    //Defensive Stats
+    "stab_defence": 18,
+    "slash_defence": 27,
+    "crush_defence": 18,
+    "magic_defence": 1000,
+    "ranged_defence": 1000,
+    //Immunites
+    "poison_immunity": true,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 7,
+    "death_ticks": 2,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": -1,
+    "defend_animation": -1,
+    "death_animation": -1
+  },
+  { #Black Knight Titan (hard) (210)
+    "ids": [ 6299 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 255,
+    "aggressive_level": 420,
+    "max_damage": 28,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 0.0,
+    "slayer_tasks": [],
+    //Combat Stats
+    "attack": 182,
+    "strength": 200,
+    "defence": 91,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 27,
+    "slash_attack": 27,
+    "crush_attack": 27,
+    "magic_attack": 27,
+    "ranged_attack": 27,
+    //Defensive Stats
+    "stab_defence": 18,
+    "slash_defence": 27,
+    "crush_defence": 18,
+    "magic_defence": 1000,
+    "ranged_defence": 1000,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 7,
+    "death_ticks": 2,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": -1,
+    "defend_animation": -1,
+    "death_animation": -1
+  }
+]

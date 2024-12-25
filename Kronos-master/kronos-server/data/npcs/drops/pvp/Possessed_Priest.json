@@ -1,0 +1,22 @@
+[
+  {
+    "ids": [ 4210 ],
+    "guaranteed": [
+      { "id": 526, "min": 1, "max": 1 }, //Bones
+      { "id": 3032, "min": 1, "max": 1 }, //Agility potion(4)
+      { "id": 2428, "min": 1, "max": 1 }, //Attack potion(4)
+      { "id": 2432, "min": 1, "max": 1 }, //Defence potion(4)
+      { "id": 3040, "min": 1, "max": 1 }, //Magic potion(4)
+      { "id": 113, "min": 1, "max": 1 } //Strength potion(4)
+    ],
+    "tables": [
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 995, "min": 1, "max": 1260, "weight": 1 } //Coins
+        ]
+      }
+    ]
+  }
+]

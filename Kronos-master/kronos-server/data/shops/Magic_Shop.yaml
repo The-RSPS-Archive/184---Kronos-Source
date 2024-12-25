@@ -1,0 +1,55 @@
+---
+identifier: "64473b09-f91f-44b6-93be-4c36b4d19133"
+title: "Magic Shop"
+currency: "COINS"
+accessibleByIronMan: false
+canSellToStore: false
+restockRules:
+  restockTicks: 2
+  restockPerTick: 1000
+defaultStock:
+  - id: 12728
+    amount: 50000
+  - id: 12730
+    amount: 50000
+  - id: 12732
+    amount: 50000
+  - id: 12734
+    amount: 50000
+  - id: 12736
+    amount: 50000
+  - id: 12738
+    amount: 50000
+    price: 14000
+  - id: 559
+    amount: 50000
+  - id: 564
+    amount: 50000
+  - id: 561
+    amount: 50000
+  - id: 563
+    amount: 50000
+  - id: 566
+    amount: 50000
+  - id: 9075
+    amount: 50000
+  - id: 12738
+    amount: 50000
+  - id: 1381
+    amount: 100
+  - id: 1383
+    amount: 100
+  - id: 1385
+    amount: 100
+  - id: 1387
+    amount: 100
+  - id: 4675
+    amount: 100
+  - id: 2415
+    amount: 100
+  - id: 2416
+    amount: 100
+  - id: 2417
+    amount: 100
+  - id: 12658
+    amount: 100

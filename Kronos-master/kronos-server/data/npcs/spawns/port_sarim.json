@@ -1,0 +1,797 @@
+[
+  {
+    "name": "Grum",
+    "id": 2889,
+    "x": 3013,
+    "y": 3246,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Wydin",
+    "id": 2890,
+    "x": 3014,
+    "y": 3205,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Thief",
+    "id": 3092,
+    "x": 3014,
+    "y": 3229,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Thief",
+    "id": 3093,
+    "x": 3018,
+    "y": 3231,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Man",
+    "id": 3078,
+    "x": 3016,
+    "y": 3238,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "The Face",
+    "id": 4590,
+    "x": 3019,
+    "y": 3231,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Bellemorde",
+    "id": 4573,
+    "x": 3019,
+    "y": 3233,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Banker",
+    "id": 1028,
+    "x": 3027,
+    "y": 3249,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Bartender",
+    "id": 1313,
+    "x": 3045,
+    "y": 3257,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Jack Seagull",
+    "id": 1335,
+    "x": 3047,
+    "y": 3256,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Longbow Ben",
+    "id": 1336,
+    "x": 3046,
+    "y": 3257,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Ahab",
+    "id": 1337,
+    "x": 3049,
+    "y": 3256,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Frizzy Skernip",
+    "id": 2684,
+    "x": 3062,
+    "y": 3257,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Tool Leprechaun",
+    "id": 0,
+    "x": 3060,
+    "y": 3263,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Seaman Thresnor",
+    "id": 3646,
+    "x": 3026,
+    "y": 3216,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Seagull",
+    "id": 1338,
+    "x": 3027,
+    "y": 3205,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Seagull",
+    "id": 1338,
+    "x": 3027,
+    "y": 3201,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Captain Tobias",
+    "id": 3644,
+    "x": 3026,
+    "y": 3216,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Imp",
+    "id": 5007,
+    "x": 3022,
+    "y": 3248,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Seaman Lorris",
+    "id": 3645,
+    "x": 3026,
+    "y": 3221,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Seagull",
+    "id": 1338,
+    "x": 3027,
+    "y": 3231,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Seagull",
+    "id": 1338,
+    "x": 3029,
+    "y": 3234,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Seagull",
+    "id": 1339,
+    "x": 3028,
+    "y": 3202,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Gull",
+    "id": 4735,
+    "x": 2993,
+    "y": 3148,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 10
+  },
+  {
+    "name": "Seagull",
+    "id": 1339,
+    "x": 3028,
+    "y": 3235,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "A pile of broken glass",
+    "id": 2591,
+    "x": 2981,
+    "y": 3190,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Seagull",
+    "id": 1338,
+    "x": 3030,
+    "y": 3236,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "null",
+    "id": 3230,
+    "x": 2979,
+    "y": 3195,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Seagull",
+    "id": 1338,
+    "x": 3029,
+    "y": 3203,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Squire",
+    "id": 1770,
+    "x": 3041,
+    "y": 3202,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Gull",
+    "id": 4734,
+    "x": 2994,
+    "y": 3137,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Giant rat",
+    "id": 2859,
+    "x": 2995,
+    "y": 3192,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Monk of Entrana",
+    "id": 1165,
+    "x": 3044,
+    "y": 3236,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Giant rat",
+    "id": 2860,
+    "x": 2998,
+    "y": 3194,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Monk of Entrana",
+    "id": 1166,
+    "x": 3044,
+    "y": 3236,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Thurgo",
+    "id": 4733,
+    "x": 2999,
+    "y": 3144,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Klarense",
+    "id": 819,
+    "x": 3047,
+    "y": 3204,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Seagull",
+    "id": 1339,
+    "x": 3050,
+    "y": 3203,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Monk of Entrana",
+    "id": 1167,
+    "x": 3048,
+    "y": 3235,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Seagull",
+    "id": 1338,
+    "x": 3049,
+    "y": 3203,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Redbeard Frank",
+    "id": 3643,
+    "x": 3052,
+    "y": 3247,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Seagull",
+    "id": 1338,
+    "x": 3063,
+    "y": 3203,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Seagull",
+    "id": 1338,
+    "x": 3063,
+    "y": 3203,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Seagull",
+    "id": 1338,
+    "x": 3063,
+    "y": 3203,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Goblin",
+    "id": 3030,
+    "x": 2995,
+    "y": 3209,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 9
+  },
+  {
+    "name": "Goblin",
+    "id": 3031,
+    "x": 2998,
+    "y": 3197,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 13
+  },
+  {
+    "name": "Goblin",
+    "id": 3029,
+    "x": 3003,
+    "y": 3215,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 9
+  },
+  {
+    "name": "Goblin",
+    "id": 3032,
+    "x": 3000,
+    "y": 3201,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 12
+  },
+  {
+    "name": "Goblin",
+    "id": 3033,
+    "x": 3002,
+    "y": 3206,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 11
+  },
+  {
+    "name": "Goblin",
+    "id": 3034,
+    "x": 2995,
+    "y": 3203,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Goblin",
+    "id": 3051,
+    "x": 3003,
+    "y": 3201,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 10
+  },
+  {
+    "name": "Goblin",
+    "id": 3036,
+    "x": 3013,
+    "y": 3204,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Goblin",
+    "id": 3035,
+    "x": 3003,
+    "y": 3208,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 10
+  },
+  {
+    "name": "Goblin",
+    "id": 3053,
+    "x": 3004,
+    "y": 3207,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 13
+  },
+  {
+    "name": "Goblin",
+    "id": 3052,
+    "x": 3000,
+    "y": 3202,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 10
+  },
+  {
+    "name": "Goblin",
+    "id": 3054,
+    "x": 3004,
+    "y": 3206,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 15
+  },
+  {
+    "name": "Rat",
+    "id": 2854,
+    "x": 3012,
+    "y": 3189,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 11
+  },
+  {
+    "name": "Crab",
+    "id": 1553,
+    "x": 3014,
+    "y": 3142,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Rat",
+    "id": 2854,
+    "x": 3013,
+    "y": 3189,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Rat",
+    "id": 2854,
+    "x": 3013,
+    "y": 3188,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Cap\u0027n Hand",
+    "id": 5444,
+    "x": 3013,
+    "y": 3192,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Rat",
+    "id": 2854,
+    "x": 3013,
+    "y": 3195,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Wormbrain",
+    "id": 820,
+    "x": 3013,
+    "y": 3189,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Pirate",
+    "id": 1447,
+    "x": 3014,
+    "y": 3191,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Thief",
+    "id": 1448,
+    "x": 3013,
+    "y": 3195,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Rat",
+    "id": 2854,
+    "x": 3017,
+    "y": 3173,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Black knight",
+    "id": 1545,
+    "x": 3017,
+    "y": 3180,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Mugger",
+    "id": 1461,
+    "x": 3017,
+    "y": 3189,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Crab",
+    "id": 1553,
+    "x": 3017,
+    "y": 3155,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Guard",
+    "id": 1551,
+    "x": 3019,
+    "y": 3185,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Crab",
+    "id": 1553,
+    "x": 3019,
+    "y": 3148,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Crab",
+    "id": 1553,
+    "x": 3020,
+    "y": 3155,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Crab",
+    "id": 1553,
+    "x": 3024,
+    "y": 3157,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Crab",
+    "id": 1553,
+    "x": 3024,
+    "y": 3156,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Seagull",
+    "id": 1554,
+    "x": 3031,
+    "y": 3146,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Seagull",
+    "id": 1555,
+    "x": 3038,
+    "y": 3157,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Trader Stan",
+    "id": 1328,
+    "x": 3036,
+    "y": 3193,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2,
+    "shopOptions": {
+      "trade": "383d749f-1f3e-46d1-87b2-206d6942cff8"
+    }
+  },
+  {
+    "name": "Trader Crewmember",
+    "id": 1334,
+    "x": 3038,
+    "y": 3193,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Trader Crewmember",
+    "id": 1331,
+    "x": 3044,
+    "y": 3193,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Seagull",
+    "id": 1339,
+    "x": 3050,
+    "y": 3193,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Seagull",
+    "id": 1339,
+    "x": 3052,
+    "y": 3193,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Seagull",
+    "id": 1339,
+    "x": 3053,
+    "y": 3193,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Woman",
+    "id": 3083,
+    "x": 3011,
+    "y": 3234,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Veos",
+    "id": 2147,
+    "x": 3058,
+    "y": 3192,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Cavey Davey",
+    "id": 1052,
+    "x": 3012,
+    "y": 3259,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Seagull",
+    "id": 1339,
+    "x": 3063,
+    "y": 3193,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Gerrant",
+    "id": 2891,
+    "x": 3014,
+    "y": 3224,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Seagull",
+    "id": 1339,
+    "x": 3063,
+    "y": 3193,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  }
+]

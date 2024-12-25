@@ -1,0 +1,149 @@
+[
+  {
+    "name": "Runite Minor",
+    "id": 6566,
+    "x": 3717,
+    "y": 5668,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 0
+  },
+  {
+    "name": "Miner",
+    "id": 6565,
+    "x": 3723,
+    "y": 5679,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Miner",
+    "id": 6567,
+    "x": 3726,
+    "y": 5650,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Miner",
+    "id": 6645,
+    "x": 3748,
+    "y": 5690,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Miner",
+    "id": 6568,
+    "x": 3748,
+    "y": 5636,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Baby Mole",
+    "id": 5781,
+    "x": 3745,
+    "y": 5666,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Miner",
+    "id": 6572,
+    "x": 3753,
+    "y": 5687,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Prospector Percy",
+    "id": 6562,
+    "x": 3756,
+    "y": 5666,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1,
+    "shopOptions": {
+      "trade": "86f281c3-93e2-42d4-8929-15e3244baada"
+    }
+  },
+  {
+    "name": "Miner",
+    "id": 6569,
+    "x": 3768,
+    "y": 5647,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Miner",
+    "id": 6570,
+    "x": 3766,
+    "y": 5672,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Miner",
+    "id": 6571,
+    "x": 3762,
+    "y": 5686,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Miner",
+    "id": 5814,
+    "x": 3745,
+    "y": 5686,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Mercy",
+    "id": 5562,
+    "x": 3752,
+    "y": 5677,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Miner",
+    "id": 5606,
+    "x": 3760,
+    "y": 5671,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Miner",
+    "id": 5813,
+    "x": 3760,
+    "y": 5672,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Dwarf",
+    "id": 7721,
+    "x": 3720,
+    "y": 5678,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  }
+]

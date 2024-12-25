@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Key Master",
+    "id": 5870,
+    "x": 1310,
+    "y": 1251,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Cerberus",
+    "id": 5862,
+    "x": 1302,
+    "y": 1314,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Cerberus",
+    "id": 5862,
+    "x": 1366,
+    "y": 1250,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Cerberus",
+    "id": 5862,
+    "x": 1238,
+    "y": 1250,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  }
+]

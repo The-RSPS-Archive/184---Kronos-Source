@@ -1,0 +1,60 @@
+[
+  {
+    "ids": [ 291, 2423 ],
+    "guaranteed": [
+      { "id": 526, "min": 1, "max": 1 } //Bones
+    ],
+    "tables": [
+      {
+        "name": "Armour/Weapons",
+        "weight": 1,
+        "items": [
+          { "id": 1157, "min": 1, "max": 1, "weight": 3 }, //Steel full helm
+          { "id": 1299, "min": 1, "max": 1, "weight": 3 }, //Mithril longsword
+          { "id": 1181, "min": 1, "max": 1, "weight": 3 }, //Mithril sq shield
+          { "id": 1165, "min": 1, "max": 1, "weight": 1 } //Black full helm
+        ]
+      },
+      {
+        "name": "Runes & Talismans",
+        "weight": 1,
+        "items": [
+          { "id": 555, "min": 10, "max": 10, "weight": 6 }, //Water rune
+          { "id": 556, "min": 12, "max": 12, "weight": 6 }, //Air rune
+          { "id": 556, "min": 24, "max": 24, "weight": 6 }, //Air rune
+          { "id": 558, "min": 37, "max": 37, "weight": 6 }, //Mind rune
+          { "id": 564, "min": 3, "max": 3, "weight": 3 }, //Cosmic rune
+          { "id": 564, "min": 6, "max": 6, "weight": 3 }, //Cosmic rune
+          { "id": 562, "min": 10, "max": 10, "weight": 3 }, //Chaos rune
+          { "id": 562, "min": 37, "max": 37, "weight": 3 }, //Chaos rune
+          { "id": 561, "min": 9, "max": 9, "weight": 1 }, //Nature rune
+          { "id": 561, "min": 18, "max": 18, "weight": 1 }, //Nature rune
+          { "id": 563, "min": 3, "max": 3, "weight": 1 }, //Law rune
+          { "id": 563, "min": 6, "max": 6, "weight": 1 }, //Law rune
+          { "id": 560, "min": 3, "max": 3, "weight": 1 }, //Death rune
+          { "id": 560, "min": 6, "max": 6, "weight": 1 } //Death rune
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 995, "min": 25, "max": 25, "weight": 9 }, //Coins
+          { "id": 995, "min": 47, "max": 47, "weight": 9 }, //Coins
+          { "id": 995, "min": 92, "max": 92, "weight": 9 }, //Coins
+          { "id": 995, "min": 150, "max": 150, "weight": 6 }, //Coins
+          { "id": 995, "min": 250, "max": 250, "weight": 6 }, //Coins
+          { "id": 995, "min": 350, "max": 350, "weight": 6 }, //Coins
+          { "id": 995, "min": 450, "max": 450, "weight": 6 }, //Coins
+          { "id": 995, "min": 550, "max": 550, "weight": 6 }, //Coins
+          { "id": 453, "min": 1, "max": 1, "weight": 3 }, //Coal
+          { "id": 991, "min": 1, "max": 1, "weight": 3 }, //Muddy key
+          { "id": 1985, "min": 1, "max": 1, "weight": 3 }, //Cheese
+          { "id": 2359, "min": 1, "max": 1, "weight": 3 }, //Mithril bar
+          { "id": 1982, "min": 1, "max": 1, "weight": 1 }, //Tomato
+          { "id": 207, "min": 1, "max": 1, "weight": 1 } //Grimy ranarr weed
+        ]
+      }
+    ]
+  }
+]

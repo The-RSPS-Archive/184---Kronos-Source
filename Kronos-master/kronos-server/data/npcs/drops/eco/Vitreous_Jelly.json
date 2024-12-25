@@ -1,0 +1,41 @@
+[
+  {
+    "ids": [ 7399 ],
+    "guaranteed": [],
+    "tables": [
+      {
+        "name": "Weapons/Armour",
+        "weight": 1,
+        "items": [
+          { "id": 1353, "min": 1, "max": 1, "weight": 9 }, //Steel axe
+          { "id": 1311, "min": 1, "max": 1, "weight": 9 }, //Steel 2h sword
+          { "id": 1365, "min": 1, "max": 1, "weight": 9 }, //Steel battleaxe
+          { "id": 1197, "min": 1, "max": 1, "weight": 6 }, //Mithril kiteshield
+          { "id": 4127, "min": 1, "max": 1, "weight": 3 }, //Mithril boots
+          { "id": 1119, "min": 1, "max": 1, "weight": 3 }, //Steel platebody
+          { "id": 1163, "min": 1, "max": 1, "weight": 1 } //Rune full helm
+        ]
+      },
+      {
+        "name": "Runes",
+        "weight": 1,
+        "items": [
+          { "id": 562, "min": 15, "max": 15, "weight": 3 }, //Chaos rune
+          { "id": 560, "min": 5, "max": 5, "weight": 3 }, //Death rune
+          { "id": 555, "min": 5, "max": 21, "weight": 1 }, //Water rune
+          { "id": 565, "min": 7, "max": 7, "weight": 1 } //Blood rune
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 995, "min": 11, "max": 672, "weight": 10 }, //Coins
+          { "id": 2357, "min": 1, "max": 1, "weight": 10 }, //Gold bar
+          { "id": 2722, "min": 1, "max": 1, "weight": 1 }, //Clue scroll (hard)
+          { "id": 1734, "min": 10, "max": 10, "weight": 1 } //Thread
+        ]
+      }
+    ]
+  }
+]

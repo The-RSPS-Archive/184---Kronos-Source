@@ -1,0 +1,88 @@
+[
+  { #Rogue (15)
+    "ids": [ 518 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 17,
+    "aggressive_level": 0,
+    "max_damage": 2,
+    "attack_style": "STAB",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 17.0,
+    "slayer_tasks": [ "Rogues" ],
+    //Combat Stats
+    "attack": 13,
+    "strength": 13,
+    "defence": 13,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 5,
+    "slash_attack": 5,
+    "crush_attack": 5,
+    "magic_attack": 5,
+    "ranged_attack": 5,
+    //Defensive Stats
+    "stab_defence": 6,
+    "slash_defence": 9,
+    "crush_defence": 11,
+    "magic_defence": 0,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 5,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 422,
+    "defend_animation": 404,
+    "death_animation": 2304
+  },
+  { #Rogue (135)
+    "ids": [ 6603 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 125,
+    "aggressive_level": 0,
+    "max_damage": 15,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 125.0,
+    "slayer_tasks": [ "Rogues" ],
+    //Combat Stats
+    "attack": 140,
+    "strength": 140,
+    "defence": 150,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 0,
+    "crush_defence": 0,
+    "magic_defence": 0,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 5,
+    "death_ticks": 5,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 386,
+    "defend_animation": 388,
+    "death_animation": 2304
+  }
+]

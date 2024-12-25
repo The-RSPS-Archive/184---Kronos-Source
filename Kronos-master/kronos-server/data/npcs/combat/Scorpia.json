@@ -1,0 +1,48 @@
+[
+  { #Scorpia (225)
+    "ids": [ 6615 ],
+    "handler": "io.ruin.model.activities.wilderness.bosses.scorpia.Scorpia",
+    //Combat Info
+    "hitpoints": 200,
+    "aggressive_level": 450,
+    "max_damage": 16,
+    "attack_style": "STAB",
+    "pet": "SCORPIAS_OFFSPRING",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 260.0,
+    "slayer_tasks": [ "Scorpions", "Scorpia" ],
+    //Combat Stats
+    "attack": 250,
+    "strength": 150,
+    "defence": 180,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 60,
+    "slash_attack": 60,
+    "crush_attack": 60,
+    "magic_attack": 60,
+    "ranged_attack": 60,
+    //Defensive Stats
+    "stab_defence": 246,
+    "slash_defence": 284,
+    "crush_defence": 284,
+    "magic_defence": 44,
+    "ranged_defence": 284,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 4,
+    "respawn_ticks": 16,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 6254,
+    "defend_animation": 6255,
+    "death_animation": 6256,
+	//Other
+	"local_loot": true
+  }
+]

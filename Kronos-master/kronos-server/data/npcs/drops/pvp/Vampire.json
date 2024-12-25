@@ -1,0 +1,81 @@
+[
+  {
+    "ids": [ 3237, 3234, 6529, 3137 ],
+    "guaranteed": [
+      { "id": 3325, "min": 1, "max": 1 } //Vampire dust
+    ],
+    "tables": [
+      {
+        "name": "Weapons",
+        "weight": 1,
+        "items": [
+          { "id": 1361, "min": 1, "max": 1, "weight": 1 } //Black axe
+        ]
+      },
+      {
+        "name": "Runes",
+        "weight": 1,
+        "items": [
+          { "id": 562, "min": 3, "max": 3, "weight": 3 }, //Chaos rune
+          { "id": 557, "min": 4, "max": 4, "weight": 3 }, //Earth rune
+          { "id": 560, "min": 2, "max": 2, "weight": 1 }, //Death rune
+          { "id": 565, "min": 1, "max": 2, "weight": 1 } //Blood rune
+        ]
+      },
+      {
+        "name": "Seeds",
+        "weight": 1,
+        "items": [
+          { "id": 5323, "min": 1, "max": 1, "weight": 6 }, //Strawberry seed
+          { "id": 5281, "min": 1, "max": 1, "weight": 6 }, //Belladonna seed
+          { "id": 5294, "min": 1, "max": 1, "weight": 6 }, //Harralander seed
+          { "id": 5297, "min": 1, "max": 1, "weight": 6 }, //Irit seed
+          { "id": 5104, "min": 1, "max": 1, "weight": 6 }, //Jangerberry seed
+          { "id": 5100, "min": 1, "max": 1, "weight": 6 }, //Limpwurt seed
+          { "id": 5292, "min": 1, "max": 1, "weight": 6 }, //Marrentill seed
+          { "id": 5282, "min": 1, "max": 2, "weight": 3 }, //Mushroom spore
+          { "id": 5106, "min": 1, "max": 1, "weight": 3 }, //Poison ivy seed
+          { "id": 5293, "min": 1, "max": 1, "weight": 3 }, //Tarromin seed
+          { "id": 5296, "min": 1, "max": 1, "weight": 3 }, //Toadflax seed
+          { "id": 5105, "min": 1, "max": 1, "weight": 3 }, //Whiteberry seed
+          { "id": 5311, "min": 1, "max": 1, "weight": 3 }, //Wildblood seed
+          { "id": 5321, "min": 1, "max": 1, "weight": 3 }, //Watermelon seed
+          { "id": 5280, "min": 1, "max": 1, "weight": 3 }, //Cactus seed
+          { "id": 5298, "min": 1, "max": 1, "weight": 3 }, //Avantoe seed
+          { "id": 5299, "min": 1, "max": 1, "weight": 3 }, //Kwuarm seed
+          { "id": 5303, "min": 1, "max": 1, "weight": 3 }, //Dwarf weed seed
+          { "id": 5302, "min": 1, "max": 1, "weight": 3 }, //Lantadyme seed
+          { "id": 5301, "min": 1, "max": 1, "weight": 1 }, //Cadantine seed
+          { "id": 5295, "min": 1, "max": 1, "weight": 1 }, //Ranarr seed
+          { "id": 5300, "min": 1, "max": 1, "weight": 1 } //Snapdragon seed
+        ]
+      },
+      {
+        "name": "Herbs",
+        "weight": 1,
+        "items": [
+          { "id": 201, "min": 1, "max": 1, "weight": 10 }, //Grimy marrentill
+          { "id": 207, "min": 1, "max": 1, "weight": 6 }, //Grimy ranarr weed
+          { "id": 203, "min": 1, "max": 1, "weight": 6 }, //Grimy tarromin
+          { "id": 199, "min": 1, "max": 1, "weight": 6 }, //Grimy guam leaf
+          { "id": 205, "min": 1, "max": 1, "weight": 6 }, //Grimy harralander
+          { "id": 209, "min": 1, "max": 1, "weight": 3 }, //Grimy irit leaf
+          { "id": 213, "min": 1, "max": 1, "weight": 3 }, //Grimy kwuarm
+          { "id": 211, "min": 1, "max": 1, "weight": 3 }, //Grimy avantoe
+          { "id": 215, "min": 1, "max": 1, "weight": 3 }, //Grimy cadantine
+          { "id": 217, "min": 1, "max": 1, "weight": 1 }, //Grimy dwarf weed
+          { "id": 2485, "min": 1, "max": 1, "weight": 1 } //Grimy lantadyme
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 995, "min": 15, "max": 15, "weight": 10 }, //Coins
+          { "id": 1440, "min": 1, "max": 1, "weight": 10 }, //Earth talisman
+          { "id": 2801, "min": 1, "max": 1, "weight": 1 } //Clue scroll (medium)
+        ]
+      }
+    ]
+  }
+]

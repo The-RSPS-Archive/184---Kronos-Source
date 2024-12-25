@@ -1,0 +1,10 @@
+ [
+  {
+    "ids": [7569, 7570, 7571, 7572],
+    "guaranteed": [
+		  { "id": 20909, "min": 3, "max": 5 },   //Buchu seed
+		  { "id": 20906, "min": 3, "max": 5 },   //Golpar seed
+		  { "id": 20903, "min": 3, "max": 5 }   //Noxifer seed
+    ]
+  }
+]

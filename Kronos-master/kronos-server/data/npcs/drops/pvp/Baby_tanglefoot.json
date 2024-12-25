@@ -1,0 +1,15 @@
+[
+  {
+    "ids": [ 5853, 5854 ],
+    "tables": [
+      {
+        "name": "Drops",
+        "weight": 1,
+        "items": [
+          #Warning: Quantities are guessed (min=1, max=1)
+          { "id": 6020, "min": 1, "max": 1, "weight": 1 } //Leaves
+        ]
+      }
+    ]
+  }
+]

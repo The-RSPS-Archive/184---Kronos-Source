@@ -1,0 +1,45 @@
+[
+  { #Ice giant (53)
+    "ids": [ 2085, 2086, 2087, 2088, 2089, 7878, 7879, 7880 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 70,
+    "aggressive_level": 106,
+    "max_damage": 7,
+    "attack_style": "SLASH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 70.0,
+    "slayer_tasks": [ "Ice Giants" ],
+    //Combat Stats
+    "attack": 40,
+    "strength": 40,
+    "defence": 40,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 29,
+    "slash_attack": 29,
+    "crush_attack": 29,
+    "magic_attack": 29,
+    "ranged_attack": 29,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 3,
+    "crush_defence": 2,
+    "magic_defence": 0,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 5,
+    "death_ticks": 5,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 4672,
+    "defend_animation": 4671,
+    "death_animation": 4673
+  }
+]

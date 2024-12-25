@@ -1,0 +1,53 @@
+[
+  {
+    "ids": [ 476 ],
+    "tables": [
+      {
+        "name": "Runes",
+        "weight": 1,
+        "items": [
+          { "id": 556, "min": 3, "max": 3, "weight": 10 }, //Air rune
+          { "id": 564, "min": 2, "max": 2, "weight": 10 }, //Cosmic rune
+          { "id": 562, "min": 3, "max": 3, "weight": 1 }, //Chaos rune
+          { "id": 562, "min": 7, "max": 7, "weight": 1 } //Chaos rune
+        ]
+      },
+      {
+        "name": "Weapons and armour",
+        "weight": 1,
+        "items": [
+          { "id": 1139, "min": 1, "max": 1, "weight": 12 }, //Bronze med helm
+          { "id": 1155, "min": 1, "max": 1, "weight": 12 }, //Bronze full helm
+          { "id": 1137, "min": 1, "max": 1, "weight": 12 }, //Iron med helm
+          { "id": 1141, "min": 1, "max": 1, "weight": 12 }, //Steel med helm
+          { "id": 1157, "min": 1, "max": 1, "weight": 12 }, //Steel full helm
+          { "id": 1165, "min": 1, "max": 1, "weight": 12 }, //Black full helm
+          { "id": 1143, "min": 1, "max": 1, "weight": 6 }, //Mithril med helm
+          { "id": 1159, "min": 1, "max": 1, "weight": 6 }, //Mithril full helm
+          { "id": 1145, "min": 1, "max": 1, "weight": 6 }, //Adamant med helm
+          { "id": 4109, "min": 1, "max": 1, "weight": 1 } //Mystic hat (light)
+        ]
+      },
+      {
+        "name": "Herbs",
+        "weight": 1,
+        "items": [
+          { "id": 199, "min": 1, "max": 1, "weight": 1 } //Grimy guam leaf
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 995, "min": 15, "max": 15, "weight": 12 }, //Coins
+          { "id": 590, "min": 1, "max": 1, "weight": 12 }, //Tinderbox
+          { "id": 4542, "min": 1, "max": 1, "weight": 12 }, //Lantern lens
+          { "id": 596, "min": 1, "max": 1, "weight": 12 }, //Unlit torch
+          { "id": 221, "min": 1, "max": 1, "weight": 3 }, //Eye of newt
+          { "id": 4544, "min": 1, "max": 1, "weight": 3 }, //Bullseye lantern (unf)
+          { "id": 2801, "min": 1, "max": 1, "weight": 1 } //Clue scroll (medium)
+        ]
+      }
+    ]
+  }
+]

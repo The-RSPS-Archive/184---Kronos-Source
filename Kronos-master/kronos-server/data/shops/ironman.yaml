@@ -1,0 +1,47 @@
+---
+identifier: "11ddf699-41d6-4d0a-8c05-5b3c721b0849"
+title: "Ironman Store"
+currency: "COINS"
+accessibleByIronMan: true
+canSellToStore: true
+generalStore: true
+restockRules:
+  restockTicks: 2
+  restockPerTick: 1000
+defaultStock:
+  - id: 952
+    amount: 100
+  - id: 5341
+    amount: 100
+  - id: 5343
+    amount: 100
+  - id: 10006
+    amount: 100
+  - id: 10008
+    amount: 100
+  - id: 10012
+    amount: 100
+  - id: 11260
+    amount: 100
+  - id: 10010
+    amount: 100
+  - id: 954
+    amount: 100
+  - id: 227
+    amount: 100
+  - id: 233
+    amount: 10000
+  - id: 8794
+    amount: 10000
+  - id: 2440
+    amount: 10000
+  - id: 2436
+    amount: 10000
+  - id: 2442
+    amount: 10000
+  - id: 2434
+    amount: 10000
+  - id: 2444
+    amount: 10000
+  - id: 2446
+    amount: 10000

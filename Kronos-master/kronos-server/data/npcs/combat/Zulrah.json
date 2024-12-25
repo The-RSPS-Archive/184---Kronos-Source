@@ -1,0 +1,132 @@
+[
+  { #Zulrah (725) (serpentine form)
+    "ids": [ 2042 ],
+    "handler": "io.ruin.model.activities.bosses.zulrah.Zulrah",
+	"pet": "SNAKELING_GREEN",
+    //Combat Info
+    "hitpoints": 500,
+    "aggressive_level": 1450,
+    "max_damage": 41,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 500.0,
+    "slayer_tasks": [ "Zulrah" ],
+    //Combat Stats
+    "attack": 1,
+    "strength": 1,
+    "defence": 300,
+    "ranged": 300,
+    "magic": 300,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 50,
+    "ranged_attack": 50,
+    //Defensive Stats
+    "stab_defence": 1000,
+    "slash_defence": 1000,
+    "crush_defence": 1000,
+    "magic_defence": -45,
+    "ranged_defence": 50,
+    //Immunites
+    "poison_immunity": true,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 3,
+    "death_ticks": 5,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": 5071,
+    "attack_animation": 5069,
+    "defend_animation": -1,
+    "death_animation": 5072
+  },
+  { #Zulrah (725) (magma form)
+    "ids": [ 2043 ],
+    "handler": "io.ruin.model.activities.bosses.zulrah.Zulrah",
+    //Combat Info
+    "hitpoints": 500,
+    "aggressive_level": 1450,
+    "max_damage": 41,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 500.0,
+    "slayer_tasks": [ "Zulrah" ],
+    //Combat Stats
+    "attack": 1,
+    "strength": 1,
+    "defence": 300,
+    "ranged": 300,
+    "magic": 300,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 50,
+    "ranged_attack": 50,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 0,
+    "crush_defence": 0,
+    "magic_defence": 0,
+    "ranged_defence": 300,
+    //Immunites
+    "poison_immunity": true,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 5,
+    "death_ticks": 5,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": 5071,
+    "attack_animation": 5069,
+    "defend_animation": -1,
+    "death_animation": 5072
+  },
+  { #Zulrah (725) (tanzanite form)
+    "ids": [ 2044 ],
+    "handler": "io.ruin.model.activities.bosses.zulrah.Zulrah",
+    //Combat Info
+    "hitpoints": 500,
+    "aggressive_level": 1450,
+    "max_damage": 41,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 500.0,
+    "slayer_tasks": [ "Zulrah" ],
+    //Combat Stats
+    "attack": 1,
+    "strength": 1,
+    "defence": 300,
+    "ranged": 300,
+    "magic": 300,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 0,
+    "crush_defence": 0,
+    "magic_defence": 300,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": true,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 3,
+    "death_ticks": 5,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": 5071,
+    "attack_animation": 5069,
+    "defend_animation": -1,
+    "death_animation": 5072
+  }
+]

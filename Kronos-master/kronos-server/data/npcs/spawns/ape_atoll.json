@@ -1,0 +1,1550 @@
+[
+  {
+    "name": "Spider",
+    "id": 5238,
+    "x": 2758,
+    "y": 2771,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Scorpion",
+    "id": 5242,
+    "x": 2760,
+    "y": 2803,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Aberab",
+    "id": 5248,
+    "x": 2768,
+    "y": 2799,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Bird",
+    "id": 5241,
+    "x": 2717,
+    "y": 2720,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 22
+  },
+  {
+    "name": "Bird",
+    "id": 5241,
+    "x": 2717,
+    "y": 2718,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 23
+  },
+  {
+    "name": "Scorpion",
+    "id": 5242,
+    "x": 2765,
+    "y": 2759,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Snake",
+    "id": 5244,
+    "x": 2717,
+    "y": 2718,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "null",
+    "id": 7195,
+    "x": 2767,
+    "y": 2776,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Jungle spider",
+    "id": 5243,
+    "x": 2716,
+    "y": 2722,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Spider",
+    "id": 5238,
+    "x": 2768,
+    "y": 2795,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Bird",
+    "id": 5241,
+    "x": 2760,
+    "y": 2758,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Bird",
+    "id": 5240,
+    "x": 2715,
+    "y": 2728,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 10
+  },
+  {
+    "name": "Trefaji",
+    "id": 5247,
+    "x": 2771,
+    "y": 2796,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Jungle spider",
+    "id": 5243,
+    "x": 2721,
+    "y": 2729,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Snake",
+    "id": 5244,
+    "x": 2725,
+    "y": 2711,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Solihib",
+    "id": 5249,
+    "x": 2769,
+    "y": 2789,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Snake",
+    "id": 5244,
+    "x": 2731,
+    "y": 2724,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Scorpion",
+    "id": 5242,
+    "x": 2770,
+    "y": 2803,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Jungle spider",
+    "id": 5243,
+    "x": 2732,
+    "y": 2714,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Spider",
+    "id": 5238,
+    "x": 2768,
+    "y": 2766,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Bird",
+    "id": 5241,
+    "x": 2735,
+    "y": 2712,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 10
+  },
+  {
+    "name": "Oobapohk",
+    "id": 7120,
+    "x": 2774,
+    "y": 2778,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Jungle spider",
+    "id": 5243,
+    "x": 2737,
+    "y": 2722,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Spider",
+    "id": 5238,
+    "x": 2776,
+    "y": 2775,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Snake",
+    "id": 5244,
+    "x": 2739,
+    "y": 2720,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "null",
+    "id": 7183,
+    "x": 2775,
+    "y": 2796,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Bird",
+    "id": 5240,
+    "x": 2743,
+    "y": 2707,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 12
+  },
+  {
+    "name": "null",
+    "id": 7185,
+    "x": 2775,
+    "y": 2798,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Jungle spider",
+    "id": 5243,
+    "x": 2743,
+    "y": 2704,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "null",
+    "id": 7187,
+    "x": 2775,
+    "y": 2801,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Snake",
+    "id": 5244,
+    "x": 2742,
+    "y": 2707,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Scorpion",
+    "id": 5242,
+    "x": 2777,
+    "y": 2763,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Jungle spider",
+    "id": 5243,
+    "x": 2742,
+    "y": 2711,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Bird",
+    "id": 5241,
+    "x": 2772,
+    "y": 2796,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  },
+  {
+    "name": "Jungle spider",
+    "id": 5243,
+    "x": 2749,
+    "y": 2710,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Spider",
+    "id": 5238,
+    "x": 2780,
+    "y": 2792,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "null",
+    "id": 6765,
+    "x": 2780,
+    "y": 2782,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Hamab",
+    "id": 5253,
+    "x": 2781,
+    "y": 2792,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "null",
+    "id": 7196,
+    "x": 2780,
+    "y": 2798,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Bird",
+    "id": 5241,
+    "x": 2778,
+    "y": 2741,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 13
+  },
+  {
+    "name": "Mizaru",
+    "id": 2975,
+    "x": 2787,
+    "y": 2795,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Monkey Guard",
+    "id": 5275,
+    "x": 2788,
+    "y": 2779,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Kikazaru",
+    "id": 2976,
+    "x": 2788,
+    "y": 2795,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Snake",
+    "id": 5244,
+    "x": 2789,
+    "y": 2757,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Iwazaru",
+    "id": 2977,
+    "x": 2789,
+    "y": 2795,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Spider",
+    "id": 5238,
+    "x": 2792,
+    "y": 2780,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Scorpion",
+    "id": 5242,
+    "x": 2789,
+    "y": 2800,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Scorpion",
+    "id": 5242,
+    "x": 2792,
+    "y": 2776,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Monkey Guard",
+    "id": 5275,
+    "x": 2793,
+    "y": 2783,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Monkey Guard",
+    "id": 5275,
+    "x": 2794,
+    "y": 2791,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Monkey Guard",
+    "id": 5275,
+    "x": 2796,
+    "y": 2777,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Spider",
+    "id": 5238,
+    "x": 2798,
+    "y": 2763,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Elder Guard",
+    "id": 5277,
+    "x": 2798,
+    "y": 2760,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Spider",
+    "id": 5238,
+    "x": 2798,
+    "y": 2790,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Elder Guard",
+    "id": 5278,
+    "x": 2801,
+    "y": 2757,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Uwogo",
+    "id": 5265,
+    "x": 2801,
+    "y": 2764,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Spider",
+    "id": 5238,
+    "x": 2800,
+    "y": 2780,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Monkey Guard",
+    "id": 5275,
+    "x": 2800,
+    "y": 2780,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Monkey Guard",
+    "id": 5275,
+    "x": 2798,
+    "y": 2788,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Monkey Guard",
+    "id": 5276,
+    "x": 2803,
+    "y": 2785,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Muruwoi",
+    "id": 5266,
+    "x": 2804,
+    "y": 2763,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Scorpion",
+    "id": 5242,
+    "x": 2807,
+    "y": 2798,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "null",
+    "id": 7181,
+    "x": 2805,
+    "y": 2761,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Monkey Guard",
+    "id": 5276,
+    "x": 2805,
+    "y": 2782,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Monkey Guard",
+    "id": 5276,
+    "x": 2805,
+    "y": 2786,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Snake",
+    "id": 5244,
+    "x": 2807,
+    "y": 2754,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Bird",
+    "id": 5241,
+    "x": 2813,
+    "y": 2757,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Monkey Archer",
+    "id": 5274,
+    "x": 2752,
+    "y": 2782,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Monkey Archer",
+    "id": 5274,
+    "x": 2754,
+    "y": 2778,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Monkey Archer",
+    "id": 5274,
+    "x": 2755,
+    "y": 2774,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Monkey Archer",
+    "id": 5274,
+    "x": 2756,
+    "y": 2789,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Monkey Archer",
+    "id": 5274,
+    "x": 2759,
+    "y": 2756,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Monkey Archer",
+    "id": 5274,
+    "x": 2761,
+    "y": 2778,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Monkey Archer",
+    "id": 5274,
+    "x": 2762,
+    "y": 2793,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Monkey Archer",
+    "id": 5274,
+    "x": 2765,
+    "y": 2779,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Monkey Archer",
+    "id": 5274,
+    "x": 2767,
+    "y": 2784,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Monkey Archer",
+    "id": 5274,
+    "x": 2769,
+    "y": 2754,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Monkey Archer",
+    "id": 5274,
+    "x": 2770,
+    "y": 2774,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Monkey Archer",
+    "id": 5274,
+    "x": 2772,
+    "y": 2781,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Monkey Archer",
+    "id": 5274,
+    "x": 2774,
+    "y": 2787,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Monkey Archer",
+    "id": 5274,
+    "x": 2775,
+    "y": 2756,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Monkey Archer",
+    "id": 5274,
+    "x": 2777,
+    "y": 2790,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Monkey Archer",
+    "id": 5274,
+    "x": 2780,
+    "y": 2773,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Monkey Archer",
+    "id": 5274,
+    "x": 2785,
+    "y": 2768,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Monkey Archer",
+    "id": 5274,
+    "x": 2789,
+    "y": 2754,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Monkey Archer",
+    "id": 5274,
+    "x": 2791,
+    "y": 2763,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Jungle spider",
+    "id": 5243,
+    "x": 2755,
+    "y": 2705,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Snake",
+    "id": 5244,
+    "x": 2755,
+    "y": 2708,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Jungle spider",
+    "id": 5243,
+    "x": 2756,
+    "y": 2715,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Bird",
+    "id": 5240,
+    "x": 2762,
+    "y": 2707,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 13
+  },
+  {
+    "name": "Scorpion",
+    "id": 5242,
+    "x": 2761,
+    "y": 2749,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Bird",
+    "id": 5241,
+    "x": 2756,
+    "y": 2704,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 29
+  },
+  {
+    "name": "Snake",
+    "id": 5244,
+    "x": 2765,
+    "y": 2714,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Jungle spider",
+    "id": 5243,
+    "x": 2767,
+    "y": 2704,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Scorpion",
+    "id": 5242,
+    "x": 2767,
+    "y": 2733,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Jungle spider",
+    "id": 5243,
+    "x": 2770,
+    "y": 2709,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Bird",
+    "id": 5241,
+    "x": 2749,
+    "y": 2763,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 16
+  },
+  {
+    "name": "Scorpion",
+    "id": 5242,
+    "x": 2773,
+    "y": 2738,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Bird",
+    "id": 5240,
+    "x": 2776,
+    "y": 2705,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 9
+  },
+  {
+    "name": "Snake",
+    "id": 5244,
+    "x": 2773,
+    "y": 2701,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Jungle spider",
+    "id": 5243,
+    "x": 2779,
+    "y": 2707,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Bird",
+    "id": 5241,
+    "x": 2767,
+    "y": 2736,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Scorpion",
+    "id": 5242,
+    "x": 2778,
+    "y": 2743,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Bird",
+    "id": 5240,
+    "x": 2780,
+    "y": 2708,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 11
+  },
+  {
+    "name": "Snake",
+    "id": 5244,
+    "x": 2784,
+    "y": 2712,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Bird",
+    "id": 5241,
+    "x": 2789,
+    "y": 2697,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Jungle spider",
+    "id": 5243,
+    "x": 2787,
+    "y": 2712,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Bird",
+    "id": 5241,
+    "x": 2780,
+    "y": 2702,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 11
+  },
+  {
+    "name": "Bird",
+    "id": 5241,
+    "x": 2794,
+    "y": 2752,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 20
+  },
+  {
+    "name": "Bird",
+    "id": 5241,
+    "x": 2793,
+    "y": 2710,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 18
+  },
+  {
+    "name": "Dugopul",
+    "id": 5245,
+    "x": 2800,
+    "y": 2744,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "null",
+    "id": 2022,
+    "x": 2803,
+    "y": 2707,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Bird",
+    "id": 5241,
+    "x": 2789,
+    "y": 2714,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 22
+  },
+  {
+    "name": "Bird",
+    "id": 5241,
+    "x": 2801,
+    "y": 2735,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "null",
+    "id": 1450,
+    "x": 2693,
+    "y": 2784,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Bird",
+    "id": 5241,
+    "x": 2700,
+    "y": 2753,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 10
+  },
+  {
+    "name": "Bird",
+    "id": 5241,
+    "x": 2713,
+    "y": 2759,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 9
+  },
+  {
+    "name": "Jungle spider",
+    "id": 5243,
+    "x": 2700,
+    "y": 2776,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Snake",
+    "id": 5244,
+    "x": 2701,
+    "y": 2761,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Snake",
+    "id": 5244,
+    "x": 2702,
+    "y": 2780,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Snake",
+    "id": 5244,
+    "x": 2703,
+    "y": 2769,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Jungle spider",
+    "id": 5243,
+    "x": 2704,
+    "y": 2768,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Jungle spider",
+    "id": 5243,
+    "x": 2705,
+    "y": 2785,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "null",
+    "id": 7198,
+    "x": 2710,
+    "y": 2802,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Monkey Archer",
+    "id": 6813,
+    "x": 2713,
+    "y": 2756,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "null",
+    "id": 7197,
+    "x": 2712,
+    "y": 2792,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Monkey Archer",
+    "id": 5273,
+    "x": 2713,
+    "y": 2753,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Monkey Archer",
+    "id": 5273,
+    "x": 2713,
+    "y": 2755,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Monkey Archer",
+    "id": 5273,
+    "x": 2713,
+    "y": 2757,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Monkey Archer",
+    "id": 6813,
+    "x": 2712,
+    "y": 2759,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Monkey Archer",
+    "id": 5273,
+    "x": 2713,
+    "y": 2761,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Jungle spider",
+    "id": 5243,
+    "x": 2714,
+    "y": 2780,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Monkey Archer",
+    "id": 5273,
+    "x": 2714,
+    "y": 2763,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Snake",
+    "id": 5244,
+    "x": 2715,
+    "y": 2783,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Jungle spider",
+    "id": 5243,
+    "x": 2722,
+    "y": 2790,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Bird",
+    "id": 5241,
+    "x": 2719,
+    "y": 2786,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 18
+  },
+  {
+    "name": "Snake",
+    "id": 5244,
+    "x": 2724,
+    "y": 2787,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "null",
+    "id": 7175,
+    "x": 2728,
+    "y": 2763,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "null",
+    "id": 7177,
+    "x": 2726,
+    "y": 2766,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Monkey Archer",
+    "id": 5273,
+    "x": 2727,
+    "y": 2763,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Snake",
+    "id": 5244,
+    "x": 2727,
+    "y": 2790,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Monkey Archer",
+    "id": 5273,
+    "x": 2729,
+    "y": 2753,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Monkey Archer",
+    "id": 5273,
+    "x": 2729,
+    "y": 2755,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Monkey Archer",
+    "id": 5273,
+    "x": 2729,
+    "y": 2757,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Monkey Archer",
+    "id": 6813,
+    "x": 2729,
+    "y": 2759,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Monkey Archer",
+    "id": 6813,
+    "x": 2729,
+    "y": 2761,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Monkey Archer",
+    "id": 6813,
+    "x": 2729,
+    "y": 2755,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "The Monkey\u0027s Aunt",
+    "id": 5270,
+    "x": 2738,
+    "y": 2790,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Monkey Child",
+    "id": 5268,
+    "x": 2742,
+    "y": 2794,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Scorpion",
+    "id": 5242,
+    "x": 2753,
+    "y": 2764,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Bird",
+    "id": 5241,
+    "x": 2763,
+    "y": 2752,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Spider",
+    "id": 5238,
+    "x": 2753,
+    "y": 2800,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Ifaba",
+    "id": 5252,
+    "x": 2754,
+    "y": 2775,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Bird",
+    "id": 5241,
+    "x": 2742,
+    "y": 2789,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 19
+  },
+  {
+    "name": "Tutab",
+    "id": 5251,
+    "x": 2757,
+    "y": 2770,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Padulah",
+    "id": 5263,
+    "x": 2755,
+    "y": 2784,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "null",
+    "id": 7195,
+    "x": 2758,
+    "y": 2789,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Daga",
+    "id": 5250,
+    "x": 2759,
+    "y": 2775,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Sleeping Monkey",
+    "id": 5267,
+    "x": 2760,
+    "y": 2771,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Jungle Demon",
+    "id": 1443,
+    "x": 2701,
+    "y": 9196,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Jungle Demon",
+    "id": 1443,
+    "x": 2701,
+    "y": 9188,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Jungle Demon",
+    "id": 1443,
+    "x": 2704,
+    "y": 9179,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Jungle Demon",
+    "id": 1443,
+    "x": 2709,
+    "y": 9173,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Jungle Demon",
+    "id": 1443,
+    "x": 2717,
+    "y": 9178,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Jungle Demon",
+    "id": 1443,
+    "x": 2719,
+    "y": 9173,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Jungle Demon",
+    "id": 1443,
+    "x": 2726,
+    "y": 9179,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Jungle Demon",
+    "id": 1443,
+    "x": 2729,
+    "y": 9173,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Jungle Demon",
+    "id": 1443,
+    "x": 2726,
+    "y": 9189,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Jungle Demon",
+    "id": 1443,
+    "x": 2725,
+    "y": 9197,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Jungle Demon",
+    "id": 1443,
+    "x": 2719,
+    "y": 9201,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Jungle Demon",
+    "id": 1443,
+    "x": 2716,
+    "y": 9197,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Jungle Demon",
+    "id": 1443,
+    "x": 2708,
+    "y": 9200,
+    "z": 1,
+    "direction": "S",
+    "walkRange": 4
+  }
+]

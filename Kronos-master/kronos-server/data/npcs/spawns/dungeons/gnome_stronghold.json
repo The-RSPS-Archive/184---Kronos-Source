@@ -1,0 +1,632 @@
+[
+  {
+    "name": "Bloodveld",
+    "id": 486,
+    "x": 2437,
+    "y": 9817,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 3
+  },
+  {
+    "name": "Bloodveld",
+    "id": 486,
+    "x": 2437,
+    "y": 9822,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 3
+  },
+  {
+    "name": "Bloodveld",
+    "id": 487,
+    "x": 2439,
+    "y": 9824,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 3
+  },
+  {
+    "name": "Bloodveld",
+    "id": 486,
+    "x": 2447,
+    "y": 9818,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 4
+  },
+  {
+    "name": "Bloodveld",
+    "id": 486,
+    "x": 2449,
+    "y": 9819,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 4
+  },
+  {
+    "name": "Aberrant spectre",
+    "id": 6,
+    "x": 2457,
+    "y": 9792,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 4
+  },
+  {
+    "name": "Bloodveld",
+    "id": 487,
+    "x": 2451,
+    "y": 9822,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 2
+  },
+  {
+    "name": "Aberrant spectre",
+    "id": 6,
+    "x": 2459,
+    "y": 9788,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 3
+  },
+  {
+    "name": "Bloodveld",
+    "id": 486,
+    "x": 2461,
+    "y": 9824,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Ankou",
+    "id": 2519,
+    "x": 2467,
+    "y": 9802,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 4
+  },
+  {
+    "name": "Ankou",
+    "id": 2518,
+    "x": 2469,
+    "y": 9803,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 3
+  },
+  {
+    "name": "Bloodveld",
+    "id": 486,
+    "x": 2465,
+    "y": 9831,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 2
+  },
+  {
+    "name": "Ankou",
+    "id": 2518,
+    "x": 2475,
+    "y": 9798,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 3
+  },
+  {
+    "name": "Bloodveld",
+    "id": 487,
+    "x": 2475,
+    "y": 9830,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Ankou",
+    "id": 2517,
+    "x": 2479,
+    "y": 9799,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 2
+  },
+  {
+    "name": "Ankou",
+    "id": 2519,
+    "x": 2471,
+    "y": 9811,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 3
+  },
+  {
+    "name": "Ankou",
+    "id": 2517,
+    "x": 2478,
+    "y": 9805,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Ankou",
+    "id": 2518,
+    "x": 2479,
+    "y": 9797,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 2
+  },
+  {
+    "name": "Ankou",
+    "id": 2517,
+    "x": 2480,
+    "y": 9797,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 2
+  },
+  {
+    "name": "Bloodveld",
+    "id": 486,
+    "x": 2482,
+    "y": 9821,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Bloodveld",
+    "id": 487,
+    "x": 2486,
+    "y": 9830,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 1
+  },
+  {
+    "name": "Bloodveld",
+    "id": 486,
+    "x": 2490,
+    "y": 9816,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 3
+  },
+  {
+    "name": "Waterfiend",
+    "id": 2917,
+    "x": 2248,
+    "y": 9996,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 2
+  },
+  {
+    "name": "Waterfiend",
+    "id": 2917,
+    "x": 2248,
+    "y": 9998,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 2
+  },
+  {
+    "name": "Waterfiend",
+    "id": 2917,
+    "x": 2249,
+    "y": 9993,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 2
+  },
+  {
+    "name": "Waterfiend",
+    "id": 2917,
+    "x": 2252,
+    "y": 9994,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 2
+  },
+  {
+    "name": "Waterfiend",
+    "id": 2917,
+    "x": 2256,
+    "y": 9988,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Brimstail",
+    "id": 4913,
+    "x": 2410,
+    "y": 9819,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 2
+  },
+  {
+    "name": "Waterfiend",
+    "id": 2917,
+    "x": 2259,
+    "y": 9989,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 2
+  },
+  {
+    "name": "Hellhound",
+    "id": 105,
+    "x": 2410,
+    "y": 9803,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 1
+  },
+  {
+    "name": "Waterfiend",
+    "id": 2917,
+    "x": 2259,
+    "y": 9991,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 3
+  },
+  {
+    "name": "Hellhound",
+    "id": 105,
+    "x": 2409,
+    "y": 9796,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 2
+  },
+  {
+    "name": "Hellhound",
+    "id": 105,
+    "x": 2417,
+    "y": 9795,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Waterfiend",
+    "id": 2917,
+    "x": 2264,
+    "y": 9987,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Waterfiend",
+    "id": 2917,
+    "x": 2280,
+    "y": 9988,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Waterfiend",
+    "id": 2917,
+    "x": 2282,
+    "y": 9988,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 3
+  },
+  {
+    "name": "Waterfiend",
+    "id": 2917,
+    "x": 2283,
+    "y": 9988,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 3
+  },
+  {
+    "name": "Waterfiend",
+    "id": 2917,
+    "x": 2287,
+    "y": 9988,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Waterfiend",
+    "id": 2917,
+    "x": 2285,
+    "y": 9989,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 2
+  },
+  {
+    "name": "Fire giant",
+    "id": 2083,
+    "x": 2394,
+    "y": 9779,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 2
+  },
+  {
+    "name": "Fire giant",
+    "id": 2081,
+    "x": 2396,
+    "y": 9770,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 2
+  },
+  {
+    "name": "Fire giant",
+    "id": 2082,
+    "x": 2398,
+    "y": 9770,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 2
+  },
+  {
+    "name": "Fire giant",
+    "id": 2081,
+    "x": 2398,
+    "y": 9778,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 2
+  },
+  {
+    "name": "Fire giant",
+    "id": 2083,
+    "x": 2402,
+    "y": 9785,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 2
+  },
+  {
+    "name": "Fire giant",
+    "id": 2082,
+    "x": 2403,
+    "y": 9781,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 2
+  },
+  {
+    "name": "Fire giant",
+    "id": 2083,
+    "x": 2405,
+    "y": 9771,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 2
+  },
+  {
+    "name": "Hellhound",
+    "id": 105,
+    "x": 2409,
+    "y": 9786,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 3
+  },
+  {
+    "name": "Fire giant",
+    "id": 2081,
+    "x": 2411,
+    "y": 9778,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 4
+  },
+  {
+    "name": "Fire giant",
+    "id": 2082,
+    "x": 2413,
+    "y": 9775,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 4
+  },
+  {
+    "name": "Hellhound",
+    "id": 105,
+    "x": 2413,
+    "y": 9783,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 4
+  },
+  {
+    "name": "Fire giant",
+    "id": 2083,
+    "x": 2416,
+    "y": 9772,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 2
+  },
+  {
+    "name": "Hellhound",
+    "id": 105,
+    "x": 2416,
+    "y": 9784,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 3
+  },
+  {
+    "name": "Hellhound",
+    "id": 105,
+    "x": 2426,
+    "y": 9775,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 3
+  },
+  {
+    "name": "Hellhound",
+    "id": 105,
+    "x": 2428,
+    "y": 9783,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 3
+  },
+  {
+    "name": "Hellhound",
+    "id": 105,
+    "x": 2426,
+    "y": 9773,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 2
+  },
+  {
+    "name": "Hellhound",
+    "id": 105,
+    "x": 2430,
+    "y": 9785,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 2
+  },
+  {
+    "name": "Hellhound",
+    "id": 105,
+    "x": 2433,
+    "y": 9772,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 2
+  },
+  {
+    "name": "Hellhound",
+    "id": 105,
+    "x": 2431,
+    "y": 9769,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 2
+  },
+  {
+    "name": "Hellhound",
+    "id": 105,
+    "x": 2435,
+    "y": 9783,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 4
+  },
+  {
+    "name": "Aberrant spectre",
+    "id": 7,
+    "x": 2442,
+    "y": 9776,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 3
+  },
+  {
+    "name": "Aberrant spectre",
+    "id": 7,
+    "x": 2445,
+    "y": 9782,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 2
+  },
+  {
+    "name": "Aberrant spectre",
+    "id": 6,
+    "x": 2441,
+    "y": 9786,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 2
+  },
+  {
+    "name": "Aberrant spectre",
+    "id": 6,
+    "x": 2440,
+    "y": 9777,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 2
+  },
+  {
+    "name": "Aberrant spectre",
+    "id": 6,
+    "x": 2451,
+    "y": 9785,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 2
+  },
+  {
+    "name": "Aberrant spectre",
+    "id": 7,
+    "x": 2453,
+    "y": 9790,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 2
+  },
+  {
+    "name": "Aberrant spectre",
+    "id": 7,
+    "x": 2462,
+    "y": 9782,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 2
+  },
+  {
+    "name": "Aberrant spectre",
+    "id": 7,
+    "x": 2461,
+    "y": 9773,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 2
+  },
+  {
+    "name": "Aberrant spectre",
+    "id": 7,
+    "x": 2465,
+    "y": 9778,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 2
+  },
+  {
+    "name": "Aberrant spectre",
+    "id": 6,
+    "x": 2472,
+    "y": 9776,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 2
+  },
+  {
+    "name": "Aberrant spectre",
+    "id": 6,
+    "x": 2471,
+    "y": 9778,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 4
+  }
+]

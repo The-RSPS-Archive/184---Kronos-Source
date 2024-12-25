@@ -1,0 +1,52 @@
+[
+  {
+    "ids": [ 2217 ],
+    "guaranteed": [
+      { "id": 526, "min": 1, "max": 1 } //Bones
+    ],
+    "tables": [
+      {
+        "name": "Armour/Weapons",
+        "weight": 5,
+        "items": [
+          { "id": 808, "min": 95, "max": 100, "weight": 10 }, //Steel dart
+          { "id": 11832, "min": 1, "max": 1, "weight": 1 }, //Bandos chestplate
+          { "id": 11834, "min": 1, "max": 1, "weight": 1 }, //Bandos tassets
+          { "id": 11836, "min": 1, "max": 1, "weight": 1 } //Bandos boots
+        ]
+      },
+      {
+        "name": "Godsword shards",
+        "weight": 20,
+        "items": [
+          { "id": 11818, "min": 1, "max": 1, "weight": 1 }, //Godsword shard 1
+          { "id": 11820, "min": 1, "max": 1, "weight": 1 }, //Godsword shard 2
+          { "id": 11822, "min": 1, "max": 1, "weight": 1 } //Godsword shard 3
+        ]
+      },
+      {
+        "name": "Runes/Arrows",
+        "weight": 2000,
+        "items": [
+          { "id": 564, "min": 25, "max": 30, "weight": 1 }, //Cosmic rune
+          { "id": 886, "min": 95, "max": 100, "weight": 1 } //Steel arrow
+        ]
+      },
+      {
+        "name": "Other",
+        "weight":2000,
+        "items": [
+          { "id": 995, "min": 1300, "max": 1500, "weight": 12 }, //Coins
+          { "id": 226, "min": 5, "max": 5, "weight": 6 }, //Limpwurt root (noted)
+          { "id": 1917, "min": 1, "max": 1, "weight": 6 }, //Beer
+          { "id": 1971, "min": 1, "max": 1, "weight": 6 }, //Kebab
+          { "id": 385, "min": 2, "max": 2, "weight": 6 }, //Shark
+          { "id": 9741, "min": 1, "max": 1, "weight": 3 }, //Combat potion(3)
+          { "id": 1025, "min": 1, "max": 1, "weight": 3 }, //Right eye patch
+          { "id": 7054, "min": 3, "max": 3, "weight": 3 }, //Chilli potato
+          { "id": 2722, "min": 1, "max": 1, "weight": 1 } //Clue scroll (hard)
+        ]
+      }
+    ]
+  }
+]

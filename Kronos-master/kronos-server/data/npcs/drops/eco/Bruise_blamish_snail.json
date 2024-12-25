@@ -1,0 +1,16 @@
+[
+  { #Rounded
+    "ids": [ 2647 ],
+    "guaranteed": [
+      { "id": 3333, "min": 1, "max": 1 }, //Blamish blue shell (round)
+      { "id": 3363, "min": 1, "max": 1 } //Thin snail
+    ]
+  },
+  { #Pointed
+    "ids": [ 2652 ],
+    "guaranteed": [
+      { "id": 3343, "min": 1, "max": 1 }, //Blamish blue shell (pointed)
+      { "id": 3363, "min": 1, "max": 1 } //Thin snail
+    ]
+  }
+]

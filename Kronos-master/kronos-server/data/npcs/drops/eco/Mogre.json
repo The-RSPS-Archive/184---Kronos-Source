@@ -1,0 +1,64 @@
+[
+  {
+    "ids": [ 2592 ],
+    "guaranteed": [
+      { "id": 532, "min": 1, "max": 1 }, //Big bones
+      { "id": 13442, "min": 10, "max": 15 } //Anglerfish
+    ],
+    "tables": [
+      {
+        "name": "Other seeds",
+        "weight": 1,
+        "items": [
+          { "id": 5324, "min": 1, "max": 3, "weight": 9 }, //Cabbage seed
+          { "id": 5104, "min": 1, "max": 1, "weight": 9 }, //Jangerberry seed
+          { "id": 5100, "min": 1, "max": 1, "weight": 9 }, //Limpwurt seed
+          { "id": 5318, "min": 1, "max": 4, "weight": 9 }, //Potato seed
+          { "id": 5319, "min": 1, "max": 3, "weight": 6 }, //Onion seed
+          { "id": 5321, "min": 1, "max": 1, "weight": 6 }, //Watermelon seed
+          { "id": 5311, "min": 1, "max": 1, "weight": 6 }, //Wildblood seed
+          { "id": 5281, "min": 1, "max": 1, "weight": 6 }, //Belladonna seed
+          { "id": 5320, "min": 1, "max": 1, "weight": 3 }, //Sweetcorn seed
+          { "id": 5322, "min": 1, "max": 1, "weight": 3 }, //Tomato seed
+          { "id": 5323, "min": 1, "max": 1, "weight": 3 }, //Strawberry seed
+          { "id": 5280, "min": 1, "max": 1, "weight": 3 }, //Cactus seed
+          { "id": 5105, "min": 1, "max": 1, "weight": 1 }, //Whiteberry seed
+          { "id": 5282, "min": 1, "max": 1, "weight": 1 }, //Mushroom spore
+          { "id": 5106, "min": 1, "max": 1, "weight": 1 } //Poison ivy seed
+        ]
+      },
+      {
+        "name": "Fish",
+        "weight": 1,
+        "items": [
+          { "id": 345, "min": 1, "max": 1, "weight": 6 }, //Raw herring
+          { "id": 327, "min": 1, "max": 1, "weight": 6 }, //Raw sardine
+          { "id": 371, "min": 1, "max": 1, "weight": 6 }, //Raw swordfish
+          { "id": 372, "min": 2, "max": 5, "weight": 6 }, //Raw swordfish (noted)
+          { "id": 359, "min": 1, "max": 1, "weight": 3 }, //Raw tuna
+          { "id": 360, "min": 1, "max": 3, "weight": 3 }, //Raw tuna (noted)
+          { "id": 383, "min": 1, "max": 1, "weight": 3 }, //Raw shark
+          { "id": 349, "min": 1, "max": 1, "weight": 1 }, //Raw pike
+          { "id": 331, "min": 1, "max": 1, "weight": 1 } //Raw salmon
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 313, "min": 5, "max": 15, "weight": 8 }, //Fishing bait
+          { "id": 1511, "min": 1, "max": 1, "weight": 8 }, //Logs
+          { "id": 1383, "min": 1, "max": 1, "weight": 8 }, //Staff of water
+          { "id": 407, "min": 1, "max": 1, "weight": 6 }, //Oyster
+          { "id": 402, "min": 4, "max": 8, "weight": 6 }, //Seaweed (noted)
+          { "id": 555, "min": 5, "max": 18, "weight": 5 }, //Water rune
+          //{ "id": 6660, "min": 4, "max": 6, "weight": 5 }, //Fishing explosive
+          { "id": 6665, "min": 1, "max": 1, "weight": 2 }, //Mudskipper hat
+          { "id": 6666, "min": 1, "max": 1, "weight": 1 }, //Flippers
+          { "id": 6668, "min": 1, "max": 1, "weight": 1 }, //Fishbowl
+          { "id": 401, "min": 1, "max": 1, "weight": 1 } //Seaweed
+        ]
+      }
+    ]
+  }
+]

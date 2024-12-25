@@ -1,0 +1,88 @@
+[
+  { #Crawling Hand (8)
+    "ids": [ 448, 449, 451, 452 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 16,
+    "aggressive_level": 16,
+    "max_damage": 1,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 5,
+    "slayer_xp": 16.0,
+    "slayer_tasks": [ "Crawling Hands" ],
+    //Combat Stats
+    "attack": 8,
+    "strength": 4,
+    "defence": 4,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 0,
+    "crush_defence": 0,
+    "magic_defence": 0,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 5,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 1592,
+    "defend_animation": 1591,
+    "death_animation": 1590
+  },
+  { #Crawling Hand (12)
+    "ids": [ 453, 454, 456, 457 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 19,
+    "aggressive_level": 24,
+    "max_damage": 2,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 5,
+    "slayer_xp": 19.0,
+    "slayer_tasks": [ "Crawling Hands" ],
+    //Combat Stats
+    "attack": 11,
+    "strength": 7,
+    "defence": 7,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 0,
+    "crush_defence": 0,
+    "magic_defence": 0,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 5,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 1592,
+    "defend_animation": 1591,
+    "death_animation": 1590
+  }
+]

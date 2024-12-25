@@ -1,0 +1,80 @@
+---
+identifier: "afd8d69d-37c8-44d9-bfec-680bfaf4dfa4"
+title: "Achievement Rewards"
+currency: "COINS"
+accessibleByIronMan: true
+canSellToStore: false
+restockRules:
+  restockTicks: 52
+  restockPerTick: 1
+defaultStock:
+- id: 5509
+  amount: 1000
+  price: 5000
+  requiredAchievements:
+  - "INTO_THE_ABYSS"
+  placeholderId: 0
+- id: 5510
+  amount: 1000
+  price: 15000
+  requiredAchievements:
+  - "ESSENCE_EXTRACTOR"
+  placeholderId: 0
+- id: 5512
+  amount: 1000
+  price: 50000
+  requiredAchievements:
+  - "ABYSSAL_DISTURBANCE"
+  placeholderId: 0
+- id: 5514
+  amount: 1000
+  price: 100000
+  requiredAchievements:
+  - "EXPERT_RUNECRAFTER"
+  placeholderId: 0
+- id: 775
+  amount: 1000
+  price: 300000
+  requiredAchievements:
+  - "PRACTICE_MAKES_PERFECT"
+  placeholderId: 0
+- id: 776
+  amount: 1000
+  price: 300000
+  requiredAchievements:
+  - "GOLDEN_TOUCH"
+  placeholderId: 0
+- id: 88
+  amount: 1000
+  price: 10000
+  requiredAchievements:
+  - "LIGHTNESS"
+  placeholderId: 0
+- id: 7409
+  amount: 1000
+  price: 50000
+  requiredAchievements:
+  - "NATURES_TOUCH"
+  placeholderId: 0
+- id: 4251
+  amount: 1000
+  price: 10000
+  placeholderId: 0
+- id: 4587
+  amount: 1000
+  price: 100000
+  requiredAchievements:
+  - "WELCOME_TO_THE_JUNGLE"
+  placeholderId: 0
+- id: 6746
+  amount: 1000
+  price: 60000
+  requiredAchievements:
+  - "DEMON_SLAYER"
+  placeholderId: 0
+- id: 11259
+  amount: 1000
+  price: 75000
+  requiredAchievements:
+  - "IMPLING_HUNTER"
+  placeholderId: 0

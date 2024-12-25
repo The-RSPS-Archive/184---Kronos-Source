@@ -1,0 +1,174 @@
+[
+  { #Black demon (172)
+    "ids": [ 240, 1432, 2048, 2049, 2050, 2051, 2052, 5874, 5875, 5876, 5877, 6357 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 157,
+    "aggressive_level": 344,
+    "max_damage": 18,
+    "attack_style": "SLASH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 157.0,
+    "slayer_tasks": [ "Black Demons" ],
+    //Combat Stats
+    "attack": 145,
+    "strength": 152,
+    "defence": 148,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 0,
+    "crush_defence": 0,
+    "magic_defence": -10,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 5,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 64,
+    "defend_animation": 65,
+    "death_animation": 67
+  },
+  { #Black demon (178)
+    "ids": [ 7243 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 160,
+    "aggressive_level": 356,
+    "max_damage": 18,
+    "attack_style": "SLASH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 160.0,
+    "slayer_tasks": [ "Black Demons" ],
+    //Combat Stats
+    "attack": 1,
+    "strength": 1,
+    "defence": 1,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 0,
+    "crush_defence": 0,
+    "magic_defence": 0,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 2,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 64,
+    "defend_animation": 65,
+    "death_animation": 67
+  },
+  { #Black demon (184)
+    "ids": [ 7242, 7874, 7875, 7876 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 170,
+    "aggressive_level": 368,
+    "max_damage": 18,
+    "attack_style": "SLASH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 170.0,
+    "slayer_tasks": [ "Black Demons" ],
+    //Combat Stats
+    "attack": 1,
+    "strength": 1,
+    "defence": 1,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 0,
+    "crush_defence": 0,
+    "magic_defence": 0,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 2,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 64,
+    "defend_animation": 65,
+    "death_animation": 67
+  },
+  { #Black demon (hard) (292)
+    "ids": [ 6295 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 157,
+    "aggressive_level": 584,
+    "max_damage": 31,
+    "attack_style": "SLASH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 255.0,
+    "slayer_tasks": [ "Black Demons" ],
+    //Combat Stats
+    "attack": 290,
+    "strength": 296,
+    "defence": 152,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 0,
+    "crush_defence": 0,
+    "magic_defence": -10,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 2,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 64,
+    "defend_animation": 65,
+    "death_animation": 67
+  }
+]

@@ -1,0 +1,45 @@
+[
+  { #Greater abyssal demon (342)
+    "ids": [ 7410 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 400,
+    "aggressive_level": 684,
+    "max_damage": 31,
+    "attack_style": "STAB",
+    //Slayer Info
+    "slayer_level": 85,
+    "slayer_xp": 4200.0,
+    "slayer_tasks": [ "Abyssal Demons" ],
+    //Combat Stats
+    "attack": 300,
+    "strength": 260,
+    "defence": 240,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 50,
+    "slash_defence": 50,
+    "crush_defence": 50,
+    "magic_defence": 0,
+    "ranged_defence": 50,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 5,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 1537,
+    "defend_animation": 2309,
+    "death_animation": 1538
+  }
+]

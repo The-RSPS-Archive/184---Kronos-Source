@@ -1,0 +1,85 @@
+[
+  {
+    "ids": [ 8609 ],
+    "guaranteed": [
+      { "id": 22786, "min": 1, "max": 1 }   //Hydra bones
+    ],
+    "tables": [
+      {
+        "name": "Weapons and Armour",
+        "weight": 12,
+        "items": [
+          { "id": 2497, "min": 1, "max": 1, "weight": 4 },   //Black d'hide chaps
+          { "id": 1391, "min": 2, "max": 3, "weight": 4 },   //Battlestaff
+          { "id": 1393, "min": 1, "max": 1, "weight": 4 },   //Fire battlestaff
+          { "id": 1395, "min": 1, "max": 1, "weight": 4 },   //Water battlestaff
+          { "id": 1201, "min": 1, "max": 1, "weight": 2 },   //Rune kiteshield
+          { "id": 1127, "min": 1, "max": 1, "weight": 2 },   //Rune platebody
+          { "id": 4093, "min": 1, "max": 1, "weight": 2 },   //Mystic robe bottom (blue)
+          { "id": 1305, "min": 1, "max": 1, "weight": 1 }   //Dragon longsword
+        ]
+      },
+      {
+        "name": "Runes",
+        "weight": 12,
+        "items": [
+          { "id": 555, "min": 71, "max": 89, "weight": 5 },   //Water rune
+          { "id": 554, "min": 56, "max": 86, "weight": 5 },   //Fire rune
+          { "id": 560, "min": 30, "max": 60, "weight": 5 },   //Death rune
+          { "id": 563, "min": 32, "max": 59, "weight": 5 },   //Law rune
+          { "id": 565, "min": 15, "max": 44, "weight": 3 },   //Blood rune
+          { "id": 562, "min": 22, "max": 50, "weight": 4 }   //Chaos rune
+        ]
+      },
+      {
+        "name": "Herbs and Seeds",
+        "weight": 12,
+        "items": [
+          { "id": 5297, "min": 1, "max": 1, "weight": 2 },   //Irit seed
+          { "id": 5296, "min": 1, "max": 1, "weight": 2 },   //Toadflax seed
+          { "id": 5298, "min": 1, "max": 1, "weight": 2 },   //Avantoe seed
+          { "id": 22873, "min": 1, "max": 1, "weight": 2 },   //Potato cactus seed
+          { "id": 5281, "min": 1, "max": 1, "weight": 2 },   //Belladonna seed
+          { "id": 199, "min": 1, "max": 1, "weight": 2 },   //Grimy guam leaf
+          { "id": 201, "min": 1, "max": 1, "weight": 2 },   //Grimy marrentill
+          { "id": 205, "min": 1, "max": 1, "weight": 2 },   //Grimy harralander
+          { "id": 203, "min": 1, "max": 1, "weight": 2 },   //Grimy tarromin
+          { "id": 207, "min": 1, "max": 1, "weight": 2 },   //Grimy ranarr weed
+          { "id": 209, "min": 1, "max": 1, "weight": 2 },   //Grimy irit leaf
+          { "id": 215, "min": 1, "max": 1, "weight": 2 },   //Grimy cadantine
+          { "id": 208, "min": 3, "max": 3, "weight": 2 },   //Grimy ranarr weed (noted)
+          { "id": 220, "min": 3, "max": 3, "weight": 1 }   //Grimy torstol (noted)
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 12,
+        "items": [
+          { "id": 995, "min": 510, "max": 4338, "weight": 6 },   //Coins
+          { "id": 7946, "min": 1, "max": 2, "weight": 8 },   //Monkfish
+          { "id": 12701, "min": 1, "max": 1, "weight": 6 },   //Super combat potion(1)
+          { "id": 537, "min": 3, "max": 5, "weight": 6 },   //Dragon bones (noted)
+          { "id": 3030, "min": 1, "max": 2, "weight": 8 },   //Super restore(1)
+          { "id": 9190, "min": 20, "max": 20, "weight": 5 },   //Emerald bolt tips
+          { "id": 9191, "min": 20, "max": 20, "weight": 5 },   //Ruby bolt tips
+          { "id": 9192, "min": 20, "max": 20, "weight": 5 },   //Diamond bolt tips
+          { "id": 9194, "min": 8, "max": 30, "weight": 3 },   //Onyx bolt tips
+          { "id": 2722, "min": 1, "max": 1, "weight": 3 },   //Clue scroll (hard)
+          { "id": 12073, "min": 1, "max": 1, "weight": 1 }   //Clue scroll (elite)
+        ]
+      },
+      {
+        "name": "Unique",
+        "weight": 2,
+        "items": [
+          { "id": 22973, "min": 1, "max": 1, "weight": 1 },   //Hydra's eye
+          { "id": 22969, "min": 1, "max": 1, "weight": 1 },   //Hydra's heart
+          { "id": 22971, "min": 1, "max": 1, "weight": 1 },   //Hydra's fang
+          { "id": 22988, "min": 1, "max": 1, "weight": 1 },   //Hydra tail
+          { "id": 22804, "min": 200, "max": 400, "weight": 1 },   //Dragon knife
+          { "id": 20849, "min": 200, "max": 636, "weight": 1 }   //Dragon thrownaxe
+        ]
+      }
+    ]
+  }
+]

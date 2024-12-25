@@ -1,0 +1,25 @@
+[
+  {
+    "ids": [ 4362, 4363 ],
+    "guaranteed": [
+      { "id": 532, "min": 1, "max": 1 } //Big bones
+    ],
+    "tables": [
+      {
+        "name": "Seeds",
+        "weight": 1,
+        "items": [
+          { "id": 5292, "min": 1, "max": 1, "weight": 6 }, //Marrentill seed
+          { "id": 5294, "min": 1, "max": 1, "weight": 6 }, //Harralander seed
+          { "id": 5311, "min": 1, "max": 1, "weight": 3 }, //Wildblood seed
+          { "id": 5106, "min": 1, "max": 1, "weight": 3 }, //Poison ivy seed
+          { "id": 5100, "min": 1, "max": 1, "weight": 3 }, //Limpwurt seed
+          { "id": 5321, "min": 1, "max": 1, "weight": 3 }, //Watermelon seed
+          { "id": 5302, "min": 1, "max": 1, "weight": 1 }, //Lantadyme seed
+          { "id": 5304, "min": 1, "max": 1, "weight": 1 }, //Torstol seed
+          { "id": 5296, "min": 1, "max": 1, "weight": 1 } //Toadflax seed
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,48 @@
+[
+  { #Dagannoth Supreme (303)
+    "ids": [ 2265, 6496 ],
+    "handler": "io.ruin.model.activities.bosses.dagannothkings.DagannothSupreme",
+    //Combat Info
+    "hitpoints": 255,
+    "aggressive_level": 606,
+    "max_damage": 30,
+    "attack_style": "CRUSH",
+    "pet": "DAGANNOTH_SUPREME",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 255.0,
+    "slayer_tasks": [ "Dagannoth", "Dagannoth Kings" ],
+    //Combat Stats
+    "attack": 255,
+    "strength": 255,
+    "defence": 128,
+    "ranged": 255,
+    "magic": 255,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 10,
+    "slash_defence": 10,
+    "crush_defence": 10,
+    "magic_defence": 255,
+    "ranged_defence": 550,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 5,
+    "respawn_ticks": 100,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 2855,
+    "defend_animation": 2852,
+    "death_animation": 2856,
+	//Other
+	"local_loot": true
+  }
+]

@@ -1,0 +1,227 @@
+[
+  {
+    "name": "Skeleton Mage",
+    "id": 84,
+    "x": 2585,
+    "y": 9884,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Skeleton Mage",
+    "id": 84,
+    "x": 2589,
+    "y": 9883,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Skeleton Mage",
+    "id": 84,
+    "x": 2591,
+    "y": 9884,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Skeleton Mage",
+    "id": 84,
+    "x": 2587,
+    "y": 9879,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Skeleton Mage",
+    "id": 84,
+    "x": 2591,
+    "y": 9880,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Skeleton",
+    "id": 82,
+    "x": 2587,
+    "y": 9880,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Skeleton",
+    "id": 82,
+    "x": 2588,
+    "y": 9885,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Skeleton",
+    "id": 82,
+    "x": 2591,
+    "y": 9885,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Shadow spider",
+    "id": 3016,
+    "x": 2572,
+    "y": 9875,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Shadow spider",
+    "id": 3016,
+    "x": 2576,
+    "y": 9875,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Shadow spider",
+    "id": 3016,
+    "x": 2579,
+    "y": 9876,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Shadow spider",
+    "id": 3016,
+    "x": 2574,
+    "y": 9878,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Shadow spider",
+    "id": 3016,
+    "x": 2573,
+    "y": 9873,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Rat",
+    "id": 2854,
+    "x": 2566,
+    "y": 9898,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Rat",
+    "id": 2854,
+    "x": 2584,
+    "y": 9884,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Fire giant",
+    "id": 2075,
+    "x": 2564,
+    "y": 9884,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Fire giant",
+    "id": 2075,
+    "x": 2567,
+    "y": 9888,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Fire giant",
+    "id": 2075,
+    "x": 2563,
+    "y": 9888,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Fire giant",
+    "id": 2075,
+    "x": 2569,
+    "y": 9885,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Fire giant",
+    "id": 2075,
+    "x": 2576,
+    "y": 9888,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Fire giant",
+    "id": 2075,
+    "x": 2579,
+    "y": 9890,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Fire giant",
+    "id": 2075,
+    "x": 2581,
+    "y": 9895,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Fire giant",
+    "id": 2075,
+    "x": 2575,
+    "y": 9896,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Fire giant",
+    "id": 2077,
+    "x": 2575,
+    "y": 9894,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Fire giant",
+    "id": 2077,
+    "x": 2575,
+    "y": 9889,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  }
+]

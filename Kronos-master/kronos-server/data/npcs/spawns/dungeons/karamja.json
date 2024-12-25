@@ -1,0 +1,137 @@
+[
+  {
+    "name": "Skeleton",
+    "id": 3972,
+    "x": 2858,
+    "y": 9571,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Skeleton",
+    "id": 3972,
+    "x": 2856,
+    "y": 9576,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Skeleton",
+    "id": 3973,
+    "x": 2860,
+    "y": 9573,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "Skeleton",
+    "id": 3974,
+    "x": 2852,
+    "y": 9577,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Lesser demon",
+    "id": 2005,
+    "x": 2842,
+    "y": 9558,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Lesser demon",
+    "id": 2006,
+    "x": 2837,
+    "y": 9554,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Lesser demon",
+    "id": 2007,
+    "x": 2833,
+    "y": 9561,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Lesser demon",
+    "id": 2006,
+    "x": 2836,
+    "y": 9566,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Deadly red spider",
+    "id": 3021,
+    "x": 2840,
+    "y": 9583,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Deadly red spider",
+    "id": 3021,
+    "x": 2836,
+    "y": 9583,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Deadly red spider",
+    "id": 3021,
+    "x": 2833,
+    "y": 9581,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Deadly red spider",
+    "id": 3021,
+    "x": 2849,
+    "y": 9581,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Deadly red spider",
+    "id": 3021,
+    "x": 2843,
+    "y": 9581,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Deadly red spider",
+    "id": 3021,
+    "x": 2838,
+    "y": 9579,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Elvarg",
+    "id": 6118,
+    "x": 2853,
+    "y": 9636,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 8
+  }
+]

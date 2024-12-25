@@ -1,0 +1,45 @@
+[
+  {
+    "ids": [ 4443, 4486, 3694, 3695, 4427, 4428, 4429, 4430, 4487, 4442 ],
+    "tables": [
+      {
+        "name": "Weapon rewards",
+        "weight": 1,
+        "items": [
+          { "id": 1367, "min": 1, "max": 1, "weight": 12 }, //Black battleaxe
+          { "id": 1369, "min": 1, "max": 1, "weight": 12 }, //Mithril battleaxe
+          { "id": 1329, "min": 1, "max": 1, "weight": 12 }, //Mithril scimitar
+          { "id": 1299, "min": 1, "max": 1, "weight": 12 }, //Mithril longsword
+          { "id": 1357, "min": 1, "max": 1, "weight": 12 }, //Adamant axe
+          { "id": 1381, "min": 1, "max": 1, "weight": 1 }, //Staff of air
+          { "id": 1387, "min": 1, "max": 1, "weight": 1 }, //Staff of fire
+          { "id": 4580, "min": 1, "max": 1, "weight": 1 }, //Black spear
+          { "id": 1313, "min": 1, "max": 1, "weight": 1 }, //Black 2h sword
+          { "id": 1315, "min": 1, "max": 1, "weight": 1 }, //Mithril 2h sword
+          { "id": 1343, "min": 1, "max": 1, "weight": 1 }, //Mithril warhammer
+          { "id": 1287, "min": 1, "max": 1, "weight": 1 }, //Adamant sword
+          { "id": 1430, "min": 1, "max": 1, "weight": 1 }, //Adamant mace
+          { "id": 1331, "min": 1, "max": 1, "weight": 1 } //Adamant scimitar
+        ]
+      },
+      {
+        "name": "Armour rewards",
+        "weight": 1,
+        "items": [
+          { "id": 1083, "min": 1, "max": 1, "weight": 6 }, //Steel plateskirt
+          { "id": 1119, "min": 1, "max": 1, "weight": 6 }, //Steel platebody
+          { "id": 1165, "min": 1, "max": 1, "weight": 3 }, //Black full helm
+          { "id": 1195, "min": 1, "max": 1, "weight": 3 }, //Black kiteshield
+          { "id": 1179, "min": 1, "max": 1, "weight": 3 }, //Black sq shield
+          { "id": 1159, "min": 1, "max": 1, "weight": 3 }, //Mithril full helm
+          { "id": 1109, "min": 1, "max": 1, "weight": 3 }, //Mithril chainbody
+          { "id": 1107, "min": 1, "max": 1, "weight": 1 }, //Black chainbody
+          { "id": 1077, "min": 1, "max": 1, "weight": 1 }, //Black platelegs
+          { "id": 1071, "min": 1, "max": 1, "weight": 1 }, //Mithril platelegs
+          { "id": 1181, "min": 1, "max": 1, "weight": 1 }, //Mithril sq shield
+          { "id": 1145, "min": 1, "max": 1, "weight": 1 } //Adamant med helm
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "ids": [ 4973, 4974 ],
+    "tables": [
+      {
+        "name": "Drops",
+        "weight": 1,
+        "items": [
+          #Warning: Quantities are guessed (min=1, max=1)
+          { "id": 2164, "min": 1, "max": 1, "weight": 1 }, //Batta tin
+          #Warning: Quantities are guessed (min=1, max=1)
+          { "id": 2169, "min": 1, "max": 1, "weight": 1 }, //Gnome spice
+          #Warning: Quantities are guessed (min=1, max=1)
+          { "id": 2025, "min": 1, "max": 1, "weight": 1 }, //Cocktail shaker
+          #Warning: Quantities are guessed (min=1, max=1)
+          { "id": 2102, "min": 1, "max": 1, "weight": 1 }, //Lemon
+          #Warning: Quantities are guessed (min=1, max=1)
+          { "id": 2128, "min": 1, "max": 1, "weight": 1 }, //Equa leaves
+          #Warning: Quantities are guessed (min=1, max=1)
+          { "id": 2171, "min": 1, "max": 1, "weight": 1 }, //Gianne dough
+          #Warning: Quantities are guessed (min=1, max=1)
+          { "id": 2120, "min": 1, "max": 1, "weight": 1 } //Lime
+        ]
+      }
+    ]
+  }
+]

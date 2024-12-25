@@ -1,0 +1,90 @@
+[
+  { #Kalphite Queen (333) First form
+    "ids": [ 963 ],
+    "handler": "io.ruin.model.activities.bosses.KalphiteQueen",
+    //Combat Info
+    "hitpoints": 255,
+    "aggressive_level": 666,
+    "max_damage": 31,
+    "attack_style": "STAB",
+    "pet": "KALPHITE_PRINCESS",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 535.5,
+    "slayer_tasks": [ "Kalphite", "The Kalphite Queen" ],
+    //Combat Stats
+    "attack": 300,
+    "strength": 300,
+    "defence": 300,
+    "ranged": 1,
+    "magic": 150,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 50,
+    "slash_defence": 50,
+    "crush_defence": 10,
+    "magic_defence": 100,
+    "ranged_defence": 100,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 5,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 6241,
+    "defend_animation": -1,
+    "death_animation": 6242
+  },
+  { #Kalphite Queen (333) Second form
+    "ids": [ 965 ],
+    "handler": "io.ruin.model.activities.bosses.KalphiteQueen",
+    //Combat Info
+    "hitpoints": 255,
+    "aggressive_level": 666,
+    "max_damage": 31,
+    "attack_style": "STAB",
+    "pet": "KALPHITE_PRINCESS",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 537.5,
+    "slayer_tasks": [ "Kalphite", "The Kalphite Queen" ],
+    //Combat Stats
+    "attack": 300,
+    "strength": 300,
+    "defence": 300,
+    "ranged": 1,
+    "magic": 150,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 100,
+    "slash_defence": 100,
+    "crush_defence": 100,
+    "magic_defence": 10,
+    "ranged_defence": 10,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 5,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 1178,
+    "defend_animation": 6237,
+    "death_animation": 6233
+  }
+]

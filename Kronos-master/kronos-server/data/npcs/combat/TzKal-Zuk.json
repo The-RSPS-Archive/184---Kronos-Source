@@ -1,0 +1,46 @@
+[
+  { #TzKal-Zuk (1400)
+    "ids": [ 7706 ],
+    "handler": "io.ruin.model.activities.inferno.monsters.TzKalZuk",
+	"pet": TZREK_ZUK,
+    //Combat Info
+    "hitpoints": 1200,
+    "aggressive_level": 2800,
+    "max_damage": 251,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 101.0,
+    "slayer_tasks": [ "TzHaar" ],
+    //Combat Stats
+    "attack": 350,
+    "strength": 600,
+    "defence": 260,
+    "ranged": 400,
+    "magic": 150,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 300,
+    "magic_attack": 550,
+    "ranged_attack": 550,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 0,
+    "crush_defence": 0,
+    "magic_defence": 350,
+    "ranged_defence": 100,
+    //Immunites
+    "poison_immunity": true,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 10,
+    "death_ticks": 5,
+    "respawn_ticks": -1,
+    //Animations
+    "spawn_animation": 7563,
+    "attack_animation": 7566,
+    "defend_animation": 7565,
+    "death_animation": 7562
+  }
+]

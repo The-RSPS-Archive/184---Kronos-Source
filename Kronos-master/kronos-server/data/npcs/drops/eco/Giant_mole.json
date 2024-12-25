@@ -1,0 +1,60 @@
+[
+  {
+    "ids": [ 5779, 6499 ],
+    "guaranteed": [
+      { "id": 532, "min": 1, "max": 1 }, //Big bones
+      { "id": 7416, "min": 1, "max": 1 }, //Mole claw
+      { "id": 7418, "min": 1, "max": 3 } //Mole skin
+    ],
+    "tables": [
+      {
+        "name": "Runes and Ammunition",
+        "weight": 1,
+        "items": [
+          { "id": 556, "min": 105, "max": 105, "weight": 6 }, //Air rune
+          { "id": 554, "min": 105, "max": 105, "weight": 6 }, //Fire rune
+          { "id": 565, "min": 15, "max": 15, "weight": 3 }, //Blood rune
+          { "id": 560, "min": 7, "max": 7, "weight": 3 }, //Death rune
+          { "id": 563, "min": 15, "max": 15, "weight": 1 }, //Law rune
+          { "id": 884, "min": 690, "max": 690, "weight": 1 } //Iron arrow
+        ]
+      },
+      {
+        "name": "Weapons",
+        "weight": 1,
+        "items": [
+          { "id": 1301, "min": 1, "max": 1, "weight": 6 }, //Adamant longsword
+          { "id": 1355, "min": 1, "max": 1, "weight": 3 }, //Mithril axe
+          { "id": 1369, "min": 1, "max": 1, "weight": 1 } //Mithril battleaxe
+        ]
+      },
+      {
+        "name": "Armour",
+        "weight": 1,
+        "items": [
+          { "id": 1121, "min": 1, "max": 1, "weight": 6 }, //Mithril platebody
+          { "id": 1147, "min": 1, "max": 1, "weight": 3 }, //Rune med helm
+          { "id": 1725, "min": 1, "max": 1, "weight": 1 } //Amulet of strength
+        ]
+      },
+      {
+        "name": "Ores and bars",
+        "weight": 1,
+        "items": [
+          { "id": 441, "min": 100, "max": 100, "weight": 1 }, //Iron ore (noted)
+          { "id": 2359, "min": 1, "max": 1, "weight": 1 } //Mithril bar
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 385, "min": 4, "max": 4, "weight": 10 }, //Shark
+          { "id": 1516, "min": 100, "max": 100, "weight": 10 }, //Yew logs (noted)
+          { "id": 413, "min": 1, "max": 1, "weight": 10 }, //Oyster pearls
+          { "id": 12073, "min": 1, "max": 1, "weight": 1 } //Clue scroll (elite)
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "ids": [ 4813 ],
+    "tables": [
+      {
+        "name": "Weapons/Armour",
+        "weight": 25,
+        "items": [
+          { "id": 1115, "min": 1, "max": 1, "weight": 1 } //Iron platebody
+        ]
+      },
+      {
+        "name": "Runes",
+        "weight": 25,
+        "items": [
+          { "id": 556, "min": 1, "max": 5, "weight": 5 }, //Air rune
+          { "id": 555, "min": 1, "max": 6, "weight": 1 } //Water rune
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 995, "min": 1, "max": 30, "weight": 25 }, //Coins
+          { "id": 2677, "min": 1, "max": 1, "weight": 1 } //Clue scroll (easy)
+        ]
+      }
+    ]
+  }
+]

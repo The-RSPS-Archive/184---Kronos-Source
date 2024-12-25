@@ -1,0 +1,82 @@
+[
+  {
+    "ids": [ 2265, 6496 ],
+    "guaranteed": [
+      { "id": 6729, "min": 1, "max": 1 }, //Dagannoth bones
+      { "id": 6155, "min": 1, "max": 1 } //Dagannoth hide
+    ],
+    "tables": [
+      {
+        "name": "Weapons",
+        "weight": 1,
+        "items": [
+          { "id": 1357, "min": 1, "max": 1, "weight": 12 }, //Adamant axe
+          { "id": 6724, "min": 1, "max": 1, "weight": 12 }, //Seercull
+          { "id": 6739, "min": 1, "max": 1, "weight": 1 } //Dragon axe
+        ]
+      },
+      {
+        "name": "Ammunition",
+        "weight": 1,
+        "items": [
+          { "id": 884, "min": 218, "max": 590, "weight": 1 }, //Iron arrow
+          { "id": 886, "min": 54, "max": 98, "weight": 1 }, //Steel arrow
+          { "id": 863, "min": 214, "max": 500, "weight": 1 }, //Iron knife
+          { "id": 865, "min": 54, "max": 132, "weight": 1 }, //Steel knife
+          { "id": 866, "min": 31, "max": 69, "weight": 1 }, //Mithril knife
+          { "id": 805, "min": 5, "max": 8, "weight": 1 }, //Rune thrownaxe
+          { "id": 830, "min": 1, "max": 10, "weight": 1 }, //Rune javelin
+          { "id": 9144, "min": 2, "max": 14, "weight": 1 } //Runite bolts
+        ]
+      },
+      {
+        "name": "Armour",
+        "weight": 1,
+        "items": [
+          { "id": 2489, "min": 1, "max": 1, "weight": 7 }, //Red d'hide vamb
+          { "id": 3758, "min": 1, "max": 1, "weight": 4 }, //Fremennik shield
+          { "id": 3748, "min": 1, "max": 1, "weight": 4 }, //Fremennik helm
+          { "id": 6133, "min": 1, "max": 1, "weight": 4 }, //Spined body
+          { "id": 6135, "min": 1, "max": 1, "weight": 4 }, //Spined chaps
+          { "id": 3749, "min": 1, "max": 1, "weight": 1 }, //Archer helm
+          { "id": 6733, "min": 1, "max": 1, "weight": 1 } //Archers ring
+        ]
+      },
+      {
+        "name": "Seeds",
+        "weight": 1,
+        "items": [
+          { "id": 5281, "min": 1, "max": 1, "weight": 3 }, //Belladonna seed
+          { "id": 5280, "min": 1, "max": 1, "weight": 3 }, //Cactus seed
+          { "id": 5106, "min": 1, "max": 1, "weight": 3 }, //Poison ivy seed
+          { "id": 5297, "min": 1, "max": 1, "weight": 3 }, //Irit seed
+          { "id": 5296, "min": 1, "max": 1, "weight": 3 }, //Toadflax seed
+          { "id": 5298, "min": 1, "max": 1, "weight": 3 }, //Avantoe seed
+          { "id": 5299, "min": 1, "max": 1, "weight": 3 }, //Kwuarm seed
+          { "id": 5301, "min": 1, "max": 1, "weight": 1 }, //Cadantine seed
+          { "id": 5302, "min": 1, "max": 1, "weight": 1 }, //Lantadyme seed
+          { "id": 5303, "min": 1, "max": 1, "weight": 1 }, //Dwarf weed seed
+          { "id": 5304, "min": 1, "max": 1, "weight": 1 } //Torstol seed
+        ]
+      },
+      {
+        "name": "Others",
+        "weight": 1,
+        "items": [
+          { "id": 995, "min": 900, "max": 3000, "weight": 10 }, //Coins
+          { "id": 45, "min": 1, "max": 24, "weight": 10 }, //Opal bolt tips
+          { "id": 413, "min": 1, "max": 1, "weight": 10 }, //Oyster pearls
+          { "id": 385, "min": 5, "max": 5, "weight": 10 }, //Shark
+          { "id": 1516, "min": 94, "max": 140, "weight": 10 }, //Yew logs (noted)
+          { "id": 1518, "min": 25, "max": 140, "weight": 10 }, //Maple logs (noted)
+          { "id": 207, "min": 1, "max": 1, "weight": 10 }, //Grimy ranarr weed
+          { "id": 13493, "min": 1, "max": 1, "weight": 10 }, //Ensouled dagannoth head
+          { "id": 2722, "min": 1, "max": 1, "weight": 10 }, //Clue scroll (hard)
+          { "id": 314, "min": 1, "max": 453, "weight": 3 }, //Feather
+          { "id": 9431, "min": 1, "max": 1, "weight": 3 }, //Runite limbs
+          { "id": 12073, "min": 1, "max": 1, "weight": 1 } //Clue scroll (elite)
+        ]
+      }
+    ]
+  }
+]

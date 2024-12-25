@@ -1,0 +1,4 @@
+// 1432
+script1432
+if_sethide(true, interface_396:4);
+if_sethide(true, interface_396:16);

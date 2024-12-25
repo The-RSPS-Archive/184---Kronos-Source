@@ -1,0 +1,90 @@
+[
+  { #Glod (138)
+    "ids": [ 5129, 6358 ],
+    "handler": "io.ruin.model.activities.wilderness.bosses.custom.Glod",
+    //Combat Info
+    "hitpoints": 2000,
+    "aggressive_level": 276,
+    "max_damage": 35,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 0.0,
+    "slayer_tasks": [],
+    //Combat Stats
+    "attack": 250,
+    "strength": 250,
+    "defence": 300,
+    "ranged": 250,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 250,
+    "slash_defence": 250,
+    "crush_defence": 230,
+    "magic_defence": -15,
+    "ranged_defence": 500,
+    //Immunites
+    "poison_immunity": true,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 6,
+    "death_ticks": 8,
+    "respawn_ticks": -1,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 6501,
+    "defend_animation": 6503,
+    "death_animation": 6502,
+	//Other
+	"local_loot": true
+  },
+  { #Glod (hard) (276)
+    "ids": [ 6297 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 255,
+    "aggressive_level": 552,
+    "max_damage": 25,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 0.0,
+    "slayer_tasks": [],
+    //Combat Stats
+    "attack": 230,
+    "strength": 240,
+    "defence": 110,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 105,
+    "slash_defence": 110,
+    "crush_defence": 130,
+    "magic_defence": 125,
+    "ranged_defence": 100,
+    //Immunites
+    "poison_immunity": true,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 2,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 6501,
+    "defend_animation": 6503,
+    "death_animation": 6502
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "ids": [ 7388 ],
+    "guaranteed": [
+      { "id": 526, "min": 1, "max": 1 } //Bones
+    ],
+    "tables": [
+      {
+        "name": "Weapons/Armour",
+        "weight": 1,
+        "items": [
+          { "id": 1059, "min": 1, "max": 1, "weight": 3 }, //Leather gloves
+          { "id": 2922, "min": 1, "max": 1, "weight": 3 }, //Yellow gloves
+          { "id": 2912, "min": 1, "max": 1, "weight": 3 }, //Red gloves
+          { "id": 2932, "min": 1, "max": 1, "weight": 3 }, //Teal gloves
+          { "id": 2942, "min": 1, "max": 1, "weight": 1 }, //Purple gloves
+          { "id": 4105, "min": 1, "max": 1, "weight": 1 } //Mystic gloves (dark)
+        ]
+      },
+      {
+        "name": "Jewellery",
+        "weight": 1,
+        "items": [
+          { "id": 1637, "min": 1, "max": 1, "weight": 1 }, //Sapphire ring
+          { "id": 1639, "min": 1, "max": 1, "weight": 1 }, //Emerald ring
+          { "id": 1635, "min": 1, "max": 1, "weight": 1 } //Gold ring
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 995, "min": 5, "max": 442, "weight": 3 }, //Coins
+          { "id": 592, "min": 1, "max": 1, "weight": 3 }, //Ashes
+          { "id": 7975, "min": 1, "max": 1, "weight": 1 } //Crawling hand (item)
+        ]
+      }
+    ]
+  }
+]

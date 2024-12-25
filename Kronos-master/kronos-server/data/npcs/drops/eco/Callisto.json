@@ -1,0 +1,78 @@
+[
+  {
+    "ids": [ 6503, 6609 ],
+    "guaranteed": [
+      { "id": 532, "min": 1, "max": 1 } //Big bones
+    ],
+    "tables": [
+      {
+        "name": "Weapons/Armour",
+        "weight": 1,
+        "items": [
+          { "id": 1275, "min": 1, "max": 1, "weight": 20 }, //Rune pickaxe
+          { "id": 1319, "min": 1, "max": 1, "weight": 10 }, //Rune 2h sword
+          { "id": 11920, "min": 1, "max": 1, "weight": 1 }, //Dragon pickaxe
+          { "id": 7158, "min": 1, "max": 1, "weight": 5 }, //Dragon 2h sword
+          { "id": 12603, "min": 1, "max": 1, "weight": 1 }, //Tyrannical ring
+          { "id": 30145, "min": 1, "max": 1, "weight": 5 } //Leaf
+
+        ]
+      },
+      {
+        "name": "Runes/Ammunition",
+        "weight": 1,
+        "items": [
+          { "id": 566, "min": 250, "max": 250, "weight": 3 }, //Soul rune
+          { "id": 560, "min": 300, "max": 300, "weight": 3 }, //Death rune
+          { "id": 562, "min": 400, "max": 400, "weight": 1 }, //Chaos rune
+          { "id": 565, "min": 200, "max": 200, "weight": 1 } //Blood rune
+        ]
+      },
+      {
+        "name": "Seeds",
+        "weight": 1,
+        "items": [
+          { "id": 5300, "min": 3, "max": 3, "weight": 3 }, //Snapdragon seed
+          { "id": 5295, "min": 5, "max": 5, "weight": 3 }, //Ranarr seed
+          { "id": 5315, "min": 1, "max": 1, "weight": 3 }, //Yew seed
+          { "id": 5316, "min": 1, "max": 1, "weight": 1 }, //Magic seed
+          { "id": 5289, "min": 1, "max": 1, "weight": 1 } //Palm tree seed
+        ]
+      },
+      {
+        "name": "Pick-me-up",
+        "weight": 1,
+        "items": [
+          { "id": 11936, "min": 8, "max": 8, "weight": 3 }, //Dark crab
+          { "id": 3024, "min": 3, "max": 3, "weight": 1 } //Super restore(4)
+        ]
+      },
+      {
+        "name": "Gems",
+        "weight": 1,
+        "items": [
+          { "id": 1620, "min": 20, "max": 20, "weight": 3 }, //Uncut ruby (noted)
+          { "id": 1618, "min": 10, "max": 10, "weight": 1 } //Uncut diamond (noted)
+        ]
+      },
+      {
+        "name": "Others",
+        "weight": 1,
+        "items": [
+          { "id": 995, "min": 12000, "max": 20000, "weight": 12 }, //Coins
+          { "id": 5975, "min": 60, "max": 60, "weight": 12 }, //Coconut (noted)
+          { "id": 6035, "min": 100, "max": 100, "weight": 12 }, //Supercompost (noted)
+          { "id": 6694, "min": 75, "max": 75, "weight": 12 }, //Crushed nest (noted)
+          { "id": 2, "min": 250, "max": 250, "weight": 12 }, //Cannonball
+          { "id": 1514, "min": 100, "max": 100, "weight": 6 }, //Magic logs (noted)
+          { "id": 226, "min": 50, "max": 50, "weight": 6 }, //Limpwurt root (noted)
+          { "id": 1750, "min": 75, "max": 75, "weight": 6 }, //Red dragonhide (noted)
+          { "id": 8836, "min": 400, "max": 400, "weight": 6 }, //Mahogany logs (noted)
+          { "id": 12073, "min": 1, "max": 1, "weight": 3 }, //Clue scroll (elite)
+          { "id": 1631, "min": 1, "max": 1, "weight": 3 }, //Uncut dragonstone
+          { "id": 3050, "min": 100, "max": 100, "weight": 1 } //Grimy toadflax (noted)
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "ids": [ 7418, 7419 ],
+    "guaranteed": [
+      { "id": 526, "min": 1, "max": 1 } //Bones
+    ],
+    "tables": [
+      {
+        "name": "Weapons",
+        "weight": 1,
+        "items": [
+          { "id": 1213, "min": 1, "max": 1, "weight": 3 }, //Rune dagger
+          { "id": 1301, "min": 1, "max": 1, "weight": 3 }, //Adamant longsword
+          { "id": 1325, "min": 1, "max": 1, "weight": 3 }, //Steel scimitar
+          { "id": 1207, "min": 1, "max": 1, "weight": 3 }, //Steel dagger
+          { "id": 1333, "min": 1, "max": 1, "weight": 1 } //Rune scimitar
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 995, "min": 100, "max": 100, "weight": 1 }, //Coins
+          { "id": 379, "min": 3, "max": 3, "weight": 1 } //Lobster
+        ]
+      }
+    ]
+  }
+]

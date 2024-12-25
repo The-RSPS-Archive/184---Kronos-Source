@@ -1,0 +1,18 @@
+[
+  {
+    "ids": [ 6904, 6905 ],
+    "tables": [
+      {
+        "name": "Drops",
+        "weight": 1,
+        "items": [
+          { "id": 13359, "min": 1, "max": 1, "weight": 1 }, //Shayzien helm (1)
+          { "id": 13361, "min": 1, "max": 1, "weight": 1 }, //Shayzien platebody (1)
+          { "id": 13360, "min": 1, "max": 1, "weight": 1 }, //Shayzien greaves (1)
+          { "id": 13357, "min": 1, "max": 1, "weight": 1 }, //Shayzien gloves (1)
+          { "id": 13358, "min": 1, "max": 1, "weight": 1 } //Shayzien boots (1)
+        ]
+      }
+    ]
+  }
+]

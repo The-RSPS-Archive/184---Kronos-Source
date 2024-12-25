@@ -1,0 +1,28 @@
+[
+  {
+    "ids": [ 2167, 2168, 2169, 2170, 2171, 2172 ],
+    "tables": [
+      {
+        "name": "Armour/Weapons",
+        "weight": 1,
+        "items": [
+          { "id": 6522, "min": 9, "max": 29, "weight": 1 }, //Toktz-xil-ul
+          { "id": 6523, "min": 1, "max": 1, "weight": 1 }, //Toktz-xil-ak
+          { "id": 6525, "min": 1, "max": 1, "weight": 1 }, //Toktz-xil-ek
+          { "id": 6568, "min": 1, "max": 1, "weight": 1 } //Obsidian cape
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 200,
+        "items": [
+          { "id": 6529, "min": 1, "max": 57, "weight": 6 }, //Tokkul
+          { "id": 1623, "min": 1, "max": 1, "weight": 3 }, //Uncut sapphire
+          { "id": 1621, "min": 1, "max": 1, "weight": 3 }, //Uncut emerald
+          { "id": 1619, "min": 1, "max": 1, "weight": 3 }, //Uncut ruby
+          { "id": 1617, "min": 1, "max": 1, "weight": 1 } //Uncut diamond
+        ]
+      }
+    ]
+  }
+]

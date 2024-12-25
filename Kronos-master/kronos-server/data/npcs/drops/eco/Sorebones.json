@@ -1,0 +1,65 @@
+[
+  {
+    "ids": [ 561, 562 ],
+    "guaranteed": [
+      { "id": 526, "min": 1, "max": 1 } //Bones
+    ],
+    "tables": [
+      {
+        "name": "Armour/Weapons",
+        "weight": 1,
+        "items": [
+          { "id": 9141, "min": 2, "max": 6, "weight": 1 }, //Steel bolts
+          { "id": 1209, "min": 1, "max": 1, "weight": 1 }, //Mithril dagger
+          { "id": 8926, "min": 1, "max": 1, "weight": 1 }, //Bandana eyepatch (blue)
+          { "id": 8925, "min": 1, "max": 1, "weight": 1 }, //Bandana eyepatch (red)
+          { "id": 1329, "min": 1, "max": 1, "weight": 1 } //Mithril scimitar
+        ]
+      },
+      {
+        "name": "Herbs",
+        "weight": 1,
+        "items": [
+          #Warning: Quantities are guessed (min=1, max=1)
+          { "id": 199, "min": 1, "max": 1, "weight": 1 }, //Grimy guam leaf
+          #Warning: Quantities are guessed (min=1, max=1)
+          { "id": 201, "min": 1, "max": 1, "weight": 1 }, //Grimy marrentill
+          #Warning: Quantities are guessed (min=1, max=1)
+          { "id": 203, "min": 1, "max": 1, "weight": 1 }, //Grimy tarromin
+          #Warning: Quantities are guessed (min=1, max=1)
+          { "id": 205, "min": 1, "max": 1, "weight": 1 }, //Grimy harralander
+          #Warning: Quantities are guessed (min=1, max=1)
+          { "id": 207, "min": 1, "max": 1, "weight": 1 }, //Grimy ranarr weed
+          #Warning: Quantities are guessed (min=1, max=1)
+          { "id": 211, "min": 1, "max": 1, "weight": 1 }, //Grimy avantoe
+          #Warning: Quantities are guessed (min=1, max=1)
+          { "id": 213, "min": 1, "max": 1, "weight": 1 }, //Grimy kwuarm
+          #Warning: Quantities are guessed (min=1, max=1)
+          { "id": 2485, "min": 1, "max": 1, "weight": 1 } //Grimy lantadyme
+        ]
+      },
+      {
+        "name": "Runes",
+        "weight": 1,
+        "items": [
+          { "id": 555, "min": 23, "max": 23, "weight": 1 }, //Water rune
+          { "id": 559, "min": 6, "max": 6, "weight": 1 }, //Body rune
+          { "id": 562, "min": 7, "max": 7, "weight": 1 }, //Chaos rune
+          { "id": 564, "min": 5, "max": 5, "weight": 1 }, //Cosmic rune
+          { "id": 563, "min": 2, "max": 2, "weight": 1 } //Law rune
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 995, "min": 30, "max": 65, "weight": 1 }, //Coins
+          { "id": 313, "min": 10, "max": 10, "weight": 1 }, //Fishing bait
+          { "id": 7863, "min": 1, "max": 1, "weight": 1 }, //Zombie bone
+          { "id": 7157, "min": 1, "max": 1, "weight": 1 }, //Braindeath 'rum'
+          { "id": 1025, "min": 1, "max": 1, "weight": 1 } //Right eye patch
+        ]
+      }
+    ]
+  }
+]

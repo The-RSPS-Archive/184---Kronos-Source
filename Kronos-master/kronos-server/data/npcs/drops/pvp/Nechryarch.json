@@ -1,0 +1,54 @@
+[
+  {
+    "ids": [ 7411, 7412, 7414, 7415 ],
+    "guaranteed": [
+      { "id": 592, "min": 1, "max": 1 }, //Ashes
+      { "id": 995, "min": 3000000, "max": 3000000 } //Ashes
+    ],
+    "tables": [
+      {
+        "name": "Empty",
+        "weight": 4600,
+        "items": []
+      },
+      {
+        "name": "Unique",
+        "weight": 1,
+        "items": [
+          { "id": 20997, "min": 1, "max": 1, "weight": 1 },
+          { "id": 12817, "min": 1, "max": 1, "weight": 9 }
+        ]
+      },
+      {
+        "name": "Unique",
+        "weight": 43,
+        "items": [
+          { "id": 21902, "min": 1, "max": 1, "weight": 3 },
+          { "id": 22326, "min": 1, "max": 1, "weight": 1 },
+          { "id": 22327, "min": 1, "max": 1, "weight": 1 },
+          { "id": 22328, "min": 1, "max": 1, "weight": 1 },
+          { "id": 1038, "min": 1, "max": 1, "weight": 1 },
+          { "id": 1046, "min": 1, "max": 1, "weight": 1 }
+        ]
+      },
+      {
+        "name": "Unique",
+        "weight": 3400,
+        "items": [
+          { "id": 12696, "min": 25, "max": 25, "weight": 40 },
+          { "id": 11738, "min": 2, "max": 2, "weight": 40 },
+          { "id": 537, "min": 50, "max": 50, "weight": 40 },
+          { "id": 1624, "min": 100, "max": 100, "weight": 34 },
+          { "id": 1618, "min": 100, "max": 100, "weight": 30 },
+          { "id": 21298, "min": 1, "max": 1, "weight": 20 },
+          { "id": 21301, "min": 1, "max": 1, "weight": 20 },
+          { "id": 21304, "min": 1, "max": 1, "weight": 20 },
+          { "id": 11840, "min": 1, "max": 1, "weight": 4 },
+          { "id": 20026, "min": 1, "max": 1, "weight": 2 },
+          { "id": 4151, "min": 1, "max": 1, "weight": 1 },
+          { "id": 6585, "min": 1, "max": 1, "weight": 1 }
+        ]
+      }
+    ]
+  }
+]

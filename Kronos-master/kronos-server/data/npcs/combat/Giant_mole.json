@@ -1,0 +1,46 @@
+[
+  { #Giant Mole (230)
+    "ids": [ 5779, 6499 ],
+    "handler": "io.ruin.model.activities.bosses.GiantMole",
+    //Combat Info
+    "hitpoints": 200,
+    "aggressive_level": 460,
+    "max_damage": 21,
+    "attack_style": "CRUSH",
+    "pet": "BABY_MOLE",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 215.0,
+    "slayer_tasks": [ "The Giant Mole" ],
+    //Combat Stats
+    "attack": 200,
+    "strength": 200,
+    "defence": 200,
+    "ranged": 1,
+    "magic": 200,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 60,
+    "slash_defence": 80,
+    "crush_defence": 100,
+    "magic_defence": 80,
+    "ranged_defence": 60,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 2,
+    "respawn_ticks": 15,
+    //Animations
+    "spawn_animation": 3315,
+    "attack_animation": 3312,
+    "defend_animation": 3311,
+    "death_animation": 3310
+  }
+]

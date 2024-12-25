@@ -1,0 +1,41 @@
+---
+identifier: "a339b5c8-16be-4e82-b66e-37c15f5090ef"
+title: "Tynan's Fishing Supplies"
+currency: "COINS"
+accessibleByIronMan: true
+canSellToStore: false
+restockRules:
+  restockTicks: 52
+  restockPerTick: 1
+defaultStock:
+- id: 1925
+  amount: 1000
+  placeholderId: 0
+- id: 303
+  amount: 1000
+  placeholderId: 0
+- id: 305
+  amount: 1000
+  placeholderId: 0
+- id: 307
+  amount: 1000
+  placeholderId: 0
+- id: 311
+  amount: 1000
+  placeholderId: 0
+- id: 301
+  amount: 1000
+  placeholderId: 0
+- id: 313
+  amount: 1000
+  placeholderId: 0
+- id: 13431
+  amount: 1000
+  placeholderId: 0
+- id: 11883
+  amount: 1000
+  price: 300
+  placeholderId: 0
+- id: 13432
+  amount: 1000
+  placeholderId: 0

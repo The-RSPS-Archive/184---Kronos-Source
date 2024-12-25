@@ -1,0 +1,65 @@
+[
+  {
+    "ids": [ 959, 960, 962 ],
+    "tables": [
+      {
+        "name": "Armour",
+        "weight": 1,
+        "items": [
+          { "id": 1197, "min": 1, "max": 1, "weight": 9 }, //Mithril kiteshield
+          { "id": 1147, "min": 1, "max": 1, "weight": 6 }, //Rune med helm
+          { "id": 1113, "min": 1, "max": 1, "weight": 3 }, //Rune chainbody
+          { "id": 1127, "min": 1, "max": 1, "weight": 1 } //Rune platebody
+        ]
+      },
+      {
+        "name": "Weapons",
+        "weight": 1,
+        "items": [
+          { "id": 1353, "min": 1, "max": 1, "weight": 6 }, //Steel axe
+          { "id": 1365, "min": 1, "max": 1, "weight": 6 }, //Steel battleaxe
+          { "id": 1299, "min": 1, "max": 1, "weight": 6 }, //Mithril longsword
+          { "id": 1285, "min": 1, "max": 1, "weight": 3 }, //Mithril sword
+          { "id": 1355, "min": 1, "max": 1, "weight": 3 }, //Mithril axe
+          { "id": 1211, "min": 1, "max": 1, "weight": 3 }, //Adamant dagger
+          { "id": 1331, "min": 1, "max": 1, "weight": 1 }, //Adamant scimitar
+          { "id": 1213, "min": 1, "max": 1, "weight": 1 }, //Rune dagger
+          { "id": 1289, "min": 1, "max": 1, "weight": 1 } //Rune sword
+        ]
+      },
+      {
+        "name": "Ammunition",
+        "weight": 1,
+        "items": [
+          { "id": 564, "min": 2, "max": 2, "weight": 9 }, //Cosmic rune
+          { "id": 563, "min": 3, "max": 3, "weight": 9 }, //Law rune
+          { "id": 565, "min": 7, "max": 7, "weight": 9 }, //Blood rune
+          { "id": 565, "min": 12, "max": 12, "weight": 6 }, //Blood rune
+          { "id": 565, "min": 13, "max": 13, "weight": 6 }, //Blood rune
+          { "id": 565, "min": 19, "max": 19, "weight": 6 }, //Blood rune
+          { "id": 562, "min": 10, "max": 10, "weight": 6 }, //Chaos rune
+          { "id": 560, "min": 18, "max": 18, "weight": 3 }, //Death rune
+          { "id": 560, "min": 28, "max": 28, "weight": 3 }, //Death rune
+          { "id": 554, "min": 37, "max": 37, "weight": 3 }, //Fire rune
+          { "id": 556, "min": 50, "max": 50, "weight": 1 }, //Air rune
+          { "id": 829, "min": 1, "max": 1, "weight": 1 }, //Adamant javelin
+          { "id": 892, "min": 150, "max": 150, "weight": 1 } //Rune arrow
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 995, "min": 28, "max": 460, "weight": 9 }, //Coins
+          { "id": 379, "min": 1, "max": 1, "weight": 6 }, //Lobster
+          { "id": 379, "min": 2, "max": 2, "weight": 6 }, //Lobster
+          { "id": 133, "min": 1, "max": 1, "weight": 6 }, //Defence potion(3)
+          { "id": 163, "min": 1, "max": 1, "weight": 3 }, //Super defence(3)
+          { "id": 145, "min": 1, "max": 1, "weight": 3 }, //Super attack(3)
+          { "id": 157, "min": 1, "max": 1, "weight": 1 }, //Super strength(3)
+          { "id": 13490, "min": 1, "max": 1, "weight": 1 } //Ensouled kalphite head
+        ]
+      }
+    ]
+  }
+]

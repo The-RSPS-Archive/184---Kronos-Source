@@ -1,0 +1,69 @@
+[
+  {
+    "ids": [ 2085, 2086, 2087, 2088, 2089 ],
+    "guaranteed": [
+      { "id": 532, "min": 1, "max": 1 } //Big bones
+    ],
+    "tables": [
+      {
+        "name": "Weapons/Armour",
+        "weight": 1,
+        "items": [
+          { "id": 1067, "min": 1, "max": 1, "weight": 6 }, //Iron platelegs
+          { "id": 1309, "min": 1, "max": 1, "weight": 6 }, //Iron 2h sword
+          { "id": 1353, "min": 1, "max": 1, "weight": 6 }, //Steel axe
+          { "id": 1281, "min": 1, "max": 1, "weight": 3 }, //Steel sword
+          { "id": 1195, "min": 1, "max": 1, "weight": 3 }, //Black kiteshield
+          { "id": 1428, "min": 1, "max": 1, "weight": 1 }, //Mithril mace
+          { "id": 1181, "min": 1, "max": 1, "weight": 1 } //Mithril sq shield
+        ]
+      },
+      {
+        "name": "Runes/Ammunition",
+        "weight": 1,
+        "items": [
+          { "id": 558, "min": 24, "max": 24, "weight": 9 }, //Mind rune
+          { "id": 561, "min": 6, "max": 6, "weight": 6 }, //Nature rune
+          { "id": 555, "min": 12, "max": 12, "weight": 6 }, //Water rune
+          { "id": 559, "min": 37, "max": 37, "weight": 6 }, //Body rune
+          { "id": 563, "min": 3, "max": 3, "weight": 3 }, //Law rune
+          { "id": 564, "min": 4, "max": 4, "weight": 3 }, //Cosmic rune
+          { "id": 560, "min": 3, "max": 3, "weight": 1 }, //Death rune
+          { "id": 565, "min": 2, "max": 2, "weight": 1 }, //Blood rune
+          { "id": 890, "min": 5, "max": 5, "weight": 1 } //Adamant arrow
+        ]
+      },
+      {
+        "name": "Seeds (m)",
+        "weight": 1,
+        "items": [
+          { "id": 5298, "min": 1, "max": 1, "weight": 9 }, //Avantoe seed
+          { "id": 5294, "min": 1, "max": 1, "weight": 9 }, //Harralander seed
+          { "id": 5297, "min": 1, "max": 1, "weight": 9 }, //Irit seed
+          { "id": 5295, "min": 1, "max": 1, "weight": 9 }, //Ranarr seed
+          { "id": 5292, "min": 1, "max": 1, "weight": 6 }, //Marrentill seed
+          { "id": 5293, "min": 1, "max": 1, "weight": 6 }, //Tarromin seed
+          { "id": 5304, "min": 1, "max": 1, "weight": 6 }, //Torstol seed
+          { "id": 5104, "min": 1, "max": 1, "weight": 6 }, //Jangerberry seed
+          { "id": 5100, "min": 1, "max": 1, "weight": 6 }, //Limpwurt seed
+          { "id": 5323, "min": 1, "max": 1, "weight": 3 }, //Strawberry seed
+          { "id": 5311, "min": 1, "max": 1, "weight": 3 }, //Wildblood seed
+          { "id": 5106, "min": 1, "max": 1, "weight": 3 }, //Poison ivy seed
+          { "id": 5321, "min": 1, "max": 1, "weight": 1 }, //Watermelon seed
+          { "id": 5300, "min": 1, "max": 1, "weight": 1 } //Snapdragon seed
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 995, "min": 8, "max": 450, "weight": 6 }, //Coins
+          { "id": 13475, "min": 1, "max": 1, "weight": 6 }, //Ensouled giant head
+          { "id": 1993, "min": 1, "max": 1, "weight": 3 }, //Jug of wine
+          { "id": 447, "min": 1, "max": 1, "weight": 3 }, //Mithril ore
+          { "id": 1963, "min": 1, "max": 1, "weight": 1 } //Banana
+        ]
+      }
+    ]
+  }
+]

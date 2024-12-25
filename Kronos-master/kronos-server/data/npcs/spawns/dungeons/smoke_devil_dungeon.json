@@ -1,0 +1,830 @@
+[
+  {
+    "name": "Black demon",
+    "id": 5876,
+    "x": 1430,
+    "y": 10071,
+    "z": 1,
+    "direction": "EAST",
+    "walkRange": 5
+  },
+  {
+    "name": "Black demon",
+    "id": 5877,
+    "x": 1438,
+    "y": 10068,
+    "z": 1,
+    "direction": "EAST",
+    "walkRange": 4
+  },
+  {
+    "name": "Voice of Yama",
+    "id": 7668,
+    "x": 1439,
+    "y": 10079,
+    "z": 1,
+    "direction": "SOUTH",
+    "walkRange": 3
+  },
+  {
+    "name": "Black demon",
+    "id": 5874,
+    "x": 1441,
+    "y": 10092,
+    "z": 1,
+    "direction": "WEST",
+    "walkRange": 4
+  },
+  {
+    "name": "Black demon",
+    "id": 5874,
+    "x": 1441,
+    "y": 10062,
+    "z": 1,
+    "direction": "SOUTH",
+    "walkRange": 3
+  },
+  {
+    "name": "Black demon",
+    "id": 5877,
+    "x": 1441,
+    "y": 10086,
+    "z": 1,
+    "direction": "NORTH",
+    "walkRange": 3
+  },
+  {
+    "name": "Black demon",
+    "id": 5876,
+    "x": 1449,
+    "y": 10060,
+    "z": 1,
+    "direction": "EAST",
+    "walkRange": 3
+  },
+  {
+    "name": "Black demon",
+    "id": 240,
+    "x": 1450,
+    "y": 10072,
+    "z": 1,
+    "direction": "NORTH",
+    "walkRange": 3
+  },
+  {
+    "name": "Black demon",
+    "id": 240,
+    "x": 1446,
+    "y": 10074,
+    "z": 1,
+    "direction": "SOUTH",
+    "walkRange": 5
+  },
+  {
+    "name": "Black demon",
+    "id": 240,
+    "x": 1444,
+    "y": 10085,
+    "z": 1,
+    "direction": "WEST",
+    "walkRange": 4
+  },
+  {
+    "name": "Black demon",
+    "id": 5877,
+    "x": 1453,
+    "y": 10074,
+    "z": 1,
+    "direction": "NORTH",
+    "walkRange": 3
+  },
+  {
+    "name": "Black demon",
+    "id": 5875,
+    "x": 1447,
+    "y": 10077,
+    "z": 1,
+    "direction": "EAST",
+    "walkRange": 5
+  },
+  {
+    "name": "Greater demon",
+    "id": 2031,
+    "x": 1419,
+    "y": 10088,
+    "z": 2,
+    "direction": "WEST",
+    "walkRange": 3
+  },
+  {
+    "name": "Greater demon",
+    "id": 2030,
+    "x": 1428,
+    "y": 10082,
+    "z": 2,
+    "direction": "EAST",
+    "walkRange": 3
+  },
+  {
+    "name": "Greater demon",
+    "id": 2032,
+    "x": 1427,
+    "y": 10075,
+    "z": 2,
+    "direction": "SOUTH",
+    "walkRange": 2
+  },
+  {
+    "name": "Greater demon",
+    "id": 2031,
+    "x": 1428,
+    "y": 10078,
+    "z": 2,
+    "direction": "NORTH",
+    "walkRange": 2
+  },
+  {
+    "name": "Greater demon",
+    "id": 2032,
+    "x": 1432,
+    "y": 10079,
+    "z": 2,
+    "direction": "NORTH",
+    "walkRange": 3
+  },
+  {
+    "name": "Greater demon",
+    "id": 2030,
+    "x": 1434,
+    "y": 10090,
+    "z": 2,
+    "direction": "WEST",
+    "walkRange": 3
+  },
+  {
+    "name": "Greater demon",
+    "id": 2032,
+    "x": 1439,
+    "y": 10089,
+    "z": 2,
+    "direction": "NORTH",
+    "walkRange": 3
+  },
+  {
+    "name": "Greater demon",
+    "id": 2031,
+    "x": 1444,
+    "y": 10076,
+    "z": 2,
+    "direction": "NORTH",
+    "walkRange": 4
+  },
+  {
+    "name": "Greater demon",
+    "id": 2031,
+    "x": 1442,
+    "y": 10091,
+    "z": 2,
+    "direction": "SOUTH",
+    "walkRange": 3
+  },
+  {
+    "name": "Greater demon",
+    "id": 2030,
+    "x": 1444,
+    "y": 10077,
+    "z": 2,
+    "direction": "NORTH",
+    "walkRange": 4
+  },
+  {
+    "name": "Greater demon",
+    "id": 2032,
+    "x": 1447,
+    "y": 10073,
+    "z": 2,
+    "direction": "EAST",
+    "walkRange": 4
+  },
+  {
+    "name": "Greater demon",
+    "id": 2032,
+    "x": 1446,
+    "y": 10086,
+    "z": 2,
+    "direction": "NORTH",
+    "walkRange": 2
+  },
+  {
+    "name": "Greater demon",
+    "id": 2031,
+    "x": 1448,
+    "y": 10082,
+    "z": 2,
+    "direction": "EAST",
+    "walkRange": 3
+  },
+  {
+    "name": "Greater demon",
+    "id": 2030,
+    "x": 1452,
+    "y": 10090,
+    "z": 2,
+    "direction": "NORTH",
+    "walkRange": 5
+  },
+  {
+    "name": "Greater demon",
+    "id": 2032,
+    "x": 1451,
+    "y": 10084,
+    "z": 2,
+    "direction": "NORTH",
+    "walkRange": 3
+  },
+  {
+    "name": "Greater demon",
+    "id": 2031,
+    "x": 1455,
+    "y": 10091,
+    "z": 2,
+    "direction": "WEST",
+    "walkRange": 6
+  },
+  {
+    "name": "Greater demon",
+    "id": 2032,
+    "x": 1455,
+    "y": 10094,
+    "z": 2,
+    "direction": "WEST",
+    "walkRange": 3
+  },
+  {
+    "name": "Disciple of Yama",
+    "id": 7670,
+    "x": 1456,
+    "y": 10077,
+    "z": 2,
+    "direction": "NORTH",
+    "walkRange": 2
+  },
+  {
+    "name": "Lesser demon",
+    "id": 7664,
+    "x": 1434,
+    "y": 10079,
+    "z": 3,
+    "direction": "NORTH",
+    "walkRange": 4
+  },
+  {
+    "name": "Lesser demon",
+    "id": 7657,
+    "x": 1437,
+    "y": 10081,
+    "z": 3,
+    "direction": "SOUTH",
+    "walkRange": 3
+  },
+  {
+    "name": "Lesser demon",
+    "id": 7656,
+    "x": 1439,
+    "y": 10084,
+    "z": 3,
+    "direction": "EAST",
+    "walkRange": 3
+  },
+  {
+    "name": "Lesser demon",
+    "id": 7664,
+    "x": 1436,
+    "y": 10082,
+    "z": 3,
+    "direction": "WEST",
+    "walkRange": 3
+  },
+  {
+    "name": "Lesser demon",
+    "id": 7657,
+    "x": 1439,
+    "y": 10074,
+    "z": 3,
+    "direction": "EAST",
+    "walkRange": 3
+  },
+  {
+    "name": "Lesser demon",
+    "id": 7656,
+    "x": 1443,
+    "y": 10076,
+    "z": 3,
+    "direction": "SOUTH",
+    "walkRange": 3
+  },
+  {
+    "name": "Lesser demon",
+    "id": 7657,
+    "x": 1444,
+    "y": 10082,
+    "z": 3,
+    "direction": "NORTH",
+    "walkRange": 4
+  },
+  {
+    "name": "Lesser demon",
+    "id": 7664,
+    "x": 1446,
+    "y": 10077,
+    "z": 3,
+    "direction": "WEST",
+    "walkRange": 5
+  },
+  {
+    "name": "Lesser demon",
+    "id": 7656,
+    "x": 1446,
+    "y": 10081,
+    "z": 3,
+    "direction": "NORTH",
+    "walkRange": 2
+  },
+  {
+    "name": "Swamp toad",
+    "id": 1473,
+    "x": 2389,
+    "y": 3050,
+    "z": 0,
+    "direction": "EAST",
+    "walkRange": 4
+  },
+  {
+    "name": "Swamp toad",
+    "id": 1473,
+    "x": 2393,
+    "y": 3047,
+    "z": 0,
+    "direction": "WEST",
+    "walkRange": 5
+  },
+  {
+    "name": "Swamp toad",
+    "id": 1473,
+    "x": 2391,
+    "y": 3046,
+    "z": 0,
+    "direction": "WEST",
+    "walkRange": 3
+  },
+  {
+    "name": "Swamp toad",
+    "id": 1473,
+    "x": 2399,
+    "y": 3047,
+    "z": 0,
+    "direction": "EAST",
+    "walkRange": 3
+  },
+  {
+    "name": "Swamp toad",
+    "id": 1473,
+    "x": 2398,
+    "y": 3048,
+    "z": 0,
+    "direction": "EAST",
+    "walkRange": 3
+  },
+  {
+    "name": "Swamp toad",
+    "id": 1473,
+    "x": 2394,
+    "y": 3059,
+    "z": 0,
+    "direction": "EAST",
+    "walkRange": 2
+  },
+  {
+    "name": "Swamp toad",
+    "id": 1473,
+    "x": 2397,
+    "y": 3039,
+    "z": 0,
+    "direction": "WEST",
+    "walkRange": 2
+  },
+  {
+    "name": "Swamp toad",
+    "id": 1473,
+    "x": 2395,
+    "y": 3049,
+    "z": 0,
+    "direction": "SOUTH",
+    "walkRange": 4
+  },
+  {
+    "name": "Swamp toad",
+    "id": 1473,
+    "x": 2398,
+    "y": 3047,
+    "z": 0,
+    "direction": "SOUTH",
+    "walkRange": 2
+  },
+  {
+    "name": "Swamp toad",
+    "id": 1473,
+    "x": 2399,
+    "y": 3048,
+    "z": 0,
+    "direction": "EAST",
+    "walkRange": 2
+  },
+  {
+    "name": "Swamp toad",
+    "id": 1473,
+    "x": 2399,
+    "y": 3036,
+    "z": 0,
+    "direction": "NORTH",
+    "walkRange": 3
+  },
+  {
+    "name": "Swamp toad",
+    "id": 1473,
+    "x": 2403,
+    "y": 3043,
+    "z": 0,
+    "direction": "NORTH",
+    "walkRange": 3
+  },
+  {
+    "name": "Breive",
+    "id": 7654,
+    "x": 2410,
+    "y": 3060,
+    "z": 0,
+    "direction": "EAST",
+    "walkRange": 3
+  },
+  {
+    "name": "Gargh",
+    "id": 885,
+    "x": 2404,
+    "y": 3042,
+    "z": 0,
+    "direction": "EAST",
+    "walkRange": 3
+  },
+  {
+    "name": "Smoke devil",
+    "id": 498,
+    "x": 2368,
+    "y": 9441,
+    "z": 0,
+    "direction": "EAST",
+    "walkRange": 4
+  },
+  {
+    "name": "Smoke devil",
+    "id": 498,
+    "x": 2366,
+    "y": 9446,
+    "z": 0,
+    "direction": "SOUTH",
+    "walkRange": 3
+  },
+  {
+    "name": "Smoke devil",
+    "id": 498,
+    "x": 2380,
+    "y": 9427,
+    "z": 0,
+    "direction": "EAST",
+    "walkRange": 4
+  },
+  {
+    "name": "Smoke devil",
+    "id": 498,
+    "x": 2384,
+    "y": 9457,
+    "z": 0,
+    "direction": "EAST",
+    "walkRange": 3
+  },
+  {
+    "name": "Smoke devil",
+    "id": 498,
+    "x": 2384,
+    "y": 9447,
+    "z": 0,
+    "direction": "EAST",
+    "walkRange": 4
+  },
+  {
+    "name": "Smoke devil",
+    "id": 498,
+    "x": 2384,
+    "y": 9433,
+    "z": 0,
+    "direction": "SOUTH",
+    "walkRange": 4
+  },
+  {
+    "name": "Smoke devil",
+    "id": 498,
+    "x": 2384,
+    "y": 9450,
+    "z": 0,
+    "direction": "EAST",
+    "walkRange": 5
+  },
+  {
+    "name": "Smoke devil",
+    "id": 498,
+    "x": 2386,
+    "y": 9456,
+    "z": 0,
+    "direction": "WEST",
+    "walkRange": 4
+  },
+  {
+    "name": "Smoke devil",
+    "id": 498,
+    "x": 2388,
+    "y": 9423,
+    "z": 0,
+    "direction": "SOUTH",
+    "walkRange": 7
+  },
+  {
+    "name": "Smoke devil",
+    "id": 498,
+    "x": 2392,
+    "y": 9440,
+    "z": 0,
+    "direction": "EAST",
+    "walkRange": 4
+  },
+  {
+    "name": "Smoke devil",
+    "id": 498,
+    "x": 2351,
+    "y": 9453,
+    "z": 0,
+    "direction": "WEST",
+    "walkRange": 3
+  },
+  {
+    "name": "Smoke devil",
+    "id": 498,
+    "x": 2391,
+    "y": 9435,
+    "z": 0,
+    "direction": "NORTH",
+    "walkRange": 7
+  },
+  {
+    "name": "Smoke devil",
+    "id": 498,
+    "x": 2351,
+    "y": 9451,
+    "z": 0,
+    "direction": "NORTH",
+    "walkRange": 3
+  },
+  {
+    "name": "Smoke devil",
+    "id": 498,
+    "x": 2397,
+    "y": 9451,
+    "z": 0,
+    "direction": "EAST",
+    "walkRange": 4
+  },
+  {
+    "name": "Smoke devil",
+    "id": 498,
+    "x": 2361,
+    "y": 9445,
+    "z": 0,
+    "direction": "SOUTH",
+    "walkRange": 3
+  },
+  {
+    "name": "Smoke devil",
+    "id": 498,
+    "x": 2394,
+    "y": 9428,
+    "z": 0,
+    "direction": "WEST",
+    "walkRange": 4
+  },
+  {
+    "name": "Thermonuclear smoke devil",
+    "id": 499,
+    "x": 2360,
+    "y": 9452,
+    "z": 0,
+    "direction": "NORTH",
+    "walkRange": 3
+  },
+  {
+    "name": "Smoke devil",
+    "id": 498,
+    "x": 2394,
+    "y": 9445,
+    "z": 0,
+    "direction": "WEST",
+    "walkRange": 3
+  },
+  {
+    "name": "Smoke devil",
+    "id": 498,
+    "x": 2365,
+    "y": 9456,
+    "z": 0,
+    "direction": "NORTH",
+    "walkRange": 5
+  },
+  {
+    "name": "Smoke devil",
+    "id": 498,
+    "x": 2400,
+    "y": 9457,
+    "z": 0,
+    "direction": "WEST",
+    "walkRange": 1
+  },
+  {
+    "name": "Smoke devil",
+    "id": 498,
+    "x": 2403,
+    "y": 9420,
+    "z": 0,
+    "direction": "EAST",
+    "walkRange": 5
+  },
+  {
+    "name": "Smoke devil",
+    "id": 498,
+    "x": 2398,
+    "y": 9446,
+    "z": 0,
+    "direction": "NORTH",
+    "walkRange": 7
+  },
+  {
+    "name": "Smoke devil",
+    "id": 498,
+    "x": 2404,
+    "y": 9453,
+    "z": 0,
+    "direction": "NORTH",
+    "walkRange": 4
+  },
+  {
+    "name": "Smoke devil",
+    "id": 498,
+    "x": 2403,
+    "y": 9436,
+    "z": 0,
+    "direction": "WEST",
+    "walkRange": 5
+  },
+  {
+    "name": "Smoke devil",
+    "id": 498,
+    "x": 2404,
+    "y": 9432,
+    "z": 0,
+    "direction": "WEST",
+    "walkRange": 3
+  },
+  {
+    "name": "Smoke devil",
+    "id": 498,
+    "x": 2412,
+    "y": 9460,
+    "z": 0,
+    "direction": "WEST",
+    "walkRange": 4
+  },
+  {
+    "name": "Smoke devil",
+    "id": 498,
+    "x": 2414,
+    "y": 9451,
+    "z": 0,
+    "direction": "SOUTH",
+    "walkRange": 3
+  },
+  {
+    "name": "Smoke devil",
+    "id": 498,
+    "x": 2411,
+    "y": 9422,
+    "z": 0,
+    "direction": "NORTH",
+    "walkRange": 4
+  },
+  {
+    "name": "Smoke devil",
+    "id": 498,
+    "x": 2409,
+    "y": 9423,
+    "z": 0,
+    "direction": "SOUTH",
+    "walkRange": 2
+  },
+  {
+    "name": "Smoke devil",
+    "id": 498,
+    "x": 2414,
+    "y": 9431,
+    "z": 0,
+    "direction": "NORTH",
+    "walkRange": 1
+  },
+  {
+    "name": "Smoke devil",
+    "id": 498,
+    "x": 2414,
+    "y": 9442,
+    "z": 0,
+    "direction": "SOUTH",
+    "walkRange": 3
+  },
+  {
+    "name": "Smoke devil",
+    "id": 498,
+    "x": 2421,
+    "y": 9452,
+    "z": 0,
+    "direction": "SOUTH",
+    "walkRange": 3
+  },
+  {
+    "name": "Black demon",
+    "id": 5874,
+    "x": 1419,
+    "y": 10071,
+    "z": 1,
+    "direction": "NORTH",
+    "walkRange": 3
+  },
+  {
+    "name": "Black demon",
+    "id": 5876,
+    "x": 1420,
+    "y": 10076,
+    "z": 1,
+    "direction": "EAST",
+    "walkRange": 3
+  },
+  {
+    "name": "Smoke devil",
+    "id": 498,
+    "x": 2420,
+    "y": 9436,
+    "z": 0,
+    "direction": "NORTH",
+    "walkRange": 3
+  },
+  {
+    "name": "Smoke devil",
+    "id": 498,
+    "x": 2420,
+    "y": 9458,
+    "z": 0,
+    "direction": "WEST",
+    "walkRange": 3
+  },
+  {
+    "name": "Black demon",
+    "id": 240,
+    "x": 1429,
+    "y": 10087,
+    "z": 1,
+    "direction": "NORTH",
+    "walkRange": 3
+  },
+  {
+    "name": "Smoke devil",
+    "id": 498,
+    "x": 2425,
+    "y": 9445,
+    "z": 0,
+    "direction": "EAST",
+    "walkRange": 3
+  },
+  {
+    "name": "Black demon",
+    "id": 5874,
+    "x": 1432,
+    "y": 10066,
+    "z": 1,
+    "direction": "NORTH",
+    "walkRange": 2
+  }
+]

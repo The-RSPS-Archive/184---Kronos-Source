@@ -1,0 +1,38 @@
+---
+identifier: "50cddd81-4869-45b4-bc32-baa2a5814861"
+title: "Shanomi's Warrior Guild Token Exchange"
+currency: "WARRIOR_GUILD_TOKEN"
+accessibleByIronMan: true
+canSellToStore: false
+restockRules:
+  restockTicks: 52
+  restockPerTick: 1
+defaultStock:
+- id: 10549
+  amount: 1000
+  price: 500
+  placeholderId: 0
+- id: 10548
+  amount: 1000
+  price: 750
+  placeholderId: 0
+- id: 10550
+  amount: 1000
+  price: 500
+  placeholderId: 0
+- id: 10547
+  amount: 1000
+  price: 500
+  placeholderId: 0
+- id: 10555
+  amount: 1000
+  price: 100
+  placeholderId: 0
+- id: 10553
+  amount: 1000
+  price: 750
+  placeholderId: 0
+- id: 10552
+  amount: 1000
+  price: 500
+  placeholderId: 0

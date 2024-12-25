@@ -1,0 +1,133 @@
+[
+  { #Hellhound (122)
+    "ids": [ 104, 105, 135, 7256 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 116,
+    "aggressive_level": 244,
+    "max_damage": 11,
+    "attack_style": "STAB",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 116.0,
+    "slayer_tasks": [ "Hellhounds" ],
+    //Combat Stats
+    "attack": 105,
+    "strength": 104,
+    "defence": 102,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 0,
+    "crush_defence": 0,
+    "magic_defence": 0,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 5,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 6562,
+    "defend_animation": 6566,
+    "death_animation": 6576
+  },
+    { #Hellhound (122)
+    "ids": [ 135 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 116,
+    "aggressive_level": 244,
+    "max_damage": 11,
+    "attack_style": "STAB",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 116.0,
+    "slayer_tasks": [ ],
+    //Combat Stats
+    "attack": 105,
+    "strength": 104,
+    "defence": 102,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 0,
+    "crush_defence": 0,
+    "magic_defence": 0,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 5,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 6562,
+    "defend_animation": 6566,
+    "death_animation": 6576,
+	//Misc
+	"combat_xp_modifier": 0
+  },
+  { #Hellhound (127)
+    "ids": [ 3133, 7877 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 116,
+    "aggressive_level": 254,
+    "max_damage": 13,
+    "attack_style": "CRUSH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 116.0,
+    "slayer_tasks": [ "Hellhounds" ],
+    //Combat Stats
+    "attack": 107,
+    "strength": 116,
+    "defence": 106,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 0,
+    "crush_defence": 0,
+    "magic_defence": 0,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 5,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 6581,
+    "defend_animation": 6578,
+    "death_animation": 6576
+  }
+]

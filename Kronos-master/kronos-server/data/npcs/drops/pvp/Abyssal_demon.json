@@ -1,0 +1,79 @@
+[
+  {
+    "ids": [ 415, 416, 7241 ],
+    "guaranteed": [
+      { "id": 592, "min": 1, "max": 1 } //Ashes
+    ],
+    "tables": [
+      {
+        "name": "Weapons",
+        "weight": 3,
+        "items": [
+          { "id": 1283, "min": 1, "max": 1, "weight": 500 }, //Black sword
+          { "id": 1361, "min": 1, "max": 1, "weight": 500 }, //Black axe
+          { "id": 1365, "min": 1, "max": 1, "weight": 500 }, //Steel battleaxe
+          { "id": 1319, "min": 1, "max": 1, "weight": 500 }, //Rune 2h sword
+          { "id": 4151, "min": 1, "max": 1, "weight": 50 }, //Abyssal whip
+          { "id": 13265, "min": 1, "max": 1, "weight": 1 } //Abyssal dagger
+        ]
+      },
+      {
+        "name": "Armour",
+        "weight": 1,
+        "items": [
+          { "id": 1197, "min": 1, "max": 1, "weight": 1 }, //Mithril kiteshield
+          { "id": 1113, "min": 1, "max": 1, "weight": 1 }, //Rune chainbody
+          { "id": 1147, "min": 1, "max": 1, "weight": 1 } //Rune med helm
+        ]
+      },
+      {
+        "name": "Herbs",
+        "weight": 5,
+        "items": [
+          { "id": 199, "min": 1, "max": 1, "weight": 10 }, //Grimy guam leaf
+          { "id": 201, "min": 1, "max": 1, "weight": 10 }, //Grimy marrentill
+          { "id": 203, "min": 1, "max": 1, "weight": 10 }, //Grimy tarromin
+          { "id": 205, "min": 1, "max": 1, "weight": 5 }, //Grimy harralander
+          { "id": 207, "min": 1, "max": 1, "weight": 5 }, //Grimy ranarr weed
+          { "id": 209, "min": 1, "max": 1, "weight": 5 }, //Grimy irit leaf
+          { "id": 211, "min": 1, "max": 1, "weight": 5 }, //Grimy avantoe
+          { "id": 213, "min": 1, "max": 1, "weight": 5 }, //Grimy kwuarm
+          { "id": 215, "min": 1, "max": 1, "weight": 5 }, //Grimy cadantine
+          { "id": 2485, "min": 1, "max": 1, "weight": 1 }, //Grimy lantadyme
+          { "id": 217, "min": 1, "max": 1, "weight": 1 } //Grimy dwarf weed
+        ]
+      },
+      {
+        "name": "Runes",
+        "weight": 5,
+        "items": [
+          { "id": 556, "min": 50, "max": 50, "weight": 10 }, //Air rune
+          { "id": 565, "min": 7, "max": 7, "weight": 10 }, //Blood rune
+          { "id": 562, "min": 10, "max": 10, "weight": 10 }, //Chaos rune
+          { "id": 563, "min": 3, "max": 3, "weight": 1 } //Law rune
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 3,
+        "items": [
+          { "id": 995, "min": 30, "max": 30, "weight": 100 }, //Coins
+          { "id": 995, "min": 44, "max": 44, "weight": 100 }, //Coins
+          { "id": 995, "min": 132, "max": 132, "weight": 100 }, //Coins
+          { "id": 995, "min": 220, "max": 220, "weight": 100 }, //Coins
+          { "id": 995, "min": 460, "max": 460, "weight": 100 }, //Coins
+          { "id": 379, "min": 1, "max": 1, "weight": 50 }, //Lobster
+          { "id": 7937, "min": 60, "max": 60, "weight": 50 }, //Pure essence (noted)
+          { "id": 1454, "min": 1, "max": 1, "weight": 50 }, //Cosmic talisman
+          { "id": 1452, "min": 1, "max": 1, "weight": 50 }, //Chaos talisman
+          { "id": 2361, "min": 1, "max": 1, "weight": 20 }, //Adamantite bar
+          { "id": 133, "min": 1, "max": 1, "weight": 20 }, //Defence potion(3)
+          { "id": 13508, "min": 1, "max": 1, "weight": 20 }, //Ensouled abyssal head
+          { "id": 2722, "min": 1, "max": 1, "weight": 10 }, //Clue scroll (hard)
+          { "id": 12073, "min": 1, "max": 1, "weight": 10 }, //Clue scroll (elite)
+          { "id": 7979, "min": 1, "max": 1, "weight": 1 } //Abyssal head
+        ]
+      }
+    ]
+  }
+]

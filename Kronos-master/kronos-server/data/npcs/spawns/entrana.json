@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Monk of Entrana",
+    "id": 1169,
+    "x": 2833,
+    "y": 3336,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0
+  },
+  {
+    "name": "Monk of Entrana",
+    "id": 1168,
+    "x": 2835,
+    "y": 3336,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0
+  },
+  {
+    "name": "Monk of Entrana",
+    "id": 1170,
+    "x": 2837,
+    "y": 3335,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0
+  }
+]

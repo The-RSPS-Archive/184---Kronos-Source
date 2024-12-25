@@ -1,0 +1,29 @@
+[
+  {
+    "ids": [ 1834, 3141 ],
+    "guaranteed": [
+      { "id": 532, "min": 1, "max": 1 } //Big bones
+    ],
+    "tables": [
+      {
+        "name": "Gems",
+        "weight": 1,
+        "items": [
+          { "id": 1623, "min": 1, "max": 1, "weight": 6 }, //Uncut sapphire
+          { "id": 1621, "min": 1, "max": 1, "weight": 6 }, //Uncut emerald
+          { "id": 1619, "min": 1, "max": 1, "weight": 3 }, //Uncut ruby
+          { "id": 1617, "min": 1, "max": 1, "weight": 1 } //Uncut diamond
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 9016, "min": 1, "max": 1, "weight": 30 }, //Gorak claws
+          { "id": 1462, "min": 1, "max": 1, "weight": 30 },  //Nature talisman
+          { "id": 1249, "min": 1, "max": 1, "weight": 1 } //Dragon spear
+        ]
+      }
+    ]
+  }
+]

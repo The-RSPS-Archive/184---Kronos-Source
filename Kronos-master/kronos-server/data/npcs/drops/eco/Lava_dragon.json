@@ -1,0 +1,73 @@
+[
+  {
+    "ids": [ 6593 ],
+    "guaranteed": [
+      { "id": 11943, "min": 1, "max": 1 }, //Lava dragon bones
+      { "id": 1747, "min": 1, "max": 1 }, //Black dragonhide
+      { "id": 11992, "min": 1, "max": 1 } //Lava scale
+    ],
+    "tables": [
+      {
+        "name": "Runes/Ammunition",
+        "weight": 10,
+        "items": [
+          { "id": 811, "min": 12, "max": 12, "weight": 9 }, //Rune dart
+          { "id": 830, "min": 20, "max": 20, "weight": 9 }, //Rune javelin
+          { "id": 554, "min": 75, "max": 75, "weight": 9 }, //Fire rune
+          { "id": 4699, "min": 15, "max": 30, "weight": 6 }, //Lava rune
+          { "id": 868, "min": 8, "max": 8, "weight": 3 }, //Rune knife
+          { "id": 9144, "min": 30, "max": 30, "weight": 3 }, //Runite bolts
+          { "id": 560, "min": 20, "max": 20, "weight": 3 }, //Death rune
+          { "id": 565, "min": 20, "max": 20, "weight": 3 }, //Blood rune
+          { "id": 563, "min": 20, "max": 20, "weight": 3 }, //Law rune
+          { "id": 9194, "min": 12, "max": 12, "weight": 1 }, //Onyx bolt tips
+          { "id": 19582, "min": 15, "max": 15, "weight": 1 } //Dragon javelin heads
+        ]
+      },
+      {
+        "name": "Weapons/Armour",
+        "weight": 10,
+        "items": [
+          { "id": 1317, "min": 1, "max": 1, "weight": 9 }, //Adamant 2h sword
+          { "id": 1303, "min": 1, "max": 1, "weight": 6 }, //Rune longsword
+          { "id": 3053, "min": 1, "max": 1, "weight": 6 }, //Lava battlestaff
+          { "id": 1359, "min": 1, "max": 1, "weight": 6 }, //Rune axe
+          { "id": 1123, "min": 1, "max": 1, "weight": 3 }, //Adamant platebody
+          { "id": 1201, "min": 1, "max": 1, "weight": 3 }, //Rune kiteshield
+          { "id": 1147, "min": 1, "max": 1, "weight": 1 }, //Rune med helm
+          { "id": 1163, "min": 1, "max": 1, "weight": 1 } //Rune full helm
+        ]
+      },
+      {
+        "name": "Herbs",
+        "weight": 10,
+        "items": [
+          { "id": 199, "min": 1, "max": 1, "weight": 12 }, //Grimy guam leaf
+          { "id": 201, "min": 1, "max": 1, "weight": 9 }, //Grimy marrentill
+          { "id": 203, "min": 1, "max": 1, "weight": 6 }, //Grimy tarromin
+          { "id": 205, "min": 1, "max": 1, "weight": 6 }, //Grimy harralander
+          { "id": 207, "min": 1, "max": 1, "weight": 6 }, //Grimy ranarr weed
+          { "id": 209, "min": 1, "max": 1, "weight": 3 }, //Grimy irit leaf
+          { "id": 211, "min": 1, "max": 1, "weight": 3 }, //Grimy avantoe
+          { "id": 213, "min": 1, "max": 1, "weight": 3 }, //Grimy kwuarm
+          { "id": 215, "min": 1, "max": 1, "weight": 1 }, //Grimy cadantine
+          { "id": 2485, "min": 1, "max": 1, "weight": 1 }, //Grimy lantadyme
+          { "id": 217, "min": 1, "max": 1, "weight": 1 } //Grimy dwarf weed
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 995, "min": 66, "max": 3000, "weight": 50 }, //Coins
+          { "id": 1442, "min": 1, "max": 1, "weight": 25 }, //Fire talisman
+          { "id": 570, "min": 15, "max": 15, "weight": 12 }, //Fire orb (noted)
+          { "id": 1897, "min": 3, "max": 3, "weight": 12 }, //Chocolate cake
+          { "id": 2361, "min": 2, "max": 2, "weight": 6 }, //Adamantite bar
+          { "id": 12073, "min": 1, "max": 1, "weight": 3 }, //Clue scroll (elite)
+          { "id": 11286, "min": 1, "max": 1, "weight": 1 } //Draconic visage
+        ]
+      }
+    ]
+  }
+]

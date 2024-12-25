@@ -1,0 +1,45 @@
+[
+  { #Black dragon (227)
+    "ids": [ 252, 253, 254, 255, 256, 257, 258, 259, 7861, 7862, 7863 ],
+    "handler": "io.ruin.model.activities.miscpvm.dragons.ChromaticDragon",
+    //Combat Info
+    "hitpoints": 190,
+    "aggressive_level": 454,
+    "max_damage": 21,
+    "attack_style": "SLASH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 199.5,
+    "slayer_tasks": [ "Black Dragons" ],
+    //Combat Stats
+    "attack": 200,
+    "strength": 200,
+    "defence": 200,
+    "ranged": 1,
+    "magic": 100,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 50,
+    "slash_defence": 70,
+    "crush_defence": 70,
+    "magic_defence": 60,
+    "ranged_defence": 50,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": false,
+    //Speeds
+    "attack_ticks": 6,
+    "death_ticks": 5,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 80,
+    "defend_animation": 89,
+    "death_animation": 92
+  }
+]

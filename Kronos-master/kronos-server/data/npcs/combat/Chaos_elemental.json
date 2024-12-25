@@ -1,0 +1,46 @@
+[
+  { #Chaos Elemental (305)
+    "ids": [ 2054, 6505 ],
+    "handler": "io.ruin.model.activities.wilderness.bosses.ChaosElemental",
+    //Combat Info
+    "hitpoints": 250,
+    "aggressive_level": 610,
+    "max_damage": 28,
+    "attack_style": "CRUSH",
+    "pet": "CHAOS_ELEMENTAL",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 250.0,
+    "slayer_tasks": [ "The Chaos Elemental" ],
+    //Combat Stats
+    "attack": 270,
+    "strength": 270,
+    "defence": 270,
+    "ranged": 270,
+    "magic": 270,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 70,
+    "slash_defence": 70,
+    "crush_defence": 70,
+    "magic_defence": 70,
+    "ranged_defence": 70,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 5,
+    "death_ticks": 5,
+    "respawn_ticks": 150,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 3146,
+    "defend_animation": 3145,
+    "death_animation": 3147
+  }
+]

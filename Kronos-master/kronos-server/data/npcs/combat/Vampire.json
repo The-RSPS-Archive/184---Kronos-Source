@@ -1,0 +1,131 @@
+[
+  { #Vampire (61)
+    "ids": [ 3237 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 40,
+    "aggressive_level": 122,
+    "max_damage": 7,
+    "attack_style": "SLASH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 40.0,
+    "slayer_tasks": [ "Vampyres" ],
+    //Combat Stats
+    "attack": 55,
+    "strength": 60,
+    "defence": 55,
+    "ranged": 1,
+    "magic": 40,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 0,
+    "crush_defence": 0,
+    "magic_defence": 0,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 2,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 422,
+    "defend_animation": 424,
+    "death_animation": 836
+  },
+  { #Vampire (72)
+    "ids": [ 3234, 6529 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 50,
+    "aggressive_level": 144,
+    "max_damage": 8,
+    "attack_style": "SLASH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 50.0,
+    "slayer_tasks": [ "Vampyres" ],
+    //Combat Stats
+    "attack": 65,
+    "strength": 70,
+    "defence": 65,
+    "ranged": 1,
+    "magic": 50,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 0,
+    "crush_defence": 0,
+    "magic_defence": 0,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 2,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 422,
+    "defend_animation": 424,
+    "death_animation": 836
+  },
+  { #Vampire (77)
+    "ids": [ 3137 ],
+    "handler": "",
+    //Combat Info
+    "hitpoints": 60,
+    "aggressive_level": 154,
+    "max_damage": 8,
+    "attack_style": "SLASH",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 60.0,
+    "slayer_tasks": [ "Vampyres" ],
+    //Combat Stats
+    "attack": 65,
+    "strength": 66,
+    "defence": 81,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 0,
+    "slash_attack": 0,
+    "crush_attack": 0,
+    "magic_attack": 0,
+    "ranged_attack": 0,
+    //Defensive Stats
+    "stab_defence": 0,
+    "slash_defence": 0,
+    "crush_defence": 0,
+    "magic_defence": 0,
+    "ranged_defence": 0,
+    //Immunites
+    "poison_immunity": false,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 3,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": -1,
+    "attack_animation": 1264,
+    "defend_animation": 424,
+    "death_animation": 836
+  }
+]

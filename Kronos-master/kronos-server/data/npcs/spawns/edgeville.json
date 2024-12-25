@@ -1,0 +1,430 @@
+[
+  {
+    "name": "Fairy Fixit",
+    "id": 7333,
+    "x": 3131,
+    "y": 3498,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2,
+    "world": "ECO",
+    "shopOptions": {
+      "trade": "57466715-a9d7-4284-bfc2-190ce93e07f2"
+    }
+  },
+  {
+    "name": "Emblem Trader",
+    "id": 315,
+    "x": 3089,
+    "y": 3503,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2,
+    "world": "ECO"
+  },
+  {
+    "name": "Tournament Manager",
+    "id": 7316,
+    "x": 3112,
+    "y": 3513,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0,
+    "world": "ECO"
+  },
+  {
+    "name": "Horvik",
+    "id": 2882,
+    "x": 3076,
+    "y": 3511,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0,
+    "world": "ECO"
+  },
+  {
+    "name": "Man",
+    "id": 3080,
+    "x": 3080,
+    "y": 3503,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3,
+    "world": "ECO"
+  },
+  {
+    "name": "Portal Mage",
+    "id": 7064,
+    "x": 3084,
+    "y": 3498,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Portal Mage",
+    "id": 7064,
+    "x": 3082,
+    "y": 3496,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0
+  },
+  {
+    "name": "Portal Mage",
+    "id": 7064,
+    "x": 3084,
+    "y": 3494,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 0
+  },
+  {
+    "name": "Portal Mage",
+    "id": 7064,
+    "x": 3086,
+    "y": 3496,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 0
+  },
+  {
+    "name": "Tournament Manager",
+    "id": 7316,
+    "x": 3078,
+    "y": 3495,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0
+  },
+  {
+    "name": "Donation Manager",
+    "id": 2108,
+    "x": 3095,
+    "y": 3499,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0,
+    "shopOptions": {
+      "Open-shop": "545d3f40-361e-42ce-84bc-4681264685de"
+    }
+  },
+  {
+    "name": "Vote Manager",
+    "id": 1815,
+    "x": 3096,
+    "y": 3499,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0,
+    "shopOptions": {
+      "trade": "aecef817-39c1-4a22-9ee9-2815da9dd3df"
+    }
+  },
+  {
+    "name": "Shop",
+    "id": 5081,
+    "x": 3077,
+    "y": 3513,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0,
+    "shopOptions": {
+      "magic": "c37bac0e-fbea-4dac-a943-cac6c84042c1",
+      "armour": "c37bac0e-fbea-4dac-a943-cac6c84042c1",
+      "ironman": "c37bac0e-fbea-4dac-a943-cac6c84042c1"
+    }
+  },
+  {
+    "name": "Shop",
+    "id": 5051,
+    "x": 3078,
+    "y": 3513,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0,
+    "shopOptions": {
+      "weapons": "994d3225-768e-4ea9-8aa4-d351910b26bb",
+      "armour": "994d3225-768e-4ea9-8aa4-d351910b26bb",
+      "ironman": "994d3225-768e-4ea9-8aa4-d351910b26bb"
+    }
+  },
+  {
+    "name": "Shop",
+    "id": 2153,
+    "x": 3079,
+    "y": 3513,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0,
+    "shopOptions": {
+      "melee": "183ba085-4bec-44e0-96b5-50752b4a7ec9",
+      "armour": "183ba085-4bec-44e0-96b5-50752b4a7ec9",
+      "ironman": "183ba085-4bec-44e0-96b5-50752b4a7ec9"
+    }
+  },
+  {
+    "name": "Max hit dummy",
+    "id": 2668,
+    "x": 3085,
+    "y": 3508,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0
+  },
+  {
+    "name": "Max hit dummy",
+    "id": 2668,
+    "x": 3085,
+    "y": 3510,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0
+  },
+  {
+    "name": "Max hit dummy",
+    "id": 2668,
+    "x": 3085,
+    "y": 3512,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0
+  },
+  {
+    "name": "Banker",
+    "id": 3888,
+    "x": 3096,
+    "y": 3489,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 0
+  },
+  {
+    "name": "Banker",
+    "id": 3888,
+    "x": 3096,
+    "y": 3491,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 0
+  },
+  {
+    "name": "Banker",
+    "id": 3888,
+    "x": 3096,
+    "y": 3492,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 0
+  },
+  {
+    "name": "Banker",
+    "id": 3888,
+    "x": 3098,
+    "y": 3492,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 0
+  },
+  {
+    "name": "Runa",
+    "id": 1078,
+    "x": 3078,
+    "y": 3497,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0,
+    "shopOptions": {
+      "trade": "347e6721-8007-444b-8249-736036d84ab4"
+    }
+  },
+  {
+    "name": "Make-over mage",
+    "id": 1307,
+    "x": 3090,
+    "y": 3498,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 0
+  },
+  {
+    "name": "Security Advisor",
+    "id": 5442,
+    "x": 3093,
+    "y": 3488,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 0
+  },
+  {
+    "name": "Richard",
+    "id": 2200,
+    "x": 3100,
+    "y": 3517,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2,
+    "shopOptions": {
+      "trade": "204b1cb6-f628-4f91-96c9-07941921a1e7"
+    }
+  },
+  {
+    "name": "Banker",
+    "id": 3888,
+    "x": 3285,
+    "y": 9443,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0
+  },
+  {
+    "name": "Grand Exchange Clerk",
+    "id": 2148,
+    "x": 3091,
+    "y": 3496,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0
+  },
+  {
+    "name": "Grand Exchange Clerk",
+    "id": 2149,
+    "x": 3091,
+    "y": 3494,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0
+  },
+  {
+    "name": "Ironman",
+    "id": 311,
+    "x": 3076,
+    "y": 3508,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0
+  },
+  {
+    "name": "Krystilia",
+    "id": 7663,
+    "x": 3109,
+    "y": 3515,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0,
+    "shopOptions": {
+      "trade": "c8918239-a49a-43d7-b465-759eebd2a67b"
+    }
+  },
+  {
+    "name": "Twiggy O\u0027Korn",
+    "id": 5527,
+    "x": 3108,
+    "y": 3507,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2,
+    "shopOptions": {
+      "rewards": "afd8d69d-37c8-44d9-bfec-680bfaf4dfa4"
+    }
+  },
+  {
+    "name": "Monk",
+    "id": 2579,
+    "x": 3050,
+    "y": 3492,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Chicken",
+    "id": 2804,
+    "x": 3050,
+    "y": 3516,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Ram",
+    "id": 1265,
+    "x": 3052,
+    "y": 3517,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Rooster",
+    "id": 2803,
+    "x": 3053,
+    "y": 3517,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Monk",
+    "id": 2579,
+    "x": 3053,
+    "y": 3491,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Chicken",
+    "id": 2804,
+    "x": 3054,
+    "y": 3516,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Abbot Langley",
+    "id": 2577,
+    "x": 3057,
+    "y": 3484,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Black Knight",
+    "id": 508,
+    "x": 3036,
+    "y": 3505,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Monk",
+    "id": 2579,
+    "x": 3046,
+    "y": 3484,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Monk",
+    "id": 2579,
+    "x": 3045,
+    "y": 3496,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Brother Althric",
+    "id": 1397,
+    "x": 3048,
+    "y": 3506,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  }
+]

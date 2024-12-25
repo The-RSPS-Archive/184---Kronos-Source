@@ -1,0 +1,236 @@
+[
+  {
+    "name": "Man",
+    "id": 3082,
+    "x": 2884,
+    "y": 3174,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 7
+  },
+  {
+    "name": "Trader Crewmember",
+    "id": 1331,
+    "x": 2954,
+    "y": 3157,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Trader Crewmember",
+    "id": 1333,
+    "x": 2954,
+    "y": 3152,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Customs officer",
+    "id": 3648,
+    "x": 2953,
+    "y": 3146,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Man",
+    "id": 3652,
+    "x": 2948,
+    "y": 3146,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Zambo",
+    "id": 3205,
+    "x": 2926,
+    "y": 3143,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Luthas",
+    "id": 3647,
+    "x": 2940,
+    "y": 3154,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 1
+  },
+  {
+    "name": "Monkey",
+    "id": 2848,
+    "x": 2928,
+    "y": 3168,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Monkey",
+    "id": 2848,
+    "x": 2918,
+    "y": 3157,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Monkey",
+    "id": 2848,
+    "x": 2913,
+    "y": 3169,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Monkey",
+    "id": 2848,
+    "x": 2893,
+    "y": 3166,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Monkey",
+    "id": 2848,
+    "x": 2883,
+    "y": 3158,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Monkey",
+    "id": 2848,
+    "x": 2863,
+    "y": 3155,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Monkey",
+    "id": 2848,
+    "x": 2851,
+    "y": 3150,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Monkey",
+    "id": 2848,
+    "x": 2835,
+    "y": 3149,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Monkey",
+    "id": 2848,
+    "x": 2822,
+    "y": 3154,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Monkey",
+    "id": 2848,
+    "x": 2870,
+    "y": 3177,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Monkey",
+    "id": 2848,
+    "x": 2755,
+    "y": 3165,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Monkey",
+    "id": 2848,
+    "x": 2738,
+    "y": 3169,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Monkey",
+    "id": 2848,
+    "x": 2718,
+    "y": 3158,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Monkey",
+    "id": 2848,
+    "x": 2725,
+    "y": 3191,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Monkey",
+    "id": 2848,
+    "x": 2742,
+    "y": 3198,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Monkey",
+    "id": 2848,
+    "x": 2717,
+    "y": 3210,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Monkey",
+    "id": 2848,
+    "x": 2725,
+    "y": 3223,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Monkey",
+    "id": 2848,
+    "x": 2737,
+    "y": 3229,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Captain Klemfoodle",
+    "id": 6092,
+    "x": 2969,
+    "y": 2972,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  }
+]

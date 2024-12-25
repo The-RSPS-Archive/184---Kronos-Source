@@ -1,0 +1,58 @@
+---
+identifier: "1f68200d-0ba3-4a2e-859d-ec1888679034"
+title: "Herblore Shop"
+currency: "COINS"
+canSellToStore: false
+accessibleByIronMan: true
+restockRules:
+  restockTicks: 52
+  restockPerTick: 1
+defaultStock:
+- id: 228
+  amount: 100000
+- id: 11880
+  amount: 100000
+- id: 233
+  amount: 100000
+- id: 12859
+  amount: 100000
+- id: 236
+  amount: 100000
+- id: 226
+  amount: 100000
+- id: 224
+  amount: 100000
+- id: 1976
+  amount: 100000
+- id: 240
+  amount: 100000
+- id: 1939
+  amount: 100000
+- id: 2153
+  amount: 100000
+- id: 9737
+  amount: 100000
+- id: 232
+  amount: 100000
+- id: 2971
+  amount: 100000
+- id: 244
+  amount: 100000
+- id: 6050
+  amount: 100000
+- id: 246
+  amount: 100000
+- id: 6017
+  amount: 100000
+- id: 3139
+  amount: 100000
+- id: 248
+  amount: 100000
+- id: 6694
+  amount: 100000
+- id: 6019
+  amount: 100000
+- id: 6052
+  amount: 100000
+- id: 5936
+  amount: 100000

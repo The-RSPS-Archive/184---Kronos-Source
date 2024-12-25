@@ -1,0 +1,53 @@
+[
+  {
+    "ids": [ 2208 ],
+    "guaranteed": [
+      { "id": 526, "min": 1, "max": 1 } //Bones
+    ],
+    "tables": [
+      {
+        "name": "Weapons",
+        "weight": 1,
+        "items": [
+          { "id": 808, "min": 95, "max": 100, "weight": 5 }, //Steel dart
+          { "id": 11838, "min": 1, "max": 1, "weight": 1 } //Saradomin sword
+        ]
+      },
+      {
+        "name": "Arrows",
+        "weight": 150,
+        "items": [
+          { "id": 886, "min": 95, "max": 100, "weight": 1 } //Steel arrow
+        ]
+      },
+      {
+        "name": "Godsword shards",
+        "weight": 5,
+        "items": [
+          { "id": 11818, "min": 1, "max": 1, "weight": 1 }, //Godsword shard 1
+          { "id": 11820, "min": 1, "max": 1, "weight": 1 }, //Godsword shard 2
+          { "id": 11822, "min": 1, "max": 1, "weight": 1 } //Godsword shard 3
+        ]
+      },
+      {
+        "name": "Herbs",
+        "weight": 150,
+        "items": [
+          { "id": 208, "min": 1, "max": 1, "weight": 1 } //Grimy ranarr weed (noted)
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 995, "min": 1300, "max": 1500, "weight": 12 }, //Coins
+          { "id": 237, "min": 6, "max": 6, "weight": 6 }, //Unicorn horn
+          { "id": 231, "min": 5, "max": 5, "weight": 6 }, //Snape grass
+          { "id": 7218, "min": 1, "max": 1, "weight": 3 }, //Summer pie
+          { "id": 7946, "min": 3, "max": 3, "weight": 3 }, //Monkfish
+          { "id": 2722, "min": 1, "max": 1, "weight": 1 } //Clue scroll (hard)
+        ]
+      }
+    ]
+  }
+]

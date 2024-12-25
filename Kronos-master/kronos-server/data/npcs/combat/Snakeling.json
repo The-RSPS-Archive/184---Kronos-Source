@@ -1,0 +1,45 @@
+[
+  { #Snakeling (90)
+    "ids": [ 2045, 2046 ],
+    "handler": "io.ruin.model.activities.bosses.zulrah.ZulrahSnakeling",
+    //Combat Info
+    "hitpoints": 1,
+    "aggressive_level": 180,
+    "max_damage": 15,
+    "attack_style": "STAB",
+    //Slayer Info
+    "slayer_level": 1,
+    "slayer_xp": 0.0,
+    "slayer_tasks": [],
+    //Combat Stats
+    "attack": 140,
+    "strength": 138,
+    "defence": 1,
+    "ranged": 1,
+    "magic": 1,
+    //Aggressive Stats
+    "stab_attack": 120,
+    "slash_attack": 120,
+    "crush_attack": 120,
+    "magic_attack": 120,
+    "ranged_attack": 120,
+    //Defensive Stats
+    "stab_defence": -40,
+    "slash_defence": -40,
+    "crush_defence": -40,
+    "magic_defence": -40,
+    "ranged_defence": -40,
+    //Immunites
+    "poison_immunity": true,
+    "venom_immunity": true,
+    //Speeds
+    "attack_ticks": 4,
+    "death_ticks": 5,
+    "respawn_ticks": 50,
+    //Animations
+    "spawn_animation": 2413,
+    "attack_animation": 1741,
+    "defend_animation": 1742,
+    "death_animation": 2408
+  }
+]

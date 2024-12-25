@@ -1,0 +1,56 @@
+[
+  {
+    "ids": [ 5007, 3134 ],
+    "guaranteed": [
+      { "id": 592, "min": 1, "max": 1 } //Ashes
+    ],
+    "tables": [
+      {
+        "name": "Weapons/Armour",
+        "weight": 1,
+        "items": [
+          { "id": 877, "min": 1, "max": 1, "weight": 6 }, //Bronze bolts
+          { "id": 579, "min": 1, "max": 1, "weight": 3 }, //Blue wizard hat
+          { "id": 1949, "min": 1, "max": 1, "weight": 1 } //Chef's hat
+        ]
+      },
+      {
+        "name": "Food",
+        "weight": 1,
+        "items": [
+          { "id": 2309, "min": 1, "max": 1, "weight": 6 }, //Bread
+          { "id": 1965, "min": 1, "max": 1, "weight": 3 }, //Cabbage
+          { "id": 2142, "min": 1, "max": 1, "weight": 1 } //Cooked meat
+        ]
+      },
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 1759, "min": 1, "max": 1, "weight": 9 }, //Ball of wool
+          { "id": 1944, "min": 1, "max": 1, "weight": 9 }, //Egg
+          { "id": 590, "min": 1, "max": 1, "weight": 6 }, //Tinderbox
+          { "id": 1925, "min": 1, "max": 1, "weight": 6 }, //Bucket
+          { "id": 2347, "min": 1, "max": 1, "weight": 6 }, //Hammer
+          { "id": 753, "min": 1, "max": 1, "weight": 6 }, //Cadava berries
+          { "id": 2307, "min": 1, "max": 1, "weight": 6 }, //Bread dough
+          { "id": 2138, "min": 1, "max": 1, "weight": 6 }, //Raw chicken
+          { "id": 592, "min": 1, "max": 1, "weight": 6 }, //Ashes
+          { "id": 2146, "min": 1, "max": 1, "weight": 6 }, //Burnt meat
+          { "id": 2311, "min": 1, "max": 1, "weight": 3 }, //Burnt bread
+          { "id": 1935, "min": 1, "max": 1, "weight": 3 }, //Jug
+          { "id": 1933, "min": 1, "max": 1, "weight": 3 }, //Pot of flour
+          { "id": 434, "min": 1, "max": 1, "weight": 3 }, //Clay
+          { "id": 195, "min": 1, "max": 1, "weight": 3 }, //Potion
+          { "id": 956, "min": 1, "max": 1, "weight": 3 }, //Flier
+          { "id": 1448, "min": 1, "max": 1, "weight": 3 }, //Mind talisman
+          { "id": 1937, "min": 1, "max": 1, "weight": 3 }, //Jug of water
+          { "id": 1929, "min": 1, "max": 1, "weight": 3 }, //Bucket of water
+          { "id": 1735, "min": 1, "max": 1, "weight": 1 }, //Shears
+          { "id": 1947, "min": 1, "max": 1, "weight": 1 }, //Grain
+          { "id": 13454, "min": 1, "max": 1, "weight": 1 } //Ensouled imp head
+        ]
+      }
+    ]
+  }
+]

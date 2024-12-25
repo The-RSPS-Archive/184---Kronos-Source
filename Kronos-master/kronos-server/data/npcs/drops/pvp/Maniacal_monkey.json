@@ -1,0 +1,26 @@
+[
+  {
+    "ids": [ 7118 ],
+    "guaranteed": [
+      { "id": 3183, "min": 1, "max": 1 } //Monkey bones (small zombie)
+    ],
+    "tables": [
+      {
+        "name": "Other",
+        "weight": 1,
+        "items": [
+          { "id": 1963, "min": 1, "max": 1, "weight": 6 }, //Banana
+          { "id": 8778, "min": 1, "max": 1, "weight": 6 }, //Oak plank
+          { "id": 5626, "min": 5, "max": 5, "weight": 6 }, //Adamant arrow(p++)
+          { "id": 177, "min": 1, "max": 1, "weight": 3 }, //Antipoison(2)
+          { "id": 1325, "min": 1, "max": 1, "weight": 3 }, //Steel scimitar
+          { "id": 199, "min": 1, "max": 1, "weight": 3 }, //Grimy guam leaf
+          { "id": 365, "min": 2, "max": 2, "weight": 3 }, //Bass
+          { "id": 143, "min": 1, "max": 1, "weight": 3 }, //Prayer potion(1)
+          { "id": 954, "min": 1, "max": 1, "weight": 1 }, //Rope
+          { "id": 853, "min": 1, "max": 1, "weight": 1 } //Maple shortbow
+        ]
+      }
+    ]
+  }
+]
